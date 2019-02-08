@@ -1,0 +1,1 @@
+ ReorderedColumns = Table.ReorderColumns( PreviousStepName, List.Sort( Table.ColumnNames( PreviousStepName ), Order.Ascending ))
