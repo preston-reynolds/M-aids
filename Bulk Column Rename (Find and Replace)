@@ -1,0 +1,1 @@
+ RenamedColumns = Table.TransformColumnNames( PreviousStepName ,(columnName as text) as text => Text.Replace(columnName, "StringToReplace","StringToBeReplacedWith"))
