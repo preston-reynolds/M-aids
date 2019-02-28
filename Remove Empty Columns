@@ -2,6 +2,4 @@
 Headers = Table.ColumnNames(table_name),
 Result = Table.SelectColumns(
              table_name,
-             List.Select(Headers, each List.MatchesAny(Table.Column(table_name, _), each _ <> null))),
-columnsToRemove = List.Select(Table.ColumnNames(Result), each Text.Contains(_, "Sink") or Text.Contains(_, "owning") or Text.Contains(_, "created") or Text.Contains(_, "modified") or Text.Contains(_, "owner") or Text.Contains(_, "version")) ,
-cleanedData = Table.RemoveColumns(Result, columnsToRemove),
+             List.Select(Headers, each List.MatchesAny(Table.Column(table_name, _), each _ <> null)))
