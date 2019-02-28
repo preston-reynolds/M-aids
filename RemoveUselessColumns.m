@@ -15,7 +15,7 @@ NonEmptyColumns = Table.SelectColumns(
 // Return a table where the distinct values within each column amount to more than 1. 			 
 NonUniqueValueColumns =  Table.SelectColumns(
 			NonEmptyColumns,
-			List.Select(Headers, each List.NonNullCount(List.Distinct(Table.Column(GoodSchema,_))> 1))),
+			List.Select(Headers, each List.NonNullCount(List.Distinct(Table.Column(GoodSchema,_)))> 1)),
 			
 // In the event that you have more columns that need to be removed, you can list all of parts of their name in this 
 columnsToRemove = List.Select(
