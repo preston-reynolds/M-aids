@@ -1,7 +1,7 @@
 DynamicsColumnName,CleanedColumnName
 aadcreatedbyid,AAD Created By ID
 aadlastmodifiedbyid,AAD Last Modified By ID
-aadlastpublishedbyid,AAD Last Published By ID 
+aadlastpublishedbyid,AAD Last Published By ID
 abstract,Abstract
 accessmode,Access Mode
 accessright,Access Right
@@ -25,11 +25,11 @@ action,Action
 actioncardid,Action Card ID
 actiondata,Action Data
 activedirectoryguid,Active Directory Guid
-activeon,Active On
+activeon,Active On Date
 activestageid,Active Stage ID
 activestageid_entitytype,Active Stage ID Entity Type
 activestageidname,Active Stage ID Name
-activestagestartedon,Active Stage Started On
+activestagestartedon,Active Stage Started On Date
 activeworkflowid,Active Workflow ID
 activeworkflowid_entitytype,Active Workflow ID Entity Type
 activeworkflowidname,Active Workflow ID Name
@@ -47,7 +47,7 @@ actualclosedate,Actual Close Date
 actualcost,Actual Cost
 actualcost_base,Actual Cost Base
 actualdecimal,Actual Decimal
-actualdeliveryon,Actual Delivery On
+actualdeliveryon,Actual Delivery On Date
 actualdurationminutes,Actual Duration Minutes
 actualend,Actual End
 actualinteger,Actual Integer
@@ -229,7 +229,7 @@ autoapplydefaultoncaseupdate,Autoapply Default On Case Update
 autoapplysla,Autoapply SLA
 autocreatecontactonpromote,Autocreate Contact On Promote
 automationid,Automation ID
-averagetotalduration,Averagetotal Duration
+averagetotalduration,Average Total Duration
 azureactivedirectoryobjectid,Azure Active Directory Object ID
 azureschedulerjobcollectionname,Azure Scheduler Job Collection Name
 backgroundcolor,Background Color
@@ -263,9 +263,9 @@ billingcustomerid_entitytype,Billing Customer ID Entity Type
 billingcustomeridname,Billing Customer ID Name
 billingcustomeridtype,Billing Customer ID Type
 billingcustomeridyominame,Billing Customer ID Yomi Name
-billingendon,Billing End On
+billingendon,Billing End On Date
 billingfrequencycode,Billing Frequency Code
-billingstarton,Billing Start On
+billingstarton,Billing Start On Date
 billto_addressid,Billto Address ID
 billto_city,Billto City
 billto_composite,Billto Composite
@@ -386,7 +386,7 @@ canbefollowed,Can Be Followed
 canbeglobal,Can Be Global
 canbelocal,Can Be Local
 canbeparententityreference,Can Be Parent Entity Reference
-cancelon,Cancel On
+cancelon,Cancel On Date
 cancreate,Can Create
 canread,Can Read
 canupdate,Can Update
@@ -526,7 +526,7 @@ cdi_domainidname,CDI Domain ID Name
 cdi_duration,CDI Duration
 cdi_editortype,CDI Editor Type
 cdi_email,CDI Email
-cdi_emailaddress,CdiÂ Email Address
+cdi_emailaddress,Cdi Email Address
 cdi_emailaddressfield,CDI Email Address Field
 cdi_emailclient,CDI Email Client
 cdi_emailclientpreviewdata,CDI Email Client Preview Data
@@ -543,12 +543,12 @@ cdi_emailstatus,CDI Email Status
 cdi_emailtemplateid,CDI Email Template ID
 cdi_emailtemplateid_entitytype,CDI Email Template ID Entity Type
 cdi_emailtemplateid2,CDI Email Template ID 2
-cdi_emailtemplateid2_entitytype,CdiÂ Email Template ID 2 Entity Type
+cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
 cdi_emailtemplateid2name,CDI Email Template ID 2 Name
 cdi_emailtemplateidname,CDI Email Template ID Name
 cdi_emailtest,CDI Email Test
 cdi_emailtest1,CDI Email Test 1
-cdi_endedon,CDI Ended On
+cdi_endedon,CDI Ended On Date
 cdi_entrypage,CDI Entry Page
 cdi_errormessage,CDI Error Message
 cdi_erroruri,CDI Erroruri
@@ -597,21 +597,21 @@ cdi_fromname,CDI From Name
 cdi_fromname2,CDI From Name 2
 cdi_fromrecordowner,CDI From Record Owner
 cdi_fromrecordowner2,CDI From Record Owner 2
-cdi_fromuserid,CDI From USer ID
-cdi_fromuserid_entitytype,CDI From USer ID Entity Type
-cdi_fromuseridname,CDI From USer ID Name
-cdi_fromuseridyominame,CDI From USer ID Yomi Name
+cdi_fromuserid,CDI From User ID
+cdi_fromuserid_entitytype,CDI From User ID Entity Type
+cdi_fromuseridname,CDI From User ID Name
+cdi_fromuseridyominame,CDI From User ID Yomi Name
 cdi_grade,CDI Grade
 cdi_gtracking,CDI G Tracking
 cdi_hasmanualtrigger,CDI Has Manual Trigger
 cdi_host,CDI Host
 cdi_id,CDI ID
-cdi_identifiedon,CDI IDentifiedon
+cdi_identifiedon,CDI Identified On Date
 cdi_image,CDI Image
 cdi_importfile,CDI Import File
-cdi_importfinishedon,CDI Import Finished On
+cdi_importfinishedon,CDI Import Finished On Date
 cdi_importid,CDI Import ID
-cdi_importstartedon,CDI Import Started On
+cdi_importstartedon,CDI Import Started On Date
 cdi_importstatus,CDI Import Status
 cdi_incidentid,CDI Incident ID
 cdi_incidentid_entitytype,CDI Incident ID Entity Type
@@ -620,10 +620,10 @@ cdi_includeotheroption,CDI Include Other Option
 cdi_industry,CDI Industry
 cdi_insessiondurationminutes,CDI In Session Duration Minutes
 cdi_interestrating,CDI Interest Rating
-cdi_ip,Cdiip
-cdi_iporganizationid,Cdiip Organization ID
-cdi_iporganizationid_entitytype,Cdiip Organization ID Entity Type
-cdi_iporganizationidname,Cdiip Organization ID Name
+cdi_ip,CID IP
+cdi_iporganizationid,CID IP Organization ID
+cdi_iporganizationid_entitytype,CID IP Organization ID Entity Type
+cdi_iporganizationidname,CID IP Organization ID Name
 cdi_isverified,CDI Is Verified
 cdi_jobtitle,CDI Job Title
 cdi_jointime,CDI Joint Ime
@@ -673,14 +673,14 @@ cdi_organization,CDI Organization
 cdi_organizer,CDI Organizer
 cdi_organizerdescription,CDI Organizer Description
 cdi_orgkey,CDI Orgkey
-cdi_os,Cdios
+cdi_os,CDI OS
 cdi_otheroptionlabel,CDI Other Option Label
 cdi_override,CDI Override
 cdi_pageviewid,CDI Page View ID
 cdi_parenteventid,CDI Parent Event ID
 cdi_parenteventid_entitytype,CDI Parent Event ID Entity Type
 cdi_parenteventidname,CDI Parent Event ID Name
-cdi_partitionkey,CDI Partitionkey
+cdi_partitionkey,CDI Partition Key
 cdi_performsplittest,CDI Per Form Split Test
 cdi_phone,CDI Phone
 cdi_phonenumber,CDI Phone Number
@@ -695,7 +695,7 @@ cdi_postedformid,CDI Posted Form ID
 cdi_postedformid_entitytype,CDI Posted Form ID Entity Type
 cdi_postedformidname,CDI Posted Form ID Name
 cdi_postedlabel,CDI Posted Label
-cdi_postedon,CDI Postedon
+cdi_postedon,CDI Posted On Date
 cdi_postedsubscriptionid,CDI Posted Subscription ID
 cdi_postedsubscriptionid_entitytype,CDI Posted Subscription ID Entity Type
 cdi_postedsubscriptionidname,CDI Posted Subscription ID Name
@@ -704,7 +704,7 @@ cdi_postedsurveyid_entitytype,CDI Posted Survey ID Entity Type
 cdi_postedsurveyidname,CDI Posted Survey ID Name
 cdi_postid,CDI Post ID
 cdi_postimmediately,CDI Post Immediately
-cdi_poston,CDI Poston
+cdi_poston,CDI Post On Date
 cdi_posttofacebook,CDI Postto Facebook
 cdi_preference,CDI Preference
 cdi_preheader,CDI Preheader
@@ -746,13 +746,13 @@ cdi_selectwinneraftertype,CDI Select Winner After Type
 cdi_sendemailid,CDI Send Email ID
 cdi_senderphonenumber,CDI Sender Phone Number
 cdi_sendimmediately,CDI Send Immediately
-cdi_sendon,CDI Send On
-cdi_sendwinningstrategyon,CDI Sendwinning Strategy On
+cdi_sendon,CDI Send On Date
+cdi_sendwinningstrategyon,CDI Send Winning Strategy On Date
 cdi_sentemailid,CDI Sent Email ID
 cdi_sentemailid_entitytype,CDI Sent Email ID Entity Type
 cdi_sentemailidname,CDI Sent Email ID Name
 cdi_sentemailstatisticsdata,CDI Sent Email Statistics Data
-cdi_senton,CDI Sent On
+cdi_senton,CDI Sent On Date
 cdi_settingid,CDI Setting ID
 cdi_social,CDI Social
 cdi_socialactiontype,CDI Social Action Type
@@ -770,7 +770,7 @@ cdi_source,CDI Source
 cdi_spamcount,CDI Spam Count
 cdi_splitsize,CDI Split Size
 cdi_splitstrategy,CDI Split Strategy
-cdi_startedon,CDI Started On
+cdi_startedon,CDI Started On Date
 cdi_state,CDI State
 cdi_stateprovince,CDI State Province
 cdi_statusmessage,CDI Status Message
@@ -826,7 +826,7 @@ cdi_venuephone,CDI Venue Phone
 cdi_venueregion,CDI Venue Region
 cdi_venuezip,CDI Venue Zip
 cdi_version,CDI Version
-cdi_viewedon,CDI Viewed On
+cdi_viewedon,CDI Viewed On Date
 cdi_visit,CDI Visit
 cdi_visit_entitytype,CDI Visit Entity Type
 cdi_visitid,CDI Visit ID
@@ -851,7 +851,7 @@ cdi_workcountryname,CDI Work Country Name
 cdi_workpostalcode,CDI Workpostal Code
 cdi_workregion,CDI Work Region
 cdi_zippostalcode,CDI Zip Postal Code
-changedon,Changed On
+changedon,Changed On Date
 channeltypecode,Channel Type Code
 checkemail,Check Email
 childrensnames,Childrens Names
@@ -864,7 +864,7 @@ closedby,Closed By
 closedby_entitytype,Closed By Entity Type
 closedbyname,Closed By Name
 closedbyyominame,Closed By Yomi Name
-closedon,Closed On
+closedon,Closed On Date
 closeprobability,Close Probability
 codename,Code Name
 columnsetxml,Column Set XML
@@ -881,7 +881,7 @@ competitorid,Competitor ID
 competitorproductid,Competitor Product ID
 competitorsalesliteratureid,Competitor Sales Literature ID
 completedinstances,Completed Instances
-completedon,Completed On
+completedon,Completed On Date
 completefinalproposal,Complete Final Proposal
 completeinternalreview,Complete Internal Review
 componentstate,Component State
@@ -954,7 +954,7 @@ createdbyexternalpartyyominame,Created By External Party Yomi Name
 createdbyname,Created By Name
 createdbyyominame,Created By Yomi Name
 createdfromcode,Created From Code
-createdon,Created On
+createdon,Created On Date
 createdonbehalfby,Created On Behalf By
 createdonbehalfby_entitytype,Created On Behalf By Entity Type
 createdonbehalfbycontact,Created On Behalf By Contact
@@ -1065,13 +1065,13 @@ defaultuomscheduleid,Default UOM Schedule ID
 defaultuomscheduleid_entitytype,Default UOM Schedule ID Entity Type
 defaultuomscheduleidname,Default UOM Schedule ID Name
 delayedemailsendtime,Delayed Email Send Time
-delegatedadminuserid,Delegated Admin USer ID
+delegatedadminuserid,Delegated Admin User ID
 deletedexceptionslist,Deleted Exception Slist
 deletestage,Delete Stage
 delivered,Delivered
 deliveriescount,Deliveries Count
 deliveryattempts,Delivery Attempts
-deliverylastattemptedon,Delivery Last Attempted On
+deliverylastattemptedon,Delivery Last Attempted On Date
 deliveryprioritycode,Delivery Priority Code
 deliveryreceiptrequested,Delivery Receipt Requested
 department,Department
@@ -1174,10 +1174,10 @@ enablepricingoncreate,Enable Pricing On Create
 enablesmartmatching,Enable Smart Matching
 enableunifiedinterfaceshellrefresh,Enable Unified Interface Shell Refresh
 enddate,End Date
-endedon,Ended On
+endedon,Ended On Date
 endtime,End Time
 enforcereadonlyplugins,Enforce Read-Only Plugins
-enteredon,Entered On
+enteredon,Entered On Date
 entitlementcontactid,Entitlement Contact ID
 entitlementid,Entitlement ID
 entitlementid_entitytype,Entitlement ID Entity Type
@@ -1206,7 +1206,7 @@ errormessage,Error Message
 errortime,Error Time
 errortype,Error Type
 erroruri,Erroruri
-escalatedon,Escalated On
+escalatedon,Escalated On Date
 estimatedamount,Estimatedamount
 estimatedamount_base,Estimatedamount Base
 estimatedclosedate,Estimated Close Date
@@ -1215,7 +1215,7 @@ estimatedvalue_base,Estimated Value Base
 evaluatefit,Evaluate Fit
 eventhandlers,Event Handle Rs
 ewsurl,Ews URL
-exchangecontactsimportcompletedon,Exchange Contacts Import Completed On
+exchangecontactsimportcompletedon,Exchange Contacts Import Completed On Date
 exchangecontactsimportstatus,Exchange Contacts Import Status
 exchangeentryid,Exchange Entry ID
 exchangefolderid,Exchange Folder ID
@@ -1240,7 +1240,7 @@ expirationstateid,Expiration State ID
 expirationstatusid,Expiration Status ID
 expirechangetrackingindays,Expire Change Tracking In Days
 expiredreviewoptions,Expired Review Options
-expireson,Expires On
+expireson,Expires On Date
 expiresubscriptionsindays,Expire Subscriptions In Days
 expirydate,Expiry Date
 extendedamount,Extendedamount
@@ -1248,7 +1248,7 @@ extendedamount_base,Extendedamount Base
 externalbaseurl,External Base URL
 externalpartycorrelationkeys,External Party Correlation Keys
 externalpartyentitysettings,External Party Entity Settings
-externaluseridentifier,External USer IDentifier
+externaluseridentifier,External User IDentifier
 failuretime,Failure Time
 FamilyStatus,Family Status
 familystatuscode,Family Status Code
@@ -1415,7 +1415,7 @@ inreplyto,In Replyto
 inresponseto,In Responseto
 instance,Instance
 instancetypecode,Instance Type Code
-integrationuserid,Integration USer ID
+integrationuserid,Integration User ID
 interactedcomponenttext,Interacted Component Text
 interactionforemailid,Interaction For Email ID
 interactionlocation,Interaction Location
@@ -1718,7 +1718,7 @@ jt_bremenn,Jt Bremenn
 jt_businesscategory,Jt Business Category
 jt_campaign,Jt Campaign
 jt_campaign_entitytype,Jt Campaign Entity Type
-jt_campaign_systemuserid,Jt Campaign System USer ID
+jt_campaign_systemuserid,Jt Campaign System User ID
 jt_campaignname,Jt Campaign Name
 jt_cansell,Jt Can Sell
 jt_carrier,Jt Carrier
@@ -1901,7 +1901,7 @@ jt_lastapprovalstepowner_entitytype,Jt Last Approval Step Owner Entity Type
 jt_lastapprovalstepownername,Jt Last Approval Step Owner Name
 jt_lastapprovalstepowneryominame,Jt Last Approval Step Owner Yomi Name
 jt_lastordereddate,Jt Last Order Eddate
-jt_lastrunon,Jt Last Runon
+jt_lastrunon,Jt Last Run On Date
 jt_lastyearsales,Jt Last Year Sales
 jt_lastyearsales_base,Jt Last Year Sales Base
 jt_lead,Jt Lead
@@ -1931,7 +1931,7 @@ jt_name,Jt Name
 jt_needby,Jt Need By
 jt_needbydate,Jt Need By Date
 jt_newpca,Jt Newpca
-jt_nextrunon,Jt Nextrunon
+jt_nextrunon,Jt Next Run On Date
 jt_nextsequence,Jt Next Sequence
 jt_nodusauthcode,Jt Nodusauth Code
 jt_nooflocations,Jt Noof Location S
@@ -2070,7 +2070,7 @@ jt_regenbuilt,Jt Regenbuilt
 jt_regenchargeamount,Jt Regen Chargeamount
 jt_regenchargeamount_base,Jt Regen Chargeamount Base
 jt_releaseformreceived,Jt Release Form Received
-jt_reportingcreatedon,Jt Reporting Created On
+jt_reportingcreatedon,Jt Reporting Created On Date
 jt_requestinitiated,Jt Request Initiate D
 jt_resettax,Jt Resettax
 jt_resolutionreason,Jt Re Solution Reason
@@ -2254,13 +2254,13 @@ languagelocaleid,Language Locale ID
 languagelocaleid_entitytype,Language Locale ID Entity Type
 languagelocaleidlocaleid,Language Locale ID Locale ID
 languagelocaleidname,Language Locale ID Name
-lastactiveon,Last Active On
+lastactiveon,Last Active On Date
 lastalertsviewedtime,Last Alerts Viewed Time
-lastautodiscoveredon,Last Autodiscovered On
+lastautodiscoveredon,Last Autodiscovered On Date
 lastbackofficesubmit,Last Back Office Submit
 lastduration,Last Duration
 lastexpandedinstancedate,Last Expanded Instance Date
-lastmailboxforcedunlockoccurredon,Last Mailbox Forced Unlock Occurred On
+lastmailboxforcedunlockoccurredon,Last Mailbox Forced Unlock Occurred On Date
 lastmessageid,Last Message ID
 lastmodifiedtime,Last Modified Time
 lastname,Last Name
@@ -2268,18 +2268,18 @@ lastonholdtime,Last On Hold Time
 lastopenedtime,Last Opened Time
 lastpublishtime,Last Publish Time
 lastrolledupdate,Last Rolled Update
-lastsuccessfulsynccompletedon,Last Successful Sync Completed On
+lastsuccessfulsynccompletedon,Last Successful Sync Completed On Date
 lastsyncerror,Last Sync Error
 lastsyncerrorcode,Last Sync Error Code
 lastsyncerrorcount,Last Sync Error Count
 lastsyncerrormachinename,Last Sync Error Machine Name
-lastsyncerroroccurredon,Last Sync Error Occurred On
-lastsyncstartedon,Last Sync Started On
+lastsyncerroroccurredon,Last Sync Error Occurred On Date
+lastsyncstartedon,Last Sync Started On Date
 lastusedincampaign,Lastused In Campaign
-lastusedon,Lastused On
+lastusedon,Last Used On Date
 latestupdatetime,Latest Update Time
 latitude,Latitude
-layoutjson,Layoutjson
+layoutjson,Layout JSON
 layoutxml,Layout XML
 leadcompetitorid,Lead Competitor ID
 leadfield,Lead Field
@@ -2407,7 +2407,7 @@ modifiedbyexternalpartyyominame,Modified By External Party Yomi Name
 modifiedbyname,Modified By Name
 modifiedbyyominame,Modified By Yomi Name
 modifiedfieldsmask,Modified Fields Mask
-modifiedon,Modified On
+modifiedon,Modified On Date
 modifiedonbehalfby,Modified On Behalf By
 modifiedonbehalfby_entitytype,Modified On Behalf By Entity Type
 modifiedonbehalfbydsc,Modified On Behalf By Dsc
@@ -2555,7 +2555,7 @@ objectiveexpression,Objective Expression
 objecttypecode,Object Type Code
 occurrences,Occurrences
 officeappsautodeploymentenabled,Office Apps Autodeployment Enabled
-officeappsdeploymentcompleteon,Office Apps Deployment Complete On
+officeappsdeploymentcompleteon,Office Apps Deployment Complete On Date
 officeappsdeploymenterror,Office Apps Deployment Error
 officeappsdeploymentscheduled,Office Apps Deployment Scheduled
 officeappsdeploymentstatus,Office Apps Deployment Status
@@ -2621,7 +2621,7 @@ outgoingemaildeliverymethod,Outgoing Email Delivery Method
 outgoingemailstatus,Outgoing Email Status
 outlookownerapptid,Outlook Owner Apptid
 outlooksyncinterval,Outlook Sync Interval
-overriddencreatedon,Overridden Created On
+overriddencreatedon,Overridden Created On Date
 overview,Overview
 overwritetime,Overwrite Time
 ownerid,Owner ID
@@ -2696,10 +2696,10 @@ parentrootroleidname,Parent Root Role ID Name
 parentsubject,Parent Subject
 parentsubject_entitytype,Parent Subject Entity Type
 parentsubjectname,Parent Subject Name
-parentsystemuserid,Parent System USer ID
-parentsystemuserid_entitytype,Parent System USer ID Entity Type
-parentsystemuseridname,Parent System USer ID Name
-parentsystemuseridyominame,Parent System USer ID Yomi Name
+parentsystemuserid,Parent System User ID
+parentsystemuserid_entitytype,Parent System User ID Entity Type
+parentsystemuseridname,Parent System User ID Name
+parentsystemuseridyominame,Parent System User ID Yomi Name
 parentworkflowid,Parent Workflow ID
 parentworkflowid_entitytype,Parent Workflow ID Entity Type
 parentworkflowidname,Parent Workflow ID Name
@@ -2755,7 +2755,7 @@ postauthoryominame,Post Author Yomi Name
 postedbyname,Posted By Name
 postedfieldid,Posted Field ID
 postedformid,Posted Form ID
-postedon,Postedon
+postedon,Posted On Date
 postedsubscriptionid,Posted Subscription ID
 postedsurveyid,Posted Survey ID
 postfollowid,Post Follow ID
@@ -2790,10 +2790,10 @@ preferredphonecode,Prefer Red Phone Code
 preferredserviceid,Prefer Red Service ID
 preferredserviceid_entitytype,Prefer Red Service ID Entity Type
 preferredserviceidname,Prefer Red Service ID Name
-preferredsystemuserid,Prefer Red System USer ID
-preferredsystemuserid_entitytype,Prefer Red System USer ID Entity Type
-preferredsystemuseridname,Prefer Red System USer ID Name
-preferredsystemuseridyominame,Prefer Red System USer ID Yomi Name
+preferredsystemuserid,Prefer Red System User ID
+preferredsystemuserid_entitytype,Prefer Red System User ID Entity Type
+preferredsystemuseridname,Prefer Red System User ID Name
+preferredsystemuseridyominame,Prefer Red System User ID Yomi Name
 prefix,Prefix
 preheader,Preheader
 presentfinalproposal,Present Final Proposal
@@ -2826,10 +2826,10 @@ primaryentity,Primary Entity
 primaryentitylogicalname,Primary Entity Logical Name
 primarysatoriid,Primary Satori ID
 primarytwitterid,Primary Twitter ID
-primaryuserid,Primary USer ID
-primaryuserid_entitytype,Primary USer ID Entity Type
-primaryuseridname,Primary USer ID Name
-primaryuseridyominame,Primary USer ID Yomi Name
+primaryuserid,Primary User ID
+primaryuserid_entitytype,Primary User ID Entity Type
+primaryuseridname,Primary User ID Name
+primaryuseridyominame,Primary User ID Yomi Name
 principalentitymapid,Principal Entity Map ID
 principalid,Principal ID
 principalobjectaccessid,Principal Object Access ID
@@ -2852,7 +2852,7 @@ processemailreceivedafter,Process Email Received After
 processid,Process ID
 processid_entitytype,Process ID Entity Type
 processidname,Process ID Name
-processinglastattemptedon,Processing Last Attempt Edon
+processinglastattemptedon,Processing Last Attempted On Date
 processingstatecode,Processing State Code
 processorder,Process Order
 processroleassignment,Process Role Assignment
@@ -2883,12 +2883,12 @@ propertyconfigurationstatus,Property Configuration Status
 proposedend,Proposed End
 proposedsolution,Proposed Solution
 proposedstart,Proposed Start
-publishedon,Published On
+publishedon,Published On Date
 publisher,Publisher
 publisherid,Publisher ID
 publisherid_entitytype,Publisher ID Entity Type
 publisheridname,Publisher ID Name
-publishon,Publish On
+publishon,Publish On Date
 publishstatusid,Publish Status ID
 purchaseprocess,Purchase Process
 purchasetimeframe,Purchase Time Frame
@@ -2939,7 +2939,7 @@ readprivilegedepth,Read Privilege Depth
 readreceiptrequested,Read Receipt Requested
 readyforreview,Ready For Review
 Reason,Reason
-receivedon,Received On
+receivedon,Received On Date
 receivingpostponeduntil,Receiving Postponed Until
 receivingpostponeduntilforact,Receiving Postponed Until Foract
 RecipientsGrid,Recipients Grid
@@ -3151,11 +3151,11 @@ sendersaccount_entitytype,Senders Account Entity Type
 sendersaccountname,Senders Account Name
 sendersaccountobjecttypecode,Senders Account Object Type Code
 sendersaccountyominame,Sendersaccounty Omi Name
-sendon,Send On
+sendon,Send On Date
 sendthankyounote,Send Thank You Note
 sentemailid,Sent Email ID
 sentimentvalue,Sentiment Value
-senton,Sent On
+senton,Sent On Date
 sequencenumber,Sequence Number
 seriesid,Series ID
 seriesstatus,Series Status
@@ -3202,9 +3202,9 @@ showresources,Show Resources
 showweeknumber,Show Week Number
 sic,Sic
 signupoutlookdownloadfwlink,Signup Outlook Download Fw Link
-SinkCreatedOn,Sink Created On
+SinkCreatedOn,Sink Created On Date
 SinkDeleteTime,Sink Delete Time
-SinkModifiedOn,Sink Modified On
+SinkModifiedOn,Sink Modified On Date
 siteid,Site ID
 siteid_entitytype,Site ID Entity Type
 siteidname,Site ID Name
@@ -3255,7 +3255,7 @@ standardname,Standard Name
 standardsecond,Standard Second
 standardyear,Standard Year
 startdate,Start Date
-startedon,Started On
+startedon,Started On Date
 starttime,Start Time
 State,State
 statecode,State Code
@@ -3291,13 +3291,13 @@ subprocess,Sub Process
 subscriptionid,Subscription ID
 subscriptionlistid,Subscription List ID
 subscriptionpreferenceid,Subscription Preference ID
-succeededon,Succeeded On
+succeededon,Succeeded On Date
 success,Success
 successuri,Successuri
 suffix,Suffix
 suppliername,Supplier Name
 supportingsolutionid,Supporting Solution ID
-supportuserid,Support USer ID
+supportuserid,Support User ID
 suppresssla,Suppress SLA
 surveyanswerid,Survey Answer ID
 surveyquestionid,Survey Question ID
@@ -3310,7 +3310,7 @@ syncoptinselectionstatus,Sync Opt Ins Election Status
 syncworkflowlogonfailure,Sync Workflow Logon Failure
 systemmanaged,System Managed
 systemuserbusinessunitentitymapid,System USer Business Unit Entity Map ID
-systemuserid,System USer ID
+systemuserid,System User ID
 systemusermanagermapid,System USer Manager Map ID
 systemuserprincipalid,System USer Principal ID
 systemuserprofileid,System USer Profile ID
@@ -3349,7 +3349,7 @@ territoryid_entitytype,Territory ID Entity Type
 territoryidname,Territory ID Name
 testemailconfigurationretrycount,Test Email Configuration Retry Count
 testemailconfigurationscheduled,Test Email Configuration Scheduled
-testmailboxaccesscompletedon,Test Mailbox Access Completed On
+testmailboxaccesscompletedon,Test Mailbox Access Completed On Date
 textanalyticsenabled,Text Analytics Enabled
 threadid,Thread ID
 threats,Threats
@@ -3471,7 +3471,7 @@ userinterfacename,User Interface Name
 userlicensetype,User License Type
 username,User Name
 userprofile,User Profile
-userpuid,User Pu ID
+userpuid,User PUID
 usersessionid,User Session ID
 useskypeprotocol,Use Skype Protocol
 utcconversiontimezonecode,UTC Conversion Time Zone Code
@@ -3487,7 +3487,7 @@ vendorpartnumber,Vendor Part Number
 verboseloggingenabled,Verbose Logging Enabled
 Version,Version
 versionnumber,Version Number
-viewedon,Viewed On
+viewedon,Viewed On Date
 viewquery,View Query
 visibility,Visibility
 visitid,Visit ID
@@ -3516,7 +3516,7 @@ workdaystarttime,Workday Start Time
 workdaystoptime,Workday Stop Time
 workerid,Worker ID
 workerid_entitytype,Worker ID Entity Type
-workeridmodifiedon,Worker ID Modified On
+workeridmodifiedon,Worker ID Modified On Date
 workeridname,Worker ID Name
 workeridtype,Worker ID Type
 workeridyominame,Worker ID Yomi Name
@@ -3531,7 +3531,7 @@ yammeroauthaccesstokenexpired,Yammer Oauth Accesstoken Expired
 yammerpostmethod,Yammer Post Method
 yammerpoststate,Yammer Post State
 yammerretrycount,Yammer Retry Count
-yammeruserid,Yammer USer ID
+yammeruserid,Yammer User ID
 yearstartweekcode,Year Start Week Code
 yomicompanyname,Yomi Company Name
 yomifirstname,Yomi First Name
@@ -3545,13 +3545,13 @@ msdyn_effort,Effort
 msdyn_resourceutilization,Resource Utilization
 msdyn_remaininghours,Remaining Hours
 msdyn_remainingcost_base,Remaining Cost Base
-_ownerid_value,Owner ID Value
+_ownerid_value,Owner ID
 msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_salesvariance_base,Sales Variance Base
 _msdyn_parenttask_value,Parent Task Value
-msdyn_wbsid,WBS ID
-_msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID Value
-msdyn_scheduledend,Scheduled End Date
+msdyn_wbsid,Wbs ID
+_msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
+msdyn_scheduledend,Scheduled End
 msdyn_salesestimateatcomplete,Sales Estimate At Complete
 _msdyn_resourcecategory_value,Resource Category Value
 msdyn_remainingsales,Remaining Sales
@@ -3563,7 +3563,7 @@ msdyn_subject,Subject
 msdyn_salesvariance,Sales Variance
 msdyn_scheduledhours,Scheduled Hours
 msdyn_remainingsales_base,Remaining Sales Base
-msdyn_scheduledstart,Scheduled Start Date
+msdyn_scheduledstart,Scheduled Start
 msdyn_autoscheduling,Auto Scheduling
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
 _msdyn_project_value,Project Value
@@ -3573,11 +3573,11 @@ msdyn_islinetask,Is Line Task
 msdyn_scheduleddurationminutes,Scheduled Duration Minutes
 msdyn_plannedcost_base,Planned Cost Base
 msdyn_projecttaskid,Project Task ID
-_lvt_contactid_value,Contact ID Value LVT
-_queueid_value,Queue ID Value
+_lvt_contactid_value,Contact ID LVT
+_queueid_value,Queue ID
 entityimage,Entity Image
-_positionid_value,Position ID Value
-_calendarid_value,Calendar ID Value
+_positionid_value,Position ID
+_calendarid_value,Calendar ID
 lvt_assignedto,Assigned To LVT
 _defaultmailbox_value,Default Mailbox Value
 RetrieveAllChildUsersSystemUser,Retrieve All Child Users System User
@@ -3589,9 +3589,9 @@ RetrieveUserPrivileges,Retrieve User Privileges
 RetrieveUserQueues,Retrieve User Queues
 msdyn_teamsize,Team Size
 msdyn_projectid,Project ID
-_msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID Value
+_msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID
 msdyn_plannedlaborcost,Planned Labor Cost
-msdyn_wbsduration,WBS Duration
+msdyn_wbsduration,Wbs Duration
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_costestimateatcomplete,Cost Estimate At Complete
 msdyn_plannedhours,Planned Hours
