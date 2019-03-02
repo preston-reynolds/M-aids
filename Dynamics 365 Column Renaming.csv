@@ -526,7 +526,7 @@ cdi_domainidname,CDI Domain ID Name
 cdi_duration,CDI Duration
 cdi_editortype,CDI Editor Type
 cdi_email,CDI Email
-cdi_emailaddress,CdiÂ Email Address
+cdi_emailaddress,Cdi Email Address
 cdi_emailaddressfield,CDI Email Address Field
 cdi_emailclient,CDI Email Client
 cdi_emailclientpreviewdata,CDI Email Client Preview Data
@@ -543,7 +543,7 @@ cdi_emailstatus,CDI Email Status
 cdi_emailtemplateid,CDI Email Template ID
 cdi_emailtemplateid_entitytype,CDI Email Template ID Entity Type
 cdi_emailtemplateid2,CDI Email Template ID 2
-cdi_emailtemplateid2_entitytype,CdiÂ Email Template ID 2 Entity Type
+cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
 cdi_emailtemplateid2name,CDI Email Template ID 2 Name
 cdi_emailtemplateidname,CDI Email Template ID Name
 cdi_emailtest,CDI Email Test
@@ -1051,7 +1051,7 @@ defaultmailboxname,Default Mailbox Name
 defaultmobileofflineprofileid,Default Mobile Offline Profile ID
 defaultmobileofflineprofileid_entitytype,Default Mobile Offline Profile ID Entity Type
 defaultmobileofflineprofileidname,Default Mobile Offline Profile ID Name
-defaultodbfoldername,Default ODB Folder Name
+defaultodbfoldername,Default Odbfolder Name
 defaultpricelevelid,Default Price Level ID
 defaultpricelevelid_entitytype,Default Price Level ID Entity Type
 defaultpricelevelidname,Default Price Level ID Name
@@ -3548,12 +3548,12 @@ msdyn_remainingcost_base,Remaining Cost Base
 _ownerid_value,Owner ID
 msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_salesvariance_base,Sales Variance Base
-_msdyn_parenttask_value,Parent Task ID
+_msdyn_parenttask_value,Parent Task Value
 msdyn_wbsid,Wbs ID
 _msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
 msdyn_scheduledend,Scheduled End
 msdyn_salesestimateatcomplete,Sales Estimate At Complete
-_msdyn_resourcecategory_value,Resource Category ID
+_msdyn_resourcecategory_value,Resource Category Value
 msdyn_remainingsales,Remaining Sales
 msdyn_costatcompleteestimate_base,Cost At Complete Estimate Base
 msdyn_effortestimateatcomplete,Effort Estimate At Complete
@@ -3566,7 +3566,7 @@ msdyn_remainingsales_base,Remaining Sales Base
 msdyn_scheduledstart,Scheduled Start
 msdyn_autoscheduling,Auto Scheduling
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
-_msdyn_project_value,Project ID
+_msdyn_project_value,Project Value
 msdyn_remainingcost,Remaining Cost
 msdyn_varianceofcost,Variance of Cost
 msdyn_islinetask,Is Line Task
@@ -3591,11 +3591,11 @@ msdyn_teamsize,Team Size
 msdyn_projectid,Project ID
 _msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID
 msdyn_plannedlaborcost,Planned Labor Cost
-msdyn_wbsduration,WBS Duration
+msdyn_wbsduration,Wbs Duration
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_costestimateatcomplete,Cost Estimate At Complete
 msdyn_plannedhours,Planned Hours
-_msdyn_projectmanager_value,Project Manager ID
+_msdyn_projectmanager_value,Project Manager Value
 msdyn_salesestimateatcompleteeac_base,Sales Estimate At Complete EAC Base
 msdyn_totalplannedcost_base,Total Planned Cost Base
 msdyn_salesestimateatcompleteeac,Sales Estimate At Complete EAC
@@ -3603,5 +3603,37 @@ msdyn_effortestimateatcompleteeac,Effort Estimate At Complete EAC
 msdyn_costestimateatcomplete_base,Cost Estimate At Complete Base
 msdyn_plannedlaborcost_base,Planned Labor Cost Base
 msdyn_calendarid,Calendar ID
-_msdyn_customer_value,Customer ID
+_msdyn_customer_value,Customer  ID
 msdyn_stagename,Stage Name
+_owninguser_value,Owning User  ID
+msdyn_entrystatus,Entry Status
+msdyn_duration,Duration
+msdyn_type,Type
+_createdby_value,Created By  ID
+msdyn_relateditemid,Related Item ID
+_msdyn_bookableresource_value,Bookable Resource  ID
+_msdyn_projecttask_value,Project Task  ID
+_modifiedonbehalfby_value,Modified On Behalf By  ID
+_createdonbehalfby_value,Created On Behalf By  ID
+msdyn_date,Date
+msdyn_targetentrystatus,Target Entry Status
+msdyn_relateditemtype,Related Item Type
+_owningbusinessunit_value,Owning Business Unit ID
+_owningteam_value,Owning Team ID
+_modifiedby_value,Modified By ID
+msdyn_timeentryid,Time Entry ID
+_msdyn_manager_value,Manager ID
+msdyn_timeentry_SyncErrors,Time Entry Sync Errors
+msdyn_timeentry_AsyncOperations,Time Entry Async Operations
+msdyn_timeentry_MailboxTrackingFolders,Time Entry Mailbox Tracking Folders
+msdyn_timeentry_ProcessSession,Time Entry Process Session
+msdyn_timeentry_BulkDeleteFailures,Time Entry Bulk Delete Failures
+msdyn_timeentry_PrincipalObjectAttributeAccesses,Time Entry Principal Object Attribute Accesses
+msdyn_timeentry_Annotations,Time Entry Annotations
+msdyn_resourceCategory,Resource Category
+msdyn_project,Project
+msdyn_projectTask,Project Task
+msdyn_msdyn_timeentry_msdyn_projectapproval_TimeEntry,Time Entry Project Approval Time Entry
+msdyn_msdyn_timeentry_msdyn_timeoffcalendar_timeEntry,Time Entry Time Off Calendar Time Entry
+msdyn_ResourceOrganizationalUnitId,Resource Organizational Unit ID
+msdyn_manager,Manager
