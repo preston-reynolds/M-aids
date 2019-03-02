@@ -1,7 +1,7 @@
 DynamicsColumnName,CleanedColumnName
 aadcreatedbyid,AAD Created By ID
 aadlastmodifiedbyid,AAD Last Modified By ID
-aadlastpublishedbyid,AAD Last Published By ID
+aadlastpublishedbyid,AAD Last Published By ID 
 abstract,Abstract
 accessmode,Access Mode
 accessright,Access Right
@@ -526,7 +526,7 @@ cdi_domainidname,CDI Domain ID Name
 cdi_duration,CDI Duration
 cdi_editortype,CDI Editor Type
 cdi_email,CDI Email
-cdi_emailaddress,Cdi Email Address
+cdi_emailaddress,CdiÂ Email Address
 cdi_emailaddressfield,CDI Email Address Field
 cdi_emailclient,CDI Email Client
 cdi_emailclientpreviewdata,CDI Email Client Preview Data
@@ -543,7 +543,7 @@ cdi_emailstatus,CDI Email Status
 cdi_emailtemplateid,CDI Email Template ID
 cdi_emailtemplateid_entitytype,CDI Email Template ID Entity Type
 cdi_emailtemplateid2,CDI Email Template ID 2
-cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
+cdi_emailtemplateid2_entitytype,CdiÂ Email Template ID 2 Entity Type
 cdi_emailtemplateid2name,CDI Email Template ID 2 Name
 cdi_emailtemplateidname,CDI Email Template ID Name
 cdi_emailtest,CDI Email Test
@@ -3549,9 +3549,9 @@ _ownerid_value,Owner ID Value
 msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_salesvariance_base,Sales Variance Base
 _msdyn_parenttask_value,Parent Task Value
-msdyn_wbsid,Wbs ID
+msdyn_wbsid,WBS ID
 _msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID Value
-msdyn_scheduledend,Scheduled End
+msdyn_scheduledend,Scheduled End Date
 msdyn_salesestimateatcomplete,Sales Estimate At Complete
 _msdyn_resourcecategory_value,Resource Category Value
 msdyn_remainingsales,Remaining Sales
@@ -3563,7 +3563,7 @@ msdyn_subject,Subject
 msdyn_salesvariance,Sales Variance
 msdyn_scheduledhours,Scheduled Hours
 msdyn_remainingsales_base,Remaining Sales Base
-msdyn_scheduledstart,Scheduled Start
+msdyn_scheduledstart,Scheduled Start Date
 msdyn_autoscheduling,Auto Scheduling
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
 _msdyn_project_value,Project Value
@@ -3591,7 +3591,7 @@ msdyn_teamsize,Team Size
 msdyn_projectid,Project ID
 _msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID Value
 msdyn_plannedlaborcost,Planned Labor Cost
-msdyn_wbsduration,Wbs Duration
+msdyn_wbsduration,WBS Duration
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_costestimateatcomplete,Cost Estimate At Complete
 msdyn_plannedhours,Planned Hours
