@@ -1,0 +1,22 @@
+//This function takes as it's inputs two tables. 
+//    The first is a table with nasty column names. 
+//    The second is a table with any number of rows, but that has two columns. 
+//        The first column has values which match your nasty column names
+//        The second column contains the pretty names for your columns
+
+(table_name as table, newColumnNamesTable as table) =>
+let
+    ColumnList = Table.ColumnNames(table_name),
+    ColumnNameTable = Table.FromList(ColumnList, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    MergeQueries = Table.NestedJoin(newColumnNamesTable,Table.ColumnNames(newColumnNamesTable){0},ColumnNameTable,Table.ColumnNames(ColumnNameTable){0},"Cleaned Columns",JoinKind.Inner),
+    ColumnNameList = Table.RemoveColumns(MergeQueries,{"Cleaned Columns"}),
+    RenameColumns = Table.RenameColumns(table_name,Table.ToRows(ColumnNameList))
+in RenameColumns
+    
+// Rename the new function to BeautifyCoulumnNames (or whatever you prefer; just be sure to change the rest of the code based on that adjustment)
+// Then in the advanced editor for the table you need to clean the columns on, you'll need to envoke the function
+
+StepName = BeautifyCoulumnNames(NameOfPreviousStep,NameOfTableWithValues)
+
+// If you're using Dynamics 365 as a source, you might consider using this table as your naming cleanup table
+// https://github.com/preston-reynolds/M-aids/blob/master/Dynamics%20365%20Column%20Renaming.csv
