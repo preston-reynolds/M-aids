@@ -245,7 +245,7 @@ baseisocurrencycode,Baseiso Currency Code
 baseuom,Base UOM
 baseuom_entitytype,Base UOM Entity Type
 baseuomname,Base UOM Name
-bcc,Bcc
+bcc,BCC
 begindate,Begin Date
 bias,Bias
 billedserviceunits,Billed Service Units
@@ -369,7 +369,7 @@ calendarid,Calendar ID
 calendarid_entitytype,Calendar ID Entity Type
 calendartype,Calendar Type
 callback,Callback
-caltype,Caltype
+caltype,Cal Type
 campaignactivityid,Campaign Activity ID
 campaignactivityid_entitytype,Campaign Activity ID Entity Type
 campaignactivityitemid,Campaign Activity Item ID
@@ -405,7 +405,7 @@ category,Category
 categoryid,Category ID
 categorynumber,Category Number
 categoryprefix,Category Prefix
-cc,Cc
+cc,CC
 cdi_accountfield,CDI Account Field
 cdi_accountfieldlength,CDI Account Field Length
 cdi_accountid,CDI Account ID
@@ -3573,3 +3573,35 @@ msdyn_islinetask,Is Line Task
 msdyn_scheduleddurationminutes,Scheduled Duration Minutes
 msdyn_plannedcost_base,Planned Cost Base
 msdyn_projecttaskid,Project Task ID
+_lvt_contactid_value,Contact ID Value LVT
+_queueid_value,Queue ID Value
+entityimage,Entity Image
+_positionid_value,Position ID Value
+_calendarid_value,Calendar ID Value
+lvt_assignedto,Assigned To LVT
+_defaultmailbox_value,Default Mailbox Value
+RetrieveAllChildUsersSystemUser,Retrieve All Child Users System User
+RetrievePrincipalAccess,Retrieve Principal Access
+RetrievePrincipalAttributePrivileges,Retrieve Principal Attribute Privileges
+RetrievePrincipalSyncAttributeMappings,Retrieve Principal Sync Attribute Mappings
+RetrieveUserLicenseInfo,Retrieve User License Info
+RetrieveUserPrivileges,Retrieve User Privileges
+RetrieveUserQueues,Retrieve User Queues
+msdyn_teamsize,Team Size
+msdyn_projectid,Project ID
+_msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID Value
+msdyn_plannedlaborcost,Planned Labor Cost
+msdyn_wbsduration,Wbs Duration
+msdyn_totalplannedcost,Total Planned Cost
+msdyn_costestimateatcomplete,Cost Estimate At Complete
+msdyn_plannedhours,Planned Hours
+_msdyn_projectmanager_value,Project Manager Value
+msdyn_salesestimateatcompleteeac_base,Sales Estimate At Complete EAC Base
+msdyn_totalplannedcost_base,Total Planned Cost Base
+msdyn_salesestimateatcompleteeac,Sales Estimate At Complete EAC
+msdyn_effortestimateatcompleteeac,Effort Estimate At Complete EAC
+msdyn_costestimateatcomplete_base,Cost Estimate At Complete Base
+msdyn_plannedlaborcost_base,Planned Labor Cost Base
+msdyn_calendarid,Calendar ID
+_msdyn_customer_value,Customer Value
+msdyn_stagename,Stage Name
