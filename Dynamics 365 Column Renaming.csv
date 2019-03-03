@@ -1322,14 +1322,8 @@ fullname,Full Name
 fullnameconventioncode,Full Name Convention Code
 futureexpansionwindow,Future Expansion Window
 galleryitemid,Gallery Item ID
-gap_entityname,Gap Entity Name
-gap_entityschemaname,Gap Entity Schema Name
 gap_imageurl,Gap Image URL
-gap_label,Gap Label
-gap_language,Gap Language
-gap_optionsetschemaname,Gap Option Set Schema Name
-gap_powerbioptionsetrefid,Gap Power Bi Option Set Ref ID
-gap_value,Gap Value
+gap_powerbioptionsetrefid,Gap Power BI Option Set Ref ID
 Gender,Gender
 gendercode,Gender Code
 generatealertsforerrors,Generate Alerts For Errors
