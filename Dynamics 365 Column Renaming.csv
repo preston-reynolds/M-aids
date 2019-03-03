@@ -290,11 +290,11 @@ blockedprofile,Blocked Profile
 body,Body
 bounce,Bounce
 bouncescount,Bounce Scount
-bounddashboarddefaultcardexpanded,Bound Dash Board Default Card Expanded
+bounddashboarddefaultcardexpanded,Bound Dashboard Default Card Expanded
 bpf_duration,Bpf Duration
-bpf_jt_pcaid,Bpf Jt Pcaid
-bpf_jt_pcaid_entitytype,Bpf Jt Pcaid Entity Type
-bpf_jt_pcaidname,Bpf Jt Pcaid Name
+bpf_jt_pcaid,Bpf JT Pcaid
+bpf_jt_pcaid_entitytype,Bpf JT Pcaid Entity Type
+bpf_jt_pcaidname,Bpf JT Pcaid Name
 bpf_leadid,Bpf Lead ID
 bpf_leadid_entitytype,Bpf Lead ID Entity Type
 bpf_leadidname,Bpf Lead ID Name
@@ -356,7 +356,7 @@ bulkoperationprefix,Bulk Operation Prefix
 bulktextmessageid,Bulk Text Message ID
 bulktxtmessageid,Bulk Text Message ID
 business2,Business 2
-BusinessCategoryJT,Business Category Jt
+BusinessCategoryJT,Business Category JT
 businessclosurecalendarid,Business Closure Calendar ID
 businessprocessflowinstanceid,Business Process Flow In Stance ID
 businessprocesstype,Business Process Type
@@ -1039,7 +1039,7 @@ decremententitlementterm,Decrement Entitlement Term
 defaultcalendarview,Default Calendar View
 defaultcountrycode,Default Country Code
 defaultcrmcustomname,Defaultcrm Custom Name
-defaultdashboardid,Default Dash Board ID
+defaultdashboardid,Default Dashboard ID
 defaultemailserverprofileid,Default Email Server Profile ID
 defaultemailserverprofileid_entitytype,Default Email Server Profile ID Entity Type
 defaultemailserverprofileidname,Default Email Server Profile ID Name
@@ -1581,652 +1581,652 @@ itemobjecttypecode,Item Object Type Code
 itemsfailedforlastsync,Items Failed For Last Sync
 itemsprocessedforlastsync,Items Processed For Last Sync
 jobtitle,Job Title
-jt_400numberid,Jt 400 Number ID
-jt_abbreviation,Jt Abbreviation
-jt_account,Jt Account
-jt_account_entitytype,Jt Account Entity Type
-jt_account_mascustomer,Jt Account Mas Customer
-jt_account_mascustomer_entitytype,Jt Account Mas Customer Entity Type
-jt_account_mascustomername,Jt Account Mas Customer Name
-jt_account_mascustomeryominame,Jt Account Mas Customer Yomi Name
-jt_accountname,Jt Account Name
-jt_accountnumber,Jt Account Number
-jt_accountregistration_accountid,Jt Account Registration Account ID
-jt_accountregistration_accountid_entitytype,Jt Account Registration Account ID Entity Type
-jt_accountregistration_accountidname,Jt Account Registration Account ID Name
-jt_accounttermsdefault,Jt Account Terms Default
-jt_accountyominame,Jt Account Yomi Name
-jt_activatedat,Jt Activated At
-jt_activecp,Jt Active Cp
-jt_activedisposition,Jt Active Disposition
-jt_activedisposition_entitytype,Jt Active Disposition Entity Type
-jt_activedispositionname,Jt Active Disposition Name
-jt_address1city,Jt Address 1 City
-jt_address1city_entitytype,Jt Address 1 City Entity Type
-jt_address1cityname,Jt Address 1 City Name
-jt_address1country,Jt Address 1 Country
-jt_address1country_entitytype,Jt Address 1 Country Entity Type
-jt_address1countryname,Jt Address 1 Country Name
-jt_address1id,Jt Address 1 ID
-jt_address1state,Jt Address 1 State
-jt_address1state_entitytype,Jt Address 1 State Entity Type
-jt_address1statename,Jt Address 1 State Name
-jt_address1zip,Jt Address 1 Zip
-jt_address1zip_entitytype,Jt Address 1 Zip Entity Type
-jt_address1zipcode,Jt Address 1 Zip Code
-jt_address1zipcode_entitytype,Jt Address 1 Zip Code Entity Type
-jt_address1zipcodename,Jt Address 1 Zip Code Name
-jt_address1zipname,Jt Address 1 Zip Name
-jt_address2city,Jt Address 2 City
-jt_address2city_entitytype,Jt Address 2 City Entity Type
-jt_address2cityname,Jt Address 2 City Name
-jt_address2country,Jt Address 2 Country
-jt_address2country_entitytype,Jt Address 2 Country Entity Type
-jt_address2countryname,Jt Address 2 Country Name
-jt_address2id,Jt Address 2 ID
-jt_address2state,Jt Address 2 State
-jt_address2state_entitytype,Jt Address 2 State Entity Type
-jt_address2statename,Jt Address 2 State Name
-jt_address2zipcode,Jt Address 2 Zip Code
-jt_address2zipcode_entitytype,Jt Address 2 Zip Code Entity Type
-jt_address2zipcodename,Jt Address 2 Zip Code Name
-jt_addressexception,Jt Address Exception
-jt_addressid,Jt Address ID
-jt_addressline4,Jt Address Line4
-jt_addressline5,Jt Address Line5
-jt_adenddate,Jt Adend Date
-jt_adrequeststatusreason,Jt Adre Quest Status Reason
-jt_amount,Jtamount
-jt_amount_base,Jtamount Base
-jt_anettransaction,Jt Anettrans Action
-jt_ani,Jt Ani
-jt_anrmediacostrollup,Jt Anr Media Cost Rollup
-jt_anrmediacostrollup_base,Jt Anr Media Cost Rollup Base
-jt_anrmediacostrollup_date,Jt Anr Media Cost Rollup Date
-jt_anrmediacostrollup_state,Jt Anr Media Cost Rollup State
-jt_anrsourcecode,Jt Anr Source Code
-jt_anrsourcecode_entitytype,Jt Anr Source Codeentity Type
-jt_anrsourcecodename,Jt Anr Source Codename
-jt_applicationagreementreceived,Jt Application Agreement Received
-jt_applicationtype,Jt Application Type
-jt_approvalstepid,Jt Approval Stepid
-jt_approvalstepstatus,Jt Approval Step Status
-jt_approvaltemplate,Jt Approval Template
-jt_approvaltemplate_entitytype,Jt Approval Template Entity Type
-jt_approvaltemplatechosen,Jt Approval Template Chosen
-jt_approvaltemplatechosen_entitytype,Jt Approval Template Chosen Entity Type
-jt_approvaltemplatechosenname,Jt Approval Template Chosen Name
-jt_approvaltemplateid,Jt Approval Template ID
-jt_approvaltemplatename,Jt Approval Template Name
-jt_approvaltemplatestepid,Jt Approval Template Step ID
-jt_approvedshiptocountry,Jt Approvedshipto Country
-jt_areasintendedtodistribute,Jt Areas Intendedto Distribute
-jt_assignedto,Jt Assignedto
-jt_assignedto_entitytype,Jt Assignedto Entity Type
-jt_assignedtoname,Jt Assignedto Name
-jt_assignedtoteam,Jt Assignedto Team
-jt_assignedtoteam_entitytype,Jt Assignedto Team Entity Type
-jt_assignedtoteamname,Jt Assignedto Team Name
-jt_assignedtoteamyominame,Jt Assignedto Team Yomi Name
-jt_assignedtoyominame,Jt Assignedto Yomi Name
-jt_attire,Jt Attire
-jt_backordersallowed,Jt Back Orders Allowed
-jt_balance,Jt Balance
-jt_balance_base,Jt Balance Base
-jt_billaddrcity,Jt Bill Addrcity
-jt_billaddrcitylookup,Jt Bill Addrcitylookup
-jt_billaddrcitylookup_entitytype,Jt Bill Addrcitylookup Entity Type
-jt_billaddrcitylookupname,Jt Bill Addrcitylookup Name
-jt_billaddrcountry,Jt Bill Addr Country
-jt_billaddrcountrycode,Jt Bill Addr Country Code
-jt_billaddrcountrylookup,Jt Bill Addr Country Lookup
-jt_billaddrcountrylookup_entitytype,Jt Bill Addr Country Lookup Entity Type
-jt_billaddrcountrylookupname,Jt Bill Addr Country Lookup Name
-jt_billaddrid,Jt Bill Addr ID
-jt_billaddrline1,Jt Bill Addrline 1
-jt_billaddrline2,Jt Bill Addrline 2
-jt_billaddrline3,Jt Bill Addrline 3
-jt_billaddrname,Jt Bill Addr Name
-jt_billaddrpostalcode,Jt Bill Addr Postal Code
-jt_billaddrstate,Jt Bill Addr State
-jt_billaddrstateid,Jt Bill Addr State ID
-jt_billaddrstatelookup,Jt Bill Addr State Lookup
-jt_billaddrstatelookup_entitytype,Jt Bill Addr State Lookup Entity Type
-jt_billaddrstatelookupname,Jt Bill Addr State Lookup Name
-jt_billaddrziplookup,Jt Bill Addr Zip Lookup
-jt_billaddrziplookup_entitytype,Jt Bill Addr Zip Lookup Entity Type
-jt_billaddrziplookupname,Jt Bill Addr Zip Lookup Name
-jt_billingaddress,Jt Billing Address
-jt_billingaddress_entitytype,Jt Billing Address Entity Type
-jt_billingaddressname,Jt Billing Address Name
-jt_billingaddressyominame,Jt Billing Address Yomi Name
-jt_billingcontact,Jt Billing Contact
-jt_billingstreetaddress,Jt Billing Street Address
-jt_billtocontact,Jt Billto Contact
-jt_billtocontact_entitytype,Jt Billto Contact Entity Type
-jt_billtocontactname,Jt Billto Contact Name
-jt_billtocontactyominame,Jt Billto Contact Yomi Name
-jt_bodylab,Jt Body Lab
-jt_boothnumber,Jt Booth Number
-jt_bpobusinessunitnumber,Jt Bpo Business Unit Number
-jt_bposkillid,Jt Bpo Skill ID
-jt_bposkillid_entitytype,Jt Bpo Skill ID Entity Type
-jt_bposkillidname,Jt Bpo Skill ID Name
-jt_bpovendor,Jt Bpo Vendor
-jt_brandmanagerreview,Jt Brand Manager Review
-jt_bremenn,Jt Bremenn
-jt_businesscategory,Jt Business Category
-jt_campaign,Jt Campaign
-jt_campaign_entitytype,Jt Campaign Entity Type
-jt_campaign_systemuserid,Jt Campaign System User ID
-jt_campaignname,Jt Campaign Name
-jt_cansell,Jt Can Sell
-jt_carrier,Jt Carrier
-jt_carrierprovider,Jt Carrier Provider
-jt_ccauthorization,Jtcc Authorization
-jt_ccautorization,Jtcc Autorization
-jt_chargeback,Jt Charge Back
-jt_chargebackexception,Jt Charge Back Exception
-jt_chargebackstage,Jt Charge Back Stage
-jt_chargebacktype,Jt Charge Back Type
-jt_children,Jt Children
-jt_childreturnorderurlmostrecent,Jt Child Return Order URL Most Recent
-jt_city,Jt City
-jt_codinghourscapacity,Jt Coding Hours Capacity
-jt_codinghoursremaining,Jt Coding Hours Remaining
-jt_codinghoursused,Jt Coding Hoursused
-jt_codinghoursused_date,Jt Coding Hoursused Date
-jt_codinghoursused_state,Jt Coding Hoursused State
-jt_companycode,Jt Company Code
-jt_companyid,Jt Company ID
-jt_conciergecontact,Jt Concierge Contact
-jt_contact,Jt Contact
-jt_contact_entitytype,Jt Contact Entity Type
-jt_contactid,Jt Contact ID
-jt_contactid_entitytype,Jt Contact ID Entity Type
-jt_contactidname,Jt Contact ID Name
-jt_contactidyominame,Jt Contact ID Yomi Name
-jt_contactname,Jt Contact Name
-jt_contactyominame,Jt Contact Yomi Name
-jt_contestmentdue,Jt Contestment Due
-jt_coop,Jt Coop
-jt_coop_base,Jt Coop Base
-jt_copybilltoship,Jt Copy Billto Ship
-jt_copyhourscapacity,Jt Copy Hours Capacity
-jt_copyhoursremaining,Jt Copy Hours Remaining
-jt_copyhoursused,Jt Copy Hoursused
-jt_copyhoursused_date,Jt Copy Hoursused Date
-jt_copyhoursused_state,Jt Copy Hoursused State
-jt_costofgoodssold,Jt Cost Of Goods Sold
-jt_costofgoodssold_base,Jt Cost Of Goods Sold Base
-jt_country,Jt Country
-jt_countryid,Jt Country ID
-jt_countryid_entitytype,Jt Country ID Entity Type
-jt_countryidname,Jt Country ID Name
-jt_createregen,Jt Create Regen
-jt_creditapplicationsignerssn,Jt Credit Application Signer Ssn
-jt_creditappsignaturecontact,Jt Credit App Sig Nature Contact
-jt_creditappsignaturecontact_entitytype,Jt Credit App Sig Nature Contact Entity Type
-jt_creditappsignaturecontactname,Jt Credit App Sig Nature Contact Name
-jt_creditappsignaturecontactyominame,Jt Credit App Sig Nature Contact Yomi Name
-jt_creditappsignaturedate,Jt Credit App Sig Nature Date
-jt_creditcardid,Jt Credit Card ID
-jt_creditcardid_entitytype,Jt Credit Card ID Entity Type
-jt_creditcardidname,Jt Credit Card ID Name
-jt_credithold,Jt Credit Hold
-jt_creditholdexception,Jt Credit Hold Exception
-jt_creditlimit,Jt Credit Limit
-jt_creditlimit_base,Jt Credit Limit Base
-jt_currentdatetime,Jt Current Datetime
-jt_custclassid,Jt Cust Class ID
-jt_customerclass,Jt Customer Class
-jt_customerclassid,Jt Customer Class ID
-jt_customerclassid_entitytype,Jt Customer Class ID Entity Type
-jt_customerclassidname,Jt Customer Class ID Name
-jt_customerclasslookup,Jt Customer Class Lookup
-jt_customerclasslookup_entitytype,Jt Customer Class Lookup Entity Type
-jt_customerclasslookupname,Jt Customer Class Lookup Name
-jt_customerid,Jt Customer ID
-jt_customerponumber,Jt Customer Po Number
-jt_dateestablished,Jt Date Established
-jt_dayofthemonth,Jt Day Ofthe Month
-jt_dba,Jt Dba
-jt_dbaname,Jt Dba Name
-jt_defaultsubscriptiondays,Jt Default Subscription Days
-jt_description,Jt Description
-jt_designer,Jt Designer
-jt_designer_entitytype,Jt Designer Entity Type
-jt_designername,Jt Designer Name
-jt_designhourscapacity,Jt Design Hours Capacity
-jt_designhoursremaining,Jt Design Hours Remaining
-jt_designhoursused,Jt Design Hoursused
-jt_designhoursused_date,Jt Design Hoursused Date
-jt_designhoursused_state,Jt Design Hoursused State
-jt_direction,Jt Direction
-jt_discount,Jt Discount
-jt_discountbasedontotal,Jt Discount Basedontotal
-jt_discountlist,Jt Discount List
-jt_discountlist_entitytype,Jt Discount List Entity Type
-jt_discountlistname,Jt Discount List Name
-jt_discountpercent,Jt Discount Percent
-jt_dismantledate,Jt Dismantle Date
-jt_dismantlehours,Jt Dismantle Hours
-jt_disposition,Jt Disposition
-jt_disposition_entitytype,Jt Disposition Entity Type
-jt_dispositionname,Jt Disposition Name
-jt_dnis,Jt Dnis
-jt_donotallowtext,Jt Do Not Allow Text
-jt_dontfiresubscription,Jt Dont Fire Subscription
-jt_email,Jt Email
-jt_enddate,Jt End Date
-jt_entityengagedas,Jt Entity Engaged As
-jt_epaymentapproved,Jt E Payment Approved
-jt_event,Jt Event
-jt_eventcodemas,Jt Event Codemas
-jt_ewallet,Jt Ewallet
-jt_ewallet_entitytype,Jt Ewallet Entity Type
-jt_ewalletname,Jt Ewallet Name
-jt_exception_reason,Jt Exception Reason
-jt_exceptionreason,Jt Exception Reason
-jt_expectedshipdate,Jt Expected Shipdate
-jt_expensecostrollup,Jt Expense Cost Rollup
-jt_expensecostrollup_base,Jt Expense Cost Rollup Base
-jt_expensecostrollup_date,Jt Expense Cost Rollup Date
-jt_expensecostrollup_state,Jt Expense Cost Rollup State
-jt_expiredate,Jt Expire Date
-jt_fasttrackthisjob,Jt Fast Track This Job
-jt_federalid,Jt Federal ID
-jt_firstorderdate,Jt First Order Date
-jt_firstordermanual,Jt First Order Manual
-jt_fob,Jt Fob
-jt_formulanumber,Jt Formula Number
-jt_freefrompca,Jt Free Frompca
-jt_giftid,Jt Giftid
-jt_goal,Jt Goal
-jt_hcategory,Jt H Category
-jt_hidecreateorder,Jt Hide Create Order
-jt_hobby,Jt Hobby
-jt_hourscomplete,Jt Hours Complete
-jt_hourscomplete_date,Jt Hours Complete Date
-jt_hourscomplete_state,Jt Hours Complete State
-jt_hoursofwork,Jt Hours Of Work
-jt_hoursofworkalljobs,Jt Hours Of Work All Jobs
-jt_hoursofworkalljobs_date,Jt Hours Of Work All Jobs Date
-jt_hoursofworkalljobs_state,Jt Hours Of Work All Jobs State
-jt_householdmember,Jt House Hold Member
-jt_householdmember_entitytype,Jt House Hold Member Entity Type
-jt_householdmemberid,Jt House Hold Member ID
-jt_householdmemberid_entitytype,Jt House Hold Member ID Entity Type
-jt_householdmemberidname,Jt House Hold Member ID Name
-jt_householdmembername,Jt House Hold Member Name
-jt_householdmemberyominame,Jt House Hold Member Yomi Name
-jt_htmlorderproductstable,Jt Html Order Products Table
-jt_id,Jt ID
-jt_incorporationstatecountry,Jt Incorpo Ratio N State Country
-jt_insamountrequired,Jt Insa Mount Required
-jt_insamountrequired_base,Jt Insa Mount Required Base
-jt_installdate,Jt Install Date
-jt_installhours,Jt Install Hours
-jt_insurancedescription,Jt Insurance Description
-jt_insurancerequiredyn,Jt Insurance Require Dyn
-jt_internationalholdexception,Jt Inter Nation Alhold Exception
-jt_inventorytype,Jt Inventory Type
-jt_inventorytypedesc,Jt Inventory Typedesc
-jt_isapproved,Jt Isapproved
-jt_isapromoevent,Jt Isapromo Event
-jt_isbacklog,Jt Isbacklog
-jt_isexclusive,Jt Is Exclusive
-jt_isprojectleveljob,Jt Is Project Level Job
-jt_issubscription,Jt Is Subscription
-jt_itemclassid,Jt Item Class ID
-jt_itemclassname,Jt Item Class Name
-jt_itemtype,Jt Item Type
-jt_itemtypename,Jt Item Type Name
-jt_itemuse,Jt Itemuse
-jt_jobacceptedon,Jt Job Accept Edon
-jt_jobcategory,Jt Job Category
-jt_jobid,Jt Jobid
-jt_jobnumber,Jt Job Number
-jt_joborder,Jt Job Order
-jt_jobstatus,Jt Job Status
-jt_jobtobeapproved,Jt Jobtobeapproved
-jt_jobtobeapproved_entitytype,Jt Jobtobeapproved Entity Type
-jt_jobtobeapprovedname,Jt Jobtobeapproved Name
-jt_jobtype,Jt Jobtype
-jt_jt_job_productid,Jt Jt Job Product ID
-jt_jt_tollfreenumber_productid,Jt Jttollfree Number Product ID
-jt_key,Jt Key
-jt_lastapprovalstepowner,Jt Last Approval Step Owner
-jt_lastapprovalstepowner_entitytype,Jt Last Approval Step Owner Entity Type
-jt_lastapprovalstepownername,Jt Last Approval Step Owner Name
-jt_lastapprovalstepowneryominame,Jt Last Approval Step Owner Yomi Name
-jt_lastordereddate,Jt Last Order Eddate
-jt_lastrunon,Jt Last Run On Date
-jt_lastyearsales,Jt Last Year Sales
-jt_lastyearsales_base,Jt Last Year Sales Base
-jt_lead,Jt Lead
-jt_lead_entitytype,Jt Lead Entity Type
-jt_leadname,Jt Lead Name
-jt_leadsource,Jt Lead Source
-jt_leadsourceglobal,Jt Lead Source Global
-jt_leadyominame,Jt Lead Yomi Name
-jt_location,Jt Location
-jt_magreturncomplete,Jt Mag Return Complete
-jt_magsubscriptionid,Jt Mag Subscription ID
-jt_mainfax,Jt Mainfax
-jt_mainphone,Jt Main Phone
-jt_manadclick,Jt Manad Click
-jt_manualaddress,Jt Manual Address
-jt_marketingemailpreference,Jt Marketing Emailpreference
-jt_mastercontactid,Jt Master Contact ID
-jt_mediaorderitem,Jt Media Order Item
-jt_mediaorderitem_entitytype,Jt Media Order Item Entity Type
-jt_mediaorderitemcostrollup,Jt Media Order Item Cost Rollup
-jt_mediaorderitemcostrollup_base,Jt Media Order Item Cost Rollup Base
-jt_mediaorderitemcostrollup_date,Jt Media Order Item Cost Rollup Date
-jt_mediaorderitemcostrollup_state,Jt Media Order Item Cost Rollup State
-jt_mediaorderitemname,Jt Media Order Item Name
-jt_mporderid,Jt Mp Order ID
-jt_name,Jt Name
-jt_needby,Jt Need By
-jt_needbydate,Jt Need By Date
-jt_newpca,Jt Newpca
-jt_nextrunon,Jt Next Run On Date
-jt_nextsequence,Jt Next Sequence
-jt_nodusauthcode,Jt Nodusauth Code
-jt_nooflocations,Jt Noof Location S
-jt_notificationmessage,Jt Notification Message
-jt_novex,Jt Novex
-jt_numberofdays,Jt Number Ofdays
-jt_numberofemployees,Jt Number Of Employees
-jt_numberofsteps,Jt Number Ofsteps
-jt_numberofsteps_date,Jt Number Ofsteps Date
-jt_numberofsteps_state,Jt Number Ofsteps State
-jt_offsetsubdays,Jt Offsetsubdays
-jt_order,Jt Order
-jt_order_entitytype,Jt Order Entity Type
-jt_ordercategory,Jt Order Category
-jt_ordername,Jt Order Name
-jt_ordersessionid,Jt Order Session ID
-jt_ordersourcetype,Jt Order Source Type
-jt_originalsuborder,Jt Origin Alsub Order
-jt_originatingorder,Jt Originating Order
-jt_originatingorder_entitytype,Jt Originating Order Entity Type
-jt_originatingorderdetail,Jt Originating Order Detail
-jt_originatingorderdetail_entitytype,Jt Originating Order Detail Entity Type
-jt_originatingorderdetailname,Jt Originating Order Detail Name
-jt_originatingordername,Jt Originating Order Name
-jt_originatingquote,Jt Originating Quote
-jt_originatingquote_entitytype,Jt Originating Quote Entity Type
-jt_originatingquotename,Jt Originating Quote Name
-jt_originatingquoteproduct,Jt Originating Quote Product
-jt_originatingsubscription,Jt Originating Subscription
-jt_originatingsubscription_entitytype,Jt Originating Subscription Entity Type
-jt_originatingsubscriptionname,Jt Originating Subscription Name
-jt_overcreditlimitexception,Jt Over Credit Limit Exception
-jt_ownerhshiptype,Jt Owner Hshiptype
-jt_ownershiptype,Jt Owner Shiptype
-jt_parentcampaign,Jt Parent Campaign
-jt_parentcampaign_entitytype,Jt Parent Campaign Entity Type
-jt_parentcampaignname,Jt Parent Campaign Name
-jt_parentjobid,Jt Parent Jobid
-jt_parentjobid_entitytype,Jt Parent Jobid Entity Type
-jt_parentjobidname,Jt Parent Jobid Name
-jt_parentorderid,Jt Parent Order ID
-jt_parentorderid_entitytype,Jt Parent Order ID Entity Type
-jt_parentorderidname,Jt Parent Order ID Name
-jt_paymentamount,Jt Paymentamount
-jt_paymentamount_base,Jt Paymentamount Base
-jt_paymentdeclinedexception,Jt Payment Declined Exception
-jt_paymentmethod,Jt Payment Method
-jt_paymentmethodmismatchexception,Jt Payment Method Mis Match Exception
-jt_paymentterms,Jt Payment Terms
-jt_paymenttermsrequested,Jt Payment Terms Request Ed
-jt_pca,Jt Pca
-jt_pca_base,Jt Pca Base
-jt_pca_date,Jt Pca Date
-jt_pca_state,Jt Pca State
-jt_pcadiscount,Jt Pca Discount
-jt_pcadiscount_base,Jt Pca Discount Base
-jt_pcaforpromo,Jt Pcaforpromo
-jt_pcaforpromo_entitytype,Jt Pcaforpromo Entity Type
-jt_pcaforpromoname,Jt Pcaforpromo Name
-jt_pcaid,Jt Pcaid
-jt_pcaid_entitytype,Jt Pcaid Entity Type
-jt_pcaidname,Jt Pcaid Name
-jt_percentcomplete,Jt Percent Complete
-jt_period,Jt Period
-jt_phonepreference,Jt Phone Preference
-jt_poboxexception,Jt Pobox Exception
-jt_ponumber,Jt Po Number
-jt_porequired,Jt Po Required
-jt_postofficeboxexception,Jt Post Office Box Exception
-jt_preferredagent,Jt Prefer Red Agent
-jt_preferredagent_entitytype,Jt Prefer Red Agent Entity Type
-jt_preferredagentname,Jt Prefer Red Agent Name
-jt_preferredagentyominame,Jt Prefer Red Agent Yomi Name
-jt_presentationdate,Jt Present Ationdate
-jt_priceperunit,Jt Price Per Unit
-jt_priceperunit_base,Jt Price Per Unit Base
-jt_primarycontact,Jt Primary Contact
-jt_primarycontact_entitytype,Jt Primary Contact Entity Type
-jt_primarycontactname,Jt Primary Contact Name
-jt_primarycontactyominame,Jt Primary Contact Yomi Name
-jt_priority,Jt Priority
-jt_product,Jt Product
-jt_product_entitytype,Jt Product Entity Type
-jt_productfamilyextended,Jt Product Family Extend Ed
-jt_productid,Jt Product ID
-jt_productid_entitytype,Jt Product ID Entity Type
-jt_productidname,Jt Product ID Name
-jt_productname,Jt Product Name
-jt_productssoldonweb,Jt Product Ssoldon Web
-jt_progressnotes,Jt Progress Notes
-jt_projectjobtemplateid,Jt Project Jobtemplate ID
-jt_projectstatus,Jt Project Status
-jt_projecttemplateid,Jt Project Template ID
-jt_projecttemplateid_entitytype,Jt Project Template ID Entity Type
-jt_projecttemplateidname,Jt Project Template ID Name
-jt_promiseddate,Jt Promise Ddate
-jt_prospectpresentneeded,Jt Prospect Present Needed
-jt_purchaseorderemail,Jt Purchase Order Email
-jt_q_howlongshouldthescriptread,Jt Q Howlong Should The Script Read
-jt_q_howmanyproductspertray,Jt Q Howmany Product Spertray
-jt_q_howmanytraysperpallet,Jt Q Howmanytraysperpallet
-jt_q_isthisarevision,Jt Q Isthisare Vision
-jt_q_pricestobelisted,Jt Q Price Stobelisted
-jt_q_whatarethedielines,Jt Q Whatarethedielines
-jt_q_whatfurniturewillbepresentinbooth,Jt Q What Furniture Willbe Present In Booth
-jt_q_whatinformationshouldthiscontain,Jt Q What Information Should This Contain
-jt_q_whatisaretheupcs,Jt Q Whatisaretheupcs
-jt_q_whatisthesizeofthebooth,Jt Q Whatisthesizeofthe Booth
-jt_q_whatisthesubjectoftheemail,Jt Q Whatisthe Subject Ofthe Email
-jt_q_whichemail,Jt Q Which Email
-jt_q_whichmagazine,Jt Q Which Magazine
-jt_q_whichsocialplatform,Jt Q Which Social Plat Form
-jt_q_willtheproductbeinablisterorbox,Jt Q Willthe Product Beinablisterorbox
-jt_q_willthisfeatureanewcartoruseanexisting,Jt Q Willthis Feature Anewcartorusean Existing
-jt_q_willthisneedauniquephonenumber,Jt Q Willthisneeda Unique Phone Number
-jt_quantity,Jt Quantity
-jt_questionassettype,Jt Question Asset Type
-jt_questionbrandsincluded,Jt Question Brands Included
-jt_questionbrnum,Jt Questionbrnum
-jt_questioncalltoaction,Jt Questioncallto Action
-jt_questionemotion,Jt Questione Motion
-jt_questioningredients,Jt Question Ingredient S
-jt_questionjobgoal,Jt Questionjobgoal
-jt_questionjobrequirements,Jt Questionjob Requirements
-jt_questionmessage,Jt Question Message
-jt_questionpartnumber,Jt Questionpart Number
-jt_questionpreviousbr,Jt Question Previous Br
-jt_questionpromotion,Jt Questionpro Motion
-jt_questionreqchange,Jt Questionreq Change
-jt_questionsdesignissues,Jt Questions Design Issue S
-jt_questionspecifications,Jt Question Specific Ations
-jt_questiontargetaudience,Jt Question Target Audience
-jt_questionurl,Jt Question URL
-jt_questionwordlimit,Jt Questionword Limit
-jt_regenbuilt,Jt Regenbuilt
-jt_regenchargeamount,Jt Regen Chargeamount
-jt_regenchargeamount_base,Jt Regen Chargeamount Base
-jt_releaseformreceived,Jt Release Form Received
-jt_reportingcreatedon,Jt Reporting Created On Date
-jt_requestinitiated,Jt Request Initiate D
-jt_resettax,Jt Resettax
-jt_resolutionreason,Jt Re Solution Reason
-jt_resolutionreasondisposition,Jt Re Solution Reason Disposition
-jt_resolutionreasondisposition_entitytype,Jt Re Solution Reason Disposition Entity Type
-jt_resolutionreasondispositionname,Jt Re Solution Reason Disposition Name
-jt_restartrejectedjob,Jt Re Start Reject Edjob
-jt_returnordernumber,Jt Return Order Number
-jt_reviewhourscapacity,Jt Review Hours Capacity
-jt_reviewhoursremaining,Jt Review Hours Remaining
-jt_reviewhoursused,Jt Review Hoursused
-jt_reviewhoursused_date,Jt Review Hoursused Date
-jt_reviewhoursused_state,Jt Review Hoursused State
-jt_runas,Jt Runas
-jt_runondate,Jt Runondate
-jt_sagepostdate,Jt Sagepostdate
-jt_salesperiod,Jt Sales Period
-jt_salesperiod_entitytype,Jt Sales Period Entity Type
-jt_salesperiodcreated,Jt Sales Period Create D
-jt_salesperiodcreated_entitytype,Jt Sales Period Created Entity Type
-jt_salesperiodcreatedname,Jt Sales Period Created Name
-jt_salesperiodid,Jt Sales Period ID
-jt_salesperiodname,Jt Sales Period Name
-jt_salesprodlineid,Jt Sales Prodlineid
-jt_salestax,Jt Sales Tax
-jt_salestax_base,Jt Sales Tax Base
-jt_saletype,Jt Saletype
-jt_schedulechildjobs,Jt Schedule Child Jobs
-jt_sendregenorderconfirmation,Jt Sendregen Order Confirm Ation
-jt_serovital,Jt Sero Vital
-jt_sessionidmas,Jt Session IDmas
-jt_shelflife,Jt Shelf Life
-jt_shipaddrcity,Jt Shipaddrcity
-jt_shipaddrcitylookup,Jt Shipaddrcitylookup
-jt_shipaddrcitylookup_entitytype,Jt Shipaddrcitylookup Entity Type
-jt_shipaddrcitylookupname,Jt Shipaddrcitylookup Name
-jt_shipaddrcountry,Jt Shipaddr Country
-jt_shipaddrcountrycode,Jt Shipaddr Country Code
-jt_shipaddrcountrylookup,Jt Shipaddr Country Lookup
-jt_shipaddrcountrylookup_entitytype,Jt Shipaddr Country Lookup Entity Type
-jt_shipaddrcountrylookupname,Jt Shipaddr Country Lookup Name
-jt_shipaddrid,Jt Shipaddr ID
-jt_shipaddrline1,Jt Shipaddrline 1
-jt_shipaddrline2,Jt Shipaddrline 2
-jt_shipaddrline3,Jt Shipaddrline 3
-jt_shipaddrline4,Jt Shipaddrline4
-jt_shipaddrline5,Jt Shipaddrline5
-jt_shipaddrname,Jt Shipaddr Name
-jt_shipaddrpostalcode,Jt Shipaddr Postal Code
-jt_shipaddrstate,Jt Shipaddr State
-jt_shipaddrstateid,Jt Shipaddr State ID
-jt_shipaddrstatelookup,Jt Shipaddr State Lookup
-jt_shipaddrstatelookup_entitytype,Jt Shipaddr State Lookup Entity Type
-jt_shipaddrstatelookupname,Jt Shipaddr State Lookup Name
-jt_shipaddrziplookup,Jt Shipaddr Zip Lookup
-jt_shipaddrziplookup_entitytype,Jt Shipaddr Zip Lookup Entity Type
-jt_shipaddrziplookupname,Jt Shipaddr Zip Lookup Name
-jt_shipdays,Jt Shipdays
-jt_shipmethodid,Jt Ship Method ID
-jt_shipnolaterdate,Jt Shipno Later Date
-jt_shippingaddress,Jt Shippingaddress
-jt_shippingaddress_entitytype,Jt Shippingaddress Entity Type
-jt_shippingaddressname,Jt Shippingaddress Name
-jt_shippingaddressyominame,Jt Shippingaddress Yomi Name
-jt_shippingcharge,Jt Shipping Charge
-jt_shippingcharge_base,Jt Shipping Charge Base
-jt_shippingcost,Jt Shippingcost
-jt_shippingcost_base,Jt Shippingcost Base
-jt_shippingexception,Jt Shipping Exception
-jt_shippingmethod,Jt Shipping Method
-jt_shippingmethodcode,Jt Shipping Method Code
-jt_shippingmethodvalue,Jt Shipping Method Value
-jt_shippingstatus,Jt Shipping Status
-jt_shippingstreetaddress,Jt Shipping Street Address
-jt_shipstatus,Jt Ship Status
-jt_shiptopobox,Jt Ship TOpobox
-jt_showenddate,Jt Showend Date
-jt_showhours,Jt Showhours
-jt_showstartdate,Jt Show Start Date
-jt_signature,Jt Sig Nature
-jt_sizeofaccount,Jt Sizeof Account
-jt_skillforbpo,Jt Skill Forbpo
-jt_skillforbpo_entitytype,Jt Skill Forbpo Entity Type
-jt_skillforbponame,Jt Skill Forbpo Name
-jt_skillforos,Jt Skill Foros
-jt_skillforos_entitytype,Jt Skill Foros Entity Type
-jt_skillforosname,Jt Skill Foros Name
-jt_socialsecurity,Jt Social Security
-jt_sourcecode,Jt Source Code
-jt_sprintid,Jt Sprint ID
-jt_sprintid_entitytype,Jt Sprint ID Entity Type
-jt_sprintidname,Jt Sprint ID Name
-jt_startdate,Jt Start Date
-jt_state,Jt State
-jt_state_id,Jt State ID
-jt_state_id_entitytype,Jt State ID Entity Type
-jt_state_idname,Jt State ID Name
-jt_stateid,Jt State ID
-jt_statenameid,Jt State Name ID
-jt_statenameid_entitytype,Jt State Name ID Entity Type
-jt_statenameidname,Jt State Name ID Name
-jt_statestateidregisteredincomplete,Jt Statestate ID Register Edin Complete
-jt_status,Jt Status
-jt_statusreason,Jt Status Reason
-jt_stepordernumber,Jt Step Order Number
-jt_steptype,Jt Steptype
-jt_street1,Jt Street 1
-jt_street2,Jt Street 2
-jt_street3,Jt Street 3
-jt_submitcreditappforapproval,Jt Submit Credit Appfor Approval
-jt_submitpcaforapproval,Jt Submit Pcafor Approval
-jt_submitteddate,Jt Submit Teddate
-jt_subscriptioncreated,Jt Subscription Create D
-jt_subscriptionid,Jt Subscription ID
-jt_subscriptionid_entitytype,Jt Subscription ID Entity Type
-jt_subscriptionidname,Jt Subscription ID Name
-jt_subscriptionproductsadded,Jt Subscription Products Added
-jt_subscriptionquantity,Jt Subscription Quantity
-jt_subscriptionsequence,Jt Subscription Sequence
-jt_subscriptiontype,Jt Subscription Type
-jt_substartdate,Jt Sub Start Date
-jt_subtotal,Jt Subtotal
-jt_subtotal_base,Jt Subtotal Base
-jt_suffixlist,Jt Suffixlist
-jt_textpreference,Jt Textpreference
-jt_tfn,Jt Tfn
-jt_tollfreenumber,Jttollfree Number
-jt_tollfreenumberid,Jttollfree Number ID
-jt_totalcost,Jttotal Cost
-jt_totalcost_base,Jttotal Cost Base
-jt_trackingnourl,Jt Tracking No URL
-jt_trackingnumber,Jt Tracking Number
-jt_type,Jt Type
-jt_typeoflocation,Jt Typeof Location
-jt_uom,Jt UOM
-jt_uom_entitytype,Jt UOM Entity Type
-jt_uomname,Jt UOM Name
-jt_upc,Jt Upc
-jt_updacctcontactshipto,Jt Updacct Contact Ship TO
-jt_upgradefirstrun,Jt Up Gradefirst Run
-jt_upgradeproduct,Jt Up Gradeproduct
-jt_upgradeproduct_entitytype,Jt Up Gradeproduct Entity Type
-jt_upgradeproductname,Jt Up Gradeproduct Name
-jt_volumediscount,Jt Volume Discount
-jt_volumediscount_base,Jt Volume Discount Base
-jt_website,Jt Web Site
-jt_wholesalepaymentexception,Jt Whole Sale Payment Exception
-jt_wholesaleprice,Jt Whole Sale Price
-jt_wholesaleprice_base,Jt Whole Sale Price Base
-jt_wiretransfer,Jt Wire Transfer
-jt_worktype,Jt Worktype
-jt_wspaymentexception,Jt Ws Payment Exception
-jt_year,Jt Year
-jt_zip,Jt Zip
-jt_zipcodepostalcode,Jt Zip Code Postal Code
-jt_zoller,Jt Zoller
+jt_400numberid,JT 400 Number ID
+jt_abbreviation,JT Abbreviation
+jt_account,JT Account
+jt_account_entitytype,JT Account Entity Type
+jt_account_mascustomer,JT Account Mas Customer
+jt_account_mascustomer_entitytype,JT Account Mas Customer Entity Type
+jt_account_mascustomername,JT Account Mas Customer Name
+jt_account_mascustomeryominame,JT Account Mas Customer Yomi Name
+jt_accountname,JT Account Name
+jt_accountnumber,JT Account Number
+jt_accountregistration_accountid,JT Account Registration Account ID
+jt_accountregistration_accountid_entitytype,JT Account Registration Account ID Entity Type
+jt_accountregistration_accountidname,JT Account Registration Account ID Name
+jt_accounttermsdefault,JT Account Terms Default
+jt_accountyominame,JT Account Yomi Name
+jt_activatedat,JT Activated At
+jt_activecp,JT Active Cp
+jt_activedisposition,JT Active Disposition
+jt_activedisposition_entitytype,JT Active Disposition Entity Type
+jt_activedispositionname,JT Active Disposition Name
+jt_address1city,JT Address 1 City
+jt_address1city_entitytype,JT Address 1 City Entity Type
+jt_address1cityname,JT Address 1 City Name
+jt_address1country,JT Address 1 Country
+jt_address1country_entitytype,JT Address 1 Country Entity Type
+jt_address1countryname,JT Address 1 Country Name
+jt_address1id,JT Address 1 ID
+jt_address1state,JT Address 1 State
+jt_address1state_entitytype,JT Address 1 State Entity Type
+jt_address1statename,JT Address 1 State Name
+jt_address1zip,JT Address 1 Zip
+jt_address1zip_entitytype,JT Address 1 Zip Entity Type
+jt_address1zipcode,JT Address 1 Zip Code
+jt_address1zipcode_entitytype,JT Address 1 Zip Code Entity Type
+jt_address1zipcodename,JT Address 1 Zip Code Name
+jt_address1zipname,JT Address 1 Zip Name
+jt_address2city,JT Address 2 City
+jt_address2city_entitytype,JT Address 2 City Entity Type
+jt_address2cityname,JT Address 2 City Name
+jt_address2country,JT Address 2 Country
+jt_address2country_entitytype,JT Address 2 Country Entity Type
+jt_address2countryname,JT Address 2 Country Name
+jt_address2id,JT Address 2 ID
+jt_address2state,JT Address 2 State
+jt_address2state_entitytype,JT Address 2 State Entity Type
+jt_address2statename,JT Address 2 State Name
+jt_address2zipcode,JT Address 2 Zip Code
+jt_address2zipcode_entitytype,JT Address 2 Zip Code Entity Type
+jt_address2zipcodename,JT Address 2 Zip Code Name
+jt_addressexception,JT Address Exception
+jt_addressid,JT Address ID
+jt_addressline4,JT Address Line4
+jt_addressline5,JT Address Line5
+jt_adenddate,JT Adend Date
+jt_adrequeststatusreason,JT Adre Quest Status Reason
+jt_amount,JTamount
+jt_amount_base,JTamount Base
+jt_anettransaction,JT Anettrans Action
+jt_ani,JT Ani
+jt_anrmediacostrollup,JT Anr Media Cost Rollup
+jt_anrmediacostrollup_base,JT Anr Media Cost Rollup Base
+jt_anrmediacostrollup_date,JT Anr Media Cost Rollup Date
+jt_anrmediacostrollup_state,JT Anr Media Cost Rollup State
+jt_anrsourcecode,JT Anr Source Code
+jt_anrsourcecode_entitytype,JT Anr Source Codeentity Type
+jt_anrsourcecodename,JT Anr Source Codename
+jt_applicationagreementreceived,JT Application Agreement Received
+jt_applicationtype,JT Application Type
+jt_approvalstepid,JT Approval Stepid
+jt_approvalstepstatus,JT Approval Step Status
+jt_approvaltemplate,JT Approval Template
+jt_approvaltemplate_entitytype,JT Approval Template Entity Type
+jt_approvaltemplatechosen,JT Approval Template Chosen
+jt_approvaltemplatechosen_entitytype,JT Approval Template Chosen Entity Type
+jt_approvaltemplatechosenname,JT Approval Template Chosen Name
+jt_approvaltemplateid,JT Approval Template ID
+jt_approvaltemplatename,JT Approval Template Name
+jt_approvaltemplatestepid,JT Approval Template Step ID
+jt_approvedshiptocountry,JT Approvedshipto Country
+jt_areasintendedtodistribute,JT Areas Intendedto Distribute
+jt_assignedto,JT Assigned To
+jt_assignedto_entitytype,JT Assigned To Entity Type
+jt_assignedtoname,JT Assigned To Name
+jt_assignedtoteam,JT Assigned To Team
+jt_assignedtoteam_entitytype,JT Assigned To Team Entity Type
+jt_assignedtoteamname,JT Assigned To Team Name
+jt_assignedtoteamyominame,JT Assigned To Team Yomi Name
+jt_assignedtoyominame,JT Assigned To Yomi Name
+jt_attire,JT Attire
+jt_backordersallowed,JT Back Orders Allowed
+jt_balance,JT Balance
+jt_balance_base,JT Balance Base
+jt_billaddrcity,JT Bill Addrcity
+jt_billaddrcitylookup,JT Bill Addrcitylookup
+jt_billaddrcitylookup_entitytype,JT Bill Addrcitylookup Entity Type
+jt_billaddrcitylookupname,JT Bill Addrcitylookup Name
+jt_billaddrcountry,JT Bill Addr Country
+jt_billaddrcountrycode,JT Bill Addr Country Code
+jt_billaddrcountrylookup,JT Bill Addr Country Lookup
+jt_billaddrcountrylookup_entitytype,JT Bill Addr Country Lookup Entity Type
+jt_billaddrcountrylookupname,JT Bill Addr Country Lookup Name
+jt_billaddrid,JT Bill Addr ID
+jt_billaddrline1,JT Bill Addrline 1
+jt_billaddrline2,JT Bill Addrline 2
+jt_billaddrline3,JT Bill Addrline 3
+jt_billaddrname,JT Bill Addr Name
+jt_billaddrpostalcode,JT Bill Addr Postal Code
+jt_billaddrstate,JT Bill Addr State
+jt_billaddrstateid,JT Bill Addr State ID
+jt_billaddrstatelookup,JT Bill Addr State Lookup
+jt_billaddrstatelookup_entitytype,JT Bill Addr State Lookup Entity Type
+jt_billaddrstatelookupname,JT Bill Addr State Lookup Name
+jt_billaddrziplookup,JT Bill Addr Zip Lookup
+jt_billaddrziplookup_entitytype,JT Bill Addr Zip Lookup Entity Type
+jt_billaddrziplookupname,JT Bill Addr Zip Lookup Name
+jt_billingaddress,JT Billing Address
+jt_billingaddress_entitytype,JT Billing Address Entity Type
+jt_billingaddressname,JT Billing Address Name
+jt_billingaddressyominame,JT Billing Address Yomi Name
+jt_billingcontact,JT Billing Contact
+jt_billingstreetaddress,JT Billing Street Address
+jt_billtocontact,JT Billto Contact
+jt_billtocontact_entitytype,JT Billto Contact Entity Type
+jt_billtocontactname,JT Billto Contact Name
+jt_billtocontactyominame,JT Billto Contact Yomi Name
+jt_bodylab,JT Body Lab
+jt_boothnumber,JT Booth Number
+jt_bpobusinessunitnumber,JT Bpo Business Unit Number
+jt_bposkillid,JT Bpo Skill ID
+jt_bposkillid_entitytype,JT Bpo Skill ID Entity Type
+jt_bposkillidname,JT Bpo Skill ID Name
+jt_bpovendor,JT Bpo Vendor
+jt_brandmanagerreview,JT Brand Manager Review
+jt_bremenn,JT Bremenn
+jt_businesscategory,JT Business Category
+jt_campaign,JT Campaign
+jt_campaign_entitytype,JT Campaign Entity Type
+jt_campaign_systemuserid,JT Campaign System User ID
+jt_campaignname,JT Campaign Name
+jt_cansell,JT Can Sell
+jt_carrier,JT Carrier
+jt_carrierprovider,JT Carrier Provider
+jt_ccauthorization,JTcc Authorization
+jt_ccautorization,JTcc Autorization
+jt_chargeback,JT Charge Back
+jt_chargebackexception,JT Charge Back Exception
+jt_chargebackstage,JT Charge Back Stage
+jt_chargebacktype,JT Charge Back Type
+jt_children,JT Children
+jt_childreturnorderurlmostrecent,JT Child Return Order URL Most Recent
+jt_city,JT City
+jt_codinghourscapacity,JT Coding Hours Capacity
+jt_codinghoursremaining,JT Coding Hours Remaining
+jt_codinghoursused,JT Coding Hoursused
+jt_codinghoursused_date,JT Coding Hoursused Date
+jt_codinghoursused_state,JT Coding Hoursused State
+jt_companycode,JT Company Code
+jt_companyid,JT Company ID
+jt_conciergecontact,JT Concierge Contact
+jt_contact,JT Contact
+jt_contact_entitytype,JT Contact Entity Type
+jt_contactid,JT Contact ID
+jt_contactid_entitytype,JT Contact ID Entity Type
+jt_contactidname,JT Contact ID Name
+jt_contactidyominame,JT Contact ID Yomi Name
+jt_contactname,JT Contact Name
+jt_contactyominame,JT Contact Yomi Name
+jt_contestmentdue,JT Contestment Due
+jt_coop,JT Coop
+jt_coop_base,JT Coop Base
+jt_copybilltoship,JT Copy Billto Ship
+jt_copyhourscapacity,JT Copy Hours Capacity
+jt_copyhoursremaining,JT Copy Hours Remaining
+jt_copyhoursused,JT Copy Hoursused
+jt_copyhoursused_date,JT Copy Hoursused Date
+jt_copyhoursused_state,JT Copy Hoursused State
+jt_costofgoodssold,JT Cost Of Goods Sold
+jt_costofgoodssold_base,JT Cost Of Goods Sold Base
+jt_country,JT Country
+jt_countryid,JT Country ID
+jt_countryid_entitytype,JT Country ID Entity Type
+jt_countryidname,JT Country ID Name
+jt_createregen,JT Create Regen
+jt_creditapplicationsignerssn,JT Credit Application Signer Ssn
+jt_creditappsignaturecontact,JT Credit App Sig Nature Contact
+jt_creditappsignaturecontact_entitytype,JT Credit App Sig Nature Contact Entity Type
+jt_creditappsignaturecontactname,JT Credit App Sig Nature Contact Name
+jt_creditappsignaturecontactyominame,JT Credit App Sig Nature Contact Yomi Name
+jt_creditappsignaturedate,JT Credit App Sig Nature Date
+jt_creditcardid,JT Credit Card ID
+jt_creditcardid_entitytype,JT Credit Card ID Entity Type
+jt_creditcardidname,JT Credit Card ID Name
+jt_credithold,JT Credit Hold
+jt_creditholdexception,JT Credit Hold Exception
+jt_creditlimit,JT Credit Limit
+jt_creditlimit_base,JT Credit Limit Base
+jt_currentdatetime,JT Current Datetime
+jt_custclassid,JT Cust Class ID
+jt_customerclass,JT Customer Class
+jt_customerclassid,JT Customer Class ID
+jt_customerclassid_entitytype,JT Customer Class ID Entity Type
+jt_customerclassidname,JT Customer Class ID Name
+jt_customerclasslookup,JT Customer Class Lookup
+jt_customerclasslookup_entitytype,JT Customer Class Lookup Entity Type
+jt_customerclasslookupname,JT Customer Class Lookup Name
+jt_customerid,JT Customer ID
+jt_customerponumber,JT Customer Po Number
+jt_dateestablished,JT Date Established
+jt_dayofthemonth,JT Day Ofthe Month
+jt_dba,JT Dba
+jt_dbaname,JT Dba Name
+jt_defaultsubscriptiondays,JT Default Subscription Days
+jt_description,JT Description
+jt_designer,JT Designer
+jt_designer_entitytype,JT Designer Entity Type
+jt_designername,JT Designer Name
+jt_designhourscapacity,JT Design Hours Capacity
+jt_designhoursremaining,JT Design Hours Remaining
+jt_designhoursused,JT Design Hoursused
+jt_designhoursused_date,JT Design Hoursused Date
+jt_designhoursused_state,JT Design Hoursused State
+jt_direction,JT Direction
+jt_discount,JT Discount
+jt_discountbasedontotal,JT Discount Basedontotal
+jt_discountlist,JT Discount List
+jt_discountlist_entitytype,JT Discount List Entity Type
+jt_discountlistname,JT Discount List Name
+jt_discountpercent,JT Discount Percent
+jt_dismantledate,JT Dismantle Date
+jt_dismantlehours,JT Dismantle Hours
+jt_disposition,JT Disposition
+jt_disposition_entitytype,JT Disposition Entity Type
+jt_dispositionname,JT Disposition Name
+jt_dnis,JT Dnis
+jt_donotallowtext,JT Do Not Allow Text
+jt_dontfiresubscription,JT Dont Fire Subscription
+jt_email,JT Email
+jt_enddate,JT End Date
+jt_entityengagedas,JT Entity Engaged As
+jt_epaymentapproved,JT E Payment Approved
+jt_event,JT Event
+jt_eventcodemas,JT Event Codemas
+jt_ewallet,JT Ewallet
+jt_ewallet_entitytype,JT Ewallet Entity Type
+jt_ewalletname,JT Ewallet Name
+jt_exception_reason,JT Exception Reason
+jt_exceptionreason,JT Exception Reason
+jt_expectedshipdate,JT Expected Shipdate
+jt_expensecostrollup,JT Expense Cost Rollup
+jt_expensecostrollup_base,JT Expense Cost Rollup Base
+jt_expensecostrollup_date,JT Expense Cost Rollup Date
+jt_expensecostrollup_state,JT Expense Cost Rollup State
+jt_expiredate,JT Expire Date
+jt_fasttrackthisjob,JT Fast Track This Job
+jt_federalid,JT Federal ID
+jt_firstorderdate,JT First Order Date
+jt_firstordermanual,JT First Order Manual
+jt_fob,JT Fob
+jt_formulanumber,JT Formula Number
+jt_freefrompca,JT Free Frompca
+jt_giftid,JT Giftid
+jt_goal,JT Goal
+jt_hcategory,JT H Category
+jt_hidecreateorder,JT Hide Create Order
+jt_hobby,JT Hobby
+jt_hourscomplete,JT Hours Complete
+jt_hourscomplete_date,JT Hours Complete Date
+jt_hourscomplete_state,JT Hours Complete State
+jt_hoursofwork,JT Hours Of Work
+jt_hoursofworkalljobs,JT Hours Of Work All Jobs
+jt_hoursofworkalljobs_date,JT Hours Of Work All Jobs Date
+jt_hoursofworkalljobs_state,JT Hours Of Work All Jobs State
+jt_householdmember,JT House Hold Member
+jt_householdmember_entitytype,JT House Hold Member Entity Type
+jt_householdmemberid,JT House Hold Member ID
+jt_householdmemberid_entitytype,JT House Hold Member ID Entity Type
+jt_householdmemberidname,JT House Hold Member ID Name
+jt_householdmembername,JT House Hold Member Name
+jt_householdmemberyominame,JT House Hold Member Yomi Name
+jt_htmlorderproductstable,JT Html Order Products Table
+jt_id,JT ID
+jt_incorporationstatecountry,JT Incorporation State Country
+jt_insamountrequired,JT Ins Amount Required
+jt_insamountrequired_base,JT Ins Amount Required Base
+jt_installdate,JT Install Date
+jt_installhours,JT Install Hours
+jt_insurancedescription,JT Insurance Description
+jt_insurancerequiredyn,JT Insurance Require Dyn
+jt_internationalholdexception,JT International Hold Exception
+jt_inventorytype,JT Inventory Type
+jt_inventorytypedesc,JT Inventory Typedesc
+jt_isapproved,JT Is Approved
+jt_isapromoevent,JT Is a promo Event
+jt_isbacklog,JT Is backlog
+jt_isexclusive,JT Is Exclusive
+jt_isprojectleveljob,JT Is Project Level Job
+jt_issubscription,JT Is Subscription
+jt_itemclassid,JT Item Class ID
+jt_itemclassname,JT Item Class Name
+jt_itemtype,JT Item Type
+jt_itemtypename,JT Item Type Name
+jt_itemuse,JT Itemuse
+jt_jobacceptedon,JT Job Accept Edon
+jt_jobcategory,JT Job Category
+jt_jobid,JT Jobid
+jt_jobnumber,JT Job Number
+jt_joborder,JT Job Order
+jt_jobstatus,JT Job Status
+jt_jobtobeapproved,JT Jobtobeapproved
+jt_jobtobeapproved_entitytype,JT Jobtobeapproved Entity Type
+jt_jobtobeapprovedname,JT Jobtobeapproved Name
+jt_jobtype,JT Jobtype
+jt_jt_job_productid,JT JT Job Product ID
+jt_jt_tollfreenumber_productid,JT JTtollfree Number Product ID
+jt_key,JT Key
+jt_lastapprovalstepowner,JT Last Approval Step Owner
+jt_lastapprovalstepowner_entitytype,JT Last Approval Step Owner Entity Type
+jt_lastapprovalstepownername,JT Last Approval Step Owner Name
+jt_lastapprovalstepowneryominame,JT Last Approval Step Owner Yomi Name
+jt_lastordereddate,JT Last Order Eddate
+jt_lastrunon,JT Last Run On Date
+jt_lastyearsales,JT Last Year Sales
+jt_lastyearsales_base,JT Last Year Sales Base
+jt_lead,JT Lead
+jt_lead_entitytype,JT Lead Entity Type
+jt_leadname,JT Lead Name
+jt_leadsource,JT Lead Source
+jt_leadsourceglobal,JT Lead Source Global
+jt_leadyominame,JT Lead Yomi Name
+jt_location,JT Location
+jt_magreturncomplete,JT Mag Return Complete
+jt_magsubscriptionid,JT Mag Subscription ID
+jt_mainfax,JT Mainfax
+jt_mainphone,JT Main Phone
+jt_manadclick,JT Manad Click
+jt_manualaddress,JT Manual Address
+jt_marketingemailpreference,JT Marketing Emailpreference
+jt_mastercontactid,JT Master Contact ID
+jt_mediaorderitem,JT Media Order Item
+jt_mediaorderitem_entitytype,JT Media Order Item Entity Type
+jt_mediaorderitemcostrollup,JT Media Order Item Cost Rollup
+jt_mediaorderitemcostrollup_base,JT Media Order Item Cost Rollup Base
+jt_mediaorderitemcostrollup_date,JT Media Order Item Cost Rollup Date
+jt_mediaorderitemcostrollup_state,JT Media Order Item Cost Rollup State
+jt_mediaorderitemname,JT Media Order Item Name
+jt_mporderid,JT Mp Order ID
+jt_name,JT Name
+jt_needby,JT Need By
+jt_needbydate,JT Need By Date
+jt_newpca,JT Newpca
+jt_nextrunon,JT Next Run On Date
+jt_nextsequence,JT Next Sequence
+jt_nodusauthcode,JT Nodusauth Code
+jt_nooflocations,JT Noof Location S
+jt_notificationmessage,JT Notification Message
+jt_novex,JT Novex
+jt_numberofdays,JT Number Ofdays
+jt_numberofemployees,JT Number Of Employees
+jt_numberofsteps,JT Number Ofsteps
+jt_numberofsteps_date,JT Number Ofsteps Date
+jt_numberofsteps_state,JT Number Ofsteps State
+jt_offsetsubdays,JT Offsetsubdays
+jt_order,JT Order
+jt_order_entitytype,JT Order Entity Type
+jt_ordercategory,JT Order Category
+jt_ordername,JT Order Name
+jt_ordersessionid,JT Order Session ID
+jt_ordersourcetype,JT Order Source Type
+jt_originalsuborder,JT Origin Alsub Order
+jt_originatingorder,JT Originating Order
+jt_originatingorder_entitytype,JT Originating Order Entity Type
+jt_originatingorderdetail,JT Originating Order Detail
+jt_originatingorderdetail_entitytype,JT Originating Order Detail Entity Type
+jt_originatingorderdetailname,JT Originating Order Detail Name
+jt_originatingordername,JT Originating Order Name
+jt_originatingquote,JT Originating Quote
+jt_originatingquote_entitytype,JT Originating Quote Entity Type
+jt_originatingquotename,JT Originating Quote Name
+jt_originatingquoteproduct,JT Originating Quote Product
+jt_originatingsubscription,JT Originating Subscription
+jt_originatingsubscription_entitytype,JT Originating Subscription Entity Type
+jt_originatingsubscriptionname,JT Originating Subscription Name
+jt_overcreditlimitexception,JT Over Credit Limit Exception
+jt_ownerhshiptype,JT Owner Hshiptype
+jt_ownershiptype,JT Owner Shiptype
+jt_parentcampaign,JT Parent Campaign
+jt_parentcampaign_entitytype,JT Parent Campaign Entity Type
+jt_parentcampaignname,JT Parent Campaign Name
+jt_parentjobid,JT Parent Jobid
+jt_parentjobid_entitytype,JT Parent Jobid Entity Type
+jt_parentjobidname,JT Parent Jobid Name
+jt_parentorderid,JT Parent Order ID
+jt_parentorderid_entitytype,JT Parent Order ID Entity Type
+jt_parentorderidname,JT Parent Order ID Name
+jt_paymentamount,JT Paymentamount
+jt_paymentamount_base,JT Paymentamount Base
+jt_paymentdeclinedexception,JT Payment Declined Exception
+jt_paymentmethod,JT Payment Method
+jt_paymentmethodmismatchexception,JT Payment Method Mis Match Exception
+jt_paymentterms,JT Payment Terms
+jt_paymenttermsrequested,JT Payment Terms Request Ed
+jt_pca,JT Pca
+jt_pca_base,JT Pca Base
+jt_pca_date,JT Pca Date
+jt_pca_state,JT Pca State
+jt_pcadiscount,JT Pca Discount
+jt_pcadiscount_base,JT Pca Discount Base
+jt_pcaforpromo,JT Pcaforpromo
+jt_pcaforpromo_entitytype,JT Pcaforpromo Entity Type
+jt_pcaforpromoname,JT Pcaforpromo Name
+jt_pcaid,JT Pcaid
+jt_pcaid_entitytype,JT Pcaid Entity Type
+jt_pcaidname,JT Pcaid Name
+jt_percentcomplete,JT Percent Complete
+jt_period,JT Period
+jt_phonepreference,JT Phone Preference
+jt_poboxexception,JT Pobox Exception
+jt_ponumber,JT Po Number
+jt_porequired,JT Po Required
+jt_postofficeboxexception,JT Post Office Box Exception
+jt_preferredagent,JT Prefer Red Agent
+jt_preferredagent_entitytype,JT Prefer Red Agent Entity Type
+jt_preferredagentname,JT Prefer Red Agent Name
+jt_preferredagentyominame,JT Prefer Red Agent Yomi Name
+jt_presentationdate,JT Present Ationdate
+jt_priceperunit,JT Price Per Unit
+jt_priceperunit_base,JT Price Per Unit Base
+jt_primarycontact,JT Primary Contact
+jt_primarycontact_entitytype,JT Primary Contact Entity Type
+jt_primarycontactname,JT Primary Contact Name
+jt_primarycontactyominame,JT Primary Contact Yomi Name
+jt_priority,JT Priority
+jt_product,JT Product
+jt_product_entitytype,JT Product Entity Type
+jt_productfamilyextended,JT Product Family Extend Ed
+jt_productid,JT Product ID
+jt_productid_entitytype,JT Product ID Entity Type
+jt_productidname,JT Product ID Name
+jt_productname,JT Product Name
+jt_productssoldonweb,JT Product Ssoldon Web
+jt_progressnotes,JT Progress Notes
+jt_projectjobtemplateid,JT Project Jobtemplate ID
+jt_projectstatus,JT Project Status
+jt_projecttemplateid,JT Project Template ID
+jt_projecttemplateid_entitytype,JT Project Template ID Entity Type
+jt_projecttemplateidname,JT Project Template ID Name
+jt_promiseddate,JT Promise Ddate
+jt_prospectpresentneeded,JT Prospect Present Needed
+jt_purchaseorderemail,JT Purchase Order Email
+jt_q_howlongshouldthescriptread,JT Q Howlong Should The Script Read
+jt_q_howmanyproductspertray,JT Q Howmany Product Spertray
+jt_q_howmanytraysperpallet,JT Q Howmanytraysperpallet
+jt_q_isthisarevision,JT Q Isthisare Vision
+jt_q_pricestobelisted,JT Q Price Stobelisted
+jt_q_whatarethedielines,JT Q Whatarethedielines
+jt_q_whatfurniturewillbepresentinbooth,JT Q What Furniture Willbe Present In Booth
+jt_q_whatinformationshouldthiscontain,JT Q What Information Should This Contain
+jt_q_whatisaretheupcs,JT Q Whatisaretheupcs
+jt_q_whatisthesizeofthebooth,JT Q Whatisthesizeofthe Booth
+jt_q_whatisthesubjectoftheemail,JT Q Whatisthe Subject Ofthe Email
+jt_q_whichemail,JT Q Which Email
+jt_q_whichmagazine,JT Q Which Magazine
+jt_q_whichsocialplatform,JT Q Which Social Plat Form
+jt_q_willtheproductbeinablisterorbox,JT Q Willthe Product Beinablisterorbox
+jt_q_willthisfeatureanewcartoruseanexisting,JT Q Willthis Feature Anewcartorusean Existing
+jt_q_willthisneedauniquephonenumber,JT Q Willthisneeda Unique Phone Number
+jt_quantity,JT Quantity
+jt_questionassettype,JT Question Asset Type
+jt_questionbrandsincluded,JT Question Brands Included
+jt_questionbrnum,JT Questionbrnum
+jt_questioncalltoaction,JT Questioncallto Action
+jt_questionemotion,JT Questione Motion
+jt_questioningredients,JT Question Ingredient S
+jt_questionjobgoal,JT Questionjobgoal
+jt_questionjobrequirements,JT Questionjob Requirements
+jt_questionmessage,JT Question Message
+jt_questionpartnumber,JT Questionpart Number
+jt_questionpreviousbr,JT Question Previous Br
+jt_questionpromotion,JT Questionpro Motion
+jt_questionreqchange,JT Questionreq Change
+jt_questionsdesignissues,JT Questions Design Issue S
+jt_questionspecifications,JT Question Specific Ations
+jt_questiontargetaudience,JT Question Target Audience
+jt_questionurl,JT Question URL
+jt_questionwordlimit,JT Questionword Limit
+jt_regenbuilt,JT Regenbuilt
+jt_regenchargeamount,JT Regen Chargeamount
+jt_regenchargeamount_base,JT Regen Chargeamount Base
+jt_releaseformreceived,JT Release Form Received
+jt_reportingcreatedon,JT Reporting Created On Date
+jt_requestinitiated,JT Request Initiate D
+jt_resettax,JT Resettax
+jt_resolutionreason,JT Re Solution Reason
+jt_resolutionreasondisposition,JT Re Solution Reason Disposition
+jt_resolutionreasondisposition_entitytype,JT Re Solution Reason Disposition Entity Type
+jt_resolutionreasondispositionname,JT Re Solution Reason Disposition Name
+jt_restartrejectedjob,JT Re Start Reject Edjob
+jt_returnordernumber,JT Return Order Number
+jt_reviewhourscapacity,JT Review Hours Capacity
+jt_reviewhoursremaining,JT Review Hours Remaining
+jt_reviewhoursused,JT Review Hoursused
+jt_reviewhoursused_date,JT Review Hoursused Date
+jt_reviewhoursused_state,JT Review Hoursused State
+jt_runas,JT Runas
+jt_runondate,JT Runondate
+jt_sagepostdate,JT Sagepostdate
+jt_salesperiod,JT Sales Period
+jt_salesperiod_entitytype,JT Sales Period Entity Type
+jt_salesperiodcreated,JT Sales Period Create D
+jt_salesperiodcreated_entitytype,JT Sales Period Created Entity Type
+jt_salesperiodcreatedname,JT Sales Period Created Name
+jt_salesperiodid,JT Sales Period ID
+jt_salesperiodname,JT Sales Period Name
+jt_salesprodlineid,JT Sales Prodlineid
+jt_salestax,JT Sales Tax
+jt_salestax_base,JT Sales Tax Base
+jt_saletype,JT Saletype
+jt_schedulechildjobs,JT Schedule Child Jobs
+jt_sendregenorderconfirmation,JT Sendregen Order Confirm Ation
+jt_serovital,JT Sero Vital
+jt_sessionidmas,JT Session IDmas
+jt_shelflife,JT Shelf Life
+jt_shipaddrcity,JT Shipaddrcity
+jt_shipaddrcitylookup,JT Shipaddrcitylookup
+jt_shipaddrcitylookup_entitytype,JT Shipaddrcitylookup Entity Type
+jt_shipaddrcitylookupname,JT Shipaddrcitylookup Name
+jt_shipaddrcountry,JT Shipaddr Country
+jt_shipaddrcountrycode,JT Shipaddr Country Code
+jt_shipaddrcountrylookup,JT Shipaddr Country Lookup
+jt_shipaddrcountrylookup_entitytype,JT Shipaddr Country Lookup Entity Type
+jt_shipaddrcountrylookupname,JT Shipaddr Country Lookup Name
+jt_shipaddrid,JT Shipaddr ID
+jt_shipaddrline1,JT Shipaddrline 1
+jt_shipaddrline2,JT Shipaddrline 2
+jt_shipaddrline3,JT Shipaddrline 3
+jt_shipaddrline4,JT Shipaddrline4
+jt_shipaddrline5,JT Shipaddrline5
+jt_shipaddrname,JT Shipaddr Name
+jt_shipaddrpostalcode,JT Shipaddr Postal Code
+jt_shipaddrstate,JT Shipaddr State
+jt_shipaddrstateid,JT Shipaddr State ID
+jt_shipaddrstatelookup,JT Shipaddr State Lookup
+jt_shipaddrstatelookup_entitytype,JT Shipaddr State Lookup Entity Type
+jt_shipaddrstatelookupname,JT Shipaddr State Lookup Name
+jt_shipaddrziplookup,JT Shipaddr Zip Lookup
+jt_shipaddrziplookup_entitytype,JT Shipaddr Zip Lookup Entity Type
+jt_shipaddrziplookupname,JT Shipaddr Zip Lookup Name
+jt_shipdays,JT Shipdays
+jt_shipmethodid,JT Ship Method ID
+jt_shipnolaterdate,JT Shipno Later Date
+jt_shippingaddress,JT Shippingaddress
+jt_shippingaddress_entitytype,JT Shippingaddress Entity Type
+jt_shippingaddressname,JT Shippingaddress Name
+jt_shippingaddressyominame,JT Shippingaddress Yomi Name
+jt_shippingcharge,JT Shipping Charge
+jt_shippingcharge_base,JT Shipping Charge Base
+jt_shippingcost,JT Shippingcost
+jt_shippingcost_base,JT Shippingcost Base
+jt_shippingexception,JT Shipping Exception
+jt_shippingmethod,JT Shipping Method
+jt_shippingmethodcode,JT Shipping Method Code
+jt_shippingmethodvalue,JT Shipping Method Value
+jt_shippingstatus,JT Shipping Status
+jt_shippingstreetaddress,JT Shipping Street Address
+jt_shipstatus,JT Ship Status
+jt_shiptopobox,JT Ship TOpobox
+jt_showenddate,JT Showend Date
+jt_showhours,JT Showhours
+jt_showstartdate,JT Show Start Date
+jt_signature,JT Sig Nature
+jt_sizeofaccount,JT Sizeof Account
+jt_skillforbpo,JT Skill Forbpo
+jt_skillforbpo_entitytype,JT Skill Forbpo Entity Type
+jt_skillforbponame,JT Skill Forbpo Name
+jt_skillforos,JT Skill Foros
+jt_skillforos_entitytype,JT Skill Foros Entity Type
+jt_skillforosname,JT Skill Foros Name
+jt_socialsecurity,JT Social Security
+jt_sourcecode,JT Source Code
+jt_sprintid,JT Sprint ID
+jt_sprintid_entitytype,JT Sprint ID Entity Type
+jt_sprintidname,JT Sprint ID Name
+jt_startdate,JT Start Date
+jt_state,JT State
+jt_state_id,JT State ID
+jt_state_id_entitytype,JT State ID Entity Type
+jt_state_idname,JT State ID Name
+jt_stateid,JT State ID
+jt_statenameid,JT State Name ID
+jt_statenameid_entitytype,JT State Name ID Entity Type
+jt_statenameidname,JT State Name ID Name
+jt_statestateidregisteredincomplete,JT Statestate ID Register Edin Complete
+jt_status,JT Status
+jt_statusreason,JT Status Reason
+jt_stepordernumber,JT Step Order Number
+jt_steptype,JT Steptype
+jt_street1,JT Street 1
+jt_street2,JT Street 2
+jt_street3,JT Street 3
+jt_submitcreditappforapproval,JT Submit Credit Appfor Approval
+jt_submitpcaforapproval,JT Submit Pcafor Approval
+jt_submitteddate,JT Submit Teddate
+jt_subscriptioncreated,JT Subscription Create D
+jt_subscriptionid,JT Subscription ID
+jt_subscriptionid_entitytype,JT Subscription ID Entity Type
+jt_subscriptionidname,JT Subscription ID Name
+jt_subscriptionproductsadded,JT Subscription Products Added
+jt_subscriptionquantity,JT Subscription Quantity
+jt_subscriptionsequence,JT Subscription Sequence
+jt_subscriptiontype,JT Subscription Type
+jt_substartdate,JT Sub Start Date
+jt_subtotal,JT Subtotal
+jt_subtotal_base,JT Subtotal Base
+jt_suffixlist,JT Suffixlist
+jt_textpreference,JT Textpreference
+jt_tfn,JT Tfn
+jt_tollfreenumber,JTtollfree Number
+jt_tollfreenumberid,JTtollfree Number ID
+jt_totalcost,JTtotal Cost
+jt_totalcost_base,JTtotal Cost Base
+jt_trackingnourl,JT Tracking No URL
+jt_trackingnumber,JT Tracking Number
+jt_type,JT Type
+jt_typeoflocation,JT Typeof Location
+jt_uom,JT UOM
+jt_uom_entitytype,JT UOM Entity Type
+jt_uomname,JT UOM Name
+jt_upc,JT Upc
+jt_updacctcontactshipto,JT Updacct Contact Ship TO
+jt_upgradefirstrun,JT Up Gradefirst Run
+jt_upgradeproduct,JT Up Gradeproduct
+jt_upgradeproduct_entitytype,JT Up Gradeproduct Entity Type
+jt_upgradeproductname,JT Up Gradeproduct Name
+jt_volumediscount,JT Volume Discount
+jt_volumediscount_base,JT Volume Discount Base
+jt_website,JT Web Site
+jt_wholesalepaymentexception,JT Whole Sale Payment Exception
+jt_wholesaleprice,JT Whole Sale Price
+jt_wholesaleprice_base,JT Whole Sale Price Base
+jt_wiretransfer,JT Wire Transfer
+jt_worktype,JT Worktype
+jt_wspaymentexception,JT Ws Payment Exception
+jt_year,JT Year
+jt_zip,JT Zip
+jt_zipcodepostalcode,JT Zip Code Postal Code
+jt_zoller,JT Zoller
 kaprefix,KA Prefix
 kbaccesslevel,KB Access Level
 kbarticleid,KB Article ID
@@ -2290,7 +2290,7 @@ leadproductid,Lead Product ID
 leadqualitycode,Lead Quality Code
 leadsourcecode,Lead Source Code
 LeadSourceGlobal,Lead Source Global
-LeadSourceGlobalJT,Lead Source Global Jt
+LeadSourceGlobalJT,Lead Source Global JT
 leftvoicemail,Left Voice Mail
 line1,Line 1
 line2,Line 2
@@ -2721,7 +2721,7 @@ patternenddate,Pattern End Date
 patternendtype,Pattern Endtype
 patternstartdate,Pattern Start Date
 paymentmethodcode,Payment Method Code
-PaymentMethodJT,Payment Method Jt
+PaymentMethodJT,Payment Method JT
 PaymentTerms,Payment Terms
 paymenttermscode,Payment Terms Code
 percentage,Percentage
@@ -3118,7 +3118,7 @@ salesrepidname,Sales Rep ID Name
 salesrepidyominame,Sales Rep ID Yomi Name
 salesstage,Sales Stage
 salesstagecode,Sales Stage Code
-SaleTypeJT,Sale Type Jt
+SaleTypeJT,Sale Type JT
 salutation,Salutation
 samesite,Same Site
 sampledataimportid,Sample Data Import ID
@@ -3430,7 +3430,7 @@ triggeronupdateattributelist,Trigger On Update Attribute List
 tsid,TS ID
 type,Type
 typecode,Type Code
-TypeOfLocationJT,Type Of Location Jt
+TypeOfLocationJT,Type Of Location JT
 uidata,Ui Data
 uilanguageid,Ui Language ID
 undeliverablefolder,Undeliverable Folder
@@ -3635,5 +3635,59 @@ msdyn_project,Project
 msdyn_projectTask,Project Task
 msdyn_msdyn_timeentry_msdyn_projectapproval_TimeEntry,Time Entry Project Approval Time Entry
 msdyn_msdyn_timeentry_msdyn_timeoffcalendar_timeEntry,Time Entry Time Off Calendar Time Entry
-msdyn_ResourceOrganizationalUnitId,Resource Organizational Unit ID
 msdyn_manager,Manager
+jma_submittedon,Submitted On JT
+jt_durationhours,Duration Hours JT
+jt_sow,SOW JT
+jt_taskscomplete,Tasks Complete JT
+msdyn_progress,Progress
+msdyn_actualsales,Actual Sales
+jt_contractedhours,Contracted Hours JT
+msdyn_istemplate,Is Template
+msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To Re
+_jt_projectlead_value,Project Lead Value JT
+msdyn_actualstart,Actual Start Date
+msdyn_costperformence,Cost Performence
+msdyn_actuallaborcost_base,Actual Labor Cost Base
+msdyn_comments,Comments
+jt_erpteam,ERP Team JT
+jt_projecttier,Project Tier JT
+msdyn_costconsumption,Cost Consumption
+msdyn_salesconsumption,Sales Consumption
+_stageid_value,Stage ID
+jt_cycleplanning,Cycle Planning JT
+_msdyn_salesorderid_value,Sales Order ID
+jt_cldteam,Cloud Team JT
+jt_totaltimeentriesminutes,Total Time Entries Minutes JT
+jt_numberofissues,Number Of Issues JT
+msdyn_totalactualcost_base,Total Actual Cost Base
+jt_internalproject,Internal Project JT
+msdyn_scheduleperformance,Schedule Performance
+jt_clientsatisfaction,Client Satisfaction JT
+msdyn_actuallaborcost,Actual Labor Cost
+jt_totaltimeentries,Total Time Entries JT
+jt_psrsummary,Project Status Report Summary JT
+jt_newtasktype,New Task Type JT
+msdyn_schedulevariance,Schedule Variance
+jt_tasksoutstanding,Tasks Outstanding JT
+jt_targetgolive,Target Go Live JT
+jt_numberofrisks,Number Of Risks JT
+msdyn_statusupdatedon,Status Updated On Date
+jt_ismodule,Is Module JT
+jt_hoursspent,Hours Spent JT
+jt_newrequirementtype,New Requirement Type JT
+jt_sptteam,SharePoint Team JT
+jt_budgetspent,Budget Spent JT
+_msdyn_projecttemplate_value,Project Template ID
+jt_actualhours,Actual Hours JT
+jt_generalservices,General Services JT
+msdyn_costvariance_base,Cost Variance Base
+msdyn_actualhours,Actual Hours
+jt_crmteam,CRM Team JT
+msdyn_costvariance,Cost Variance
+msdyn_totalactualcost,Total Actual Cost
+msdyn_actualend,Actual End
+msdyn_actualsales_base,Actual Sales Base
+msdyn_overallprojectstatus,Overall Project Status
+jt_lasttimeentry,Last Time Entry JT
+jt_countoftasks,Count Of Tasks JT
