@@ -49,7 +49,7 @@ actualcost_base,Actual Cost Base
 actualdecimal,Actual Decimal
 actualdeliveryon,Actual Delivery On Date
 actualdurationminutes,Actual Duration Minutes
-actualend,Actual End
+actualend,Actual End Date
 actualinteger,Actual Integer
 actualmoney,Actual Money
 actualmoney_base,Actual Money Base
@@ -171,8 +171,8 @@ allowmarketingemailexecution,Allow Marketing Email Execution
 allowofflinescheduledsyncs,Allow Offline Scheduled Syncs
 allowoutlookscheduledsyncs,Allow Outlook Scheduled Syncs
 allowunresolvedpartiesonemailsend,Allow Unresolved Parties On Email Send
-allowuserformmodepreference,Allow USer Form Mode Preference
-allowusersseeappdownloadmessage,Allow USers See App Download Message
+allowuserformmodepreference,Allow User Form Mode Preference
+allowusersseeappdownloadmessage,Allow Users See App Download Message
 allowwebexcelexport,Allow Web Excel Export
 amdesignator,AM Designator
 amount,Amount
@@ -814,7 +814,7 @@ cdi_updatedcontacts,CDI Updated Contacts
 cdi_updatedleads,CDI Updated Leads
 cdi_uri,Cdiuri
 cdi_url,CDI URL
-cdi_usersessionid,CDI USer Session ID
+cdi_usersessionid,CDI User Session ID
 cdi_value,CDI Value
 cdi_valuen,CDI Value N
 cdi_venuecity,CDI Venue City
@@ -1044,7 +1044,7 @@ defaultemailserverprofileid,Default Email Server Profile ID
 defaultemailserverprofileid_entitytype,Default Email Server Profile ID Entity Type
 defaultemailserverprofileidname,Default Email Server Profile ID Name
 defaultemailsettings,Default Email Settings
-defaultfilterspopulated,Default Filters Populated
+defaultfilterspopulated,Default Filters Populated Flag
 defaultmailbox,Default Mailbox
 defaultmailbox_entitytype,Default Mailbox Entity Type
 defaultmailboxname,Default Mailbox Name
@@ -1113,7 +1113,7 @@ Editor,Editor
 editortype,Editor Type
 educationcode,Education Code
 effectivedatetime,Effective Date Time
-effectiveend,Effective End
+effectiveend,Effective End Date
 effectiveenddate,Effective End Date
 effectivefrom,Effective From
 effectivestart,Effective Start
@@ -1155,7 +1155,7 @@ emailserverprofilename,Email Server Profile Name
 EmailStatus,Email Status
 emailtemplateid,Email Template ID
 emailtrackingid,Email Tracking ID
-emailusername,Email USer Name
+emailusername,Email User Name
 embeddedapp,Embedded App
 employeecontactid,Employee Contact ID
 employeecontactid_entitytype,Employee Contact ID Entity Type
@@ -1297,7 +1297,7 @@ flash,Flash
 folderhierarchy,Folder Hierarchy
 folderonboardingstatus,Folder Onboarding Status
 followemail,Follow Email
-followemailuserpreference,Follow Email USer Preference
+followemailuserpreference,Follow Email User Preference
 followupby,Follow Up By
 followuptaskcreated,Follow Up Task Created
 forcedunlockcount,Force Dunlock Count
@@ -1424,7 +1424,7 @@ interactionpartytypecode,Interaction Party Type Code
 interactionrepliedby,Interaction Replied By
 interactionreplyid,Interaction Reply ID
 interactiontype,Interaction Type
-interactionuseragent,Interaction USer Agent
+interactionuseragent,Interaction User Agent
 internalemailaddress,Internal Email Address
 interval,Interval
 introducedversion,Introduced Version
@@ -1441,15 +1441,15 @@ invoicenumber,Invoice Number
 invoiceprefix,Invoice Prefix
 invoicestatecode,Invoice State Code
 iporganizationid,IP Organization ID
-isactioncardenabled,Is Action Card Enabled
-isactionsupportfeatureenabled,Is Action Support Feature Enabled
-isactivedirectoryuser,Is Active Directory USer
-isactivityanalysisenabled,Is Activity Analysis Enabled
-isactsyncorgflagset,Is Act Sync Org Flag Set
-isairmerged,Is Air Merged
+isactioncardenabled,Action Card Enabled Flag
+isactionsupportfeatureenabled,Action Support Feature Enabled Flag
+isactivedirectoryuser,Active Directory User Flag
+isactivityanalysisenabled,Activity Analysis Enabled Flag
+isactsyncorgflagset,Act Sync Org Flag Set Flag
+isairmerged,Is Air Merged 
 isalldayevent,Is All Day Event
-isamount,Isamount
-isamounttype,Isamount Type
+isamount,Is Amount
+isamounttype,Is Amount Type
 isappmode,Is App Mode
 isappointmentattachmentsyncenabled,Is Appointment Attachment Sync Enabled
 isappsforcrmalertdismissed,Is Apps Forcrm Alert Dismissed
@@ -1476,8 +1476,8 @@ isdefaultcountrycodecheckenabled,Is Default Country Codecheck Enabled
 isdelegateaccessenabled,Is Delegate Access Enabled
 isdelveactionhubintegrationenabled,Is Delve Action Hub Integration Enabled
 isdesktopenabled,Is Desktop Enabled
-isdisabled,Is Disabled
-isdisabledwhenintegrated,Is Disabled When Integrated
+isdisabled,Is Disabled Flag
+isdisabledwhenintegrated,Is Disabled When Integrated Flag
 isdocument,Is Document
 isdraft,Is Draft
 isduplicatedetectionenabled,Is Duplicate Detection Enabled
@@ -1485,7 +1485,7 @@ isduplicatedetectionenabledforimport,Is Duplicate Detection Enabled For Import
 isduplicatedetectionenabledforofflinesync,Is Duplicate Detection Enabled For Offline Sync
 isduplicatedetectionenabledforonlinecreateupdate,Is Duplicate Detection Enabled For Online Create Update
 isduplicatedetectionenabledwhengoingonline,Is Duplicate Detection Enabled When Going Online
-isemailaddressapprovedbyo365admin,Is Email Address Approved By O365 Admin
+isemailaddressapprovedbyo365admin,Is Email Address Approved By O365 Admin Flag
 isemailfollowed,Is Email Followed
 isemailmonitoringallowed,Is Email Monitoring Allowed
 isemailreminderset,Is Email Reminder Set
@@ -1509,11 +1509,11 @@ isguidedhelpenabled,Is Guided Help Enabled
 isheroapp,Is Hero App
 ishidden,Is Hidden
 ishierarchicalsecuritymodelenabled,Is Hierarchical Security Model Enabled
-isintegrationuser,Is Integration USer
+isintegrationuser,Is Integration User
 isinternal,Is Internal
 iskit,Is Kit
 islatestversion,Is Latest Version
-islicensed,Is Licensed
+islicensed,Is Licensed Flag
 isluisenabledford365bot,Is Enabled For D365 Bot
 ismailboxforcedunlockingenabled,Is Mailbox Forced Unlocking Enabled
 ismailboxinactivebackoffenabled,Is Mailbox Inactive Backoff Enabled
@@ -1523,7 +1523,7 @@ ismaster,Is Master
 ismobileclientondemandsyncenabled,Is Mobile Client On Demand Sync Enabled
 ismobileofflineenabled,Is Mobile Offline Enabled
 ismsteamsenabled,Is Ms Teams Enabled
-ismsteamssettingchangedbyuser,Is Ms Teams Setting Changed By USer
+ismsteamssettingchangedbyuser,Is Ms Teams Setting Changed By User
 isnotesanalysisenabled,Is Notes Analysis Enabled
 isnthmonthly,Is Nth Monthly
 isnthyearly,Is Nthy Early
@@ -1559,16 +1559,16 @@ isserviceaccount,Is Service Account
 issopintegrationenabled,Is SOP Integration Enabled
 isstockitem,Is Stock Item
 isstretchtracked,Is Stretch Tracked
-issyncwithdirectory,Is Sync With Directory
+issyncwithdirectory,Is Sync With Directory Flag
 issystem,Is System
 istabletenabled,Is Tablet Enabled
-istemplate,Is Template
+istemplate,Is Template Flag
 istextwrapenabled,Is Text Wrap Enabled
 istransacted,Is Transacted
 isunsafe,Is Unsafe
-isuseraccessauditenabled,Is USer Access Audit Enabled
-isuserdefined,Is USer Defined
-IsUserLocalizedLabel,Is USer Localized Label
+isuseraccessauditenabled,Is User Access Audit Enabled
+isuserdefined,Is User Defined
+IsUserLocalizedLabel,Is User Localized Label
 isvalidated,Is Validated
 isverified,Is Verified
 isvintegrationcode,Is Vintegration Code
@@ -2163,7 +2163,7 @@ jt_sourcecode,JT Source Code
 jt_sprintid,JT Sprint ID
 jt_sprintid_entitytype,JT Sprint ID Entity Type
 jt_sprintidname,JT Sprint ID Name
-jt_startdate,JT Start Date
+jt_startdate,Start Date JT
 jt_state,JT State
 jt_state_id,JT State ID
 jt_state_id_entitytype,JT State ID Entity Type
@@ -2367,7 +2367,7 @@ messageiddupcheck,Message ID Dup Check
 messages,Messages
 messagetypecode,Message Type Code
 MetadataId,Metadata ID
-metadatasynclasttimeofneverexpireddeletedobjects,Metadata Sync Last Timeof Never Expired Deleted Objects
+metadatasynclasttimeofneverexpireddeletedobjects,Metadata Sync Last Time of Never Expired Deleted Objects
 metadatasynctimestamp,Metadata Sync Timestamp
 metricid,Metric ID
 metricid_entitytype,Metric ID Entity Type
@@ -2458,7 +2458,7 @@ msdyn_gdproptout,Gdpr Optout
 msdyn_invoice,Invoice
 msdyn_invoice_entitytype,Invoice Entity Type
 msdyn_invoicename,Invoice Name
-msdyn_isjournalized,Is Journalized
+msdyn_isjournalized,Journalized Flag
 msdyn_orgchangestatus,Org Change Status
 msdyn_percent,Percent
 msdyn_price,Price
@@ -2635,8 +2635,8 @@ owningbusinessunit_entitytype,Owning Business Unit Entity Type
 owningbusinessunitname,Owning Business Unit Name
 owningteam,Owning Team
 owningteam_entitytype,Owning Team Entity Type
-owninguser,Owning USer
-owninguser_entitytype,Owning USer Entity Type
+owninguser,Owning User
+owninguser_entitytype,Owning User Entity Type
 pager,Pager
 pageviewid,Page View ID
 paginglimit,Paging Limit
@@ -2843,7 +2843,7 @@ privilegeid_entitytype,Privilege ID Entity Type
 privilegeobjecttypecodeid,Privilege Object Type Codeid
 privilegeobjecttypecoderowid,Privilege Object Type Code Row ID
 privilegerowid,Privilege Row ID
-privilegeusergroupid,Privilege USer Group ID
+privilegeusergroupid,Privilege User Group ID
 privreportinggroupid,Priv Reporting Group ID
 privreportinggroupname,Priv Reporting Group Name
 processanddeleteemails,Process And Delete Emails
@@ -3017,7 +3017,7 @@ reportscripterrors,Report Script Errors
 requestdata,Request Data
 requestdeliveryby,Request Delivery By
 requireapprovalforqueueemail,Require Approval For Queue Email
-requireapprovalforuseremail,Require Approval For USer Email
+requireapprovalforuseremail,Require Approval For User Email
 requiredattendees,Required Attendees
 requiredcount,Required Count
 resolveby,Resolve By
@@ -3174,7 +3174,7 @@ sessiontimeoutinmins,Session Timeout In Mins
 sessiontimeoutreminderinmins,Session Timeout Reminder In Mins
 setcategoryassociations,Set Category Associations
 setproductassociations,Set Product Associations
-setupuser,Setup USer
+setupuser,Setup User Flag
 severitycode,Severity Code
 sharepointdeploymenttype,SHAREPOINT Deployment Type
 sharepointemailaddress,SHAREPOINT Email Address
@@ -3309,12 +3309,12 @@ syncoptinselection,Sync Opt Ins Election
 syncoptinselectionstatus,Sync Opt Ins Election Status
 syncworkflowlogonfailure,Sync Workflow Logon Failure
 systemmanaged,System Managed
-systemuserbusinessunitentitymapid,System USer Business Unit Entity Map ID
+systemuserbusinessunitentitymapid,System User Business Unit Entity Map ID
 systemuserid,System User ID
-systemusermanagermapid,System USer Manager Map ID
-systemuserprincipalid,System USer Principal ID
-systemuserprofileid,System USer Profile ID
-systemuserroleid,System USer Role ID
+systemusermanagermapid,System User Manager Map ID
+systemuserprincipalid,System User Principal ID
+systemuserprofileid,System User Profile ID
+systemuserroleid,System User Role ID
 tagmaxaggressivecycles,Tag Max Aggressive Cycles
 tagpollingperiod,Tag Polling Period
 tags,Tags
@@ -3564,12 +3564,12 @@ msdyn_salesvariance,Sales Variance
 msdyn_scheduledhours,Scheduled Hours
 msdyn_remainingsales_base,Remaining Sales Base
 msdyn_scheduledstart,Scheduled Start Date
-msdyn_autoscheduling,Auto Scheduling
+msdyn_autoscheduling,Auto Scheduling Flag
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
 _msdyn_project_value,Project ID
 msdyn_remainingcost,Remaining Cost
 msdyn_varianceofcost,Variance of Cost
-msdyn_islinetask,Is Line Task Flag
+msdyn_islinetask,Line Task Flag
 msdyn_scheduleddurationminutes,Scheduled Duration Minutes
 msdyn_plannedcost_base,Planned Cost Base
 msdyn_projecttaskid,Project Task ID
@@ -3636,32 +3636,32 @@ msdyn_projectTask,Project Task
 msdyn_msdyn_timeentry_msdyn_projectapproval_TimeEntry,Time Entry Project Approval Time Entry
 msdyn_msdyn_timeentry_msdyn_timeoffcalendar_timeEntry,Time Entry Time Off Calendar Time Entry
 msdyn_manager,Manager
-jma_submittedon,Submitted On JT
+jma_submittedon,Submitted On Date JT
 jt_durationhours,Duration Hours JT
 jt_sow,SOW JT
 jt_taskscomplete,Tasks Complete JT
 msdyn_progress,Progress
 msdyn_actualsales,Actual Sales
 jt_contractedhours,Contracted Hours JT
-msdyn_istemplate,Is Template
-msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To RE
+msdyn_istemplate,Template Flag
+msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To RE Flag
 _jt_projectlead_value,Project Lead ID JT
 msdyn_actualstart,Actual Start Date
 msdyn_costperformence,Cost Performence
 msdyn_actuallaborcost_base,Actual Labor Cost Base
 msdyn_comments,Comments
-jt_erpteam,ERP Team JT
+jt_erpteam,ERP Team Flag JT
 jt_projecttier,Project Tier JT
 msdyn_costconsumption,Cost Consumption
 msdyn_salesconsumption,Sales Consumption
 _stageid_value,Stage ID
-jt_cycleplanning,Cycle Planning JT
+jt_cycleplanning,Cycle Planning Flag JT
 _msdyn_salesorderid_value,Sales Order ID
-jt_cldteam,Cloud Team JT
+jt_cldteam,Cloud Team Flag JT
 jt_totaltimeentriesminutes,Total Time Entries Minutes JT
 jt_numberofissues,Number Of Issues JT
 msdyn_totalactualcost_base,Total Actual Cost Base
-jt_internalproject,Internal Project JT
+jt_internalproject,Internal Project Flag JT
 msdyn_scheduleperformance,Schedule Performance
 jt_clientsatisfaction,Client Satisfaction JT
 msdyn_actuallaborcost,Actual Labor Cost
@@ -3673,30 +3673,30 @@ jt_tasksoutstanding,Tasks Outstanding JT
 jt_targetgolive,Target Go Live JT
 jt_numberofrisks,Number Of Risks JT
 msdyn_statusupdatedon,Status Updated On Date
-jt_ismodule,Is Module JT
+jt_ismodule,Module Flag JT
 jt_hoursspent,Hours Spent JT
-jt_newrequirementtype,New Requirement Type JT
-jt_sptteam,SharePoint Team JT
+jt_newrequirementtype,New Requirement Type Flag JT
+jt_sptteam,SharePoint Team Flag JT
 jt_budgetspent,Budget Spent JT
 _msdyn_projecttemplate_value,Project Template ID
 jt_actualhours,Actual Hours JT
-jt_generalservices,General Services JT
+jt_generalservices,General Services Flag JT
 msdyn_costvariance_base,Cost Variance Base
 msdyn_actualhours,Actual Hours
-jt_crmteam,CRM Team JT
+jt_crmteam,CRM Team Flag JT
 msdyn_costvariance,Cost Variance
 msdyn_totalactualcost,Total Actual Cost
-msdyn_actualend,Actual End
+msdyn_actualend,Actual End Date
 msdyn_actualsales_base,Actual Sales Base
 msdyn_overallprojectstatus,Overall Project Status
-jt_lasttimeentry,Last Time Entry JT
+jt_lasttimeentry,Last Time Entry Date JT
 jt_countoftasks,Count Of Tasks JT
 resourcetype,Resource Type
 bookableresourceid,Bookable Resource ID
-msdyn_isgenericresourceprojectscoped,Is Generic Resource Project Scoped
+msdyn_isgenericresourceprojectscoped,Generic Resource Project Scoped Flag
 msdyn_targetutilization,Target Utilization
 jt_productgroup,Product Group JT
-jt_isapprover,Is Approver JT
+jt_isapprover,Approver Flag JT
 _userid_value,User ID
 jt_initials,Initials JT
 _msdyn_organizationalunit_value,Organizational Unit ID
@@ -3709,7 +3709,7 @@ jt_requirementcontractedhours,Requirement Contracted Hours JT
 jt_requirementtype,Requirement Type Flag JT
 jt_completedon,Completed On Date JT
 jt_resourceassignments,Resource Assignments JT
-msdyn_ismilestone,Is Milestone Flag
+msdyn_ismilestone,Milestone Flag
 msdyn_actualeffort,Actual Effort
 jt_internalerror,Internal Error Flag
 _jt_associatedfeature_value,Associated Feature ID
@@ -3725,9 +3725,10 @@ msdyn_actualcost,Actual Cost
 jt_asa,ASA JT
 msdyn_costconsumptionpercentage,Cost Consumption Percentage
 jt_priority_old,Priority (Old) JT
-jt_iscomplete,Is Complete Flag JT
+jt_iscomplete,Complete Flag JT
 jt_sothat,So That
 msdyn_salesconsumptionpercentage,Sales Consumption %
 _msdyn_transactioncategory_value,Transaction Category 
 msdyn_actualcost_base,Actual Cost Base
 _jt_sprintid_value,Sprint ID JT
+_parentsystemuserid_value,Parent System User Id
