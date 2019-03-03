@@ -1465,7 +1465,7 @@ iscdsupgraded,Is Cds Upgraded
 isconflictdetectionenabledformobileclient,Is Conflict Detection Enabled For Mobile Client
 iscontactmailingaddresssyncenabled,Is Contact Mailing Address Sync Enabled
 iscopied,Is Copied
-iscrmuiworkflow,Iscrm Ui Workflow
+iscrmuiworkflow,Is CRM UI Workflow
 iscustom,Is Custom
 iscustomerviewable,Is Customer Viewable
 iscustomizable,Is Customizable
@@ -1500,7 +1500,7 @@ isfeatured,Is Featured
 isfeaturedapp,Is Featured App
 isfiscalperiodgoal,Is Fiscal Period Goal
 isfiscalperiodmonthbased,Is Fiscal Period Month Based
-isfolderautocreatedonsp,Is Folder Autocreated On Sp
+isfolderautocreatedonsp,Is Folder Auto-Created On SP
 isfolderbasedtrackingenabled,Is Folder Based Tracking Enabled
 isfollowed,Is Followed
 isforwardmailbox,Is Forward Mailbox
@@ -1818,7 +1818,7 @@ jt_dnis,JT Dnis
 jt_donotallowtext,JT Do Not Allow Text
 jt_dontfiresubscription,JT Dont Fire Subscription
 jt_email,JT Email
-jt_enddate,JT End Date
+jt_enddate,End Date JT
 jt_entityengagedas,JT Entity Engaged As
 jt_epaymentapproved,JT E Payment Approved
 jt_event,JT Event
@@ -2160,7 +2160,7 @@ jt_skillforos_entitytype,JT Skill For OS Entity Type
 jt_skillforosname,JT Skill Foros Name
 jt_socialsecurity,JT Social Security
 jt_sourcecode,JT Source Code
-jt_sprintid,JT Sprint ID
+jt_sprintid,Sprint ID JT
 jt_sprintid_entitytype,JT Sprint ID Entity Type
 jt_sprintidname,JT Sprint ID Name
 jt_startdate,Start Date JT
@@ -3732,3 +3732,5 @@ _msdyn_transactioncategory_value,Transaction Category
 msdyn_actualcost_base,Actual Cost Base
 _jt_sprintid_value,Sprint ID JT
 _parentsystemuserid_value,Parent System User Id
+jt_sprintname,Sprint Name JT
+jt_sprintstatus,Sprint Status JT
