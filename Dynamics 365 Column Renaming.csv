@@ -526,7 +526,7 @@ cdi_domainidname,CDI Domain ID Name
 cdi_duration,CDI Duration
 cdi_editortype,CDI Editor Type
 cdi_email,CDI Email
-cdi_emailaddress,Cdi Email Address
+cdi_emailaddress,CdiÂ Email Address
 cdi_emailaddressfield,CDI Email Address Field
 cdi_emailclient,CDI Email Client
 cdi_emailclientpreviewdata,CDI Email Client Preview Data
@@ -543,7 +543,7 @@ cdi_emailstatus,CDI Email Status
 cdi_emailtemplateid,CDI Email Template ID
 cdi_emailtemplateid_entitytype,CDI Email Template ID Entity Type
 cdi_emailtemplateid2,CDI Email Template ID 2
-cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
+cdi_emailtemplateid2_entitytype,CdiÂ Email Template ID 2 Entity Type
 cdi_emailtemplateid2name,CDI Email Template ID 2 Name
 cdi_emailtemplateidname,CDI Email Template ID Name
 cdi_emailtest,CDI Email Test
@@ -2414,76 +2414,76 @@ modifiedonbehalfbydsc,Modified On Behalf By Dsc
 modifiedonbehalfbyname,Modified On Behalf By Name
 modifiedonbehalfbyyominame,Modified On Behalf By Yomi Name
 monthofyear,Month Of Year
-msdyn_accountcustomer,MSDYN Account Customer
-msdyn_accountcustomer_entitytype,MSDYN Account Customer Entity Type
-msdyn_accountcustomername,MSDYN Account Customer Name
-msdyn_accountcustomeryominame,MSDYN Account Customer Yomi Name
-msdyn_accountingdate,MSDYN Account Ingdate
-msdyn_accountvendor,MSDYN Account Vendor
-msdyn_accountvendor_entitytype,MSDYN Account Vendor Entity Type
-msdyn_accountvendorname,MSDYN Account Vendor Name
-msdyn_accountvendoryominame,MSDYN Account Vendor Yomi Name
-msdyn_actualid,MSDYN Actual ID
-msdyn_adjustmentstatus,MSDYN Adjustment Status
+msdyn_accountcustomer,Account Customer
+msdyn_accountcustomer_entitytype,Account Customer Entity Type
+msdyn_accountcustomername,Account Customer Name
+msdyn_accountcustomeryominame,Account Customer Yomi Name
+msdyn_accountingdate,Account Ingdate
+msdyn_accountvendor,Account Vendor
+msdyn_accountvendor_entitytype,Account Vendor Entity Type
+msdyn_accountvendorname,Account Vendor Name
+msdyn_accountvendoryominame,Account Vendor Yomi Name
+msdyn_actualid,Actual ID
+msdyn_adjustmentstatus,Adjustment Status
 msdyn_amount,Msdynamount
 msdyn_amount_base,Msdynamount Base
 msdyn_amountmethod,Msdynamount Method
-msdyn_basisamount,MSDYN Basisamount
-msdyn_basisamount_base,MSDYN Basisamount Base
-msdyn_basisprice,MSDYN Basis Price
-msdyn_basisprice_base,MSDYN Basis Price Base
-msdyn_basisquantity,MSDYN Basis Quantity
-msdyn_billingstatus,MSDYN Billing Status
-msdyn_billingtype,MSDYN Billing Type
-msdyn_bookableresource,MSDYN Bookable Resource
-msdyn_bookableresource_entitytype,MSDYN Bookable Resource Entity Type
-msdyn_bookableresourcename,MSDYN Bookable Resource Name
-msdyn_contactcustomer,MSDYN Contact Customer
-msdyn_contactcustomer_entitytype,MSDYN Contact Customer Entity Type
-msdyn_contactcustomername,MSDYN Contact Customer Name
-msdyn_contactcustomeryominame,MSDYN Contact Customer Yomi Name
-msdyn_contactvendor,MSDYN Contact Vendor
-msdyn_contactvendor_entitytype,MSDYN Contact Vendor Entity Type
-msdyn_contactvendorname,MSDYN Contact Vendor Name
-msdyn_contactvendoryominame,MSDYN Contact Vendor Yomi Name
-msdyn_customertype,MSDYN Customer Type
-msdyn_description,MSDYN Description
-msdyn_documentdate,MSDYN Document Date
-msdyn_enddatetime,MSDYN End Date Time
-msdyn_exchangeratedate,MSDYN Exchange Rate Date
-msdyn_externaldescription,MSDYN External Description
-msdyn_externalreferencedate,MSDYN External Reference Date
-msdyn_externalreferenceid,MSDYN External Reference ID
-msdyn_gdproptout,MSDYN Gdpr Optout
-msdyn_invoice,MSDYN Invoice
-msdyn_invoice_entitytype,MSDYN Invoice Entity Type
-msdyn_invoicename,MSDYN Invoice Name
-msdyn_isjournalized,MSDYN Is Journalized
-msdyn_orgchangestatus,MSDYN Org Change Status
-msdyn_percent,MSDYN Percent
-msdyn_price,MSDYN Price
-msdyn_price_base,MSDYN Price Base
-msdyn_pricelist,MSDYN Price List
-msdyn_pricelist_entitytype,MSDYN Price List Entity Type
-msdyn_pricelistname,MSDYN Price List Name
-msdyn_product,MSDYN Product
-msdyn_product_entitytype,MSDYN Product Entity Type
-msdyn_productname,MSDYN Product Name
-msdyn_quantity,MSDYN Quantity
-msdyn_salescontract,MSDYN Sales Contract
-msdyn_salescontract_entitytype,MSDYN Sales Contract Entity Type
-msdyn_salescontractline,MSDYN Sales Contract Line
-msdyn_salescontractname,MSDYN Sales Contract Name
-msdyn_startdatetime,MSDYN Start Datetime
-msdyn_transactionclassification,MSDYN Trans Action Classification
-msdyn_transactiontypecode,MSDYN Trans Action Type Code
-msdyn_unit,MSDYN Unit
-msdyn_unit_entitytype,MSDYN Unit Entity Type
-msdyn_unitname,MSDYN Unit Name
-msdyn_unitschedule,MSDYN Unit Schedule
-msdyn_unitschedule_entitytype,MSDYN Unit Schedule Entity Type
-msdyn_unitschedulename,MSDYN Unit Schedule Name
-msdyn_vendortype,MSDYN Vendor Type
+msdyn_basisamount,Basisamount
+msdyn_basisamount_base,Basisamount Base
+msdyn_basisprice,Basis Price
+msdyn_basisprice_base,Basis Price Base
+msdyn_basisquantity,Basis Quantity
+msdyn_billingstatus,Billing Status
+msdyn_billingtype,Billing Type
+msdyn_bookableresource,Bookable Resource
+msdyn_bookableresource_entitytype,Bookable Resource Entity Type
+msdyn_bookableresourcename,Bookable Resource Name
+msdyn_contactcustomer,Contact Customer
+msdyn_contactcustomer_entitytype,Contact Customer Entity Type
+msdyn_contactcustomername,Contact Customer Name
+msdyn_contactcustomeryominame,Contact Customer Yomi Name
+msdyn_contactvendor,Contact Vendor
+msdyn_contactvendor_entitytype,Contact Vendor Entity Type
+msdyn_contactvendorname,Contact Vendor Name
+msdyn_contactvendoryominame,Contact Vendor Yomi Name
+msdyn_customertype,Customer Type
+msdyn_description,Description
+msdyn_documentdate,Document Date
+msdyn_enddatetime,End Date Time
+msdyn_exchangeratedate,Exchange Rate Date
+msdyn_externaldescription,External Description
+msdyn_externalreferencedate,External Reference Date
+msdyn_externalreferenceid,External Reference ID
+msdyn_gdproptout,Gdpr Optout
+msdyn_invoice,Invoice
+msdyn_invoice_entitytype,Invoice Entity Type
+msdyn_invoicename,Invoice Name
+msdyn_isjournalized,Is Journalized
+msdyn_orgchangestatus,Org Change Status
+msdyn_percent,Percent
+msdyn_price,Price
+msdyn_price_base,Price Base
+msdyn_pricelist,Price List
+msdyn_pricelist_entitytype,Price List Entity Type
+msdyn_pricelistname,Price List Name
+msdyn_product,Product
+msdyn_product_entitytype,Product Entity Type
+msdyn_productname,Product Name
+msdyn_quantity,Quantity
+msdyn_salescontract,Sales Contract
+msdyn_salescontract_entitytype,Sales Contract Entity Type
+msdyn_salescontractline,Sales Contract Line
+msdyn_salescontractname,Sales Contract Name
+msdyn_startdatetime,Start Datetime
+msdyn_transactionclassification,Trans Action Classification
+msdyn_transactiontypecode,Trans Action Type Code
+msdyn_unit,Unit
+msdyn_unit_entitytype,Unit Entity Type
+msdyn_unitname,Unit Name
+msdyn_unitschedule,Unit Schedule
+msdyn_unitschedule_entitytype,Unit Schedule Entity Type
+msdyn_unitschedulename,Unit Schedule Name
+msdyn_vendortype,Vendor Type
 name,Name
 navigationtype,Navigation Type
 need,Need
