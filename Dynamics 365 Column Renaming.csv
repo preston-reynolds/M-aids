@@ -3691,3 +3691,13 @@ msdyn_actualsales_base,Actual Sales Base
 msdyn_overallprojectstatus,Overall Project Status
 jt_lasttimeentry,Last Time Entry JT
 jt_countoftasks,Count Of Tasks JT
+resourcetype,Resource Type
+bookableresourceid,Bookable Resource ID
+msdyn_isgenericresourceprojectscoped,Is Generic Resource Project Scoped
+msdyn_targetutilization,Target Utilization
+jt_productgroup,Product Group JT
+jt_isapprover,Is Approver JT
+_userid_value,User ID
+jt_initials,Initials JT
+_msdyn_organizationalunit_value,Organizational Unit ID
+timezone,Timezone
