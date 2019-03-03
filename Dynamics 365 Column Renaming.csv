@@ -3734,3 +3734,8 @@ _jt_sprintid_value,Sprint ID JT
 _parentsystemuserid_value,Parent System User Id
 jt_sprintname,Sprint Name JT
 jt_sprintstatus,Sprint Status JT
+gap_language,Language
+gap_entityname,Entity Name
+gap_optionsetschemaname,Option Schema Name
+gap_entityschemaname,Entity Schema Name
+gap_label,Label
