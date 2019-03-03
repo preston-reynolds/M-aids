@@ -1051,7 +1051,7 @@ defaultmailboxname,Default Mailbox Name
 defaultmobileofflineprofileid,Default Mobile Offline Profile ID
 defaultmobileofflineprofileid_entitytype,Default Mobile Offline Profile ID Entity Type
 defaultmobileofflineprofileidname,Default Mobile Offline Profile ID Name
-defaultodbfoldername,Default Odbfolder Name
+defaultodbfoldername,Default ODB Folder Name
 defaultpricelevelid,Default Price Level ID
 defaultpricelevelid_entitytype,Default Price Level ID Entity Type
 defaultpricelevelidname,Default Price Level ID Name
@@ -1083,8 +1083,8 @@ device,Device
 directioncode,Direction Code
 disabledreason,Disabled Reason
 disablesocialcare,Disable Social Care
-discountamount,Discountamount
-discountamount_base,Discountamount Base
+discountamount,Discount Amount
+discountamount_base,Discount Amount Base
 discountcalculationmethod,Discount Calculation Method
 discountid,Discount ID
 discountpercentage,Discount Percentage
@@ -1093,7 +1093,7 @@ discounttypeid_entitytype,Discount Type ID Entity Type
 discounttypeidname,Discount Type ID Name
 displayinserviceviews,Display In Service Views
 displayname,Display Name
-displaynavigationtour,Display Navigationtour
+displaynavigationtour,Display Navigation Tour
 divisionname,Division Name
 dmtimportstate,Dmt Import State
 documentbody,Document Body
@@ -1106,7 +1106,7 @@ donotfax,Do Not Fax
 donotphone,Do Not Phone
 donotpostalmail,Do Not Postal Mail
 donotsendmm,Do Not Send Mm
-donotsendonoptout,Do Not Send On Optout
+donotsendonoptout,Do Not Send On Opt Out
 duedate,Due Date
 duration,Duration
 Editor,Editor
@@ -1221,12 +1221,12 @@ exchangeentryid,Exchange Entry ID
 exchangefolderid,Exchange Folder ID
 exchangefoldername,Exchange Folder Name
 exchangeitemid,Exchange Item ID
-exchangerate,Exch Anger Ate
+exchangerate,Exchange Rate
 exchangesyncstatexml,Exchange Sync State XML
 exchangeweblink,Exchange Web Link
 excludedemailid,Excluded Email ID
-excludeifcontactedinxdays,Exclude If Contact Edinxdays
-executesendid,Execute Sendid
+excludeifcontactedinxdays,Exclude If Contacted In X Days
+executesendid,Execute Send ID
 existingcase,Existing Case
 existingcase_entitytype,Existing Case Entity Type
 exitpage,Exit Page
@@ -1248,7 +1248,7 @@ extendedamount_base,Extendedamount Base
 externalbaseurl,External Base URL
 externalpartycorrelationkeys,External Party Correlation Keys
 externalpartyentitysettings,External Party Entity Settings
-externaluseridentifier,External User IDentifier
+externaluseridentifier,External User Identifier
 failuretime,Failure Time
 FamilyStatus,Family Status
 familystatuscode,Family Status Code
@@ -2142,7 +2142,7 @@ jt_shippingcost_base,JT Shipping Cost Base
 jt_shippingexception,JT Shipping Exception
 jt_shippingmethod,JT Shipping Method
 jt_shippingmethodcode,JT Shipping Method Code
-jt_shippingmethodvalue,JT Shipping Method Value
+jt_shippingmethodvalue,JT Shipping Method ID
 jt_shippingstatus,JT Shipping Status
 jt_shippingstreetaddress,JT Shipping Street Address
 jt_shipstatus,JT Ship Status
@@ -3125,8 +3125,8 @@ sampledataimportid,Sample Data Import ID
 savedqueryid,Saved Query ID
 savedqueryidunique,Saved Query ID Unique
 scheduleddurationminutes,Scheduled Duration Minutes
-scheduledend,Scheduled End
-scheduledstart,Scheduled Start
+scheduledend,Scheduled End Date
+scheduledstart,Scheduled Start Date
 scheduledstatusid,Scheduled Status ID
 schedulefollowup_prospect,Schedule Follow Up Prospect
 schedulefollowup_qualify,Schedule Follow Up Qualify
@@ -3549,9 +3549,9 @@ _ownerid_value,Owner ID
 msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_salesvariance_base,Sales Variance Base
 _msdyn_parenttask_value,Parent Task ID
-msdyn_wbsid,Wbs ID
+msdyn_wbsid,WBS ID
 _msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
-msdyn_scheduledend,Scheduled End
+msdyn_scheduledend,Scheduled End Date
 msdyn_salesestimateatcomplete,Sales Estimate At Complete
 _msdyn_resourcecategory_value,Resource Category ID
 msdyn_remainingsales,Remaining Sales
@@ -3563,13 +3563,13 @@ msdyn_subject,Subject
 msdyn_salesvariance,Sales Variance
 msdyn_scheduledhours,Scheduled Hours
 msdyn_remainingsales_base,Remaining Sales Base
-msdyn_scheduledstart,Scheduled Start
+msdyn_scheduledstart,Scheduled Start Date
 msdyn_autoscheduling,Auto Scheduling
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
 _msdyn_project_value,Project ID
 msdyn_remainingcost,Remaining Cost
 msdyn_varianceofcost,Variance of Cost
-msdyn_islinetask,Is Line Task
+msdyn_islinetask,Is Line Task Flag
 msdyn_scheduleddurationminutes,Scheduled Duration Minutes
 msdyn_plannedcost_base,Planned Cost Base
 msdyn_projecttaskid,Project Task ID
@@ -3591,7 +3591,7 @@ msdyn_teamsize,Team Size
 msdyn_projectid,Project ID
 _msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID
 msdyn_plannedlaborcost,Planned Labor Cost
-msdyn_wbsduration,Wbs Duration
+msdyn_wbsduration,WBS Duration
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_costestimateatcomplete,Cost Estimate At Complete
 msdyn_plannedhours,Planned Hours
@@ -3603,18 +3603,18 @@ msdyn_effortestimateatcompleteeac,Effort Estimate At Complete EAC
 msdyn_costestimateatcomplete_base,Cost Estimate At Complete Base
 msdyn_plannedlaborcost_base,Planned Labor Cost Base
 msdyn_calendarid,Calendar ID
-_msdyn_customer_value,Customer  ID
+_msdyn_customer_value,Customer ID
 msdyn_stagename,Stage Name
-_owninguser_value,Owning User  ID
+_owninguser_value,Owning User ID
 msdyn_entrystatus,Entry Status
 msdyn_duration,Duration
 msdyn_type,Type
-_createdby_value,Created By  ID
+_createdby_value,Created By ID
 msdyn_relateditemid,Related Item ID
-_msdyn_bookableresource_value,Bookable Resource  ID
-_msdyn_projecttask_value,Project Task  ID
-_modifiedonbehalfby_value,Modified On Behalf By  ID
-_createdonbehalfby_value,Created On Behalf By  ID
+_msdyn_bookableresource_value,Bookable Resource ID
+_msdyn_projecttask_value,Project Task ID
+_modifiedonbehalfby_value,Modified On Behalf By ID
+_createdonbehalfby_value,Created On Behalf By ID
 msdyn_date,Date
 msdyn_targetentrystatus,Target Entry Status
 msdyn_relateditemtype,Related Item Type
@@ -3644,7 +3644,7 @@ msdyn_progress,Progress
 msdyn_actualsales,Actual Sales
 jt_contractedhours,Contracted Hours JT
 msdyn_istemplate,Is Template
-msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To Re
+msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To RE
 _jt_projectlead_value,Project Lead ID JT
 msdyn_actualstart,Actual Start Date
 msdyn_costperformence,Cost Performence
@@ -3701,3 +3701,33 @@ _userid_value,User ID
 jt_initials,Initials JT
 _msdyn_organizationalunit_value,Organizational Unit ID
 timezone,Timezone
+jt_taskhierarchy,Task Hierarchy JT
+jt_childtasks,Child Tasks JT
+jt_remaininghours,Remaining Hours JT
+jt_externalerror,External Error Flag JT
+jt_requirementcontractedhours,Requirement Contracted Hours JT
+jt_requirementtype,Requirement Type Flag JT
+jt_completedon,Completed On Date JT
+jt_resourceassignments,Resource Assignments JT
+msdyn_ismilestone,Is Milestone Flag
+msdyn_actualeffort,Actual Effort
+jt_internalerror,Internal Error Flag
+_jt_associatedfeature_value,Associated Feature ID
+_jt_requestedbookableresource_value,Requested Bookable Resource ID JT
+jt_backlogrank,Backlog Rank JT
+jt_basetask,Base Task Flag JT
+jt_clientvisible,Client Visable Flag JT
+jt_iwantto,I Want To JT
+jt_taskstatus,Task Status JT
+jt_projecttasktype,Project Task Type JT
+msdyn_numberofresources,Number of Resources
+msdyn_actualcost,Actual Cost
+jt_asa,ASA JT
+msdyn_costconsumptionpercentage,Cost Consumption Percentage
+jt_priority_old,Priority (Old) JT
+jt_iscomplete,Is Complete Flag JT
+jt_sothat,So That
+msdyn_salesconsumptionpercentage,Sales Consumption %
+_msdyn_transactioncategory_value,Transaction Category 
+msdyn_actualcost_base,Actual Cost Base
+_jt_sprintid_value,Sprint ID JT
