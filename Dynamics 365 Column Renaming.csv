@@ -2137,8 +2137,8 @@ jt_shippingaddressname,JT Shippingaddress Name
 jt_shippingaddressyominame,JT Shippingaddress Yomi Name
 jt_shippingcharge,JT Shipping Charge
 jt_shippingcharge_base,JT Shipping Charge Base
-jt_shippingcost,JT Shippingcost
-jt_shippingcost_base,JT Shippingcost Base
+jt_shippingcost,JT Shipping Cost
+jt_shippingcost_base,JT Shipping Cost Base
 jt_shippingexception,JT Shipping Exception
 jt_shippingmethod,JT Shipping Method
 jt_shippingmethodcode,JT Shipping Method Code
@@ -2146,17 +2146,17 @@ jt_shippingmethodvalue,JT Shipping Method Value
 jt_shippingstatus,JT Shipping Status
 jt_shippingstreetaddress,JT Shipping Street Address
 jt_shipstatus,JT Ship Status
-jt_shiptopobox,JT Ship TOpobox
-jt_showenddate,JT Showend Date
-jt_showhours,JT Showhours
+jt_shiptopobox,JT Ship TO PO Box
+jt_showenddate,JT Show End Date
+jt_showhours,JT Show hours
 jt_showstartdate,JT Show Start Date
 jt_signature,JT Sig Nature
 jt_sizeofaccount,JT Sizeof Account
-jt_skillforbpo,JT Skill Forbpo
-jt_skillforbpo_entitytype,JT Skill Forbpo Entity Type
+jt_skillforbpo,JT Skill For BPO
+jt_skillforbpo_entitytype,JT Skill For BPO Entity Type
 jt_skillforbponame,JT Skill Forbpo Name
-jt_skillforos,JT Skill Foros
-jt_skillforos_entitytype,JT Skill Foros Entity Type
+jt_skillforos,JT Skill For OS
+jt_skillforos_entitytype,JT Skill For OS Entity Type
 jt_skillforosname,JT Skill Foros Name
 jt_socialsecurity,JT Social Security
 jt_sourcecode,JT Source Code
@@ -2172,7 +2172,7 @@ jt_stateid,JT State ID
 jt_statenameid,JT State Name ID
 jt_statenameid_entitytype,JT State Name ID Entity Type
 jt_statenameidname,JT State Name ID Name
-jt_statestateidregisteredincomplete,JT Statestate ID Register Edin Complete
+jt_statestateidregisteredincomplete,JT State State ID Registered In Complete
 jt_status,JT Status
 jt_statusreason,JT Status Reason
 jt_stepordernumber,JT Step Order Number
@@ -2180,9 +2180,9 @@ jt_steptype,JT Steptype
 jt_street1,JT Street 1
 jt_street2,JT Street 2
 jt_street3,JT Street 3
-jt_submitcreditappforapproval,JT Submit Credit Appfor Approval
-jt_submitpcaforapproval,JT Submit Pcafor Approval
-jt_submitteddate,JT Submit Teddate
+jt_submitcreditappforapproval,JT Submit Credit App For Approval
+jt_submitpcaforapproval,JT Submit PCA for Approval
+jt_submitteddate,JT Submitted Date
 jt_subscriptioncreated,JT Subscription Create D
 jt_subscriptionid,JT Subscription ID
 jt_subscriptionid_entitytype,JT Subscription ID Entity Type
@@ -2194,11 +2194,11 @@ jt_subscriptiontype,JT Subscription Type
 jt_substartdate,JT Sub Start Date
 jt_subtotal,JT Subtotal
 jt_subtotal_base,JT Subtotal Base
-jt_suffixlist,JT Suffixlist
-jt_textpreference,JT Textpreference
+jt_suffixlist,JT Suffix list
+jt_textpreference,JT Text preference
 jt_tfn,JT Tfn
-jt_tollfreenumber,JTtollfree Number
-jt_tollfreenumberid,JTtollfree Number ID
+jt_tollfreenumber,JT toll free Number
+jt_tollfreenumberid,JT toll free Number ID
 jt_totalcost,JTtotal Cost
 jt_totalcost_base,JTtotal Cost Base
 jt_trackingnourl,JT Tracking No URL
@@ -3548,12 +3548,12 @@ msdyn_remainingcost_base,Remaining Cost Base
 _ownerid_value,Owner ID
 msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_salesvariance_base,Sales Variance Base
-_msdyn_parenttask_value,Parent Task Value
+_msdyn_parenttask_value,Parent Task ID
 msdyn_wbsid,Wbs ID
 _msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
 msdyn_scheduledend,Scheduled End
 msdyn_salesestimateatcomplete,Sales Estimate At Complete
-_msdyn_resourcecategory_value,Resource Category Value
+_msdyn_resourcecategory_value,Resource Category ID
 msdyn_remainingsales,Remaining Sales
 msdyn_costatcompleteestimate_base,Cost At Complete Estimate Base
 msdyn_effortestimateatcomplete,Effort Estimate At Complete
@@ -3566,7 +3566,7 @@ msdyn_remainingsales_base,Remaining Sales Base
 msdyn_scheduledstart,Scheduled Start
 msdyn_autoscheduling,Auto Scheduling
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
-_msdyn_project_value,Project Value
+_msdyn_project_value,Project ID
 msdyn_remainingcost,Remaining Cost
 msdyn_varianceofcost,Variance of Cost
 msdyn_islinetask,Is Line Task
@@ -3579,7 +3579,7 @@ entityimage,Entity Image
 _positionid_value,Position ID
 _calendarid_value,Calendar ID
 lvt_assignedto,Assigned To LVT
-_defaultmailbox_value,Default Mailbox Value
+_defaultmailbox_value,Default Mailbox ID
 RetrieveAllChildUsersSystemUser,Retrieve All Child Users System User
 RetrievePrincipalAccess,Retrieve Principal Access
 RetrievePrincipalAttributePrivileges,Retrieve Principal Attribute Privileges
@@ -3595,7 +3595,7 @@ msdyn_wbsduration,Wbs Duration
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_costestimateatcomplete,Cost Estimate At Complete
 msdyn_plannedhours,Planned Hours
-_msdyn_projectmanager_value,Project Manager Value
+_msdyn_projectmanager_value,Project Manager ID
 msdyn_salesestimateatcompleteeac_base,Sales Estimate At Complete EAC Base
 msdyn_totalplannedcost_base,Total Planned Cost Base
 msdyn_salesestimateatcompleteeac,Sales Estimate At Complete EAC
@@ -3645,7 +3645,7 @@ msdyn_actualsales,Actual Sales
 jt_contractedhours,Contracted Hours JT
 msdyn_istemplate,Is Template
 msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To Re
-_jt_projectlead_value,Project Lead Value JT
+_jt_projectlead_value,Project Lead ID JT
 msdyn_actualstart,Actual Start Date
 msdyn_costperformence,Cost Performence
 msdyn_actuallaborcost_base,Actual Labor Cost Base
