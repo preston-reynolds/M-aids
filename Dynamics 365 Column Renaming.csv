@@ -2472,48 +2472,48 @@ modifiedonbehalfbydsc,Modified On Behalf By Dsc
 modifiedonbehalfbyname,Modified On Behalf By Name
 modifiedonbehalfbyyominame,Modified On Behalf By Yomi Name
 monthofyear,Month Of Year
-msdyn_accountcustomer,MSDYN Account Customer
-msdyn_accountcustomer_entitytype,MSDYN Account Customer Entity Type
-msdyn_accountcustomername,MSDYN Account Customer Name
-msdyn_accountcustomeryominame,MSDYN Account Customer Yomi Name
-msdyn_accountingdate,MSDYN Account Ingdate
-msdyn_accountvendor,MSDYN Account Vendor
-msdyn_accountvendor_entitytype,MSDYN Account Vendor Entity Type
-msdyn_accountvendorname,MSDYN Account Vendor Name
-msdyn_accountvendoryominame,MSDYN Account Vendor Yomi Name
+msdyn_accountcustomer,Account Customer
+msdyn_accountcustomer_entitytype,Account Customer Entity Type
+msdyn_accountcustomername,Account Customer Name
+msdyn_accountcustomeryominame,Account Customer Yomi Name
+msdyn_accountingdate,Account Ingdate
+msdyn_accountvendor,Account Vendor
+msdyn_accountvendor_entitytype,Account Vendor Entity Type
+msdyn_accountvendorname,Account Vendor Name
+msdyn_accountvendoryominame,Account Vendor Yomi Name
 msdyn_actualend,Actual End
 msdyn_actualhours,Actual Hours
-msdyn_actualid,MSDYN Actual ID
+msdyn_actualid,Actual ID
 msdyn_actuallaborcost,Actual Labor Cost
 msdyn_actuallaborcost_base,Actual Labor Cost Base
 msdyn_actualsales,Actual Sales
 msdyn_actualsales_base,Actual Sales Base
 msdyn_actualstart,Actual Start Date
-msdyn_adjustmentstatus,MSDYN Adjustment Status
-msdyn_amount,Msdynamount
-msdyn_amount_base,Msdynamount Base
-msdyn_amountmethod,Msdynamount Method
+msdyn_adjustmentstatus,Adjustment Status
+msdyn_amount,Amount
+msdyn_amount_base,Amount Base
+msdyn_amountmethod,Amount Method
 msdyn_autoscheduling,Auto Scheduling
-msdyn_basisamount,MSDYN Basisamount
-msdyn_basisamount_base,MSDYN Basisamount Base
-msdyn_basisprice,MSDYN Basis Price
-msdyn_basisprice_base,MSDYN Basis Price Base
-msdyn_basisquantity,MSDYN Basis Quantity
-msdyn_billingstatus,MSDYN Billing Status
-msdyn_billingtype,MSDYN Billing Type
-msdyn_bookableresource,MSDYN Bookable Resource
-msdyn_bookableresource_entitytype,MSDYN Bookable Resource Entity Type
-msdyn_bookableresourcename,MSDYN Bookable Resource Name
+msdyn_basisamount,Basisamount
+msdyn_basisamount_base,Basisamount Base
+msdyn_basisprice,Basis Price
+msdyn_basisprice_base,Basis Price Base
+msdyn_basisquantity,Basis Quantity
+msdyn_billingstatus,Billing Status
+msdyn_billingtype,Billing Type
+msdyn_bookableresource,Bookable Resource
+msdyn_bookableresource_entitytype,Bookable Resource Entity Type
+msdyn_bookableresourcename,Bookable Resource Name
 msdyn_calendarid,Calendar ID
 msdyn_comments,Comments
-msdyn_contactcustomer,MSDYN Contact Customer
-msdyn_contactcustomer_entitytype,MSDYN Contact Customer Entity Type
-msdyn_contactcustomername,MSDYN Contact Customer Name
-msdyn_contactcustomeryominame,MSDYN Contact Customer Yomi Name
-msdyn_contactvendor,MSDYN Contact Vendor
-msdyn_contactvendor_entitytype,MSDYN Contact Vendor Entity Type
-msdyn_contactvendorname,MSDYN Contact Vendor Name
-msdyn_contactvendoryominame,MSDYN Contact Vendor Yomi Name
+msdyn_contactcustomer,Contact Customer
+msdyn_contactcustomer_entitytype,Contact Customer Entity Type
+msdyn_contactcustomername,Contact Customer Name
+msdyn_contactcustomeryominame,Contact Customer Yomi Name
+msdyn_contactvendor,Contact Vendor
+msdyn_contactvendor_entitytype,Contact Vendor Entity Type
+msdyn_contactvendorname,Contact Vendor Name
+msdyn_contactvendoryominame,Contact Vendor Yomi Name
 msdyn_costatcompleteestimate,Cost At Complete Estimate
 msdyn_costatcompleteestimate_base,Cost At Complete Estimate Base
 msdyn_costconsumption,Cost Consumption
@@ -2522,33 +2522,33 @@ msdyn_costestimateatcomplete_base,Cost Estimate At Complete Base
 msdyn_costperformence,Cost Performence
 msdyn_costvariance,Cost Variance
 msdyn_costvariance_base,Cost Variance Base
-msdyn_customertype,MSDYN Customer Type
+msdyn_customertype,Customer Type
 msdyn_date,Date
-msdyn_description,MSDYN Description
-msdyn_documentdate,MSDYN Document Date
+msdyn_description,Description
+msdyn_documentdate,Document Date
 msdyn_duration,Duration
 msdyn_effort,Effort
 msdyn_effortestimateatcomplete,Effort Estimate At Complete
 msdyn_effortestimateatcompleteeac,Effort Estimate At Complete EAC
-msdyn_enddatetime,MSDYN End Date Time
+msdyn_enddatetime,End Date Time
 msdyn_entrystatus,Entry Status
-msdyn_exchangeratedate,MSDYN Exchange Rate Date
-msdyn_externaldescription,MSDYN External Description
-msdyn_externalreferencedate,MSDYN External Reference Date
-msdyn_externalreferenceid,MSDYN External Reference ID
-msdyn_gdproptout,MSDYN Gdpr Optout
-msdyn_invoice,MSDYN Invoice
-msdyn_invoice_entitytype,MSDYN Invoice Entity Type
-msdyn_invoicename,MSDYN Invoice Name
-msdyn_isjournalized,MSDYN Is Journalized
+msdyn_exchangeratedate,Exchange Rate Date
+msdyn_externaldescription,External Description
+msdyn_externalreferencedate,External Reference Date
+msdyn_externalreferenceid,External Reference ID
+msdyn_gdproptout,Gdpr Optout
+msdyn_invoice,Invoice
+msdyn_invoice_entitytype,Invoice Entity Type
+msdyn_invoicename,Invoice Name
+msdyn_isjournalized,Is Journalized
 msdyn_islinetask,Is Line Task
 msdyn_istemplate,Is Template
 msdyn_manager,Manager
 msdyn_msdyn_timeentry_msdyn_projectapproval_TimeEntry,Time Entry Project Approval Time Entry
 msdyn_msdyn_timeentry_msdyn_timeoffcalendar_timeEntry,Time Entry Time Off Calendar Time Entry
-msdyn_orgchangestatus,MSDYN Org Change Status
+msdyn_orgchangestatus,Org Change Status
 msdyn_overallprojectstatus,Overall Project Status
-msdyn_percent,MSDYN Percent
+msdyn_percent,Percent
 msdyn_plannedcost,Planned Cost
 msdyn_plannedcost_base,Planned Cost Base
 msdyn_plannedhours,Planned Hours
@@ -2556,21 +2556,21 @@ msdyn_plannedlaborcost,Planned Labor Cost
 msdyn_plannedlaborcost_base,Planned Labor Cost Base
 msdyn_plannedsales,Planned Sales
 msdyn_plannedsales_base,Planned Sales Base
-msdyn_price,MSDYN Price
-msdyn_price_base,MSDYN Price Base
-msdyn_pricelist,MSDYN Price List
-msdyn_pricelist_entitytype,MSDYN Price List Entity Type
-msdyn_pricelistname,MSDYN Price List Name
-msdyn_product,MSDYN Product
-msdyn_product_entitytype,MSDYN Product Entity Type
-msdyn_productname,MSDYN Product Name
+msdyn_price,Price
+msdyn_price_base,Price Base
+msdyn_pricelist,Price List
+msdyn_pricelist_entitytype,Price List Entity Type
+msdyn_pricelistname,Price List Name
+msdyn_product,Product
+msdyn_product_entitytype,Product Entity Type
+msdyn_productname,Product Name
 msdyn_progress,Progress
 msdyn_project,Project
 msdyn_projectid,Project ID
 msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To Re
 msdyn_projectTask,Project Task
 msdyn_projecttaskid,Project Task ID
-msdyn_quantity,MSDYN Quantity
+msdyn_quantity,Quantity
 msdyn_relateditemid,Related Item ID
 msdyn_relateditemtype,Related Item Type
 msdyn_remainingcost,Remaining Cost
@@ -2581,10 +2581,10 @@ msdyn_remainingsales_base,Remaining Sales Base
 msdyn_resourceCategory,Resource Category
 msdyn_resourceutilization,Resource Utilization
 msdyn_salesconsumption,Sales Consumption
-msdyn_salescontract,MSDYN Sales Contract
-msdyn_salescontract_entitytype,MSDYN Sales Contract Entity Type
-msdyn_salescontractline,MSDYN Sales Contract Line
-msdyn_salescontractname,MSDYN Sales Contract Name
+msdyn_salescontract,Sales Contract
+msdyn_salescontract_entitytype,Sales Contract Entity Type
+msdyn_salescontractline,Sales Contract Line
+msdyn_salescontractname,Sales Contract Name
 msdyn_salesestimateatcomplete,Sales Estimate At Complete
 msdyn_salesestimateatcomplete_base,Sales Estimate At Complete Base
 msdyn_salesestimateatcompleteeac,Sales Estimate At Complete EAC
@@ -2598,7 +2598,7 @@ msdyn_scheduledstart,Scheduled Start
 msdyn_scheduleperformance,Schedule Performance
 msdyn_schedulevariance,Schedule Variance
 msdyn_stagename,Stage Name
-msdyn_startdatetime,MSDYN Start Datetime
+msdyn_startdatetime,Start Datetime
 msdyn_statusupdatedon,Status Updated On Date
 msdyn_subject,Subject
 msdyn_targetentrystatus,Target Entry Status
@@ -2615,18 +2615,18 @@ msdyn_totalactualcost,Total Actual Cost
 msdyn_totalactualcost_base,Total Actual Cost Base
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_totalplannedcost_base,Total Planned Cost Base
-msdyn_transactionclassification,MSDYN Trans Action Classification
-msdyn_transactiontypecode,MSDYN Trans Action Type Code
+msdyn_transactionclassification,Trans Action Classification
+msdyn_transactiontypecode,Trans Action Type Code
 msdyn_type,Type
-msdyn_unit,MSDYN Unit
-msdyn_unit_entitytype,MSDYN Unit Entity Type
-msdyn_unitname,MSDYN Unit Name
-msdyn_unitschedule,MSDYN Unit Schedule
-msdyn_unitschedule_entitytype,MSDYN Unit Schedule Entity Type
-msdyn_unitschedulename,MSDYN Unit Schedule Name
+msdyn_unit,Unit
+msdyn_unit_entitytype,Unit Entity Type
+msdyn_unitname,Unit Name
+msdyn_unitschedule,Unit Schedule
+msdyn_unitschedule_entitytype,Unit Schedule Entity Type
+msdyn_unitschedulename,Unit Schedule Name
 msdyn_varianceofcost,Variance of Cost
 msdyn_varianceofcost_base,Variance Of Cost Base
-msdyn_vendortype,MSDYN Vendor Type
+msdyn_vendortype,Vendor Type
 msdyn_wbsduration,Wbs Duration
 msdyn_wbsid,Wbs ID
 name,Name
@@ -3691,3 +3691,4 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
+_parentsystemuserid_value,Parent System User ID
