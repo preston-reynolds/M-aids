@@ -1,4 +1,4 @@
-DynamicsColumnName,CleanedColumnName
+ï»¿DynamicsColumnName,CleanedColumnName
 _calendarid_value,Calendar ID
 _createdby_value,Created By  ID
 _createdonbehalfby_value,Created On Behalf By  ID
@@ -553,7 +553,7 @@ cdi_domainidname,CDI Domain ID Name
 cdi_duration,CDI Duration
 cdi_editortype,CDI Editor Type
 cdi_email,CDI Email
-cdi_emailaddress,Cdi Email Address
+cdi_emailaddress,CdiÂ Email Address
 cdi_emailaddressfield,CDI Email Address Field
 cdi_emailclient,CDI Email Client
 cdi_emailclientpreviewdata,CDI Email Client Preview Data
@@ -570,7 +570,7 @@ cdi_emailstatus,CDI Email Status
 cdi_emailtemplateid,CDI Email Template ID
 cdi_emailtemplateid_entitytype,CDI Email Template ID Entity Type
 cdi_emailtemplateid2,CDI Email Template ID 2
-cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
+cdi_emailtemplateid2_entitytype,CdiÂ Email Template ID 2 Entity Type
 cdi_emailtemplateid2name,CDI Email Template ID 2 Name
 cdi_emailtemplateidname,CDI Email Template ID Name
 cdi_emailtest,CDI Email Test
@@ -3692,3 +3692,134 @@ yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
 _parentsystemuserid_value,Parent System User ID
+jt_space,Space JT
+jt_newtaskpriority,New Task Priority JT
+jt_deletemedate,Delete Me Date JT
+jt_newtaskname,New Task Name JT
+jt_newduedate,New Due Date JT
+msdyn_msprojectclientid,Ms Project Client ID
+msdyn_assignedresources,Assigned Resources
+jt_newcontractedhours,New Contracted Hours JT
+msdyn_requestedhours,Requested Hours
+_jt_newsprint_value,News Print Value JT
+msdyn_skipupdateestimateline,Skip Update Estimate Line
+_jt_originatingcaseid_value,Originating Case ID Value JT
+msdyn_pluginprocessingdata,Plugin Processing Data
+jt_newpriority,New Priority JT
+msdyn_aggregationdirection,Aggregation Direction
+_jt_newrequestedbookableresource_value,New Requested Bookable Resource Value JT
+jt_resourceassignments_state,Resource Assignments State JT
+msdyn_effortcontour,Effort Contour
+msdyn_actualdurationminutes,Actual Duration Minutes
+jt_childtasks_state,Child Tasks State JT
+jt_newestimatedhours,New Estimated Hours JT
+_transactioncurrencyid_value,Transaction Currency ID Value
+jt_resourceassignments_date,Resource Assignments Date JT
+jt_newtaskdescription,New Task Description JT
+msdyn_costestimatecontour,Cost Estimate Contour
+jt_childtasks_date,Child Tasks Date JT
+_msdyn_assignedteammembers_value,Assigned Team Members Value
+jt_newrequirementcontractedhours,New Requirement Contracted Hours JT
+msdyn_salesestimatecontour,Sales Estimate Contour
+_jt_relatedtasksid_value,Related Tasks ID Value JT
+jt_projecttask_acceptancecriterion,Project Task Acceptance Criterion JT
+jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Cycle History Project Task JT
+jt_associatedfeature,Associated Feature JT
+jt_msdyn_projecttask_msdyn_projecttask_associatedfeature,Project Task Project Task Associated Feature JT
+msdyn_projecttask_SyncErrors,Project Task Sync Errors
+msdyn_projecttask_DuplicateMatchingRecord,Project Task Duplicate Matching Record
+msdyn_projecttask_DuplicateBaseRecord,Project Task Duplicate Base Record
+msdyn_projecttask_QueueItems,Project Task Queue Items
+msdyn_projecttask_Annotations,Project Task Annotations
+msdyn_projecttask_AsyncOperations,Project Task Async Operations
+msdyn_projecttask_MailboxTrackingFolders,Project Task Mailbox Tracking Folders
+msdyn_projecttask_ProcessSession,Project Task Process Session
+msdyn_projecttask_BulkDeleteFailures,Project Task Bulk Delete Failures
+msdyn_projecttask_PrincipalObjectAttributeAccesses,Project Task Principal Object Attribute Accesses
+msdyn_msdyn_projecttask_msdyn_actual_Task,Project Task Actual Task
+msdyn_msdyn_projecttask_msdyn_contractlinescheduleofvalue_projecttask,Project Task Contract Line Schedule Of Value Project Task
+msdyn_msdyn_projecttask_msdyn_estimateline_Task,Project Task Estimate Line Task
+msdyn_msdyn_projecttask_msdyn_fact_Task,Project Task Fact Task
+msdyn_msdyn_projecttask_msdyn_invoicelinetransaction_Task,Project Task Invoice Line Transaction Task
+msdyn_msdyn_projecttask_msdyn_journalline_Task,Project Task Journal Line Task
+msdyn_msdyn_projecttask_msdyn_opportunitylinetransaction_Task,Project Task Opportunity Line Transaction Task
+msdyn_msdyn_projecttask_msdyn_orderlinetransaction_Task,Project Task Order Line Transaction Task
+msdyn_msdyn_projecttask_msdyn_projectapproval_ProjectTask,Project Task Project Approval Project Task
+msdyn_parenttask,Parent Task
+msdyn_msdyn_projecttask_msdyn_projecttask_parenttask,Project Task Project Task Parent Task
+msdyn_msdyn_projecttask_msdyn_projecttaskdependency_PredecessorTask,Project Task Project Taskdependency Predecessor Task
+msdyn_msdyn_projecttask_msdyn_projecttaskdependency_SuccessorTask,Project Task Project Task Dependency Successor Task
+msdyn_msdyn_projecttask_msdyn_projecttaskstatususer,Project Task Project Task Status User
+msdyn_msdyn_projecttask_msdyn_quotelinescheduleofvalue_projecttask,Project Task Quote Line Schedule Of Value Project Task
+msdyn_msdyn_projecttask_msdyn_quotelinetransaction_Task,Project Task Quote Line Transaction Task
+msdyn_msdyn_projecttask_msdyn_resourceassignment_taskid,Project Task Resource Assignment Task ID
+msdyn_msdyn_projecttask_msdyn_timeentry_projectTask,Project Task Time Entry Project Task
+msdyn_AssignedTeamMembers,Assigned Team Members
+msdyn_transactioncategory,Transaction Category
+msdyn_ResourceOrganizationalUnitId,Resource Organizational Unit ID
+jt_OriginatingCaseId,Originating Case ID JT
+jt_RelatedTasksId,Related Tasks ID JT
+jt_NewSprint,News Print JT
+msdyn_projecttask_ActivityPointers,Project Task Activity Pointers
+msdyn_projecttask_Appointments,Project Task Appointments
+msdyn_projecttask_Emails,Project Task Emails
+msdyn_projecttask_Faxes,Project Task Faxes
+msdyn_projecttask_Letters,Project Task Letters
+msdyn_projecttask_PhoneCalls,Project Task Phone Calls
+msdyn_projecttask_ServiceAppointments,Project Task Service Appointments
+msdyn_projecttask_Tasks,Project Task Tasks
+msdyn_projecttask_RecurringAppointmentMasters,Project Task Recurring Appointment Masters
+msdyn_projecttask_SocialActivities,Project Task Social Activities
+msdyn_projecttask_adx_identifierrequests,Project Task Adx IDentifier Requests
+msdyn_projecttask_msdyn_approvals,Project Task Approvals
+msdyn_projecttask_adx_ratings,Project Task Adx Ratings
+msdyn_projecttask_adx_inviteredemptions,Project Task Adx Inviteredemptions
+msdyn_projecttask_cdi_txtmessages,Project Task Cdi Txt Messages
+msdyn_projecttask_msdyn_surveyinvites,Project Task Survey Invites
+msdyn_projecttask_adx_alertsubscriptions,Project Task Adx Alert Subscriptions
+jt_ProjectTask_NewTaskParent,Project Task New Task Parent JT
+jt_NewRequestedBookableResource,New Requested Bookable Resource JT
+jt_RequestedBookableResource,Requested Bookable Resource JT
+msdyn_projecttask_msdyn_bookingalerts,Project Task Booking Alerts
+resourcetype,Resource Type
+bookableresourceid,Bookable Resource ID
+msdyn_isgenericresourceprojectscoped,Generic Resource Project Scoped Flag
+msdyn_targetutilization,Target Utilization
+jt_productgroup,Product Group JT
+jt_isapprover,Approver Flag JT
+_userid_value,User ID
+jt_initials,Initials JT
+_msdyn_organizationalunit_value,Organizational Unit ID
+timezone,Timezone
+jt_taskhierarchy,Task Hierarchy JT
+jt_childtasks,Child Tasks JT
+jt_remaininghours,Remaining Hours JT
+jt_externalerror,External Error Flag JT
+jt_requirementcontractedhours,Requirement Contracted Hours JT
+jt_requirementtype,Requirement Type Flag JT
+jt_completedon,Completed On Date JT
+jt_resourceassignments,Resource Assignments JT
+msdyn_ismilestone,Milestone Flag
+msdyn_actualeffort,Actual Effort
+jt_internalerror,Internal Error Flag
+_jt_associatedfeature_value,Associated Feature ID
+_jt_requestedbookableresource_value,Requested Bookable Resource ID JT
+jt_backlogrank,Backlog Rank JT
+jt_basetask,Base Task Flag JT
+jt_clientvisible,Client Visable Flag JT
+jt_iwantto,I Want To JT
+jt_taskstatus,Task Status JT
+jt_projecttasktype,Project Task Type JT
+msdyn_numberofresources,Number Of Resources
+msdyn_actualcost,Actual Cost
+jt_asa,Asa JT
+msdyn_costconsumptionpercentage,Cost Consumption Percentage
+jt_priority_old,Priority (Old) JT
+jt_iscomplete,Complete Flag JT
+jt_sothat,So That
+msdyn_salesconsumptionpercentage,Sales Consumption %
+_msdyn_transactioncategory_value,Transaction Category
+msdyn_actualcost_base,Actual Cost Base
+_jt_sprintid_value,Sprint ID JT
+jt_sprintname,Sprint Name JT
+jt_sprintstatus,Sprint Status JT
