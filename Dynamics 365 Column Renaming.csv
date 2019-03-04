@@ -2,8 +2,8 @@
 _calendarid_value,Calendar ID
 _createdby_value,Created By  ID
 _createdonbehalfby_value,Created On Behalf By  ID
-_defaultmailbox_value,Default Mailbox Value
-_jt_projectlead_value,Project Lead Value JT
+_defaultmailbox_value,Default Mailbox ID
+_jt_projectlead_value,Project Lead ID JT
 _lvt_contactid_value,Contact ID LVT
 _modifiedby_value,Modified By ID
 _modifiedonbehalfby_value,Modified On Behalf By  ID
@@ -11,12 +11,12 @@ _msdyn_bookableresource_value,Bookable Resource  ID
 _msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID
 _msdyn_customer_value,Customer  ID
 _msdyn_manager_value,Manager ID
-_msdyn_parenttask_value,Parent Task Value
-_msdyn_project_value,Project Value
-_msdyn_projectmanager_value,Project Manager Value
+_msdyn_parenttask_value,Parent Task ID
+_msdyn_project_value,Project ID
+_msdyn_projectmanager_value,Project Manager ID
 _msdyn_projecttask_value,Project Task  ID
 _msdyn_projecttemplate_value,Project Template ID
-_msdyn_resourcecategory_value,Resource Category Value
+_msdyn_resourcecategory_value,Resource Category ID
 _msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
 _msdyn_salesorderid_value,Sales Order ID
 _ownerid_value,Owner ID
@@ -1357,7 +1357,7 @@ gap_label,Gap Label
 gap_language,Gap Language
 gap_optionsetschemaname,Gap Option Set Schema Name
 gap_powerbioptionsetrefid,Gap Power Bi Option Set Ref ID
-gap_value,Gap Value
+gap_value,Gap ID
 Gender,Gender
 gendercode,Gender Code
 generatealertsforerrors,Generate Alerts For Errors
@@ -2060,7 +2060,7 @@ jt_primarycontact,Primary Contact JT
 jt_primarycontact_entitytype,Primary Contact Entity Type JT
 jt_primarycontactname,Primary Contact Name JT
 jt_primarycontactyominame,Primary Contact Yomi Name JT
-jt_priority,Priority JT
+jt_priority,Priority ID JT
 jt_product,Product JT
 jt_product_entitytype,Product Entity Type JT
 jt_productfamilyextended,Product Family Extend Ed JT
@@ -2192,7 +2192,7 @@ jt_shippingcost_base,Shippingcost Base JT
 jt_shippingexception,Shipping Exception JT
 jt_shippingmethod,Shipping Method JT
 jt_shippingmethodcode,Shipping Method Code JT
-jt_shippingmethodvalue,Shipping Method Value JT
+jt_shippingmethodvalue,Shipping Method ID JT
 jt_shippingstatus,Shipping Status JT
 jt_shippingstreetaddress,Shipping Street Address JT
 jt_shipstatus,Ship Status JT
@@ -3707,21 +3707,21 @@ _jt_originatingcaseid_value,Originating Case ID Value JT
 msdyn_pluginprocessingdata,Plugin Processing Data
 jt_newpriority,New Priority JT
 msdyn_aggregationdirection,Aggregation Direction
-_jt_newrequestedbookableresource_value,New Requested Bookable Resource Value JT
+_jt_newrequestedbookableresource_value,New Requested Bookable Resource ID JT
 jt_resourceassignments_state,Resource Assignments State JT
 msdyn_effortcontour,Effort Contour
 msdyn_actualdurationminutes,Actual Duration Minutes
 jt_childtasks_state,Child Tasks State JT
 jt_newestimatedhours,New Estimated Hours JT
-_transactioncurrencyid_value,Transaction Currency ID Value
+_transactioncurrencyid_value,Transaction Currency ID
 jt_resourceassignments_date,Resource Assignments Date JT
 jt_newtaskdescription,New Task Description JT
 msdyn_costestimatecontour,Cost Estimate Contour
 jt_childtasks_date,Child Tasks Date JT
-_msdyn_assignedteammembers_value,Assigned Team Members Value
+_msdyn_assignedteammembers_value,Assigned Team Members ID
 jt_newrequirementcontractedhours,New Requirement Contracted Hours JT
 msdyn_salesestimatecontour,Sales Estimate Contour
-_jt_relatedtasksid_value,Related Tasks ID Value JT
+_jt_relatedtasksid_value,Related Tasks ID JT
 jt_projecttask_acceptancecriterion,Project Task Acceptance Criterion JT
 jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Cycle History Project Task JT
 jt_associatedfeature,Associated Feature JT
@@ -3809,7 +3809,7 @@ jt_basetask,Base Task Flag JT
 jt_clientvisible,Client Visable Flag JT
 jt_iwantto,I Want To JT
 jt_taskstatus,Task Status JT
-jt_projecttasktype,Project Task Type JT
+jt_projecttasktype,Project Task Type ID JT
 msdyn_numberofresources,Number Of Resources
 msdyn_actualcost,Actual Cost
 jt_asa,Asa JT
