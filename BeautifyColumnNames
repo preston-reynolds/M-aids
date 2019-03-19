@@ -13,10 +13,10 @@ let
     RenameColumns = Table.RenameColumns(table_name,Table.ToRows(ColumnNameList))
 in RenameColumns
     
-// Rename the new function to BeautifyCoulumnNames (or whatever you prefer; just be sure to change the rest of the code based on that adjustment)
+// Rename the new function to BeautifyColumnNames (or whatever you prefer; just be sure to change the rest of the code based on that adjustment)
 // Then in the advanced editor for the table you need to clean the columns on, you'll need to envoke the function
 
-StepName = BeautifyCoulumnNames(NameOfPreviousStep,NameOfTableWithValues)
+StepName = BeautifyColumnNames(NameOfPreviousStep,NameOfTableWithValues)
 
 // If you're using Dynamics 365 as a source, you might consider using this table as your naming cleanup table
 // https://github.com/preston-reynolds/M-aids/blob/master/Dynamics%20365%20Column%20Renaming.csv
