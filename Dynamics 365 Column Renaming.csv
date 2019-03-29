@@ -3914,3 +3914,20 @@ msdyn_applicantcount_state,Applicant Count State
 msdyn_projectteamid,Project Team ID
 masdyn_projectteammembersignupid,Project Team Member Sign Up ID
 msdyn_resourcerequestid,Resource Request ID
+_lp_businessentityid_value,LP Business Entity ID
+_lp_sourcecampaignid_value,LP Source Campaign ID
+_lp_sourcecontractid_value,LP Source Contract ID
+_lp_topicteamid_value,LP Topic Team ID
+_msdyn_workhourtemplate_value,Work Hour Template
+lp_practiceareasmos,LP Practice Areas MOS
+lp_practiceareasos,LP Practice Areas SOS
+msdyn_actualexpensecost,Actual Expense Cost
+msdyn_actualexpensecost_base,Actual Expense Cost Base
+msdyn_bulkgenerationstatus,Bulk Generation Status
+msdyn_disablecreateofteammemberformanager,Disable Create Of Team Member For Manager
+msdyn_islinkedtomsprojectclient,Is Linked To MS Project Client
+msdyn_linkeddocumenturl,Linked Document URL
+msdyn_plannedexpensecost,Planned Expense Cost
+msdyn_plannedexpensecost_base,Planned Expense Cost Base
+msdyn_teamsize_date,Team Size Date
+msdyn_teamsize_state,Team Size State
