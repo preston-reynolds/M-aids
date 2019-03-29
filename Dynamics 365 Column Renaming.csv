@@ -3910,3 +3910,7 @@ _teamtemplateid_value,Team Template ID
 _regardingobjectid_value,Regarding Object ID
 _businessunitid_value,Business Unit ID
 _administratorid_value,Administrator ID
+msdyn_applicantcount_state,Applicant Count State
+msdyn_projectteamid,Project Team ID
+masdyn_projectteammembersignupid,Project Team Member Sign Up ID
+msdyn_resourcerequestid,Resource Request ID
