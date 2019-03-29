@@ -3823,3 +3823,90 @@ msdyn_actualcost_base,Actual Cost Base
 _jt_sprintid_value,Sprint ID JT
 jt_sprintname,Sprint Name JT
 jt_sprintstatus,Sprint Status JT
+msdyn_estimatedarrivaltime,Estimated Arrival Time
+msdyn_actualarrivaltime,Actual Arrival Time
+_header_value,Header Value
+msdyn_allowoverlapping,Allow Overlapping
+bookingtype,Booking Type
+_msdyn_bookingsetupmetadataid_value,Booking Setup Meta Data ID
+msdyn_cascadecrewchanges,Cascade Crew Changes
+bookableresourcebookingid,Bookable Resource Booking ID
+_resource_value,Resource
+msdyn_latitude,Latitude
+msdyn_bookingmethod,Booking Method
+_msdyn_resourcecategoryid_value,Resource Category ID
+_msdyn_projectid_value,Project ID
+msdyn_estimatedtravelduration,Estimated Travel Duration
+_msdyn_resourcegroup_value,Resource Group
+msdyn_milestraveled,Miles Traveled
+_msdyn_projectteamid_value,Project Team ID
+msdyn_longitude,Longitude
+_bookingstatus_value,Booking Status
+_msdyn_resourcerequirement_value,Resource Requirement
+_msdyn_timegroupdetailselected_value,Time Group Detail Selected
+msdyn_actualtravelduration,Actual Travel Duration
+bookableresourcecategoryid,Bookable Resource Category ID
+_accountid_value,Account ID
+msdyn_primaryemail,Primary Email
+msdyn_displayonscheduleassistant,Display On Schedule Assistant
+msdyn_endlocation,End Location
+msdyn_generictype,Generic Type
+msdyn_startlocation,Start Location
+msdyn_displayonscheduleboard,Display On Schedule Board
+_contactid_value,Contact ID
+_processid_value,Process ID
+_activestageid_value,Active Stage ID
+_bpf_leadid_value,BPF Lead ID
+_organizationid_value,Organization ID
+_bpf_new_contractid_value,BPF New Contract ID
+_bpf_quoteid_value,BPF Quote ID
+_bpf_opportunityid_value,BPF Opportunity ID
+msdyn_name,Name
+_msdyn_teammembership_value,Team Membership
+msdyn_projectteammembersignup_value,Project Team Member Sign Up
+msdyn_membershipstatus,Membership Status
+msdyn_projectapprover,Project Approver
+msdyn_to,To
+msdyn_allocationmethod,Allocation Method
+msdyn_applicantcount_date,Applicant Count Date
+msdyn_roledescription,Role Description
+msdyn_hoursrequested,Hours Requested
+msdyn_requiredhours,Required Hours
+msdyn_number,Number
+msdyn_softbookedhours,Soft Booked Hours
+msdyn_applicantcount,Applicant Count
+msdyn_assignedhours,Assigned Hours
+_msdyn_bookableresourceid_value,Bookable Resource ID
+_msdyn_worktemplate_value,Work Template
+msdyn_applicantsavailable,Applicants Available
+_msdyn_resourcerequirementid_value,Resource Requirement ID
+msdyn_hardbookedhours,Hard Booked Hours
+msdyn_percentage,Percentage
+msdyn_hours,Hours
+msdyn_from,From
+msdyn_resourceassignmentid,Resource Assignment ID
+_msdyn_taskid_value,Task ID
+msdyn_plannedwork,Planned Work
+_msdyn_userresourceid_value,User Resource ID
+msdyn_committype,Commit Type
+_msdyn_bookingstatusid_value,Booking Status ID
+msdyn_fromdate,From Date
+msdyn_todate,To Date
+msdyn_resourcecategorypricelevelid,Resource Category Price Level ID
+msdyn_pricecalculation,Price Calculation
+_msdyn_unit_value,Unit
+_msdyn_pricelist_value,Price List
+_msdyn_primaryunit_value,Primary Unit
+_msdyn_unitschedule_value,Unit Schedule
+msdyn_priceinprimaryunit,Price In Primary Unit
+msdyn_priceinprimaryunit_base,Price In Primary Unit Base
+_msdyn_requestedby_value,Requested By
+msdyn_positiondescription,Position Description
+_msdyn_claimedby_value,Claimed By
+_msdyn_roleid_value,Role ID
+msdyn_resourcerequirementid,Resource Requirement ID
+msdyn_resourcerequirement_bookableresourceid,Resource Requirement Bookable Resource ID
+_teamtemplateid_value,Team Template ID
+_regardingobjectid_value,Regarding Object ID
+_businessunitid_value,Business Unit ID
+_administratorid_value,Administrator ID
