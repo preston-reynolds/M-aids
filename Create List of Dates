@@ -1,0 +1,14 @@
+let
+    Source = List.Dates(StartDate, Length, #duration(1, 0, 0, 0)),
+    #"Converted to Table" = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    #"Renamed Columns" = Table.RenameColumns(#"Converted to Table",{{"Column1", "Date"}}),
+    #"Changed Type" = Table.TransformColumnTypes(#"Renamed Columns",{{"Date", type date}}),
+    StartDate = #date(
+                       Date.Year(Date.AddYears(DateTime.LocalNow() as datetime  , -2 as number)),
+                       Date.Month(Date.AddMonths(DateTime.LocalNow() as datetime  , -2 as number)),
+                       1),
+    Today = DateTime.Date(DateTime.LocalNow()),
+    Length = Duration.Days(Today - StartDate),
+    Calendar = #"Changed Type"
+in
+    Calendar
