@@ -3931,7 +3931,6 @@ msdyn_plannedexpensecost,Planned Expense Cost
 msdyn_plannedexpensecost_base,Planned Expense Cost Base
 msdyn_teamsize_date,Team Size Date
 msdyn_teamsize_state,Team Size State
-To Paste
 jt_repcommissionratenew,Rep. Commission Rate New
 jt_projectionsnewvsrenew,ProjectionsNewvSR enew
 jt_repcommissionraterenew,Rep. Commission Rate Renew
@@ -4004,7 +4003,6 @@ jt_srcash_base,SR Cash Base
 jt_rancash,Ran Cash
 jt_invoiceamount_base,Invoice Amount Base
 jt_invoiceamount,Invoice Amount
-Custom,Custom
 jt_teamsalesgoalid,Team Sales Goal ID
 jt_q1allrepsnew_state,Q1 All Reps New State
 jt_fyallreps,FY All Reps
@@ -4110,8 +4108,8 @@ jt_fytotalrevenue_base,FY Totalrevenue Base
 jt_fytotalrevenue,FY Totalrevenue
 jt_q4teamnew,Q4 Team New
 jt_q4teamnew_base,Q4 Team New Base
-jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
-_jt_teamsalesgoal_value,Team Sales Goal Value
+jt_teamsalegoalmonthlyid,Team Sales Goal Monthly ID
+jt_teamsalesgoal_value,Team Sales Goal Value
 jt_podcast,Podcast
 jt_total,Total
 jt_podcast_base,Podcast Base
