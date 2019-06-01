@@ -3931,3 +3931,246 @@ msdyn_plannedexpensecost,Planned Expense Cost
 msdyn_plannedexpensecost_base,Planned Expense Cost Base
 msdyn_teamsize_date,Team Size Date
 msdyn_teamsize_state,Team Size State
+To Paste
+jt_repcommissionratenew,Rep. Commission Rate New
+jt_projectionsnewvsrenew,ProjectionsNewvSR enew
+jt_repcommissionraterenew,Rep. Commission Rate Renew
+_jt_order_value,Order Value
+jt_apptsettercommissionraterenew,Appt. Setter Commission Rate Renew
+jt_monthof,Month of
+_jt_ordermonthly_value,Order Monthly Value
+jt_orderlinemonthlyid,Order Line Monthly ID
+jt_apptsettercommissionratenew,Appt. Setter Commission Rate New
+jt_accountingdate,Accounting Date
+jt_asranprojection,As Ran Projection
+jt_asranprojection_base,As Ran Projection Base
+_jt_orderline_value,Order Line Value
+jt_apptsettercommissionearnedrenew_base,Appt. Setter Commission Earned Renew Base
+jt_apptsettercommissionearnednew_base,Appt. Setter Commission Earned New Base
+jt_apptsettercommissionearnedrenew,Appt. Setter Commission Earned Renew
+jt_repcommissionearnednew_base,Rep. Commission Earned New Base
+jt_rantrade_base,Ran Trade Base
+jt_ranrenew_base,Ran Renew Base
+jt_rannew,Ran New
+jt_ranspots,Ran Spots
+jt_scheduledspots,Scheduled Spots
+jt_scheduledrenew,Scheduled Renew
+jt_repcommissionearnednew,Rep. Commission Earned New
+jt_repcommissionearnedrenew_base,Rep. Commission Earned Renew Base
+jt_calendarasranactual,Calendar As Ran actual
+jt_calendarasranactual_base,Calendar As Ran actual Base
+jt_schedulednew_base,Scheduled New Base
+jt_scheduledrenew_base,Scheduled Renew Base
+jt_rantrade,Ran Trade
+jt_schedulednew,Scheduled New
+jt_apptsettercommissionearnednew,Appt. Setter Commission Earned New
+jt_rannew_base,Ran New Base
+jt_ranrenew,Ran Renew
+jt_repcommissionearnedrenew,Rep. Commission Earned Renew
+gbh_dateoflastcontact,Date of l Ast Contact
+jt_firstspotdate_date,First Spot Date Date
+_primarycontactid_value,Primary Contact ID Value
+jt_firstspotdate_state,First Spot Date State
+gbh_mission,Mission
+_jt_autonumber_value,Autonumber Value
+gbh_activeorder,Active Order
+_originatingleadid_value,Originating Lead ID Value
+_defaultpricelevelid_value,Default pricelevel ID Value
+jt_commissiongroup,Commission Group
+jt_mostrecentspotdate_state,Most Recent Spot Date State
+gbh_financialsystemofrecord,Financial System of record
+jt_newuntil,New Until
+_parentaccountid_value,Parent Account ID Value
+jt_mostrecentspotdate_date,Most Recent Spot Date Date
+gbh_legacyid,Legacy ID
+jt_invoicedate,Invoice Date
+jt_ordermonthlyid,Order Monthly ID
+jt_invoiceapprovaldate,Invoice Approval Date
+jt_broadcastasranactual_base,Broadcast As Ran actual Base
+jt_scheduledtrade_base,Scheduled Trade Base
+_jt_invoiceapproval_value,Invoice Approval Value
+_jt_invoice_value,Invoice Value
+jt_scheduledcash_base,Scheduled Cash Base
+jt_psrtotal_base,PSR Total Base
+jt_srcash,SR Cash
+jt_scheduledtrade,Scheduled Trade
+jt_rancash_base,Ran Cash Base
+jt_currentinvoiceamount,Current Invoice Amount
+jt_psrtotal,PSR Total
+jt_broadcastasranactual,Broadcast As Ran actual
+jt_currentinvoiceamount_base,Current Invoice Amount Base
+jt_scheduledcash,Scheduled Cash
+jt_srcash_base,SR Cash Base
+jt_rancash,Ran Cash
+jt_invoiceamount_base,Invoice Amount Base
+jt_invoiceamount,Invoice Amount
+Custom,Custom
+jt_teamsalesgoalid,Team Sales Goal ID
+jt_q1allrepsnew_state,Q1 All Reps New State
+jt_fyallreps,FY All Reps
+jt_wgbytvtotal,WGBY TV Total
+jt_q2allrepsnew,Q2 All Reps New
+jt_897total_base,897 Total Base
+jt_q3allrepsnew,Q3 All Reps New
+jt_othertotal_base,Other Total Base
+jt_q1allrepsnew_base,Q1 All Reps New Base
+jt_q4teamdiscretionary,Q4 Team Discretionary
+jt_q2teamrestricted,Q2 Team Restricted
+jt_q1teamtotal_base,Q1 Team Total Base
+jt_q2teamtotal,Q2 Team Total
+jt_q1allreps_base,Q1 All Reps Base
+jt_q3allreps,Q3 All Reps
+jt_fyallrepsnew_base,FY All Reps New Base
+jt_q2allreps_state,Q2 All Reps State
+jt_q4allrepsnew_state,Q4 All Reps New State
+jt_q1allrepsnew,Q1 All Reps New
+jt_q4teamrestricted,Q4 Team Restricted
+jt_tvtotal,TV Total
+jt_q4allreps_date,Q4 All Reps Date
+jt_q3allrepsnew_date,Q3 All Reps New Date
+jt_q3teamtotal,Q3 Team Total
+jt_q4teamdiscretionary_base,Q4 Team Discretionary Base
+jt_q1teamrestricted_base,Q1 Team Restricted Base
+jt_webtotal,Web Total
+jt_fyallrepsnew_state,FY All Reps New State
+jt_neprtotal,NPR Total
+jt_q2teamrestricted_base,Q2 Team Restricted Base
+jt_q1allreps_date,Q1 All Reps Date
+jt_q2allreps_base,Q2 All Reps Base
+jt_q3allrepsnew_base,Q3 All Reps New Base
+jt_webtotal_base,Web Total Base
+jt_wcaifmtotal_base,WCAI FM Total Base
+jt_fyallreps_state,FY All Reps State
+jt_q2teamdiscreationary,Q2 Team Discreationary
+jt_q4allreps_state,Q4 All Reps State
+jt_othertotal,Other Total
+jt_wcaifmtotal,WCAI FM Total
+jt_q1teamtotal,Q1 Team Total
+jt_q3teamrestricted,Q3 Team Restricted
+jt_q2allreps_date,Q2 All Reps Date
+jt_pledgetotal,Pledge Total
+jt_fyallrepsnew_date,FY All Reps New Date
+jt_pledgetotal_base,Pledge Total Base
+jt_eventtotal,Event Total
+jt_q2allreps,Q2 All Reps
+jt_q2teamtotal_base,Q2 Team Total Base
+jt_enewstotal,eNews Total
+jt_q2allrepsnew_state,Q2 All Reps New State
+jt_fyallreps_base,FY All Reps Base
+jt_q3teamrestricted_base,Q3 Team Restricted Base
+jt_q3teamdiscretionary_base,Q3 Team Discretionary Base
+jt_q1allrepsnew_date,Q1 All Reps New Date
+jt_q2allrepsnew_base,Q2 All Reps New Base
+jt_q1teamdiscretionary,Q1 Team Discretionary
+jt_fyallrepsnew,FY All Reps New
+jt_q3allreps_date,Q3 All Reps Date
+jt_podcasttotal,Podcast Total
+jt_neprtotal_base,NPR Total Base
+jt_q2teamdiscreationary_base,Q2 Team Discreationary Base
+jt_printtotal_base,Print Total Base
+jt_q3allreps_state,Q3 All Reps State
+jt_q3teamdiscretionary,Q3 Team Discretionary
+jt_q2allrepsnew_date,Q2 All Reps New Date
+jt_q3allrepsnew_state,Q3 All Reps New State
+jt_wgbytvtotal_base,WGBY TV Total Base
+jt_q1allreps,Q1 All Reps
+jt_q4teamtotal,Q4 Team Total
+jt_q1allreps_state,Q1 All Reps State
+jt_q4teamrestricted_base,Q4 Team Restricted Base
+jt_tvtotal_base,TV Total Base
+jt_q4allreps_base,Q4 All Reps Base
+jt_897total,897 Total
+jt_q4allrepsnew,Q4 All Reps New
+jt_eventtotal_base,Event Total Base
+jt_fyallreps_date,FY All Reps Date
+jt_q1teamrestricted,Q1 Team Restricted
+jt_q4allrepsnew_date,Q4 All Reps New Date
+jt_q3allreps_base,Q3 All Reps Base
+jt_printtotal,Print Total
+jt_995total_base,995 Total Base
+jt_q3teamtotal_base,Q3 Team Total Base
+jt_q4allreps,Q4 All Reps
+jt_995total,995 Total
+jt_q4teamtotal_base,Q4 Team Total Base
+jt_goalname,Goal Name
+jt_podcasttotal_base,Podcast Total Base
+jt_enewstotal_base,eNews Total Base
+jt_q4allrepsnew_base,Q4 All Reps New Base
+jt_q1teamdiscretionary_base,Q1 Team Discretionary Base
+jt_q2teamnew,Q2 Team New
+jt_q2teamnew_base,Q2 Team New Base
+jt_q3teamnew_base,Q3 Team New Base
+jt_q3teamnew,Q3 Team New
+jt_versiondate,Version Date
+jt_versionname,VersionName
+jt_q1teamnew_base,Q1 Team New Base
+jt_team,Team
+jt_q1teamnew,Q1 Team New
+jt_fytotalrevenue_base,FY Totalrevenue Base
+jt_fytotalrevenue,FY Totalrevenue
+jt_q4teamnew,Q4 Team New
+jt_q4teamnew_base,Q4 Team New Base
+jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
+_jt_teamsalesgoal_value,Team Sales Goal Value
+jt_podcast,Podcast
+jt_total,Total
+jt_podcast_base,Podcast Base
+jt_wgbytv,WGBY TV
+jt_pledge,Pledge
+jt_wcaifm,WCAI FM
+jt_tv,TV
+jt_wgbytv_base,WGBY TV Base
+jt_enews,eNews
+jt_print,Print
+jt_other,Other
+jt_other_base,Other Base
+jt_event_base,Event Base
+jt_897,897
+jt_print_base,Print Base
+jt_897_base,897 Base
+jt_discretionary,Discretionary
+jt_tv_base,TV Base
+jt_restricted,Restricted
+jt_web,Web
+jt_neprradio_base,NPR Radio Base
+jt_wcaifm_base,WCAI FM Base
+jt_995,995
+jt_pledge_base,Pledge Base
+jt_web_base,Web Base
+jt_restricted_base,Restricted Base
+jt_discretionary_base,Discretionary Base
+jt_total_base,Total Base
+jt_995_base,995 Base
+jt_enews_base,eNews Base
+jt_neprradio,NPR Radio
+_customerid_value,Customer ID Value
+_parentcontactid_value,Parent Contact ID Value
+_campaignid_value,Campaign ID Value
+_pricelevelid_value,pricelevel ID Value
+_gbh_primaryquote_value,Primary Quote Value
+jt_adsstartdate,Ads start Date
+jt_adsenddate,Ads end Date
+msdyn_forecastcategory,Forecast Category
+_defaultuomscheduleid_value,Default UOM Schedule ID Value
+_defaultuomid_value,Default UOM ID Value
+_jt_new_productmedia_value,New productmedia Value
+jt_new_time_unit,New time Unit
+_jt_productowner_value,productowner Value
+_jt_new_productvenue_value,New produc TV enue Value
+jt_new_runtimeframe,New runtimeframe
+jt_asranprojection_state,As Ran Projection State
+_opportunityid_value,OpportUnity ID Value
+jt_asranprojection_date,As Ran Projection Date
+jt_repsalesgoalid,Repsales Goal ID
+jt_q1reptotal,Q1 Rep. Total
+jt_q2repnew,Q2 Rep. New
+jt_q3repnew,Q3 Rep. New
+jt_q4repnew,Q4 Rep. New
+jt_repgoal,Rep. Goal
+jt_fyrepnew,FY Rep. New
+_jt_rep_value,Rep. Value
+jt_quotemonthlyid,Quote Monthly ID
+_jt_quote_value,Quote Value
+_jt_quotemonthly_value,Quote Monthly Value
+_jt_quoteline_value,QuoteLine Value
+jt_quotelinemonthlyid,QuoteLine Monthly ID
