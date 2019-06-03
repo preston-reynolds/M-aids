@@ -4211,3 +4211,6 @@ _subjectid_value,Subject ID Value
 _jt_teamsalesgoal_value,Team Sales Goal Value
 jt_psrrenew,PSR Renew
 jt_ranall,Ran All
+jt_q2reptotal,Q2 Rep. Total
+jt_q3reptotal,Q3 Rep. Total
+jt_q4reptotal,Q4 Rep. Total
