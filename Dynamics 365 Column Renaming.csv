@@ -4172,3 +4172,40 @@ _jt_quote_value,Quote Value
 _jt_quotemonthly_value,Quote Monthly Value
 _jt_quoteline_value,QuoteLine Value
 jt_quotelinemonthlyid,QuoteLine Monthly ID
+jt_projectedcash,Projected Cash
+jt_discrepancycash,Discrepancy Cash
+jt_psrnew_base,PSR New Base
+jt_projectedrenew_base,Projected Renew Base
+jt_srall,SR All
+jt_projectedscheduledran,Projected Scheduled Ran
+_jt_sponsor_value,Sponsor Value
+jt_unknown,Unknown
+jt_psrcash_base,PSR Cash Base
+jt_unknown_base,Unknown Base
+jt_srtrade_base,SR Trade Base
+jt_projectednew,Projected New
+jt_discrepancytrade,Discrepancy Trade
+jt_discrepancytrade_base,Discrepancy Trade Base
+jt_discrepancyall,Discrepancy All
+jt_discrepancyall_base,Discrepancy All Base
+jt_scheduledall_base,Scheduled All Base
+jt_ranall_base,Ran All Base
+jt_psrtrade,PSR Trade
+jt_discrepancycash_base,Discrepancy Cash Base
+jt_psrtrade_base,PSR Trade Base
+jt_psrrenew_base,PSR Renew Base
+jt_psrnew,PSR New
+jt_scheduledall,Scheduled All
+jt_psrcash,PSR Cash
+jt_projectedcash_base,Projected Cash Base
+jt_projectedtrade,Projected Trade
+jt_projectednew_base,Projected New
+jt_projectedrenew,Projected Renew
+jt_projectedtrade_base,Projected Trade Base
+jt_srtrade,SR Trade
+jt_stillprojected_base,Still Projected Base
+jt_stillprojected,Still Projected
+jt_srall_base,SR All Base
+jt_ranall_base,Ran All Base
+_subjectid_value,Subject ID Value
+_jt_teamsalesgoal_value,Team Sales Goal Value
