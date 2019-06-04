@@ -4144,29 +4144,29 @@ jt_neprradio,NPR Radio
 _customerid_value,Customer ID Value
 _parentcontactid_value,Parent Contact ID Value
 _campaignid_value,Campaign ID Value
-_pricelevelid_value,pricelevel ID Value
+_pricelevelid_value,Price Level ID Value
 _gbh_primaryquote_value,Primary Quote Value
 jt_adsstartdate,Ads start Date
-jt_adsenddate,Ads end Date
+jt_adsenddate,Ads End Date
 msdyn_forecastcategory,Forecast Category
 _defaultuomscheduleid_value,Default UOM Schedule ID Value
 _defaultuomid_value,Default UOM ID Value
-_jt_new_productmedia_value,New productmedia Value
-jt_new_time_unit,New time Unit
-_jt_productowner_value,productowner Value
-_jt_new_productvenue_value,New produc TV enue Value
-jt_new_runtimeframe,New runtimeframe
+_jt_new_productmedia_value,New Product Media Value
+jt_new_time_unit,New Time Unit
+_jt_productowner_value,Product Owner Value
+_jt_new_productvenue_value,New product Venue Value
+jt_new_runtimeframe,New Run Timeframe
 jt_asranprojection_state,As Ran Projection State
-_opportunityid_value,OpportUnity ID Value
+_opportunityid_value,Opportunity ID Value
 jt_asranprojection_date,As Ran Projection Date
-jt_repsalesgoalid,Repsales Goal ID
+jt_repsalesgoalid,Rep Sales Goal ID
 jt_q1reptotal,Q1 Rep. Total
-jt_q2repnew,Q2 Rep. New
-jt_q3repnew,Q3 Rep. New
-jt_q4repnew,Q4 Rep. New
-jt_repgoal,Rep. Goal
-jt_fyrepnew,FY Rep. New
-_jt_rep_value,Rep. Value
+jt_q2repnew,Q2 Rep Goal New
+jt_q3repnew,Q3 Rep Goal New
+jt_q4repnew,Q4 Rep Goal New
+jt_repgoal,Rep Goal
+jt_fyrepnew,FY Rep Goal New
+_jt_rep_value,Rep Value
 jt_quotemonthlyid,Quote Monthly ID
 _jt_quote_value,Quote Value
 _jt_quotemonthly_value,Quote Monthly Value
@@ -4211,6 +4211,6 @@ _subjectid_value,Subject ID Value
 _jt_teamsalesgoal_value,Team Sales Goal Value
 jt_psrrenew,PSR Renew
 jt_ranall,Ran All
-jt_q2reptotal,Q2 Rep. Total
-jt_q3reptotal,Q3 Rep. Total
-jt_q4reptotal,Q4 Rep. Total
+jt_q2reptotal,Q2 Rep Goal
+jt_q3reptotal,Q3 Rep Goal
+jt_q4reptotal,Q4 Rep Goal
