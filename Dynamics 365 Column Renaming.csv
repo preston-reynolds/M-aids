@@ -4215,3 +4215,7 @@ jt_q2reptotal,Q2 Rep Goal
 jt_q3reptotal,Q3 Rep Goal
 jt_q4reptotal,Q4 Rep Goal
 jt_datesubmitted,Date Submitted JT
+jt_targethours,Target Hours JT
+jt_employeecode,Employee Code JT
+jt_displayonreports,Display on Reports JT
+jt_practice,Practice JT
