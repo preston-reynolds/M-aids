@@ -1970,7 +1970,7 @@ jt_jobtobeapproved_entitytype,Jobtobeapproved Entity Type
 jt_jobtobeapprovedname,Jobtobeapproved Name
 jt_jobtype,Jobtype
 jt_jt_job_productid,JT Job Product ID
-jt_jt_tollfreenumber_productid,JTtollfree Number Product ID
+jt_jt_tollfreenumber_productid,Toll Free Number Product ID
 jt_key,Key
 jt_lastapprovalstepowner,Last Approval Step Owner
 jt_lastapprovalstepowner_entitytype,Last Approval Step Owner Entity Type
@@ -4352,7 +4352,7 @@ jt_broadcastcalcash,Broadcastcal Cash
 jt_totalrenew,Total Renew
 jt_discrepancynew,Discrepancy New
 jt_srrenew,SR Renew
-_productid_value,Product ID
+_productid_value,Product IDs
 jt_orderlinenotes,Order Line Notes
 _owningteam_value,Owning Team ID
 _jt_invoiceapproval_value,Invoice Approval ID
@@ -4381,6 +4381,7 @@ jt_productvenueid,Product Venue ID
 JTtotal Cost,Total Cost
 jt_projectedall,Projected All
 jt_quotelinetimeunit,Quote Line Time Unit
+
 
 
 
