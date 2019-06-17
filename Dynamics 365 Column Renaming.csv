@@ -4247,7 +4247,83 @@ jt_targethours,Target Hours
 jt_employeecode,Employee Code
 jt_displayonreports,Display on Reports
 jt_practice,Practice
-
+_jt_project_value,Project ID
+jt_enddate_date,End Date Date
+_transactioncurrencyid_value,Transaction Currency ID
+jt_invoicedtotal_date,InvoicedTotal Date
+jt_totaltrade,Total Trade
+jt_invoicedtotal,InvoicedTotal
+jt_affnettotals,Aff NetTotals
+_modifiedby_value,Modified By ID
+_createdby_value,Created by ID
+_ownerid_value,Owner ID
+jt_totaldifference,Totaldifference
+jt_sendinvoicevia,Send Invoice Via
+jt_agency,Agency
+jt_startdate_date,Start Date Date
+jt_npm,NPM
+jt_asrancalendar,As Ran Calendar
+jt_totalcost_date,Totalcost Date
+jt_totaltrade_base,Totaltradebase
+_pricelevelid_value,Pricelevel ID
+jt_billingtype,Billing Type
+_jt_sponsor_value,Sponsor ID
+jt_ordernumber,Order Number
+_owningbusinessunit_value,Owning Business Unit ID
+jt_needaffidavit,Need aff IDavit
+jt_startdate_state,Start Date State
+jt_totalcash_base,Total Cash Base
+_jt_contractsignatory_value,Contractsignatory ID
+jt_affnetrates,Aff Net Rates
+jt_grosstotal,Gross Total
+jt_totalcash,Total Cash
+jt_totalinstallments_state,Total Installments State
+_modifiedonbehalfby_value,Modified On Behalf By ID
+jt_affgrosstotals,Aff Gross Totals
+jt_enddate_state,End Date State
+jt_totaldifference_base,Totaldifferencebase
+jt_totalinstallments,Total Installments
+jt_sentby,Sent By
+jt_totalcost_state,Total Cost State
+_customerid_value,Customer ID
+jt_invoicedtotal_base,InvoicedTotalbase
+jt_totalinstallments_date,Total Installments Date
+jt_affaddedvalue,AFF Added ID
+jt_contractid,Contract ID
+_owninguser_value,Owning User ID
+jt_cancellationclause,Cancellation Clause
+jt_invoicedtotal_state,InvoicedTotal State
+jt_totalinstallments_base,Total Installments Base
+jt_affgrossrates,Aff Gross Rates
+_jt_autonumber_value,Autonumber ID
+_jt_salesperson_value,Salesperson ID
+jt_customercontracttype,CustomerContract Type
+_quoteid_value,Quote ID
+jt_company,Company
+jt_invoiceasranproducts,Invoice As Ran Products
+jt_contractcontrolamount,Contract Control Amount
+jt_contractcontrolamount_base,Contract Control Amountbase
+_opportunityid_value,Opportunity ID
+_jt_appointmentsetter_value,Appt. Setter ID
+jt_renewaldeadline,Renewal Deadline
+jt_revrectotal_state,Rev RecTotal State
+jt_soldtowdid,Sold To  WD ID
+_jt_invoiceto_value,Invoice To ID
+jt_billingnotes,Billing Notes
+jt_effectivedate,Effective Date
+jt_addresswdid,Address WD ID
+jt_billcontactwdid,Bill Contact WD ID
+jt_billtowdid,Bill To WD ID
+jt_contractsigned,Contract Signed
+jt_enddatetemplate,End Date Template
+jt_startdatetemplate,Start Date Template
+_jt_billingcontact_value,Billing Contact ID
+_jt_orderagency_value,Order Agency ID
+jt_needcoopscripts,Need Coop Scripts
+_msdyn_bookableresource_value,Bookable Resource ID
+_msdyn_resourcecategory_value,Resource Category ID
+_msdyn_transactioncategory_value,Transaction Category ID
+_msdyn_projecttask_value,Project Task ID
 
 
 
