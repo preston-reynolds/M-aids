@@ -1,7 +1,6 @@
 ﻿DynamicsColumnName,CleanedColumnName
 jt_weekscalculated,Weeks Calculated
 jt_new_streamingaddon,New Streaming Add On
-jt_totaladunits,Totalad Units
 _quotedetailid_value,Quote Detail ID
 jt_orderunitrate,Order Unit Rate
 Is Price Overridden,Is Price Overridden
@@ -3735,7 +3734,7 @@ jt_newtaskpriority,New Task Priority
 jt_deletemedate,Delete Me Date
 jt_newtaskname,New Task Name
 jt_newduedate,New Due Date
-msdyn_msprojectclientid,Ms Project Client ID
+msdyn_msprojectclientid,MS Project Client ID
 msdyn_assignedresources,Assigned Resources
 jt_newcontractedhours,New Contracted Hours
 msdyn_requestedhours,Requested Hours
@@ -3805,7 +3804,7 @@ msdyn_projecttask_Faxes,Project Task Faxes
 msdyn_projecttask_Letters,Project Task Letters
 msdyn_projecttask_PhoneCalls,Project Task Phone Calls
 msdyn_projecttask_ServiceAppointments,Project Task Service Appointments
-msdyn_projecttask_Tasks,Project Task Tasks
+msdyn_projecttask_Tasks,Project Task
 msdyn_projecttask_RecurringAppointmentMasters,Project Task Recurring Appointment Masters
 msdyn_projecttask_SocialActivities,Project Task Social Activities
 msdyn_projecttask_adx_identifierrequests,Project Task Adx IDentifier Requests
@@ -4198,7 +4197,7 @@ jt_asranprojection_state,As Ran Projection State
 _opportunityid_value,Opportunity ID Value
 jt_asranprojection_date,As Ran Projection Date
 jt_repsalesgoalid,Rep Sales Goal ID
-jt_q1reptotal,Q1 Rep. Total
+jt_q1reptotal,Q1 Rep Total
 jt_q2repnew,Q2 Rep Goal New
 jt_q3repnew,Q3 Rep Goal New
 jt_q4repnew,Q4 Rep Goal New
