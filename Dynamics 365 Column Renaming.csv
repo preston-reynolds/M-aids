@@ -1,11 +1,11 @@
 ﻿DynamicsColumnName,CleanedColumnName
 jt_weekscalculated,Weeks Calculated
 jt_new_streamingaddon,New Streaming Add On
-_quotedetailid_ID,Quote Detail ID
+_quotedetailid_ID,Quote Line ID
 jt_orderunitrate,Order Unit Rate
 Is Price Overridden,Is Price Overridden
 jt_adsperweekcalc,Ads Per Week Calculation
-jt_solinenumber,Sales Order Line Number
+jt_solinenumber,Order Line Number
 jt_flightstatus,Flight Status
 jt_monthscalculated,Months Calculated
 jt_pricefromquote,Price From Quote
@@ -14,7 +14,7 @@ jt_projectiondiscrepancy,Projection Discrepancy
 _jt_venue_ID,Venue ID
 jt_adspermonthcalc,Ads Per Month Calculation
 jt_spotscalc,Spots Calculation
-_salesorderid_ID,Sales Order ID
+_salesorderid_ID,Order ID
 jt_new_enddate,New End Date
 jt_listunitrate,List Unit Rate
 _jt_media_ID,Media ID
@@ -57,7 +57,7 @@ _msdyn_projecttask_ID,Project Task  ID
 _msdyn_projecttemplate_ID,Project Template ID
 _msdyn_resourcecategory_ID,Resource Category ID
 _msdyn_resourceorganizationalunitid_ID,Resource Organizational Unit ID
-_msdyn_salesorderid_ID,Sales Order ID
+_msdyn_salesorderid_ID,Order ID
 _ownerid_ID,Owner ID
 _owningbusinessunit_ID,Owning Business Unit ID
 _owningteam_ID,Owning Team ID
@@ -374,9 +374,9 @@ bpf_productpricelevelidname,Product Price Level ID Name BPF
 bpf_quoteid,Quote ID BPF
 bpf_quoteid_entitytype,Quote ID Entity Type BPF
 bpf_quoteidname,Quote ID Name BPF
-bpf_salesorderid,Sales Order ID BPF
-bpf_salesorderid_entitytype,Sales Order ID Entity Type BPF
-bpf_salesorderidname,Sales Order ID Name BPF
+bpf_salesorderid,Order ID BPF
+bpf_salesorderid_entitytype,Order ID Entity Type BPF
+bpf_salesorderidname,Order ID Name BPF
 br_biphed,Biphed BR
 br_bodylab,Bodylab BR
 br_bremenn,Bremenn BR
@@ -583,7 +583,7 @@ cdi_deliveriescount,CDI Deliveries Count
 cdi_deliverytime,CDI Delivery Time
 cdi_delta,CDI Delta
 cdi_description,CDI Description
-cdi_details,CDI Details
+cdi_details,CDI Lines
 cdi_device,CDI Device
 cdi_domainid,CDI Domain ID
 cdi_domainid_entitytype,CDI Domain ID Entity Type
@@ -980,9 +980,9 @@ contactquoteid,Contact Quote ID
 containssocialprofile,Contains Social Profile
 content,Content
 contexturi,Contexturi
-contractdetailid,Contract Detail ID
-contractdetailid_entitytype,Contract Detail ID Entity Type
-contractdetailidname,Contract Detail ID Name
+contractdetailid,Contract Line ID
+contractdetailid_entitytype,Contract Line ID Entity Type
+contractdetailidname,Contract Line ID Name
 contractid,Contract ID
 contractid_entitytype,Contract ID Entity Type
 contractidname,Contract ID Name
@@ -1266,7 +1266,7 @@ entityobjecttypecode,Entity Object Type Code
 entitytype,Entity Type
 entrypage,Entry Page
 errorcode,Error Code
-errordetail,Error Detail
+errordetail,Error Line
 errormessage,Error Message
 errortime,Error Time
 errortype,Error Type
@@ -1495,8 +1495,8 @@ introducedversion,Introduced Version
 InvalidEmailSatusBR,Invalid Email Satus Br
 InvalidEmailStatusBR,Invalid Email Status Br
 invitestatuscode,Invite Status Code
-invoicedetailid,Invoice Detail ID
-invoicedetailname,Invoice Detail Name
+invoicedetailid,Invoice Line ID
+invoicedetailname,Invoice Line Name
 invoiceid,Invoice ID
 invoiceid_entitytype,Invoice ID Entity Type
 invoiceidname,Invoice ID Name
@@ -2036,9 +2036,9 @@ jt_ordersourcetype,Order Source Type
 jt_originalsuborder,Origin Alsub Order
 jt_originatingorder,Originating Order
 jt_originatingorder_entitytype,Originating Order Entity Type
-jt_originatingorderdetail,Originating Order Detail
-jt_originatingorderdetail_entitytype,Originating Order Detail Entity Type
-jt_originatingorderdetailname,Originating Order Detail Name
+jt_originatingorderdetail,Originating Order Line
+jt_originatingorderdetail_entitytype,Originating Order Line Entity Type
+jt_originatingorderdetailname,Originating Order Line Name
 jt_originatingordername,Originating Order Name
 jt_originatingquote,Originating Quote
 jt_originatingquote_entitytype,Originating Quote Entity Type
@@ -3097,10 +3097,10 @@ queuetypecode,Queue Type Code
 queueviewtype,Queue View Type
 quickfindrecordlimitenabled,Quick Find Record Limit Enabled
 quotecomments,Quote Comments
-quotedetailid,Quote Detail ID
-quotedetailid_entitytype,Quote Detail ID Entity Type
-quotedetailidname,Quote Detail ID Name
-quotedetailname,Quote Detail Name
+quotedetailid,Quote Line ID
+quotedetailid_entitytype,Quote Line ID Entity Type
+quotedetailidname,Quote Line ID Name
+quotedetailname,Quote Line Name
 quoteid,Quote ID
 quoteid_entitytype,Quote ID Entity Type
 quoteidname,Quote ID Name
@@ -3288,15 +3288,15 @@ sage_itemkey,Sage Item Key
 salesliteratureid,Sales Literature ID
 salesliteratureid_entitytype,Sales Literature ID Entity Type
 salesliteratureitemid,Sales Literature Item ID
-salesorderdetailid,Sales Order Detail ID
-salesorderdetailid_entitytype,Sales Order Detail ID Entity Type
-salesorderdetailidname,Sales Order Detail ID Name
-salesorderdetailname,Sales Order Detail Name
-salesorderid,Sales Order ID
-salesorderid_entitytype,Sales Order ID Entity Type
-salesorderidname,Sales Order ID Name
-salesorderispricelocked,Sales Order Is Price Locked
-salesorderstatecode,Sales Order State Code
+salesorderdetailid,Order Line ID
+salesorderdetailid_entitytype,Order Line ID Entity Type
+salesorderdetailidname,Order Line ID Name
+salesorderdetailname,Order Line Name
+salesorderid,Order ID
+salesorderid_entitytype,Order ID Entity Type
+salesorderidname,Order ID Name
+salesorderispricelocked,Order Is Price Locked
+salesorderstatecode,Order State Code
 salesrepid,Sales Rep ID
 salesrepid_entitytype,Sales Rep ID Entity Type
 salesrepidname,Sales Rep ID Name
@@ -3875,7 +3875,7 @@ _msdyn_projectteamid_ID,Project Team ID
 msdyn_longitude,Longitude
 _bookingstatus_ID,Booking Status
 _msdyn_resourcerequirement_ID,Resource Requirement
-_msdyn_timegroupdetailselected_ID,Time Group Detail Selected
+_msdyn_timegroupdetailselected_ID,Time Group Line Selected
 msdyn_actualtravelduration,Actual Travel Duration
 bookableresourcecategoryid,Bookable Resource Category ID
 _accountid_ID,Account ID
@@ -4250,6 +4250,7 @@ jt_targethours,Target Hours
 jt_employeecode,Employee Code
 jt_displayonreports,Display on Reports
 jt_practice,Practice
+
 
 
 
