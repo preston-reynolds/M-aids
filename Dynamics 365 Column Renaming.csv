@@ -1,7 +1,7 @@
 ﻿DynamicsColumnName,CleanedColumnName
 jt_weekscalculated,Weeks Calculated
 jt_new_streamingaddon,New Streaming Add On
-_quotedetailid_value,Quote Detail ID
+_quotedetailid_ID,Quote Detail ID
 jt_orderunitrate,Order Unit Rate
 Is Price Overridden,Is Price Overridden
 jt_adsperweekcalc,Ads Per Week Calculation
@@ -9,24 +9,26 @@ jt_solinenumber,Sales Order Line Number
 jt_flightstatus,Flight Status
 jt_monthscalculated,Months Calculated
 jt_pricefromquote,Price From Quote
-_uomid_value,UOM ID
+_uomid_ID,UOM ID
 jt_projectiondiscrepancy,Projection Discrepancy
-_jt_venue_value,Venue ID
+_jt_venue_ID,Venue ID
 jt_adspermonthcalc,Ads Per Month Calculation
 jt_spotscalc,Spots Calculation
-_salesorderid_value,Sales Order ID
+_salesorderid_ID,Sales Order ID
 jt_new_enddate,New End Date
 jt_listunitrate,List Unit Rate
-_jt_media_value,Media ID
+_jt_media_ID,Media ID
 jt_runtimeframe,Run Timeframe
 jt_cashtrade,Cash Trade
 jt_new_startdate,New Start Date
 jt_new_programspecific,New Program Specific
-_productid_value,Product ID
+skippricecalculation,Skip Price Calculation
+_productid_ID,Product ID
 accountid,Account ID
+opportunityid.1,opportunityid.1
+quoteid.1,quoteid.1
 jt_new_numberofweeks,New Number of Weeks
-skippricecalculation,skippricecalculation
-_jt_new_programs_value,New Programs ID
+_jt_new_programs_ID,New Programs ID
 jt_new_1or2spots,New 1 or 2 Spots
 jt_new_spotsperweek,New Spots Per Week
 jt_new_position,New Position
@@ -34,35 +36,35 @@ jt_totaladunits,Total Ad Units
 jt_quoteunitrate,Quote Unit Rate
 jt_timeunit,Time Unit
 jt_quotelinenumber,Quote Line Number
-_parentcustomerid_value,Parent Customer ID
-_qualifyingopportunityid_value,Qualifying Opportunity ID
-_calendarid_value,Calendar ID
-_createdby_value,Created By  ID
-_createdonbehalfby_value,Created On Behalf By  ID
-_defaultmailbox_value,Default Mailbox ID
-_jt_projectlead_value,Project Lead ID
-_lvt_contactid_value,Contact ID LVT
-_modifiedby_value,Modified By ID
-_modifiedonbehalfby_value,Modified On Behalf By  ID
-_msdyn_bookableresource_value,Bookable Resource  ID
-_msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID
-_msdyn_customer_value,Customer  ID
-_msdyn_manager_value,Manager ID
-_msdyn_parenttask_value,Parent Task ID
-_msdyn_project_value,Project ID
-_msdyn_projectmanager_value,Project Manager ID
-_msdyn_projecttask_value,Project Task  ID
-_msdyn_projecttemplate_value,Project Template ID
-_msdyn_resourcecategory_value,Resource Category ID
-_msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
-_msdyn_salesorderid_value,Sales Order ID
-_ownerid_value,Owner ID
-_owningbusinessunit_value,Owning Business Unit ID
-_owningteam_value,Owning Team ID
-_owninguser_value,Owning User  ID
-_positionid_value,Position ID
-_queueid_value,Queue ID
-_stageid_value,Stage ID
+_parentcustomerid_ID,Parent Customer ID
+_qualifyingopportunityid_ID,Qualifying Opportunity ID
+_calendarid_ID,Calendar ID
+_createdby_ID,Created By  ID
+_createdonbehalfby_ID,Created On Behalf By  ID
+_defaultmailbox_ID,Default Mailbox ID
+_jt_projectlead_ID,Project Lead ID
+_lvt_contactid_ID,Contact ID LVT
+_modifiedby_ID,Modified By ID
+_modifiedonbehalfby_ID,Modified On Behalf By  ID
+_msdyn_bookableresource_ID,Bookable Resource  ID
+_msdyn_contractorganizationalunitid_ID,Contract Organizational Unit ID
+_msdyn_customer_ID,Customer  ID
+_msdyn_manager_ID,Manager ID
+_msdyn_parenttask_ID,Parent Task ID
+_msdyn_project_ID,Project ID
+_msdyn_projectmanager_ID,Project Manager ID
+_msdyn_projecttask_ID,Project Task  ID
+_msdyn_projecttemplate_ID,Project Template ID
+_msdyn_resourcecategory_ID,Resource Category ID
+_msdyn_resourceorganizationalunitid_ID,Resource Organizational Unit ID
+_msdyn_salesorderid_ID,Sales Order ID
+_ownerid_ID,Owner ID
+_owningbusinessunit_ID,Owning Business Unit ID
+_owningteam_ID,Owning Team ID
+_owninguser_ID,Owning User  ID
+_positionid_ID,Position ID
+_queueid_ID,Queue ID
+_stageid_ID,Stage ID
 aadcreatedbyid,AAD Created By ID
 aadlastmodifiedbyid,AAD Last Modified By ID
 aadlastpublishedbyid,AAD Last Published By ID
@@ -119,8 +121,8 @@ actualmoney_base,Actual Money Base
 actualserviceunits,Actual Service Units
 actualstart,Actual Start
 actualstring,Actual String
-actualvalue,Actual Value
-actualvalue_base,Actual Value Base
+actualID,Actual ID
+actualID_base,Actual ID Base
 address,Address
 address_city,Address City
 address_country,Address Country
@@ -383,7 +385,7 @@ br_cartabandon,Cart Abandon BR
 br_cartabandondate,Cart Abandon Date BR
 br_customerid,Customer ID BR
 br_customerid_entitytype,Customer ID Entity Type BR
-br_customerididtype,Customer ID ID Type BR
+br_customerididtype,Customer ID Type BR
 br_customeridname,Customer ID Name BR
 br_customeridyominame,Customer ID Yomi Name BR
 br_expiredbrand,Expired Brand BR
@@ -878,8 +880,7 @@ cdi_updatedleads,CDI Updated Leads
 cdi_uri,Cdiuri
 cdi_url,CDI URL
 cdi_usersessionid,CDI User Session ID
-cdi_value,CDI Value
-cdi_valuen,CDI Value N
+cdi_IDn,CDI ID N
 cdi_venuecity,CDI Venue City
 cdi_venuecountry,CDI Venue Country
 cdi_venuelatitude,CDI Venue Latitude
@@ -1094,7 +1095,7 @@ daylightsecond,Day Light Second
 daylightyear,Day Light Year
 dayofmonth,Day Of Month
 daysofweekmask,Days Of Week Mask
-dayssincerecordlastmodifiedmaxvalue,Days Since Record Last Modified Max Value
+dayssincerecordlastmodifiedmaxID,Days Since Record Last Modified Max ID
 decimalsymbol,Decimal Symbol
 decisionmaker,Decision Maker
 decreaseremainingon,Decrease Remainingon
@@ -1274,8 +1275,8 @@ escalatedon,Escalated On Date
 estimatedamount,Estimatedamount
 estimatedamount_base,Estimatedamount Base
 estimatedclosedate,Estimated Close Date
-estimatedvalue,Estimated Value
-estimatedvalue_base,Estimated Value Base
+estimatedID,Estimated ID
+estimatedID_base,Estimated ID Base
 evaluatefit,Evaluate Fit
 eventhandlers,Event Handle Rs
 ewsurl,Ews URL
@@ -1392,7 +1393,7 @@ gap_label,Gap Label
 gap_language,Gap Language
 gap_optionsetschemaname,Gap Option Set Schema Name
 gap_powerbioptionsetrefid,Gap Power Bi Option Set Ref ID
-gap_value,Gap ID
+gap_ID,Gap ID
 Gender,Gender
 gendercode,Gender Code
 generatealertsforerrors,Generate Alerts For Errors
@@ -2099,7 +2100,6 @@ jt_priority,Priority ID
 jt_product,Product
 jt_product_entitytype,Product Entity Type
 jt_productfamilyextended,Product Family Extend Ed
-jt_productid,Product ID
 jt_productid_entitytype,Product ID Entity Type
 jt_productidname,Product ID Name
 jt_productname,Product Name
@@ -2227,7 +2227,7 @@ jt_shippingcost_base,Shippingcost Base
 jt_shippingexception,Shipping Exception
 jt_shippingmethod,Shipping Method
 jt_shippingmethodcode,Shipping Method Code
-jt_shippingmethodvalue,Shipping Method ID
+jt_shippingmethodID,Shipping Method ID
 jt_shippingstatus,Shipping Status
 jt_shippingstreetaddress,Shipping Street Address
 jt_shipstatus,Ship Status
@@ -3038,7 +3038,6 @@ processorder,Process Order
 processroleassignment,Process Role Assignment
 productassociationid,Product Association ID
 productdescription,Product Description
-productid,Product ID
 productid_entitytype,Product ID Entity Type
 productidname,Product ID Name
 productname,Product Name
@@ -3340,7 +3339,7 @@ sendersaccountyominame,Senders Account Yomi Name
 sendon,Send On Date
 sendthankyounote,Send Thank You Note
 sentemailid,Sent Email ID
-sentimentvalue,Sentiment Value
+sentimentID,Sentiment ID
 senton,Sent On Date
 sequencenumber,Sequence Number
 seriesid,Series ID
@@ -3665,8 +3664,7 @@ utcoffset,UTC Offset
 v3calloutconfighash,V3 Callout Config Hash
 validfromdate,Valid From Date
 validtodate,Validto Date
-value,Value
-valuen,Value N
+IDn,ID N
 vendorid,Vendor ID
 vendorname,Vendor Name
 vendorpartnumber,Vendor Part Number
@@ -3725,37 +3723,37 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
-_parentsystemuserid_value,Parent System User ID
+_parentsystemuserid_ID,Parent System User ID
 jt_space,Space
 jt_newtaskpriority,New Task Priority
 jt_deletemedate,Delete Me Date
 jt_newtaskname,New Task Name
 jt_newduedate,New Due Date
-msdyn_msprojectclientid,MS Project Client ID
+msdyn_msprojectclientid,Ms Project Client ID
 msdyn_assignedresources,Assigned Resources
 jt_newcontractedhours,New Contracted Hours
 msdyn_requestedhours,Requested Hours
-_jt_newsprint_value,News Print Value
+_jt_newsprint_ID,News Print ID
 msdyn_skipupdateestimateline,Skip Update Estimate Line
-_jt_originatingcaseid_value,Originating Case ID Value
+_jt_originatingcaseid_ID,Originating Case ID
 msdyn_pluginprocessingdata,Plugin Processing Data
 jt_newpriority,New Priority
 msdyn_aggregationdirection,Aggregation Direction
-_jt_newrequestedbookableresource_value,New Requested Bookable Resource ID
+_jt_newrequestedbookableresource_ID,New Requested Bookable Resource ID
 jt_resourceassignments_state,Resource Assignments State
 msdyn_effortcontour,Effort Contour
 msdyn_actualdurationminutes,Actual Duration Minutes
 jt_childtasks_state,Child Tasks State
 jt_newestimatedhours,New Estimated Hours
-_transactioncurrencyid_value,Transaction Currency ID
+_transactioncurrencyid_ID,Transaction Currency ID
 jt_resourceassignments_date,Resource Assignments Date
 jt_newtaskdescription,New Task Description
 msdyn_costestimatecontour,Cost Estimate Contour
 jt_childtasks_date,Child Tasks Date
-_msdyn_assignedteammembers_value,Assigned Team Members ID
+_msdyn_assignedteammembers_ID,Assigned Team Members ID
 jt_newrequirementcontractedhours,New Requirement Contracted Hours
 msdyn_salesestimatecontour,Sales Estimate Contour
-_jt_relatedtasksid_value,Related Tasks ID
+_jt_relatedtasksid_ID,Related Tasks ID
 jt_projecttask_acceptancecriterion,Project Task Acceptance Criterion
 jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Cycle History Project Task
 jt_associatedfeature,Associated Feature
@@ -3771,7 +3769,7 @@ msdyn_projecttask_ProcessSession,Project Task Process Session
 msdyn_projecttask_BulkDeleteFailures,Project Task Bulk Delete Failures
 msdyn_projecttask_PrincipalObjectAttributeAccesses,Project Task Principal Object Attribute Accesses
 msdyn_msdyn_projecttask_msdyn_actual_Task,Project Task Actual Task
-msdyn_msdyn_projecttask_msdyn_contractlinescheduleofvalue_projecttask,Project Task Contract Line Schedule Of Value Project Task
+msdyn_msdyn_projecttask_msdyn_contractlinescheduleofID_projecttask,Project Task Contract Line Schedule Of ID Project Task
 msdyn_msdyn_projecttask_msdyn_estimateline_Task,Project Task Estimate Line Task
 msdyn_msdyn_projecttask_msdyn_fact_Task,Project Task Fact Task
 msdyn_msdyn_projecttask_msdyn_invoicelinetransaction_Task,Project Task Invoice Line Transaction Task
@@ -3784,7 +3782,7 @@ msdyn_msdyn_projecttask_msdyn_projecttask_parenttask,Project Task Project Task P
 msdyn_msdyn_projecttask_msdyn_projecttaskdependency_PredecessorTask,Project Task Project Taskdependency Predecessor Task
 msdyn_msdyn_projecttask_msdyn_projecttaskdependency_SuccessorTask,Project Task Project Task Dependency Successor Task
 msdyn_msdyn_projecttask_msdyn_projecttaskstatususer,Project Task Project Task Status User
-msdyn_msdyn_projecttask_msdyn_quotelinescheduleofvalue_projecttask,Project Task Quote Line Schedule Of Value Project Task
+msdyn_msdyn_projecttask_msdyn_quotelinescheduleofID_projecttask,Project Task Quote Line Schedule Of ID Project Task
 msdyn_msdyn_projecttask_msdyn_quotelinetransaction_Task,Project Task Quote Line Transaction Task
 msdyn_msdyn_projecttask_msdyn_resourceassignment_taskid,Project Task Resource Assignment Task ID
 msdyn_msdyn_projecttask_msdyn_timeentry_projectTask,Project Task Time Entry Project Task
@@ -3801,7 +3799,7 @@ msdyn_projecttask_Faxes,Project Task Faxes
 msdyn_projecttask_Letters,Project Task Letters
 msdyn_projecttask_PhoneCalls,Project Task Phone Calls
 msdyn_projecttask_ServiceAppointments,Project Task Service Appointments
-msdyn_projecttask_Tasks,Project Task
+msdyn_projecttask_Tasks,Project Task Tasks
 msdyn_projecttask_RecurringAppointmentMasters,Project Task Recurring Appointment Masters
 msdyn_projecttask_SocialActivities,Project Task Social Activities
 msdyn_projecttask_adx_identifierrequests,Project Task Adx IDentifier Requests
@@ -3821,9 +3819,9 @@ msdyn_isgenericresourceprojectscoped,Generic Resource Project Scoped Flag
 msdyn_targetutilization,Target Utilization
 jt_productgroup,Product Group
 jt_isapprover,Approver Flag
-_userid_value,User ID
+_userid_ID,User ID
 jt_initials,Initials
-_msdyn_organizationalunit_value,Organizational Unit ID
+_msdyn_organizationalunit_ID,Organizational Unit ID
 timezone,Timezone
 jt_taskhierarchy,Task Hierarchy
 jt_childtasks,Child Tasks
@@ -3836,8 +3834,8 @@ jt_resourceassignments,Resource Assignments
 msdyn_ismilestone,Milestone Flag
 msdyn_actualeffort,Actual Effort
 jt_internalerror,Internal Error Flag
-_jt_associatedfeature_value,Associated Feature ID
-_jt_requestedbookableresource_value,Requested Bookable Resource ID
+_jt_associatedfeature_ID,Associated Feature ID
+_jt_requestedbookableresource_ID,Requested Bookable Resource ID
 jt_backlogrank,Backlog Rank
 jt_basetask,Base Task Flag
 jt_clientvisible,Client Visable Flag
@@ -3852,52 +3850,52 @@ jt_priority_old,Priority (Old)
 jt_iscomplete,Complete Flag
 jt_sothat,So That
 msdyn_salesconsumptionpercentage,Sales Consumption %
-_msdyn_transactioncategory_value,Transaction Category
+_msdyn_transactioncategory_ID,Transaction Category
 msdyn_actualcost_base,Actual Cost Base
-_jt_sprintid_value,Sprint ID
+_jt_sprintid_ID,Sprint ID
 jt_sprintname,Sprint Name
 jt_sprintstatus,Sprint Status
 msdyn_estimatedarrivaltime,Estimated Arrival Time
 msdyn_actualarrivaltime,Actual Arrival Time
-_header_value,Header Value
+_header_ID,Header ID
 msdyn_allowoverlapping,Allow Overlapping
 bookingtype,Booking Type
-_msdyn_bookingsetupmetadataid_value,Booking Setup Meta Data ID
+_msdyn_bookingsetupmetadataid_ID,Booking Setup Meta Data ID
 msdyn_cascadecrewchanges,Cascade Crew Changes
 bookableresourcebookingid,Bookable Resource Booking ID
-_resource_value,Resource
+_resource_ID,Resource
 msdyn_latitude,Latitude
 msdyn_bookingmethod,Booking Method
-_msdyn_resourcecategoryid_value,Resource Category ID
-_msdyn_projectid_value,Project ID
+_msdyn_resourcecategoryid_ID,Resource Category ID
+_msdyn_projectid_ID,Project ID
 msdyn_estimatedtravelduration,Estimated Travel Duration
-_msdyn_resourcegroup_value,Resource Group
+_msdyn_resourcegroup_ID,Resource Group
 msdyn_milestraveled,Miles Traveled
-_msdyn_projectteamid_value,Project Team ID
+_msdyn_projectteamid_ID,Project Team ID
 msdyn_longitude,Longitude
-_bookingstatus_value,Booking Status
-_msdyn_resourcerequirement_value,Resource Requirement
-_msdyn_timegroupdetailselected_value,Time Group Detail Selected
+_bookingstatus_ID,Booking Status
+_msdyn_resourcerequirement_ID,Resource Requirement
+_msdyn_timegroupdetailselected_ID,Time Group Detail Selected
 msdyn_actualtravelduration,Actual Travel Duration
 bookableresourcecategoryid,Bookable Resource Category ID
-_accountid_value,Account ID
+_accountid_ID,Account ID
 msdyn_primaryemail,Primary Email
 msdyn_displayonscheduleassistant,Display On Schedule Assistant
 msdyn_endlocation,End Location
 msdyn_generictype,Generic Type
 msdyn_startlocation,Start Location
 msdyn_displayonscheduleboard,Display On Schedule Board
-_contactid_value,Contact ID
-_processid_value,Process ID
-_activestageid_value,Active Stage ID
-_bpf_leadid_value,BPF Lead ID
-_organizationid_value,Organization ID
-_bpf_new_contractid_value,BPF New Contract ID
-_bpf_quoteid_value,BPF Quote ID
-_bpf_opportunityid_value,BPF Opportunity ID
+_contactid_ID,Contact ID
+_processid_ID,Process ID
+_activestageid_ID,Active Stage ID
+_bpf_leadid_ID,BPF Lead ID
+_organizationid_ID,Organization ID
+_bpf_new_contractid_ID,BPF New Contract ID
+_bpf_quoteid_ID,BPF Quote ID
+_bpf_opportunityid_ID,BPF Opportunity ID
 msdyn_name,Name
-_msdyn_teammembership_value,Team Membership
-msdyn_projectteammembersignup_value,Project Team Member Sign Up
+_msdyn_teammembership_ID,Team Membership
+msdyn_projectteammembersignup_ID,Project Team Member Sign Up
 msdyn_membershipstatus,Membership Status
 msdyn_projectapprover,Project Approver
 msdyn_to,To
@@ -3910,49 +3908,49 @@ msdyn_number,Number
 msdyn_softbookedhours,Soft Booked Hours
 msdyn_applicantcount,Applicant Count
 msdyn_assignedhours,Assigned Hours
-_msdyn_bookableresourceid_value,Bookable Resource ID
-_msdyn_worktemplate_value,Work Template
+_msdyn_bookableresourceid_ID,Bookable Resource ID
+_msdyn_worktemplate_ID,Work Template
 msdyn_applicantsavailable,Applicants Available
-_msdyn_resourcerequirementid_value,Resource Requirement ID
+_msdyn_resourcerequirementid_ID,Resource Requirement ID
 msdyn_hardbookedhours,Hard Booked Hours
 msdyn_percentage,Percentage
 msdyn_hours,Hours
 msdyn_from,From
 msdyn_resourceassignmentid,Resource Assignment ID
-_msdyn_taskid_value,Task ID
+_msdyn_taskid_ID,Task ID
 msdyn_plannedwork,Planned Work
-_msdyn_userresourceid_value,User Resource ID
+_msdyn_userresourceid_ID,User Resource ID
 msdyn_committype,Commit Type
-_msdyn_bookingstatusid_value,Booking Status ID
+_msdyn_bookingstatusid_ID,Booking Status ID
 msdyn_fromdate,From Date
 msdyn_todate,To Date
 msdyn_resourcecategorypricelevelid,Resource Category Price Level ID
 msdyn_pricecalculation,Price Calculation
-_msdyn_unit_value,Unit
-_msdyn_pricelist_value,Price List
-_msdyn_primaryunit_value,Primary Unit
-_msdyn_unitschedule_value,Unit Schedule
+_msdyn_unit_ID,Unit
+_msdyn_pricelist_ID,Price List
+_msdyn_primaryunit_ID,Primary Unit
+_msdyn_unitschedule_ID,Unit Schedule
 msdyn_priceinprimaryunit,Price In Primary Unit
 msdyn_priceinprimaryunit_base,Price In Primary Unit Base
-_msdyn_requestedby_value,Requested By
+_msdyn_requestedby_ID,Requested By
 msdyn_positiondescription,Position Description
-_msdyn_claimedby_value,Claimed By
-_msdyn_roleid_value,Role ID
+_msdyn_claimedby_ID,Claimed By
+_msdyn_roleid_ID,Role ID
 msdyn_resourcerequirementid,Resource Requirement ID
 msdyn_resourcerequirement_bookableresourceid,Resource Requirement Bookable Resource ID
-_teamtemplateid_value,Team Template ID
-_regardingobjectid_value,Regarding Object ID
-_businessunitid_value,Business Unit ID
-_administratorid_value,Administrator ID
+_teamtemplateid_ID,Team Template ID
+_regardingobjectid_ID,Regarding Object ID
+_businessunitid_ID,Business Unit ID
+_administratorid_ID,Administrator ID
 msdyn_applicantcount_state,Applicant Count State
 msdyn_projectteamid,Project Team ID
 masdyn_projectteammembersignupid,Project Team Member Sign Up ID
 msdyn_resourcerequestid,Resource Request ID
-_lp_businessentityid_value,LP Business Entity ID
-_lp_sourcecampaignid_value,LP Source Campaign ID
-_lp_sourcecontractid_value,LP Source Contract ID
-_lp_topicteamid_value,LP Topic Team ID
-_msdyn_workhourtemplate_value,Work Hour Template
+_lp_businessentityid_ID,LP Business Entity ID
+_lp_sourcecampaignid_ID,LP Source Campaign ID
+_lp_sourcecontractid_ID,LP Source Contract ID
+_lp_topicteamid_ID,LP Topic Team ID
+_msdyn_workhourtemplate_ID,Work Hour Template
 lp_practiceareasmos,LP Practice Areas MOS
 lp_practiceareasos,LP Practice Areas SOS
 msdyn_actualexpensecost,Actual Expense Cost
@@ -3968,16 +3966,16 @@ msdyn_teamsize_state,Team Size State
 jt_repcommissionratenew,Rep. Commission Rate New
 jt_projectionsnewvsrenew,ProjectionsNewvSR enew
 jt_repcommissionraterenew,Rep. Commission Rate Renew
-_jt_order_value,Order Value
+_jt_order_ID,Order ID
 jt_apptsettercommissionraterenew,Appt. Setter Commission Rate Renew
 jt_monthof,Month of
-_jt_ordermonthly_value,Order Monthly Value
+_jt_ordermonthly_ID,Order Monthly ID
 jt_orderlinemonthlyid,Order Line Monthly ID
 jt_apptsettercommissionratenew,Appt. Setter Commission Rate New
 jt_accountingdate,Accounting Date
 jt_asranprojection,As Ran Projection
 jt_asranprojection_base,As Ran Projection Base
-_jt_orderline_value,Order Line Value
+_jt_orderline_ID,Order Line ID
 jt_apptsettercommissionearnedrenew_base,Appt. Setter Commission Earned Renew Base
 jt_apptsettercommissionearnednew_base,Appt. Setter Commission Earned New Base
 jt_apptsettercommissionearnedrenew,Appt. Setter Commission Earned Renew
@@ -4002,18 +4000,18 @@ jt_ranrenew,Ran Renew
 jt_repcommissionearnedrenew,Rep. Commission Earned Renew
 gbh_dateoflastcontact,Date of l Ast Contact
 jt_firstspotdate_date,First Spot Date Date
-_primarycontactid_value,Primary Contact ID Value
+_primarycontactid_ID,Primary Contact ID
 jt_firstspotdate_state,First Spot Date State
 gbh_mission,Mission
-_jt_autonumber_value,Autonumber Value
+_jt_autonumber_ID,Autonumber ID
 gbh_activeorder,Active Order
-_originatingleadid_value,Originating Lead ID Value
-_defaultpricelevelid_value,Default pricelevel ID Value
+_originatingleadid_ID,Originating Lead ID
+_defaultpricelevelid_ID,Default pricelevel ID
 jt_commissiongroup,Commission Group
 jt_mostrecentspotdate_state,Most Recent Spot Date State
 gbh_financialsystemofrecord,Financial System of record
 jt_newuntil,New Until
-_parentaccountid_value,Parent Account ID Value
+_parentaccountid_ID,Parent Account ID
 jt_mostrecentspotdate_date,Most Recent Spot Date Date
 gbh_legacyid,Legacy ID
 jt_invoicedate,Invoice Date
@@ -4021,8 +4019,8 @@ jt_ordermonthlyid,Order Monthly ID
 jt_invoiceapprovaldate,Invoice Approval Date
 jt_broadcastasranactual_base,Broadcast As Ran actual Base
 jt_scheduledtrade_base,Scheduled Trade Base
-_jt_invoiceapproval_value,Invoice Approval Value
-_jt_invoice_value,Invoice Value
+_jt_invoiceapproval_ID,Invoice Approval ID
+_jt_invoice_ID,Invoice ID
 jt_scheduledcash_base,Scheduled Cash Base
 jt_psrtotal_base,PSR Total Base
 jt_srcash,SR Cash
@@ -4143,7 +4141,7 @@ jt_fytotalrevenue,FY Totalrevenue
 jt_q4teamnew,Q4 Team New
 jt_q4teamnew_base,Q4 Team New Base
 jt_teamsalegoalmonthlyid,Team Sales Goal Monthly ID
-jt_teamsalesgoal_value,Team Sales Goal Value
+jt_teamsalesgoal_ID,Team Sales Goal ID
 jt_podcast,Podcast
 jt_total,Total
 jt_podcast_base,Podcast Base
@@ -4175,36 +4173,36 @@ jt_total_base,Total Base
 jt_995_base,995 Base
 jt_enews_base,eNews Base
 jt_neprradio,NPR Radio
-_customerid_value,Customer ID Value
-_parentcontactid_value,Parent Contact ID Value
-_campaignid_value,Campaign ID Value
-_pricelevelid_value,Price Level ID Value
-_gbh_primaryquote_value,Primary Quote Value
+_customerid_ID,Customer ID
+_parentcontactid_ID,Parent Contact ID
+_campaignid_ID,Campaign ID
+_pricelevelid_ID,Price Level ID
+_gbh_primaryquote_ID,Primary Quote ID
 jt_adsstartdate,Ads start Date
 jt_adsenddate,Ads End Date
 msdyn_forecastcategory,Forecast Category
-_defaultuomscheduleid_value,Default UOM Schedule ID Value
-_defaultuomid_value,Default UOM ID Value
-_jt_new_productmedia_value,New Product Media Value
+_defaultuomscheduleid_ID,Default UOM Schedule ID
+_defaultuomid_ID,Default UOM ID
+_jt_new_productmedia_ID,New Product Media ID
 jt_new_time_unit,New Time Unit
-_jt_productowner_value,Product Owner Value
-_jt_new_productvenue_value,New product Venue Value
+_jt_productowner_ID,Product Owner ID
+_jt_new_productvenue_ID,New product Venue ID
 jt_new_runtimeframe,New Run Timeframe
 jt_asranprojection_state,As Ran Projection State
-_opportunityid_value,Opportunity ID Value
+_opportunityid_ID,Opportunity ID
 jt_asranprojection_date,As Ran Projection Date
 jt_repsalesgoalid,Rep Sales Goal ID
-jt_q1reptotal,Q1 Rep Total
+jt_q1reptotal,Q1 Rep. Total
 jt_q2repnew,Q2 Rep Goal New
 jt_q3repnew,Q3 Rep Goal New
 jt_q4repnew,Q4 Rep Goal New
 jt_repgoal,Rep Goal
 jt_fyrepnew,FY Rep Goal New
-_jt_rep_value,Rep Value
+_jt_rep_ID,Rep ID
 jt_quotemonthlyid,Quote Monthly ID
-_jt_quote_value,Quote Value
-_jt_quotemonthly_value,Quote Monthly Value
-_jt_quoteline_value,QuoteLine Value
+_jt_quote_ID,Quote ID
+_jt_quotemonthly_ID,Quote Monthly ID
+_jt_quoteline_ID,QuoteLine ID
 jt_quotelinemonthlyid,QuoteLine Monthly ID
 jt_projectedcash,Projected Cash
 jt_discrepancycash,Discrepancy Cash
@@ -4212,7 +4210,7 @@ jt_psrnew_base,PSR New Base
 jt_projectedrenew_base,Projected Renew Base
 jt_srall,SR All
 jt_projectedscheduledran,Projected Scheduled Ran
-_jt_sponsor_value,Sponsor Value
+_jt_sponsor_ID,Sponsor ID
 jt_unknown,Unknown
 jt_psrcash_base,PSR Cash Base
 jt_unknown_base,Unknown Base
@@ -4240,8 +4238,8 @@ jt_srtrade,SR Trade
 jt_stillprojected_base,Still Projected Base
 jt_stillprojected,Still Projected
 jt_srall_base,SR All Base
-_subjectid_value,Subject ID Value
-_jt_teamsalesgoal_value,Team Sales Goal Value
+_subjectid_ID,Subject ID
+_jt_teamsalesgoal_ID,Team Sales Goal ID
 jt_psrrenew,PSR Renew
 jt_ranall,Ran All
 jt_q2reptotal,Q2 Rep Goal
@@ -4252,5 +4250,61 @@ jt_targethours,Target Hours
 jt_employeecode,Employee Code
 jt_displayonreports,Display on Reports
 jt_practice,Practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
