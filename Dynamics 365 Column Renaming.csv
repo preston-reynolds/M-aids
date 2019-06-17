@@ -24,8 +24,6 @@ jt_new_programspecific,New Program Specific
 skippricecalculation,Skip Price Calculation
 _productid_ID,Product ID
 accountid,Account ID
-opportunityid.1,opportunityid.1
-quoteid.1,quoteid.1
 jt_new_numberofweeks,New Number of Weeks
 _jt_new_programs_ID,New Programs ID
 jt_new_1or2spots,New 1 or 2 Spots
@@ -38,21 +36,21 @@ jt_quotelinenumber,Quote Line Number
 _parentcustomerid_ID,Parent Customer ID
 _qualifyingopportunityid_ID,Qualifying Opportunity ID
 _calendarid_ID,Calendar ID
-_createdby_ID,Created By  ID
-_createdonbehalfby_ID,Created On Behalf By  ID
+_createdby_ID,Created By ID
+_createdonbehalfby_ID,Created On Behalf By ID
 _defaultmailbox_ID,Default Mailbox ID
 _jt_projectlead_ID,Project Lead ID
 _lvt_contactid_ID,Contact ID LVT
 _modifiedby_ID,Modified By ID
-_modifiedonbehalfby_ID,Modified On Behalf By  ID
-_msdyn_bookableresource_ID,Bookable Resource  ID
+_modifiedonbehalfby_ID,Modified On Behalf By ID
+_msdyn_bookableresource_ID,Bookable Resource ID
 _msdyn_contractorganizationalunitid_ID,Contract Organizational Unit ID
-_msdyn_customer_ID,Customer  ID
+_msdyn_customer_ID,Customer ID
 _msdyn_manager_ID,Manager ID
 _msdyn_parenttask_ID,Parent Task ID
 _msdyn_project_ID,Project ID
 _msdyn_projectmanager_ID,Project Manager ID
-_msdyn_projecttask_ID,Project Task  ID
+_msdyn_projecttask_ID,Project Task ID
 _msdyn_projecttemplate_ID,Project Template ID
 _msdyn_resourcecategory_ID,Resource Category ID
 _msdyn_resourceorganizationalunitid_ID,Resource Organizational Unit ID
@@ -60,7 +58,7 @@ _msdyn_salesorderid_ID,Order ID
 _ownerid_ID,Owner ID
 _owningbusinessunit_ID,Owning Business Unit ID
 _owningteam_ID,Owning Team ID
-_owninguser_ID,Owning User  ID
+_owninguser_ID,Owning User ID
 _positionid_ID,Position ID
 _queueid_ID,Queue ID
 _stageid_ID,Stage ID
@@ -4249,6 +4247,7 @@ jt_targethours,Target Hours
 jt_employeecode,Employee Code
 jt_displayonreports,Display on Reports
 jt_practice,Practice
+
 
 
 
