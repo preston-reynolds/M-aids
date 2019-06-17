@@ -22,11 +22,8 @@ jt_runtimeframe,Run Timeframe
 jt_cashtrade,Cash Trade
 jt_new_startdate,New Start Date
 jt_new_programspecific,New Program Specific
-skippricecalculation,Skip Price Calculation
 _productid_value,Product ID
 accountid,Account ID
-opportunityid.1,opportunityid.1
-quoteid.1,quoteid.1
 jt_new_numberofweeks,New Number of Weeks
 skippricecalculation,skippricecalculation
 _jt_new_programs_value,New Programs ID
