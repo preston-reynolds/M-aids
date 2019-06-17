@@ -4357,6 +4357,33 @@ jt_broadcastcalcash,Broadcastcal Cash
 jt_totalrenew,Total Renew
 jt_discrepancynew,Discrepancy New
 jt_srrenew,SR Renew
+_owningteam_value,Owning Team ID
+_jt_invoiceapproval_value,Invoice Approval ID
+jt_repratenew,Rep Rate New
+_jt_ordermonthly_value,Order Monthly ID
+_jt_orderline_value,Order Line ID
+jt_apptratenew,Appt. Rate New
+_jt_commissioncalcapproved_value,Commission Calc Approved ID
+_jt_asranrevenueapproval_value,As Ran Revenue Approval ID
+_jt_order_value,Order ID
+jt_apptraterenew,Appt. Rate Renew
+_jt_invoice_value,Invoice ID
+jt_apptcommrenew,Appt  Comm Renew
+jt_datecommissioncalcapproved,Date Commission Calc Approved
+jt_asranrevenueapprovaldate,As Ran Revenue Approval Date
+jt_exportstatus,Export Status
+jt_repcommrenew,Rep Comm Renew
+jt_rannotrecognized,Ran Not Recognized
+jt_workdaycontractnotes,Workday Contract Notes
+actualrevenue,Actual Revenue
+_regardingobjectid_value,Regardingobject ID
+jt_productmediaid,Product Media ID
+_organizationid_value,Organization ID
+_jt_productmediaid_value,Product Media ID
+jt_productvenueid,Product Venue ID
+JTtotal Cost,Total Cost
+jt_projectedall,Projected All
+jt_quotelinetimeunit,Quote Line Time Unit
 
 
 
