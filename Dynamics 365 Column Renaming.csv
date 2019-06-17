@@ -4324,6 +4324,39 @@ _msdyn_bookableresource_value,Bookable Resource ID
 _msdyn_resourcecategory_value,Resource Category ID
 _msdyn_transactioncategory_value,Transaction Category ID
 _msdyn_projecttask_value,Project Task ID
+jt_totalbudget,Total Budget
+_uomid_value,UOM ID
+_salesorderid_value,Order ID
+extendedamount,Extended Amount
+jt_adstime,Ads Time
+_jt_productowner_value,Product Owner ID
+jt_contractline,Contract Line
+jt_orderlinetimeunit,Order Line Time Unit
+_jt_venue_value,Venue ID
+jt_productid,Product ID
+jt_timeunits,Time Units
+_jt_media_value,Media ID
+_quotedetailid_value,Quote Detail ID
+jt_targetads,Target Ads
+jt_new_hubstatus,New Hub Status
+jt_position,Position
+_jt_new_programs_value,New Programs ID
+jt_trafficsystemflightid,Traffic System Flight ID
+jt_projectionall,Projection All
+jt_apptsettercommissionearnedall,Appt. Setter Commision Earned All
+jt_discrepancyrenew,Discrepancy Renew
+jt_projectiontrade,Projection Trade
+jt_totalnew,TotalNew
+jt_srnew,SR New
+jt_projectionnew,Projection New
+jt_broadcastcaltrade,Broadcastcal Trade
+jt_repcommissionearnedall,Rep Commision Earned All
+jt_projectionrenew,Projection Renew
+jt_projectioncash,Projection Cash
+jt_broadcastcalcash,Broadcastcal Cash
+jt_totalrenew,Total Renew
+jt_discrepancynew,Discrepancy New
+jt_srrenew,SR Renew
 
 
 
