@@ -4381,6 +4381,8 @@ jt_productvenueid,Product Venue ID
 JTtotal Cost,Total Cost
 jt_projectedall,Projected All
 jt_quotelinetimeunit,Quote Line Time Unit
+_jt_quote_value,Quote ID
+_jt_quoteline_value,Quote Line ID
 
 
 
