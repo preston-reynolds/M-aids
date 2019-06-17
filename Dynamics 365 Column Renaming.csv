@@ -2791,7 +2791,7 @@ originatingleadid,Originating Lead ID
 originatingleadid_entitytype,Originating Lead ID Entity Type
 originatingleadidname,Originating Lead ID Name
 originatingleadidyominame,Originating Lead ID Yomi Name
-os,Os
+os,OS
 othercost,Other Cost
 othercost_base,Other Cost Base
 outgoingemaildeliverymethod,Outgoing Email Delivery Method
@@ -3985,7 +3985,7 @@ jt_scheduledspots,Scheduled Spots
 jt_scheduledrenew,Scheduled Renew
 jt_repcommissionearnednew,Rep. Commission Earned New
 jt_repcommissionearnedrenew_base,Rep. Commission Earned Renew Base
-jt_calendarasranactual,Calendar As Ran actual
+jt_calendarasranactual,Calendar As Ran Actual
 jt_calendarasranactual_base,Calendar As Ran actual Base
 jt_schedulednew_base,Scheduled New Base
 jt_scheduledrenew_base,Scheduled Renew Base
@@ -3995,7 +3995,7 @@ jt_apptsettercommissionearnednew,Appt. Setter Commission Earned New
 jt_rannew_base,Ran New Base
 jt_ranrenew,Ran Renew
 jt_repcommissionearnedrenew,Rep. Commission Earned Renew
-gbh_dateoflastcontact,Date of l Ast Contact
+gbh_dateoflastcontact,Date of last Contact
 jt_firstspotdate_date,First Spot Date Date
 _primarycontactid_ID,Primary Contact ID
 jt_firstspotdate_state,First Spot Date State
@@ -4093,7 +4093,7 @@ jt_fyallrepsnew,FY All Reps New
 jt_q3allreps_date,Q3 All Reps Date
 jt_podcasttotal,Podcast Total
 jt_neprtotal_base,NPR Total Base
-jt_q2teamdiscreationary_base,Q2 Team Discreationary Base
+jt_q2teamdiscreationary_base,Q2 Team Discretionary Base
 jt_printtotal_base,Print Total Base
 jt_q3allreps_state,Q3 All Reps State
 jt_q3teamdiscretionary,Q3 Team Discretionary
@@ -4133,8 +4133,8 @@ jt_versionname,VersionName
 jt_q1teamnew_base,Q1 Team New Base
 jt_team,Team
 jt_q1teamnew,Q1 Team New
-jt_fytotalrevenue_base,FY Totalrevenue Base
-jt_fytotalrevenue,FY Totalrevenue
+jt_fytotalrevenue_base,FY Total Revenue Base
+jt_fytotalrevenue,FY Total Revenue
 jt_q4teamnew,Q4 Team New
 jt_q4teamnew_base,Q4 Team New Base
 jt_teamsalegoalmonthlyid,Team Sales Goal Monthly ID
@@ -4250,30 +4250,29 @@ jt_practice,Practice
 _jt_project_value,Project ID
 jt_enddate_date,End Date Date
 _transactioncurrencyid_value,Transaction Currency ID
-jt_invoicedtotal_date,InvoicedTotal Date
+jt_invoicedtotal_date,Invoiced Total Date
 jt_totaltrade,Total Trade
-jt_invoicedtotal,InvoicedTotal
-jt_affnettotals,Aff NetTotals
+jt_invoicedtotal,Invoiced Total
+jt_affnettotals,Aff Net Totals
 _modifiedby_value,Modified By ID
 _createdby_value,Created by ID
 _ownerid_value,Owner ID
-jt_totaldifference,Totaldifference
+jt_totaldifference,Total Difference
 jt_sendinvoicevia,Send Invoice Via
 jt_agency,Agency
 jt_startdate_date,Start Date Date
 jt_npm,NPM
 jt_asrancalendar,As Ran Calendar
 jt_totalcost_date,Totalcost Date
-jt_totaltrade_base,Totaltradebase
-_pricelevelid_value,Pricelevel ID
+jt_totaltrade_base,Total Trade Base
+_pricelevelid_value,Price Level ID
 jt_billingtype,Billing Type
 _jt_sponsor_value,Sponsor ID
-jt_ordernumber,Order Number
 _owningbusinessunit_value,Owning Business Unit ID
 jt_needaffidavit,Need aff IDavit
 jt_startdate_state,Start Date State
 jt_totalcash_base,Total Cash Base
-_jt_contractsignatory_value,Contractsignatory ID
+_jt_contractsignatory_value,Contract Signatory ID
 jt_affnetrates,Aff Net Rates
 jt_grosstotal,Gross Total
 jt_totalcash,Total Cash
@@ -4320,10 +4319,6 @@ jt_startdatetemplate,Start Date Template
 _jt_billingcontact_value,Billing Contact ID
 _jt_orderagency_value,Order Agency ID
 jt_needcoopscripts,Need Coop Scripts
-_msdyn_bookableresource_value,Bookable Resource ID
-_msdyn_resourcecategory_value,Resource Category ID
-_msdyn_transactioncategory_value,Transaction Category ID
-_msdyn_projecttask_value,Project Task ID
 jt_totalbudget,Total Budget
 _uomid_value,UOM ID
 _salesorderid_value,Order ID
@@ -4357,6 +4352,8 @@ jt_broadcastcalcash,Broadcastcal Cash
 jt_totalrenew,Total Renew
 jt_discrepancynew,Discrepancy New
 jt_srrenew,SR Renew
+_productid_value,Product ID
+jt_orderlinenotes,Order Line Notes
 _owningteam_value,Owning Team ID
 _jt_invoiceapproval_value,Invoice Approval ID
 jt_repratenew,Rep Rate New
@@ -4384,6 +4381,7 @@ jt_productvenueid,Product Venue ID
 JTtotal Cost,Total Cost
 jt_projectedall,Projected All
 jt_quotelinetimeunit,Quote Line Time Unit
+
 
 
 
