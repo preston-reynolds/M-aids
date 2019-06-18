@@ -2497,7 +2497,7 @@ modifiedbyexternalpartyyominame,Modified By External Party Yomi Name
 modifiedbyname,Modified By Name
 modifiedbyyominame,Modified By Yomi Name
 modifiedfieldsmask,Modified Fields Mask
-modifiedon,Modified On Date
+modifiedon,Modified On
 modifiedonbehalfby,Modified On Behalf By
 modifiedonbehalfby_entitytype,Modified On Behalf By Entity Type
 modifiedonbehalfbydsc,Modified On Behalf By Dsc
@@ -4396,7 +4396,6 @@ jt_ocean,Ocean
 jt_airrevenue,Air Revenue
 jt_customsbrokeragerevenue,Customs Brokerage Revenue
 jt_newmargin,New Margin 
-modifiedon,Modified On
 _originatingleadid_value,Originating Lead ID
 jt_groundrevenue,Ground Revenue
 jt_domground,DOM Ground
