@@ -3959,9 +3959,9 @@ msdyn_plannedexpensecost,Planned Expense Cost
 msdyn_plannedexpensecost_base,Planned Expense Cost Base
 msdyn_teamsize_date,Team Size Date
 msdyn_teamsize_state,Team Size State
-jt_repcommissionratenew,Rep. Commission Rate New
+jt_repcommissionratenew,Rep Commission Rate New
 jt_projectionsnewvsrenew,ProjectionsNewvSR enew
-jt_repcommissionraterenew,Rep. Commission Rate Renew
+jt_repcommissionraterenew,Rep Commission Rate Renew
 _jt_order_ID,Order ID
 jt_apptsettercommissionraterenew,Appt. Setter Commission Rate Renew
 jt_monthof,Month of
@@ -3975,15 +3975,15 @@ _jt_orderline_ID,Order Line ID
 jt_apptsettercommissionearnedrenew_base,Appt. Setter Commission Earned Renew Base
 jt_apptsettercommissionearnednew_base,Appt. Setter Commission Earned New Base
 jt_apptsettercommissionearnedrenew,Appt. Setter Commission Earned Renew
-jt_repcommissionearnednew_base,Rep. Commission Earned New Base
+jt_repcommissionearnednew_base,Rep Commission Earned New Base
 jt_rantrade_base,Ran Trade Base
 jt_ranrenew_base,Ran Renew Base
 jt_rannew,Ran New
 jt_ranspots,Ran Spots
 jt_scheduledspots,Scheduled Spots
 jt_scheduledrenew,Scheduled Renew
-jt_repcommissionearnednew,Rep. Commission Earned New
-jt_repcommissionearnedrenew_base,Rep. Commission Earned Renew Base
+jt_repcommissionearnednew,Rep Commission Earned New
+jt_repcommissionearnedrenew_base,Rep Commission Earned Renew Base
 jt_calendarasranactual,Calendar As Ran Actual
 jt_calendarasranactual_base,Calendar As Ran actual Base
 jt_schedulednew_base,Scheduled New Base
@@ -3993,7 +3993,7 @@ jt_schedulednew,Scheduled New
 jt_apptsettercommissionearnednew,Appt. Setter Commission Earned New
 jt_rannew_base,Ran New Base
 jt_ranrenew,Ran Renew
-jt_repcommissionearnedrenew,Rep. Commission Earned Renew
+jt_repcommissionearnedrenew,Rep Commission Earned Renew
 gbh_dateoflastcontact,Date of last Contact
 jt_firstspotdate_date,First Spot Date Date
 _primarycontactid_ID,Primary Contact ID
@@ -4188,7 +4188,7 @@ jt_asranprojection_state,As Ran Projection State
 _opportunityid_ID,Opportunity ID
 jt_asranprojection_date,As Ran Projection Date
 jt_repsalesgoalid,Rep Sales Goal ID
-jt_q1reptotal,Q1 Rep. Total
+jt_q1reptotal,Q1 Rep Total
 jt_q2repnew,Q2 Rep Goal New
 jt_q3repnew,Q3 Rep Goal New
 jt_q4repnew,Q4 Rep Goal New
@@ -4447,5 +4447,6 @@ jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
 _jt_rep_value,Rep ID
 jt_q1repnew,Q1 Rep New
 jt_fyreptotal,FY Rep Total
+
 
 
