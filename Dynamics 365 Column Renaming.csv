@@ -4305,7 +4305,7 @@ _opportunityid_value,Opportunity ID
 _jt_appointmentsetter_value,Appt. Setter ID
 jt_renewaldeadline,Renewal Deadline
 jt_revrectotal_state,Rev RecTotal State
-jt_soldtowdid,Sold To  WD ID
+jt_soldtowdid,Sold To WD ID
 _jt_invoiceto_value,Invoice To ID
 jt_billingnotes,Billing Notes
 jt_effectivedate,Effective Date
@@ -4364,7 +4364,7 @@ _jt_asranrevenueapproval_value,As Ran Revenue Approval ID
 _jt_order_value,Order ID
 jt_apptraterenew,Appt. Rate Renew
 _jt_invoice_value,Invoice ID
-jt_apptcommrenew,Appt  Comm Renew
+jt_apptcommrenew,Appt Comm Renew
 jt_datecommissioncalcapproved,Date Commission Calc Approved
 jt_asranrevenueapprovaldate,As Ran Revenue Approval Date
 jt_exportstatus,Export Status
@@ -4394,7 +4394,7 @@ jt_solutionrevenue_base,Solution Revenue Base
 jt_ocean,Ocean
 jt_airrevenue,Air Revenue
 jt_customsbrokeragerevenue,Customs Brokerage Revenue
-jt_newmargin,New Margin 
+jt_newmargin,New Margin
 _originatingleadid_value,Originating Lead ID
 jt_groundrevenue,Ground Revenue
 jt_domground,DOM Ground
@@ -4418,7 +4418,7 @@ jt_solutionrevenue,Solution Revenue
 jt_customsbrokerage,Customs Brokerage
 jt_valueaddservices,Value Add Services
 jt_calculatedestimatedrevenue_base,Calculated Estimated Revenue Base
-jt_projrevenuemargin,Proj. Revenue Margin 
+jt_projrevenuemargin,Proj. Revenue Margin
 jt_valueaddedservicesrevenue,Value Added Services Revenue
 jt_currencyapproved,Currency Approved
 jt_awardletterreceived,Award Letter Received
@@ -4437,10 +4437,11 @@ jt_clientmsaapproved,Client MSA Approved
 CloseDate,Close Date
 jt_salestimeline,Sales Timeline
 jt_readyforrfq,Ready for RFQ
-_msdyn_bookableresource_value,Bookable Resource ID
-_msdyn_projecttask_value,Project Task ID
-_msdyn_resourcecategory_value,Resource Category
-_msdyn_project_value,Project ID
-_msdyn_customer_value,Customer ID
-_msdyn_projectmanager_value,Project Manager
-_jt_projectlead_value,Project Lead
+jt_fyteamtotal,FY Team Total
+jt_fyteamnew,FY Team New
+_createdonbehalfby_value,Created on Behalf By ID
+jt_fyteamnew_base,FY Team New Base
+jt_fyteamdiscretionary_base,FY Team Discretionary Base
+_jt_teamsalesgoal_value,Team Sales Goal ID
+jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
+
