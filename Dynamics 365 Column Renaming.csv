@@ -1,4 +1,4 @@
-﻿DynamicsColumnName,CleanedColumnName
+DynamicsColumnName,CleanedColumnName
 jt_weekscalculated,Weeks Calculated
 jt_new_streamingaddon,New Streaming Add On
 _quotedetailid_ID,Quote Line ID
@@ -4438,3 +4438,5 @@ CloseDate,Close Date
 jt_salestimeline,Sales Timeline
 jt_readyforrfq,Ready for RFQ
 _msdyn_bookableresource_value,Bookable Resource ID
+_msdyn_projecttask_value,Project Task ID
+_msdyn_resourcecategory_value,Resource Category
