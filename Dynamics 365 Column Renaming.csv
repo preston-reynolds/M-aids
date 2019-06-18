@@ -4441,3 +4441,5 @@ _msdyn_bookableresource_value,Bookable Resource ID
 _msdyn_projecttask_value,Project Task ID
 _msdyn_resourcecategory_value,Resource Category
 _msdyn_project_value,Project ID
+_msdyn_customer_value,Customer ID
+_msdyn_projectmanager_value,Project Manager
