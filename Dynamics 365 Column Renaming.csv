@@ -4440,3 +4440,4 @@ jt_readyforrfq,Ready for RFQ
 _msdyn_bookableresource_value,Bookable Resource ID
 _msdyn_projecttask_value,Project Task ID
 _msdyn_resourcecategory_value,Resource Category
+_msdyn_project_value,Project ID
