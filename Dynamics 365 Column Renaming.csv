@@ -4383,64 +4383,88 @@ jt_projectedall,Projected All
 jt_quotelinetimeunit,Quote Line Time Unit
 _jt_quote_value,Quote ID
 _jt_quoteline_value,Quote Line ID
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+jt_negotiationwithomniemailsent,Negotiation with Omni Email Sent
+jt_negotiationwithlegalemailsent,Negotiation with Legal Email Sent
+jt_airrevenue_base,Air Revenue Base
+jt_oceanrevenue_base,Ocean Revenue Base
+identifycustomercontacts,Identify Customer Contacts
+jt_intlair,INTL Air
+completefinalproposal,c\Complete Final Proposal
+_parentaccountid_value,Parent Account ID
+jt_negotiationwithomni,Negotiation with Omni
+jt_newmargingroundrevenue,New Margin Ground Revenue
+jt_solutionrevenue_base,Solution Revenue Base
+stepname,Step Name
+jt_ocean,Ocean
+jt_airrevenue,Air Revenue
+_ownerid_value,Owner ID
+prioritycode,Priority Code
+salesstagecode,Sales Stage Code
+jt_customsbrokeragerevenue,Customs Brokerage Revenue
+opportunityratingcode,Opportunity Rating Code
+jt_newmargin,New Margin 
+presentfinalproposal,Present Final Proposal
+modifiedon,Modified On
+_originatingleadid_value,Originating Lead ID
+developproposal,Develop Proposal
+jt_groundrevenue,Ground Revenue
+jt_domground,DOM Ground
+jt_groundrevenue_base,Ground Revenue Base
+jt_newmarginground,New Margin Ground
+jt_domairrevenue_base,DOM Air Revenue Base
+jt_negotiationwithclientemailsent,Negotiation with Client Email Sent
+jt_tier,Tier
+identifypursuitteam,Identify Pursuit Team
+jt_valueaddedservicesrevenue_base,Value Added Services Revenue Base
+jt_newmargindomair,New Margin DOM Air
+jt_domairrevenue,DOM Air Revenue
+totaldiscountamount,Total Discount Amount
+jt_newmarginocean,New Margin Ocean
+totaldiscountamount_base,Total Discount Amount Base
+totalamount_base,totalamount Base
+jt_negotiationwithlegal,Negotiationwithlegal
+jt_newmarginairrevenue,New Margin Air Revenue
+jt_negotiationwithclient,NegotiationwithClient
+_customerid_value,customer ID
+jt_newmarginoceanrevenue,New Margin Ocean Revenue
+statuscode,statusCode
+createdon,createdon
+_owningbusinessunit_value,owningbusinessunit ID
+jt_oceanrevenue,Ocean Revenue
+jt_domair,DOM Air
+jt_customsbrokeragerevenue_base,Customs Brokerage Revenue Base
+completeinternalreview,completeinternalreview
+jt_solutionrevenue,Solution Revenue
+opportunityid,Opportunity ID
+jt_customsbrokerage,Customs Brokerage
+totallineitemamount_base,Total line Item Amount Base
+totalamount,Total Amount
+jt_valueaddservices,Value Add Services
+totallineitemamount,Total Line Item Amount
+jt_calculatedestimatedrevenue_base,Calculated Estimated Revenue Base
+isrevenuesystemcalculated,is Revenue System Calculated
+jt_projrevenuemargin,Proj. Revenue Margin 
+statecode,State Code
+identifycompetitors,Identify Competitors
+jt_valueaddedservicesrevenue,Value Added Services Revenue
+_owninguser_value,Owning User  ID
+name,Name
+jt_currencyapproved,Currency Approved
+jt_awardletterreceived,Award Letter Received
+jt_duedatetoclient,Due Date to Client
+jt_marginapproved,Margin Approved
+closeprobability,Close Probability
+estimatedclosedate,Estimated Close Date
+jt_crosssellingopportunity,Cross Selling Opportunity
+jt_mingpforgroundmet,Min GP for Ground Met
+estimatedvalue_base,Estimated Value Base
+jt_projrevenueprob,Proj. Revenue Prob.
+jt_omniorclientmsa,Omni or Client MSA
+jt_paymentcurrencyoutsideofusd,Payment Currency Outside of USD
+jt_relevantfilesuploaded,Relevant Files Uploaded
+estimatedvalue,Estimated Value
+jt_mingpfordomairmet27,Min GP for DOM Air Met
+jt_clientmsaapproved,Client MSA Approved
+CloseDate,Close Date
+jt_salestimeline,Sales Timeline
+jt_readyforrfq,Ready for RFQ
