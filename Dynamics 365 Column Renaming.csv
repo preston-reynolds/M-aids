@@ -4444,4 +4444,8 @@ jt_fyteamnew_base,FY Team New Base
 jt_fyteamdiscretionary_base,FY Team Discretionary Base
 _jt_teamsalesgoal_value,Team Sales Goal ID
 jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
+_jt_rep_value,Rep ID
+jt_q1repnew,Q1 Rep New
+jt_fyreptotal,FY Rep Total
+
 
