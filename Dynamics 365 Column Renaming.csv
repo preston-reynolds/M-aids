@@ -4453,7 +4453,10 @@ _defaultuomid_value,Default UOM ID
 _defaultuomscheduleid_value,Default UOM Schedule ID
 _subjectid_value,Subject ID
 _msdyn_bookableresource_value,Bookable Resource ID
-
+_msdyn_project_value,Project ID
+_msdyn_projecttask_value,Project Task ID
+_msdyn_transactioncategory_value,Transaction Category
+_msdyn_resourcecategory_value,Resource Category
 
 
 
