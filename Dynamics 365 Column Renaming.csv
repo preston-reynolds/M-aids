@@ -4462,3 +4462,10 @@ _msdyn_customer_value,Customer ID
 _jt_projectlead_value,Project Lead ID
 _jt_devlead_value,DevLead
 _jt_cycle_value,Cycle ID
+_msdyn_bookableresourceid_value,Bookable Resource ID
+_msdyn_projectid_value,Project ID
+_msdyn_userresourceid_value,User Resource ID
+_msdyn_projectteamid_value,Project Team ID
+_msdyn_bookingstatusid_value,Booking Status ID
+
+
