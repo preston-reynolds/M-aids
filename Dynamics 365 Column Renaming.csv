@@ -9,7 +9,7 @@ jt_flightstatus,Flight Status
 jt_monthscalculated,Months Calculated
 jt_pricefromquote,Price From Quote
 _uomid_ID,UOM ID
-jt_projectiondiscrepancy,Projection Discrepancy
+jt_projectiondiscrepancy,Projected Discrepancy
 _jt_venue_ID,Venue ID
 jt_adspermonthcalc,Ads Per Month Calculation
 jt_spotscalc,Spots Calculation
@@ -3960,7 +3960,7 @@ msdyn_plannedexpensecost_base,Planned Expense Cost Base
 msdyn_teamsize_date,Team Size Date
 msdyn_teamsize_state,Team Size State
 jt_repcommissionratenew,Rep Commission Rate New
-jt_projectionsnewvsrenew,ProjectionsNewvSR enew
+jt_projectionsnewvsrenew,ProjectedsNewvSR enew
 jt_repcommissionraterenew,Rep Commission Rate Renew
 _jt_order_ID,Order ID
 jt_apptsettercommissionraterenew,Appt. Setter Commission Rate Renew
@@ -3969,8 +3969,8 @@ _jt_ordermonthly_ID,Order Monthly ID
 jt_orderlinemonthlyid,Order Line Monthly ID
 jt_apptsettercommissionratenew,Appt. Setter Commission Rate New
 jt_accountingdate,Accounting Date
-jt_asranprojection,As Ran Projection
-jt_asranprojection_base,As Ran Projection Base
+jt_asranprojection,As Ran Projected
+jt_asranprojection_base,As Ran Projected Base
 _jt_orderline_ID,Order Line ID
 jt_apptsettercommissionearnedrenew_base,Appt. Setter Commission Earned Renew Base
 jt_apptsettercommissionearnednew_base,Appt. Setter Commission Earned New Base
@@ -4184,9 +4184,9 @@ jt_new_time_unit,New Time Unit
 _jt_productowner_ID,Product Owner ID
 _jt_new_productvenue_ID,New product Venue ID
 jt_new_runtimeframe,New Run Timeframe
-jt_asranprojection_state,As Ran Projection State
+jt_asranprojection_state,As Ran Projected State
 _opportunityid_ID,Opportunity ID
-jt_asranprojection_date,As Ran Projection Date
+jt_asranprojection_date,As Ran Projected Date
 jt_repsalesgoalid,Rep Sales Goal ID
 jt_q1reptotal,Q1 Rep Total
 jt_q2repnew,Q2 Rep Goal New
@@ -4336,17 +4336,17 @@ jt_new_hubstatus,New Hub Status
 jt_position,Position
 _jt_new_programs_value,New Programs ID
 jt_trafficsystemflightid,Traffic System Flight ID
-jt_projectionall,Projection All
+jt_projectionall,Projected All
 jt_apptsettercommissionearnedall,Appt. Setter Commision Earned All
 jt_discrepancyrenew,Discrepancy Renew
-jt_projectiontrade,Projection Trade
+jt_projectiontrade,Projected Trade
 jt_totalnew,TotalNew
 jt_srnew,SR New
-jt_projectionnew,Projection New
+jt_projectionnew,Projected New
 jt_broadcastcaltrade,Broadcastcal Trade
 jt_repcommissionearnedall,Rep Commision Earned All
-jt_projectionrenew,Projection Renew
-jt_projectioncash,Projection Cash
+jt_projectionrenew,Projected Renew
+jt_projectioncash,Projected Cash
 jt_broadcastcalcash,Broadcastcal Cash
 jt_totalrenew,Total Renew
 jt_discrepancynew,Discrepancy New
@@ -4457,6 +4457,3 @@ _msdyn_project_value,Project ID
 _msdyn_projecttask_value,Project Task ID
 _msdyn_transactioncategory_value,Transaction Category
 _msdyn_resourcecategory_value,Resource Category
-
-
-
