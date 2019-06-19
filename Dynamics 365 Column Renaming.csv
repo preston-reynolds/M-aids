@@ -4457,3 +4457,8 @@ _msdyn_project_value,Project ID
 _msdyn_projecttask_value,Project Task ID
 _msdyn_transactioncategory_value,Transaction Category
 _msdyn_resourcecategory_value,Resource Category
+_msdyn_projectmanager_value,Project Manager
+_msdyn_customer_value,Customer ID
+_jt_projectlead_value,Project Lead ID
+_jt_devlead_value,DevLead
+_jt_cycle_value,Cycle ID
