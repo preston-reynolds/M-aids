@@ -4452,6 +4452,7 @@ _jt_new_productmedia_value,New Product Media ID
 _defaultuomid_value,Default UOM ID
 _defaultuomscheduleid_value,Default UOM Schedule ID
 _subjectid_value,Subject ID
+_msdyn_bookableresource_value,Bookable Resource ID
 
 
 
