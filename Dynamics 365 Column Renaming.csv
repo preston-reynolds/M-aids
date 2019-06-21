@@ -4457,3 +4457,14 @@ _msdyn_project_value,Project ID
 _msdyn_projecttask_value,Project Task ID
 _msdyn_transactioncategory_value,Transaction Category
 _msdyn_resourcecategory_value,Resource Category
+jt_projecttype,Project Type
+jt_statusreportdate,Status Report Date
+jt_psrsummarydate,PSR Summary Date
+jt_milestonedescription,Milestone Description
+jt_milestonedate,Milestone Date
+createdon, Created On
+_jt_cycle_value,Cycle Value
+_jt_devlead_value,Dev Lead Value
+_jt_projectlead_value,Project Lead Value
+_msdyn_customer_value,Customer Value
+_msdyn_projectmanager_value,Project Manager Value
