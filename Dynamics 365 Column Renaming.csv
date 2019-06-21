@@ -55,7 +55,7 @@ _msdyn_projecttemplate_ID,Project Template ID
 _msdyn_resourcecategory_ID,Resource Category ID
 _msdyn_resourceorganizationalunitid_ID,Resource Organizational Unit ID
 _msdyn_salesorderid_ID,Order ID
-_ownerid_ID,Owner ID
+_ownerid_ID,Owner ID.3
 _owningbusinessunit_ID,Owning Business Unit ID
 _owningteam_ID,Owning Team ID
 _owninguser_ID,Owning User ID
@@ -2800,7 +2800,7 @@ outlooksyncinterval,Outlook Sync Interval
 overriddencreatedon,Overridden Created On Date
 overview,Overview
 overwritetime,Overwrite Time
-ownerid,Owner ID
+ownerid,Owner ID.1
 ownerid_entitytype,Owner ID Entity Type
 owneridname,Owner ID Name
 owneridtype,Owner ID Type
@@ -4255,7 +4255,7 @@ jt_invoicedtotal,Invoiced Total
 jt_affnettotals,Aff Net Totals
 _modifiedby_value,Modified By ID
 _createdby_value,Created by ID
-_ownerid_value,Owner ID
+_ownerid_value,Owner ID.2
 jt_totaldifference,Total Difference
 jt_sendinvoicevia,Send Invoice Via
 jt_agency,Agency
@@ -4457,22 +4457,3 @@ _msdyn_project_value,Project ID
 _msdyn_projecttask_value,Project Task ID
 _msdyn_transactioncategory_value,Transaction Category
 _msdyn_resourcecategory_value,Resource Category
-_msdyn_projectmanager_value,Project Manager
-_msdyn_customer_value,Customer ID
-_jt_projectlead_value,Project Lead ID
-_jt_devlead_value,DevLead
-_jt_cycle_value,Cycle ID
-_msdyn_bookableresourceid_value,Bookable Resource ID
-_msdyn_projectid_value,Project ID
-_msdyn_userresourceid_value,User Resource ID
-_msdyn_projectteamid_value,Project Team ID
-_msdyn_bookingstatusid_value,Booking Status ID
-jt_sprintid,Sprint ID
-jt_milestonedescription,Milestone Description
-jt_milestonedate,Milestone Date
-jt_statusreportdate,Status Report Date
-jt_projecttype,Project Type
-jt_psrsummarydate,PSR Summary Date
-_msdyn_taskid_value,Project Task ID
-
-
