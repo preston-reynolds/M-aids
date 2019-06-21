@@ -4468,3 +4468,11 @@ _jt_devlead_value,Dev Lead Value
 _jt_projectlead_value,Project Lead Value
 _msdyn_customer_value,Customer Value
 _msdyn_projectmanager_value,Project Manager Value
+msdyn_plannedcostcontour,Planned Cost Contour
+msdyn_plannedsalescontour,Planned Sales	Contour
+_msdyn_userresourceid_value,User Resource ID Value
+_msdyn_taskid_value,Task ID
+_msdyn_projectteamid_value,Project Team ID Value
+_msdyn_projectid_value,Project ID Value
+_msdyn_bookingstatusid_value,Booking Status ID Value
+_msdyn_bookableresoureid_value,Bookable Resource ID
