@@ -3599,7 +3599,7 @@ trackingtoken,Tracking Token
 trackingtokenid,Tracking Token ID
 trackingtokenidbase,Tracking Token ID Base
 trackingtokeniddigits,Tracking Token ID Digits
-transactioncurrencyid,Transaction Currency ID
+transactioncurrencyid,Transaction Currency ID.2
 transactioncurrencyid_entitytype,Transaction Currency ID Entity Type
 transactioncurrencyidname,Transaction Currency ID Name
 transientfailurecount,Transient Failure Count
@@ -4248,7 +4248,7 @@ jt_displayonreports,Display on Reports
 jt_practice,Practice
 _jt_project_value,Project ID
 jt_enddate_date,End Date Date
-_transactioncurrencyid_value,Transaction Currency ID
+_transactioncurrencyid_value,Transaction Currency ID.1
 jt_invoicedtotal_date,Invoiced Total Date
 jt_totaltrade,Total Trade
 jt_invoicedtotal,Invoiced Total
