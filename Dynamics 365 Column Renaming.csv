@@ -4477,7 +4477,7 @@ _msdyn_projectid_value,Project ID Value
 _msdyn_bookingstatusid_value,Booking Status ID Value
 _msdyn_bookableresourceid_value,Bookable Resource ID
 _parentcontactid_value,Parent Contact ID
-jt_marketingsource,Marketing Source
+jt_marketingsource,Marketing Source ID
 _leadid_value,Lead ID
 jt_friendlyname,Account Name
 jt_progressing,Progressing
