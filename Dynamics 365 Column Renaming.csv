@@ -4481,3 +4481,48 @@ jt_marketingsource,Marketing Source ID
 _leadid_value,Lead ID
 jt_progressing,Progressing
 jt_primaryproduct_1,Primary Product ID
+jt_forlobbying,For Lobbying
+jt_billable,Is Billable
+jt_practicearea,Practice Area
+_msdyn_resourceorganizationalunitid_value,Resource Organizational Unit ID
+jt_hours,Hours
+_userid_value,User ID Value
+msdyn_derivecapacity,Derive Capacity
+_msdyn_organizationalunit_value,Organizational Unit Value
+_calendarid_value,Caldendar ID Value
+_contactid_value,Contact ID Value
+jt_customername,Customer Name
+jt_isinternal,Is Internal
+jt_contractdocumentname,Contract Document Name
+_lp_sourcecontractid_value,Source Contract ID Value
+_lp_businessentityid_value,Business Entity ID Value
+_msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID Value
+jt_practiceareadimensioncode,Practice Area Dimension Code
+_jt_sourceproposalid_value,Source Proposal ID Value
+jt_membercompanys,Member Companys
+_msdyn_accountcustomer_value,Account Customer Value
+_msdyn_unit_value,Unit Value
+_msdyn_task_value,Task Value
+_msdyn_unitschedule_value,Unit Schedule Value
+jt_companycontactnumber,Company Contact Number
+jt_contactnumber,Contact Number
+Gen_Prod_Posting_Group,General Prod Posting Group
+Item_Disc_Group,Item Disc Group
+Item_Tracking_Code,Item Tracking Code
+Sales_Unit_of_Measure,Sales Unit of Measure
+Standard_Cost,Standard Cost
+Unit_Cost,Unit Cost
+Unit_Price,Unit Price
+Unit_Volume,Unit Volume
+Vendor_No,Vendor Number
+Purch_Unit_of_Measure,Purchase Unit of Measure
+COGS_LCY,COGS LCY
+Net_Change,Net Change
+Net_Invoiced_Qty,Net Invoiced Quantity
+Purchases_LCY,Purchases LCY
+Purchases_Qty,Purchases Quantity
+Sales_LCY,Sales LCY
+Sales_Qty,Sales Quantity
+VendorName,Vendor Name
+AuxiliaryIndex1,Auxiliary Index 1
+ETag,E Tag
