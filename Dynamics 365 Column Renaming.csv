@@ -4537,3 +4537,4 @@ jt_probabilitytoclose,Close Probability
 lp_estimatedclosedate,Estimated Close Date
 lp_estimatedvalue,Estimated Value
 _lp_allianceid_value,Alliance ID Value
+lp_estimatedenddate,Estimated End Date
