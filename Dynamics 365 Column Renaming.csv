@@ -4514,7 +4514,7 @@ Standard_Cost,Standard Cost
 Unit_Cost,Unit Cost
 Unit_Price,Unit Price
 Unit_Volume,Unit Volume
-Vendor_No,Vendor Number
+Vendor_No,Vendor No.
 Purch_Unit_of_Measure,Purchase Unit of Measure
 COGS_LCY,COGS LCY
 Net_Change,Net Change
@@ -4538,3 +4538,14 @@ lp_estimatedclosedate,Estimated Close Date
 lp_estimatedvalue,Estimated Value
 _lp_allianceid_value,Alliance ID Value
 lp_estimatedenddate,Estimated End Date
+Sell_to_Customer_No,Sell to Customer No.
+Document_Date,Document Date
+Posting_Date,Posting Date
+Due_Date,Due Date
+Salesperson_Code,Salesperson Code
+Document_No,Document No.
+Line_No,Line No.
+Unit_Price,Unit Price
+Line_Discount_Percent,Line Discount %
+Line_Amount,Line Amount
+Amount_Including_VAT,Amount Including VAT
