@@ -4550,3 +4550,5 @@ Line_Discount_Percent,Line Discount %
 Line_Amount,Line Amount
 Amount_Including_VAT,Amount Including VAT
 jt_contracteffectivedate,Contract Effective Date
+jt_contractenddate,Contract End Date
+lp_estimatedstartdate,Estimated Start Date
