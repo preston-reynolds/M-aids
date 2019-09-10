@@ -4526,3 +4526,14 @@ Sales_Qty,Sales Quantity
 VendorName,Vendor Name
 AuxiliaryIndex1,Auxiliary Index 1
 ETag,E Tag
+lp_renewal,Renewal
+_lp_saleslead_value,Sales Lead
+msdyn_feasible,Feasible
+_jt_allianceproject_value
+jt_clientacceptedproposal,Client Acceptance Date
+_lp_projectmanager_value,Project Manager Value
+_lp_accountid_value,Account ID Value
+jt_probabilitytoclose,Close Probability
+lp_estimatedclosedate,Estimated Close Date
+lp_estimatedvalue,Estimated Value
+_lp_allianceid_value,Alliance ID Value
