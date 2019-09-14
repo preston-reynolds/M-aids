@@ -4525,7 +4525,6 @@ Sales_LCY,Sales LCY
 Sales_Qty,Sales Quantity
 VendorName,Vendor Name
 AuxiliaryIndex1,Auxiliary Index 1
-ETag,E Tag
 lp_renewal,Renewal
 _lp_saleslead_value,Sales Lead
 msdyn_feasible,Feasible
@@ -4552,3 +4551,44 @@ Amount_Including_VAT,Amount Including VAT
 jt_contracteffectivedate,Contract Effective Date
 jt_contractenddate,Contract End Date
 lp_estimatedstartdate,Estimated Start Date
+Row_No,Row No.
+Measure_Name,Measure Name
+Measure_No,Measure No.
+CRM_Account_ID,CRM Account ID
+Search_Name,Search Name
+IC_Partner_Code,IC Partner Code
+Balance_LCY,Balance LCY
+Balance_Due_LVY,Balance Due LCY
+Credit_Limit_LCY,Credit Limit LCY
+Salesperson_Code,Salesperson Code
+TotalSales2,Total Sales 2
+AdjCustProfit,Adj. Customer Profit
+Address_2,Address 2
+Country_Region_Code,Country Region Code
+Customer_Price_Group,Customer Price Group
+Post_Code,Post Code
+Customer_Disc_Group,Customer Disc. Group
+Balance_Due,Balance Due
+Resource_Group_No,Resource Group No.
+Profit_Percent,Profit %
+Job_Title,Job Title
+User_Security_ID,User Security ID
+Full_Name,Full Name
+Contact_Email,Contact Email
+Customer_Name,Customer Name
+Customer_No,Customer No.
+Posting_Date,Posting Date
+Amount_LCY,Amount LCY
+Transaction_No,Transaction No.
+Entry_No,Entry No.
+id,ID
+number,No.
+customerid,Customer ID
+customerNumber,Customer No.
+invoiceDate,Invoice Date
+dueDate,Due Date
+subtotalAmount,Subtotal Amount
+discountAmount,Discount Amount
+totalTaxAmount,Total Tax Amount
+totalAmountExcludingTax,Total Amount w/o Taxes
+CustomerNo,Customer No.
