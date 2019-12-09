@@ -237,7 +237,7 @@ _resource_ID,Resource
 _salesorderid_ID,Order ID
 _salesorderid_value,Order ID
 _sendermailboxid_value,Sender Mailbox ID
-_serviceid_value,ServiceID
+_serviceid_value,Service ID
 _slaid_value,SLA ID
 _slainvokedid_value,SLA Invoked ID
 _stageid_ID,Stage ID
