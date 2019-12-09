@@ -32,27 +32,27 @@ _defaultuomscheduleid_value,Default UOM Schedule ID
 _gbh_primaryquote_ID,Primary Quote ID
 _header_ID,Header ID
 _jt_account_value,Account ID
-_jt_accountmanager_value,Account Manager
+_jt_accountmanager_value,Account Manager ID
 _jt_allianceproject_value,Alliance Project ID
 _jt_appointmentsetter_value,Appt. Setter ID
 _jt_asranrevenueapproval_value,As Ran Revenue Approval ID
 _jt_associatedfeature_ID,Associated Feature ID
 _jt_autonumber_ID,Autonumber ID
 _jt_autonumber_value,Autonumber ID
-_jt_basiclifecarrier_value,Basic Life Carrier
+_jt_basiclifecarrier_value,Basic Life Carrier ID
 _jt_billingcontact_value,Billing Contact ID
-_jt_broker_value,Broker
+_jt_broker_value,Broker ID
 _jt_carriersinconsiderationid_value,Carriers In Consideration ID
 _jt_commissioncalcapproved_value,Commission Calc Approved ID
-_jt_compliancemanager_value,Compliance Manager
+_jt_compliancemanager_value,Compliance Manager ID
 _jt_contractsignatory_value,Contract Signatory ID
 _jt_cycle_value,Cycle Value
-_jt_dentalcarrier_value,Dental Carrier
+_jt_dentalcarrier_value,Dental Carrier ID
 _jt_dentalpolicycarrier_value,Dental Policy Carrier
 _jt_devlead_value,Dev Lead Value
-_jt_fsacarrier_value,FSA Carrier
-_jt_hracarrier_value,HRA Carrier
-_jt_hsacarrier_value,HSA Carrier
+_jt_fsacarrier_value,FSA Carrier ID
+_jt_hracarrier_value,HRA Carrier ID
+_jt_hsacarrier_value,HSA Carrier ID
 _jt_implementationmanager_value,Implementation Manager
 _jt_invoice_ID,Invoice ID
 _jt_invoice_value,Invoice ID
@@ -60,12 +60,12 @@ _jt_invoiceapproval_ID,Invoice Approval ID
 _jt_invoiceapproval_value,Invoice Approval ID
 _jt_invoiceto_value,Invoice To ID
 _jt_lifepolicycarrier_value,Life Policy Carrier
-_jt_longtermdisabilitycarrier_value,Long Term Disability Carrier
-_jt_longtermdisabilitypolicycarrier_value,Long Term Disability Policy Carrier
+_jt_longtermdisabilitycarrier_value,Long Term Disability Carrier ID
+_jt_longtermdisabilitypolicycarrier_value,Long Term Disability Policy Carrier ID
 _jt_media_ID,Media ID
 _jt_media_value,Media ID
 _jt_medicalpolicycarrier_value,Medical Policy Carrier
-_jt_misccarrier_value,MIS Carrier
+_jt_misccarrier_value,Misc Carrier ID
 _jt_new_productmedia_ID,New Product Media ID
 _jt_new_productmedia_value,New Product Media ID
 _jt_new_productvenue_ID,New product Venue ID
@@ -81,7 +81,7 @@ _jt_orderline_value,Order Line ID
 _jt_ordermonthly_ID,Order Monthly ID
 _jt_ordermonthly_value,Order Monthly ID
 _jt_originatingcaseid_ID,Originating Case ID
-_jt_processstage_value,Process Stage
+_jt_processstage_value,Process Stage ID
 _jt_productmediaid_value,Product Media ID
 _jt_productowner_ID,Product Owner ID
 _jt_productowner_value,Product Owner ID
@@ -115,9 +115,9 @@ _jt_teamsalesgoal_ID,Team Sales Goal ID
 _jt_teamsalesgoal_value,Team Sales Goal ID
 _jt_venue_ID,Venue ID
 _jt_venue_value,Venue ID
-_jt_visioncarrier_value,Vision Carrier
+_jt_visioncarrier_value,Vision Carrier ID
 _jt_visionpolicycarrier_value,Vision Policy Carrier
-_jt_voluntarylifecarrier_value,Voluntary Life Carrier
+_jt_voluntarylifecarrier_value,Voluntary Life Carrier ID
 _jt_voluntarylifepolicycarrier_value,Voluntary Life Policy Carrier
 _leadid_value,Lead ID
 _lp_accountid_value,Account ID Value
