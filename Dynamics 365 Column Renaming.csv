@@ -1503,23 +1503,23 @@ errortime,Error Time
 errortype,Error Type
 erroruri,Erroruri
 escalatedon,Escalated On Date
-estimatedamount,Estimatedamount
-estimatedamount_base,Estimatedamount Base
+estimatedamount,Estimated Amount
+estimatedamount_base,Estimated Amount Base
 estimatedclosedate,Estimated Close Date
 estimatedID,Estimated ID
 estimatedID_base,Estimated ID Base
 estimatedvalue,Estimated Value
 estimatedvalue_base,Estimated Value Base
 evaluatefit,Evaluate Fit
-eventhandlers,Event Handle Rs
-ewsurl,Ews URL
+eventhandlers,Event Handlers
+ewsurl,EWS URL
 exchangecontactsimportcompletedon,Exchange Contacts Import Completed On Date
 exchangecontactsimportstatus,Exchange Contacts Import Status
 exchangeentryid,Exchange Entry ID
 exchangefolderid,Exchange Folder ID
 exchangefoldername,Exchange Folder Name
 exchangeitemid,Exchange Item ID
-exchangerate,Exch Anger Ate
+exchangerate,Exchange Rate
 exchangesyncstatexml,Exchange Sync State XML
 exchangeweblink,Exchange Web Link
 excludedemailid,Excluded Email ID
@@ -1542,11 +1542,11 @@ expireson,Expires On Date
 expiresubscriptionsindays,Expire Subscriptions In Days
 expirydate,Expiry Date
 extendedamount,Extended Amount
-extendedamount_base,Extendedamount Base
+extendedamount_base,Extended Amount Base
 externalbaseurl,External Base URL
 externalpartycorrelationkeys,External Party Correlation Keys
 externalpartyentitysettings,External Party Entity Settings
-externaluseridentifier,External User IDentifier
+externaluseridentifier,External User Identifier
 failuretime,Failure Time
 FamilyStatus,Family Status
 familystatuscode,Family Status Code
@@ -3604,7 +3604,7 @@ msdyn_feasible,Feasible
 msdyn_forecastcategory,Forecast Category
 msdyn_from,From
 msdyn_fromdate,From Date
-msdyn_gdproptout,Gdpr Optout
+msdyn_gdproptout,GDPR Opt Out
 msdyn_generictype,Generic Type
 msdyn_hardbookedhours,Hard Booked Hours
 msdyn_hours,Hours
@@ -5063,7 +5063,7 @@ xaml,Xaml
 yammeremailaddress,Yammer Email Address
 yammergroupid,Yammer Group ID
 yammernetworkpermalink,Yammer Network Permalink
-yammeroauthaccesstokenexpired,Yammer Oauth Accesstoken Expired
+yammeroauthaccesstokenexpired,Yammer Oauth Access Token Expired
 yammerpostmethod,Yammer Post Method
 yammerpoststate,Yammer Post State
 yammerretrycount,Yammer Retry Count
@@ -5075,4 +5075,10 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
-
+_businessunitid_value,Business Unit ID
+_defaultmailbox_value,Default Mailbox ID
+_mobileofflineprofileid_value,Mobile Offline Profile ID
+_parentsystemuserid_value,Parent System User ID
+_positionid_value,Position ID
+_queueid_value,Queue ID
+_siteid_value,Site ID
