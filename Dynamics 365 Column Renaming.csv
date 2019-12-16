@@ -2059,6 +2059,7 @@ jt_assignedtoyominame,Assigned To Yomi Name
 jt_associatedfeature,Associated Feature
 jt_attire,Attire
 jt_auditsclosurescomplete,Audit Closures Complete
+jt_auditsclosuresstageduedate,Audits Closures Stage Due Date
 jt_auditsclosuresstarttime,Audit Closures Start Time
 jt_automatedtask,Automated Task
 jt_awardletterreceived,Award Letter Received
@@ -2166,6 +2167,7 @@ jt_clientsatisfaction,Client Satisfaction
 jt_clientvisible,Client Visable Flag
 jt_closeopenenrollment,Close Open Enrollment
 jt_closeopenenrollmentcomplete,Close Open Enrollment Complete
+jt_closeopenenrollmentstageduedate,Close Open Enrollment Stage Due Date
 jt_closeopenenrollmentstarttime,Close Open Enrollment Start Time
 jt_codinghourscapacity,Coding Hours Capacity
 jt_codinghoursremaining,Coding Hours Remaining
@@ -2354,6 +2356,7 @@ jt_fasttrackthisjob,Fast Track This Job
 jt_federalid,Federal ID
 jt_finalcheckriskevalforms,Final Check Risk Eval Forms
 jt_finalizationcomplete,Finalization Complete
+jt_finalizationstageduedate,Finalization Stage Due Date
 jt_finalizationstarted,Finalization Started
 jt_finalizationstarttime,Finalization Start Time
 jt_finalrates,Final Rates
@@ -2713,6 +2716,7 @@ jt_preferredagentname,Prefer Red Agent Name
 jt_preferredagentyominame,Prefer Red Agent Yomi Name
 jt_preparerenewalbooklet,Prepare Renewal Booklet
 jt_prerenewalcomplete,Pre Renewal Complete
+jt_prerenewalstageduedate,Pre Renewal Stage Due Date
 jt_prerenewalstarted,Pre Renewal Started
 jt_prerenewalstarttime,Pre Renewal Start Time
 jt_presentationdate,Present Ationdate
@@ -2881,6 +2885,7 @@ jt_q4teamrestricted,Q4 Team Restricted
 jt_q4teamrestricted_base,Q4 Team Restricted Base
 jt_q4teamtotal,Q4 Team Total
 jt_q4teamtotal_base,Q4 Team Total Base
+jt_qualifyingstageduedate,Qualifying Stage Due Date
 jt_quantity,Quantity
 jt_questionassettype,Question Asset Type
 jt_questionbrandsincluded,Question Brands Included
@@ -2908,6 +2913,7 @@ jt_quotelinetimeunit,Quote Line Time Unit
 jt_quotemonthlyid,Quote Monthly ID
 jt_quoteunitrate,Quote Unit Rate
 jt_quotingcomplete,Quoting Complete
+jt_quotingstageduedate,Quoting Stage Due Date
 jt_quotingstarted,Quoting Started
 jt_quotingstarttime,Quoting Start Time
 jt_ranall,Ran All
@@ -2963,6 +2969,7 @@ jt_renewal_Tasks,Tasks
 jt_RenewalAuditId,Audit ID
 jt_renewalbookcomplete,Book Complete
 jt_RenewalBookKPIId,Book KPI ID
+jt_renewalbookstageduedate,Renewal Book Stage Due Date
 jt_renewalbookstarted,Book Started
 jt_renewalbookstarttime,Book Start Time
 jt_RenewalCompletedId,Completed ID
@@ -2976,6 +2983,7 @@ jt_renewalpreparationcomplete,Preparation Complete
 jt_renewalpreparationstarted,Preparation Started
 jt_renewalpreparationstarttime,Preparation Start Time
 jt_RenewalPrepKPIId,Prep KPI ID
+jt_renewalprepstageduedate,Renewal Prep Stage Due Date
 jt_renewalprocess_AsyncOperations,Async Operations
 jt_renewalprocess_BulkDeleteFailures,Bulk Delete Failures
 jt_renewalprocess_MailboxTrackingFolders,Mailbox Tracking Folders
