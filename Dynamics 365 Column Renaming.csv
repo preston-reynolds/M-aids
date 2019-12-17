@@ -2972,6 +2972,7 @@ jt_RenewalBookKPIId,Book KPI ID
 jt_renewalbookstageduedate,Renewal Book Stage Due Date
 jt_renewalbookstarted,Book Started
 jt_renewalbookstarttime,Book Start Time
+jt_renewalcompleteddate,Renewal Completed Date
 jt_RenewalCompletedId,Completed ID
 jt_renewaldeadline,Renewal Deadline
 jt_RenewalFinalizationId,Finalization ID
