@@ -5091,3 +5091,10 @@ _parentsystemuserid_value,Parent System User ID
 _positionid_value,Position ID
 _queueid_value,Queue ID
 _siteid_value,Site ID
+COMM_DTL_TYP_CD,Commission Detail Type Code
+COMM_PER_CD,Commission Percentage Code
+CURR_AMT,Current Amount
+SETTLED,Settled
+SETTLED_DATE,Settled Date
+SRC_CNTRY_CODE,Source Country Code
+USD_AMT,USD Amount
