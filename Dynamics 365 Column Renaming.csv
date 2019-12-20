@@ -5096,5 +5096,17 @@ COMM_PER_CD,Commission Percentage Code
 CURR_AMT,Current Amount
 SETTLED,Settled
 SETTLED_DATE,Settled Date
-SRC_CNTRY_CODE,Source Country Code
+SRC_CNTRY_CD,Source Country Code
 USD_AMT,USD Amount
+MTH,Month
+SALES_ORG,Sales Org
+GROSS_REVENUE_USD,Gross Revenue USD
+DISCOUNTS_USD,Discounts USD
+RETURNS_USD,Returns USD
+TOTAL,Total
+TOTAL_QTY,Total Qty
+INVOICED_SALES_QTY,Invoiced Sales Qty
+DISCOUNTS,Discounts
+TOTAL_COST,Total Cost
+GROSS_REVENUE,Gross Revenue
+FI_MARKET,Market
