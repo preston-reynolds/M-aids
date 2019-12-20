@@ -5096,7 +5096,7 @@ COMM_PER_CD,Commission Percentage Code
 CURR_AMT,Current Amount
 SETTLED,Settled
 SETTLED_DATE,Settled Date
-SRC_CNTRY_CD,Source Country Code
+SRC_CNTRY_CD,Country Code
 USD_AMT,USD Amount
 MTH,Month
 SALES_ORG,Sales Org
