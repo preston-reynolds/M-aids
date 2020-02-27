@@ -5110,3 +5110,43 @@ DISCOUNTS,Discounts
 TOTAL_COST,Total Cost
 GROSS_REVENUE,Gross Revenue
 FI_MARKET,Market
+_jt_relatedfeature_value,Related Feature ID
+jt_azuredevopssyncerror,Azure Develops Sync Error
+jt_synctoazuredevops,Sync to Azure Devops
+jt_sprinthistoryid,Sprint History ID
+_jt_projecttaskid_value,Project Task ID
+_jt_sprintid_value,Sprint ID
+_jt_previoussprintid_value,Previous Sprint ID
+jt_outofscopesummary,Out of Scope Summary
+jt_totalpresalesunbillablehours_timeentry,Total Presales Unbillable Hours Time Entry
+_jt_projectpoc_value,Project POC ID
+jt_totalbillableworkhourste,Total Billable Work Hours Time Entry
+_jt_projectpricelistbillrate_value,Project Price List Billrate ID
+jt_flagplantdescription,Flagplant Description
+jt_totalpresalesbillablehours_timeentry_state,Total Presales Billable Hours Time Entry State
+jt_azuredevopsurl,Azure Devops URL
+msdyn_exchangerate,Exchange Rate
+jt_flagplant,Flagplant
+jt_totalbillableworkhourste_state,Total Billable Work Hours Time Entry State
+jt_totalpresalesunbillablehours_timeentry_date,Total Presales Unbillable Hours Time Entry Date
+jt_totalpresalesunbillablehours_timeentry_state,Total Presales Unbillable Hours Time Entry State
+jt_syncingtoazuredevops,Syncing to Azure Devops
+jt_totaltravelunbillablehours_timeentry,Total Travel Unbillable Hours Time Entry
+jt_totalunbillableworkhourste_date,Total Unbillable Work Hours Time Entry Date
+jt_featurebill,Feature Bill
+_msdyn_salesorderid_value,Sales Order ID
+jt_totaltravelunbillablehours_timeentry_state,Total Travel Unbillable Hours Time Entry State
+jt_totaltravelbillablehours_te,Total Travel Billable Hours Time Entry
+_jt_generatingquote_value,Generating Quote ID
+jt_totalpresalesbillablehours_timeentry,Total Presales Billable Hours Time Entry
+_msdyn_workhourtemplate_value,Work Hour Template ID
+jt_totaltravelunbillablehours_timeentry_date,Total Travel Unbillable Hours Time Entry Date
+jt_totalunbillableworkhourste,Total Unbillable Work Hours Time Entry
+jt_flagplantsuccesscriteria,Flagplant Success Criteria
+jt_azuredevopsprojectid,Azure Devops Project ID
+jt_totalbillableworkhourste_date,Total Billable Work Hours Time Entry Date
+jt_totaltravelbillablehours_te_state,Total Travel Billable Hours Time Entry State
+jt_totaltravelbillablehours_te_date,Total Travel Billable Hours Time Entry Date
+jt_totalpresalesbillablehours_timeentry_date,Total Presales Billable Hours Time Entry Date
+_msdyn_projecttemplate_value,Microsoft Dynamics Project Template ID
+jt_totalunbillableworkhourste_state,Total Unbillable Work Hours Time Entry State
