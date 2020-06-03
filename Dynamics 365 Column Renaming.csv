@@ -10,6 +10,7 @@ _bpf_new_contractid_ID,BPF New Contract ID
 _bpf_opportunityid_ID,BPF Opportunity ID
 _bpf_quoteid_ID,BPF Quote ID
 _businessunitid_ID,Business Unit ID
+_businessunitid_value,Business Unit ID
 _calendarid_ID,Calendar ID
 _calendarid_value,Caldendar ID Value
 _campaignid_ID,Campaign ID
@@ -23,6 +24,7 @@ _createdonbehalfby_value,Created on Behalf By ID
 _customerid_ID,Customer ID
 _customerid_value,Customer ID
 _defaultmailbox_ID,Default Mailbox ID
+_defaultmailbox_value,Default Mailbox ID
 _defaultpricelevelid_ID,Default pricelevel ID
 _defaultpricelevelid_value,Default Price Level ID
 _defaultuomid_ID,Default UOM ID
@@ -51,6 +53,7 @@ _jt_dentalcarrier_value,Dental Carrier ID
 _jt_dentalpolicycarrier_value,Dental Policy Carrier
 _jt_devlead_value,Dev Lead Value
 _jt_fsacarrier_value,FSA Carrier ID
+_jt_generatingquote_value,Generating Quote ID
 _jt_hracarrier_value,HRA Carrier ID
 _jt_hsacarrier_value,HSA Carrier ID
 _jt_implementationmanager_value,Implementation Manager
@@ -81,6 +84,7 @@ _jt_orderline_value,Order Line ID
 _jt_ordermonthly_ID,Order Monthly ID
 _jt_ordermonthly_value,Order Monthly ID
 _jt_originatingcaseid_ID,Originating Case ID
+_jt_previoussprintid_value,Previous Sprint ID
 _jt_processstage_value,Process Stage ID
 _jt_productmediaid_value,Product Media ID
 _jt_productowner_ID,Product Owner ID
@@ -88,11 +92,15 @@ _jt_productowner_value,Product Owner ID
 _jt_project_value,Project ID
 _jt_projectlead_ID,Project Lead ID
 _jt_projectlead_value,Project Lead Value
+_jt_projectpoc_value,Project POC ID
+_jt_projectpricelistbillrate_value,Project Price List Billrate ID
+_jt_projecttaskid_value,Project Task ID
 _jt_quote_ID,Quote ID
 _jt_quote_value,Quote ID
 _jt_quoteline_ID,QuoteLine ID
 _jt_quoteline_value,Quote Line ID
 _jt_quotemonthly_ID,Quote Monthly ID
+_jt_relatedfeature_value,Related Feature ID
 _jt_relatedtasksid_ID,Related Tasks ID
 _jt_renewalauditid_value,Renewal Audit ID
 _jt_renewalbookkpiid_value,Renewal Book KPI ID
@@ -111,6 +119,7 @@ _jt_sourceproposalid_value,Source Proposal ID Value
 _jt_sponsor_ID,Sponsor ID
 _jt_sponsor_value,Sponsor ID
 _jt_sprintid_ID,Sprint ID
+_jt_sprintid_value,Sprint ID
 _jt_teamsalesgoal_ID,Team Sales Goal ID
 _jt_teamsalesgoal_value,Team Sales Goal ID
 _jt_venue_ID,Venue ID
@@ -132,6 +141,7 @@ _lp_sourcecontractid_value,Source Contract ID Value
 _lp_topicteamid_ID,LP Topic Team ID
 _lvt_contactid_ID,Contact ID LVT
 _masterid_value,Master ID
+_mobileofflineprofileid_value,Mobile Offline Profile ID
 _modifiedby_ID,Modified By ID
 _modifiedby_value,Modified By ID
 _modifiedbyexternalparty_value,Modified by External Party
@@ -168,6 +178,7 @@ _msdyn_projecttask_value,Project Task ID
 _msdyn_projectteamid_ID,Project Team ID
 _msdyn_projectteamid_value,Project Team ID Value
 _msdyn_projecttemplate_ID,Project Template ID
+_msdyn_projecttemplate_value,Microsoft Dynamics Project Template ID
 _msdyn_requestedby_ID,Requested By
 _msdyn_resourcecategory_ID,Resource Category ID
 _msdyn_resourcecategory_value,Resource Category
@@ -179,6 +190,7 @@ _msdyn_resourcerequirement_ID,Resource Requirement
 _msdyn_resourcerequirementid_ID,Resource Requirement ID
 _msdyn_roleid_ID,Role ID
 _msdyn_salesorderid_ID,Order ID
+_msdyn_salesorderid_value,Sales Order ID
 _msdyn_task_value,Task Value
 _msdyn_taskid_ID,Task ID
 _msdyn_taskid_value,Task ID
@@ -193,6 +205,7 @@ _msdyn_unitschedule_value,Unit Schedule Value
 _msdyn_userresourceid_ID,User Resource ID
 _msdyn_userresourceid_value,User Resource ID Value
 _msdyn_workhourtemplate_ID,Work Hour Template
+_msdyn_workhourtemplate_value,Work Hour Template ID
 _msdyn_worktemplate_ID,Work Template
 _opportunityid_ID,Opportunity ID
 _opportunityid_value,Opportunity ID
@@ -214,7 +227,9 @@ _parentcontactid_ID,Parent Contact ID
 _parentcontactid_value,Parent Contact ID
 _parentcustomerid_ID,Parent Customer ID
 _parentsystemuserid_ID,Parent System User ID
+_parentsystemuserid_value,Parent System User ID
 _positionid_ID,Position ID
+_positionid_value,Position ID
 _preferredequipmentid_value,Preferred Equipment ID
 _preferredserviceid_value,Preferred Service ID
 _preferredsystemuserid_value,Preferred System User ID
@@ -228,6 +243,7 @@ _productid_ID,Product ID
 _productid_value,Product IDs
 _qualifyingopportunityid_ID,Qualifying Opportunity ID
 _queueid_ID,Queue ID
+_queueid_value,Queue ID
 _quotedetailid_ID,Quote Line ID
 _quotedetailid_value,Quote Detail ID
 _quoteid_value,Quote ID
@@ -238,6 +254,7 @@ _salesorderid_ID,Order ID
 _salesorderid_value,Order ID
 _sendermailboxid_value,Sender Mailbox ID
 _serviceid_value,Service ID
+_siteid_value,Site ID
 _slaid_value,SLA ID
 _slainvokedid_value,SLA Invoked ID
 _stageid_ID,Stage ID
@@ -804,7 +821,7 @@ cdi_domainidname,CDI Domain ID Name
 cdi_duration,CDI Duration
 cdi_editortype,CDI Editor Type
 cdi_email,CDI Email
-cdi_emailaddress,Cdi Email Address
+cdi_emailaddress,Cdi Email Address
 cdi_emailaddressfield,CDI Email Address Field
 cdi_emailclient,CDI Email Client
 cdi_emailclientpreviewdata,CDI Email Client Preview Data
@@ -821,7 +838,7 @@ cdi_emailstatus,CDI Email Status
 cdi_emailtemplateid,CDI Email Template ID
 cdi_emailtemplateid_entitytype,CDI Email Template ID Entity Type
 cdi_emailtemplateid2,CDI Email Template ID 2
-cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
+cdi_emailtemplateid2_entitytype,Cdi Email Template ID 2 Entity Type
 cdi_emailtemplateid2name,CDI Email Template ID 2 Name
 cdi_emailtemplateidname,CDI Email Template ID Name
 cdi_emailtest,CDI Email Test
@@ -1147,6 +1164,8 @@ closeprobability,Close Probability
 codename,Code Name
 COGS_LCY,COGS LCY
 columnsetxml,Column Set XML
+COMM_DTL_TYP_CD,Commission Detail Type Code
+COMM_PER_CD,Commission Percentage Code
 commanddefinition,Command Definition
 commanddefinitionid,Command Definition ID
 commandname,Command Name
@@ -1254,6 +1273,7 @@ creditlimit_base,Credit Limit Base
 creditonhold,Credit On Hold
 CRM_Account_ID,CRM Account ID
 crmtaskassigneduniqueid,CRM Task Assigned Unique ID
+CURR_AMT,Current Amount
 currencydecimalprecision,Currency Decimalprecision
 currencydisplayoption,Currency Display Option
 currencyformatcode,Currency Format Code
@@ -1378,6 +1398,8 @@ discountamount_base,Discount Amount Base
 discountcalculationmethod,Discount Calculation Method
 discountid,Discount ID
 discountpercentage,Discount Percentage
+DISCOUNTS,Discounts
+DISCOUNTS_USD,Discounts USD
 discounttypeid,Discount Type ID
 discounttypeid_entitytype,Discount Type ID Entity Type
 discounttypeidname,Discount Type ID Name
@@ -1556,6 +1578,7 @@ featuremask,Feature Mask
 featureset,Feature Set
 feedbackid,Feedback ID
 fetchxml,Fetch XML
+FI_MARKET,Market
 fieldid,Field ID
 fieldpermissionid,Field Per Mission ID
 fieldpermissionidunique,Field Per Mission ID Unique
@@ -1662,6 +1685,8 @@ goalwitherroridname,Goal With Error ID Name
 governmentid,Government ID
 grantaccesstonetworkservice,Grant Accessto Network Service
 granularity,Granularity
+GROSS_REVENUE,Gross Revenue
+GROSS_REVENUE_USD,Gross Revenue USD
 groupid,Group ID
 groupid_entitytype,Group ID Entity Type
 groupobjectid,Group Object ID
@@ -1739,6 +1764,7 @@ introducedversion,Introduced Version
 InvalidEmailSatusBR,Invalid Email Satus Br
 InvalidEmailStatusBR,Invalid Email Status Br
 invitestatuscode,Invite Status Code
+INVOICED_SALES_QTY,Invoiced Sales Qty
 invoiceDate,Invoice Date
 invoicedetailid,Invoice Line ID
 invoicedetailname,Invoice Line Name
@@ -1895,6 +1921,8 @@ jma_submittedon,Submitted On
 Job_Title,Job Title
 jobtitle,Job Title
 jt_400numberid,400 Number ID
+jt_4thfloorhospitalistvolume,4th Floor Hospitalist Volume
+jt_5thfloorhospitalistvolume,5th Floor Hospitalist Volume
 jt_897,897
 jt_897_base,897 Base
 jt_897total,897 Total
@@ -1991,12 +2019,18 @@ jt_addressline4,Address Line4
 jt_addressline5,Address Line5
 jt_addresswdid,Address WD ID
 jt_adenddate,Adend Date
+jt_admissionsday,Admissions Day
+jt_admissionsnightnightshiftcoverage,Admissions Night (Night Shift Coverage)
+jt_admissionsnightnonightshiftcoverage,Admissions Night (No Night Shift Coverage)
 jt_adrequeststatusreason,Ad Request Status Reason
 jt_adsenddate,Ads End Date
 jt_adspermonthcalc,Ads Per Month Calculation
 jt_adsperweekcalc,Ads Per Week Calculation
 jt_adsstartdate,Ads start Date
 jt_adstime,Ads Time
+jt_adultbhs,Adult BHS
+jt_adultbhspatientsaddedseen,Adult BHS Patients Added & Seen
+jt_adultbhsrefusedvisitdischargedbeforeseen,Adult BHS Refused Visit Discharged Before Seen
 jt_affaddedvalue,AFF Added ID
 jt_affgrossrates,Aff Gross Rates
 jt_affgrosstotals,Aff Gross Totals
@@ -2006,6 +2040,7 @@ jt_agency,Agency
 jt_airrevenue,Air Revenue
 jt_airrevenue_base,Air Revenue Base
 jt_allriskevalscomplete,All Risk Evals Complete
+jt_ama,AMA
 jt_amount,Amount
 jt_amount_base,Amount Base
 jt_anettransaction,ANET Transaction
@@ -2063,12 +2098,16 @@ jt_auditsclosuresstageduedate,Audits Closures Stage Due Date
 jt_auditsclosuresstarttime,Audit Closures Start Time
 jt_automatedtask,Automated Task
 jt_awardletterreceived,Award Letter Received
+jt_azuredevopsprojectid,Azure Devops Project ID
+jt_azuredevopssyncerror,Azure Develops Sync Error
+jt_azuredevopsurl,Azure Devops URL
 jt_backlogrank,Backlog Rank
 jt_backordersallowed,Back Orders Allowed
 jt_balance,Balance
 jt_balance_base,Balance Base
 jt_basetask,Base Task Flag
 jt_BasicLifeCarrier,Back Life Carrier
+jt_bhsolderadulttotal,BHS Older Adult Total
 jt_billable,Is Billable
 jt_billaddrcity,Billing Address City
 jt_billaddrcitylookup,Billing Address city lookup
@@ -2129,6 +2168,7 @@ jt_businesscategory,Business Category
 jt_calculatedestimatedrevenue_base,Calculated Estimated Revenue Base
 jt_calendarasranactual,Calendar As Ran Actual
 jt_calendarasranactual_base,Calendar As Ran actual Base
+jt_callbackdeliveries,Call Back Deliveries
 jt_campaign,Campaign
 jt_campaign_entitytype,Campaign Entity Type
 jt_campaign_systemuserid,Campaign System User ID
@@ -2162,6 +2202,7 @@ jt_claimsexperience,Claims Experience
 jt_claimsexperience100,Claims Experience 100
 jt_cldteam,Cloud Team
 jt_clientacceptedproposal,Client Acceptance Date
+jt_clientaccountmetricsid,Client Account Metrics ID
 jt_clientmsaapproved,Client MSA Approved
 jt_clientsatisfaction,Client Satisfaction
 jt_clientvisible,Client Visable Flag
@@ -2182,6 +2223,7 @@ jt_companyid,Company ID
 jt_completedon,Completed On Date
 jt_ComplianceManager,Compliance Manager
 jt_conciergecontact,Concierge Contact
+jt_consults,Consults
 jt_contact,Contact
 jt_contact_entitytype,Contact Entity Type
 jt_contactfinalsoldcarriercopyam,Contact Final Sold Carrier Copy AM
@@ -2262,15 +2304,18 @@ jt_customsbrokerage,Customs Brokerage
 jt_customsbrokeragerevenue,Customs Brokerage Revenue
 jt_customsbrokeragerevenue_base,Customs Brokerage Revenue Base
 jt_cycleplanning,Cycle Planning
+jt_date,Date
 jt_datecommissioncalcapproved,Date Commission Calc Approved
 jt_dateestablished,Date Established
 jt_datesubmitted,Date Submitted
 jt_dayofthemonth,Day Ofthe Month
 jt_dba,Dba
 jt_dbaname,Dba Name
+jt_deaths,Deaths
 jt_decisionfinalplanssetverified,Decision Final Plans Set Verified
 jt_defaultsubscriptiondays,Default Subscription Days
 jt_deletemedate,Delete Me Date
+jt_deliveries,Deliveries
 jt_DentalCarrier,Dental Carrier
 jt_DentalPolicyCarrier,Dental Policy Carrier
 jt_DentalPolicyCarrier_Task,Dental Policy Carrier
@@ -2316,6 +2361,8 @@ jt_donotallowtext,Do Not Allow Text
 jt_dontfiresubscription,Dont Fire Subscription
 jt_duedatetoclient,Due Date to Client
 jt_durationhours,Duration Hours
+jt_edlwotlwbs,ED LWOT/LWBS
+jt_edvolume,ED Volume
 jt_effectivedate,Effective Date
 jt_email,Email
 jt_employeecode,Employee Code
@@ -2353,6 +2400,7 @@ jt_expiredate,Expire Date
 jt_exportstatus,Export Status
 jt_externalerror,External Error Flag
 jt_fasttrackthisjob,Fast Track This Job
+jt_featurebill,Feature Bill
 jt_federalid,Federal ID
 jt_finalcheckriskevalforms,Final Check Risk Eval Forms
 jt_finalizationcomplete,Finalization Complete
@@ -2360,10 +2408,14 @@ jt_finalizationstageduedate,Finalization Stage Due Date
 jt_finalizationstarted,Finalization Started
 jt_finalizationstarttime,Finalization Start Time
 jt_finalrates,Final Rates
+jt_firstname,First Name
 jt_firstorderdate,First Order Date
 jt_firstordermanual,First Order Manual
 jt_firstspotdate_date,First Spot Date Date
 jt_firstspotdate_state,First Spot Date State
+jt_flagplant,Flagplant
+jt_flagplantdescription,Flagplant Description
+jt_flagplantsuccesscriteria,Flagplant Success Criteria
 jt_flightstatus,Flight Status
 jt_fob,Fob
 jt_forlobbying,For Lobbying
@@ -2403,6 +2455,8 @@ jt_guideupdate,Guide Update
 jt_hcategory,H Category
 jt_hidecreateorder,Hide Create Order
 jt_hobby,Hobby
+jt_hospitalisttotalat0700,Hospitalist Total at 0700
+jt_hospitalistvolume,Hospitalist Volume
 jt_hours,Hours
 jt_hourscomplete,Hours Complete
 jt_hourscomplete_date,Hours Complete Date
@@ -2438,6 +2492,7 @@ jt_installdate,Install Date
 jt_installhours,Install Hours
 jt_insurancedescription,Insurance Description
 jt_insurancerequiredyn,Insurance Require Dyn
+jt_intensivistvolume,Intensivist Volume
 jt_internalerror,Internal Error Flag
 jt_internalproject,Internal Project
 jt_internationalholdexception,International Hold Exception
@@ -2492,6 +2547,7 @@ jt_lastapprovalstepowner,Last Approval Step Owner
 jt_lastapprovalstepowner_entitytype,Last Approval Step Owner Entity Type
 jt_lastapprovalstepownername,Last Approval Step Owner Name
 jt_lastapprovalstepowneryominame,Last Approval Step Owner Yomi Name
+jt_lastname,Last Name
 jt_lastordereddate,Last Order Eddate
 jt_lastrunon,Last Run On Date
 jt_lasttimeentry,Last Time Entry
@@ -2611,6 +2667,8 @@ jt_nextrunon,Next Run On Date
 jt_nextsequence,Next Sequence
 jt_nodusauthcode,Nodusauth Code
 jt_nooflocations,Noof Location S
+jt_noshowapp,No Show App
+jt_noshowphysician,No Show Physician
 jt_notificationmessage,Notification Message
 jt_novex,Novex
 jt_npm,NPM
@@ -2621,6 +2679,8 @@ jt_numberofrisks,Number Of Risks
 jt_numberofsteps,Number Ofsteps
 jt_numberofsteps_date,Number Ofsteps Date
 jt_numberofsteps_state,Number Ofsteps State
+jt_nurseryvolume,Nursery Volume
+jt_ob,OB
 jt_ocean,Ocean
 jt_oceanrevenue,Ocean Revenue
 jt_oceanrevenue_base,Ocean Revenue Base
@@ -2658,6 +2718,7 @@ jt_other,Other
 jt_other_base,Other Base
 jt_othertotal,Other Total
 jt_othertotal_base,Other Total Base
+jt_outofscopesummary,Out of Scope Summary
 jt_overcreditlimitexception,Over Credit Limit Exception
 jt_ownerhshiptype,Owner Hshiptype
 jt_ownershiptype,Owner Shiptype
@@ -2690,8 +2751,10 @@ jt_pcaforpromoname,Pcaforpromo Name
 jt_pcaid,Pcaid
 jt_pcaid_entitytype,Pcaid Entity Type
 jt_pcaidname,Pcaid Name
+jt_pedsbhs,PEDS BHS
 jt_percentcomplete,Percent Complete
 jt_period,Period
+jt_pftvolume,PFT Volume
 jt_phonepreference,Phone Preference
 jt_plansummaries,Plan Summaries
 jt_pledge,Pledge
@@ -2783,6 +2846,8 @@ jt_projrevenuemargin,Proj. Revenue Margin
 jt_projrevenueprob,Proj. Revenue Prob.
 jt_promiseddate,Promise Ddate
 jt_prospectpresentneeded,Prospect Present Needed
+jt_provider,Provider
+jt_providercategory_display,Provider Category
 jt_psrcash,PSR Cash
 jt_psrcash_base,PSR Cash Base
 jt_psrnew,PSR New
@@ -2795,6 +2860,8 @@ jt_psrtotal,PSR Total
 jt_psrtotal_base,PSR Total Base
 jt_psrtrade,PSR Trade
 jt_psrtrade_base,PSR Trade Base
+jt_pulmonologyclinictelehealthvisits,Pulmonology Clinic Telehealth Visits
+jt_pulmonologyvolume,Pulmonology Volume
 jt_purchaseorderemail,Purchase Order Email
 jt_q_howlongshouldthescriptread,Q Howlong Should The Script Read
 jt_q_howmanyproductspertray,Q Howmany Product Spertray
@@ -3077,6 +3144,7 @@ jt_sendrfps,Send RFPS
 jt_sendterminationletters,Send Termination Letters
 jt_sentby,Sent By
 jt_serovital,Sero Vital
+jt_servicetype_display,Service Type
 jt_sessionidmas,Session IDmas
 jt_setrenewalmeeting,Set Renewal Meeting
 jt_shelflife,Shelf Life
@@ -3139,6 +3207,7 @@ jt_skillforbponame,Skill Forbpo Name
 jt_skillforos,Skill Foros
 jt_skillforos_entitytype,Skill Foros Entity Type
 jt_skillforosname,Skill Foros Name
+jt_sleepmedicinevolume,Sleep Medicine Volume
 jt_socialsecurity,Social Security
 jt_soldtowdid,Sold To WD ID
 jt_solinenumber,Order Line Number
@@ -3152,6 +3221,7 @@ jt_spotscalc,Spots Calculation
 jt_spreadquotes,Spread Quotes
 jt_spreadquotestaskassigned,Spread Quotes Task Assigned
 jt_spreadsheets,Spreadsheets
+jt_sprinthistoryid,Sprint History ID
 jt_sprintid,Sprint ID
 jt_sprintid_entitytype,Sprint ID Entity Type
 jt_sprintidname,Sprint ID Name
@@ -3206,6 +3276,9 @@ jt_substartdate,Sub Start Date
 jt_subtotal,Subtotal
 jt_subtotal_base,Subtotal Base
 jt_suffixlist,Suffixlist
+jt_swingbeds,Swing Beds
+jt_syncingtoazuredevops,Syncing to Azure Devops
+jt_synctoazuredevops,Sync to Azure Devops
 jt_targetads,Target Ads
 jt_targetgolive,Target Go Live
 jt_targethours,Target Hours
@@ -3218,6 +3291,7 @@ jt_teamsalegoalmonthlyid,Team Sales Goal Monthly ID
 jt_teamsalesgoal_ID,Team Sales Goal ID
 jt_teamsalesgoalid,Team Sales Goal ID
 jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
+jt_telehealthhospitalistvolume,Telehealth Hospitalist Volume
 jt_terminationletters,Termination Letters
 jt_terminationlettersassistance,Termination Letters Assistance
 jt_textpreference,Textpreference
@@ -3230,6 +3304,9 @@ jt_tollfreenumberid,JTtollfree Number ID
 jt_total,Total
 jt_total_base,Total Base
 jt_totaladunits,Total Ad Units
+jt_totalbillableworkhourste,Total Billable Work Hours Time Entry
+jt_totalbillableworkhourste_date,Total Billable Work Hours Time Entry Date
+jt_totalbillableworkhourste_state,Total Billable Work Hours Time Entry State
 jt_totalbudget,Total Budget
 jt_totalcash,Total Cash
 jt_totalcash_base,Total Cash Base
@@ -3244,14 +3321,30 @@ jt_totalinstallments_base,Total Installments Base
 jt_totalinstallments_date,Total Installments Date
 jt_totalinstallments_state,Total Installments State
 jt_totalnew,TotalNew
+jt_totalpresalesbillablehours_timeentry,Total Presales Billable Hours Time Entry
+jt_totalpresalesbillablehours_timeentry_date,Total Presales Billable Hours Time Entry Date
+jt_totalpresalesbillablehours_timeentry_state,Total Presales Billable Hours Time Entry State
+jt_totalpresalesunbillablehours_timeentry,Total Presales Unbillable Hours Time Entry
+jt_totalpresalesunbillablehours_timeentry_date,Total Presales Unbillable Hours Time Entry Date
+jt_totalpresalesunbillablehours_timeentry_state,Total Presales Unbillable Hours Time Entry State
 jt_totalrenew,Total Renew
 jt_totaltimeentries,Total Time Entries
 jt_totaltimeentriesminutes,Total Time Entries Minutes
 jt_totaltrade,Total Trade
 jt_totaltrade_base,Total Trade Base
+jt_totaltravelbillablehours_te,Total Travel Billable Hours Time Entry
+jt_totaltravelbillablehours_te_date,Total Travel Billable Hours Time Entry Date
+jt_totaltravelbillablehours_te_state,Total Travel Billable Hours Time Entry State
+jt_totaltravelunbillablehours_timeentry,Total Travel Unbillable Hours Time Entry
+jt_totaltravelunbillablehours_timeentry_date,Total Travel Unbillable Hours Time Entry Date
+jt_totaltravelunbillablehours_timeentry_state,Total Travel Unbillable Hours Time Entry State
+jt_totalunbillableworkhourste,Total Unbillable Work Hours Time Entry
+jt_totalunbillableworkhourste_date,Total Unbillable Work Hours Time Entry Date
+jt_totalunbillableworkhourste_state,Total Unbillable Work Hours Time Entry State
 jt_trackingnourl,Tracking No URL
 jt_trackingnumber,Tracking Number
 jt_trafficsystemflightid,Traffic System Flight ID
+jt_transfers,Transfers
 jt_tv,TV
 jt_tv_base,TV Base
 jt_tvtotal,TV Total
@@ -3286,6 +3379,9 @@ jt_VoluntaryLifeCarrier,Voluntary Life Carrier
 jt_VoluntaryLifePolicyCarrier,Voluntary Life Policy Carrier
 jt_VoluntaryLifePolicyCarrier_Task,Voluntary Life Policy Carrier
 jt_voluntarylifepolicyeffdate,Voluntary Life Policy Eff Date
+jt_walkincliniclwotlwbs,Walkin Clinic LWOT/LWBS
+jt_walkinclinictelehealthvisits,Walkin Clinic Telehealth Visits
+jt_walkinclinicvolume,Walkin Clinic Volume
 jt_wcaifm,WCAI FM
 jt_wcaifm_base,WCAI FM Base
 jt_wcaifmtotal,WCAI FM Total
@@ -3605,6 +3701,7 @@ msdyn_endlocation,End Location
 msdyn_entrystatus,Entry Status
 msdyn_estimatedarrivaltime,Estimated Arrival Time
 msdyn_estimatedtravelduration,Estimated Travel Duration
+msdyn_exchangerate,Exchange Rate
 msdyn_exchangeratedate,Exchange Rate Date
 msdyn_externaldescription,External Description
 msdyn_externalreferencedate,External Reference Date
@@ -3803,6 +3900,7 @@ msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_vendortype,Vendor Type
 msdyn_wbsduration,Wbs Duration
 msdyn_wbsid,Wbs ID
+MTH,Month
 name,Name
 navigationtype,Navigation Type
 need,Need
@@ -4378,6 +4476,7 @@ RetrieveUserLicenseInfo,Retrieve User License Info
 RetrieveUserPrivileges,Retrieve User Privileges
 RetrieveUserQueues,Retrieve User Queues
 returnedtypecode,Returned Type Code
+RETURNS_USD,Returns USD
 revenue,Revenue
 revenue_base,Revenue Base
 review,Review
@@ -4437,6 +4536,7 @@ sage_countryid,Sage Country ID
 sage_custclasskey,Sage Cust Class Key
 sage_itemkey,Sage Item Key
 Sales_LCY,Sales LCY
+SALES_ORG,Sales Org
 Sales_Qty,Sales Quantity
 Sales_Unit_of_Measure,Sales Unit of Measure
 salesliteratureid,Sales Literature ID
@@ -4516,6 +4616,8 @@ sessiontimeoutinmins,Session Timeout In Mins
 sessiontimeoutreminderinmins,Session Timeout Reminder In Mins
 setcategoryassociations,Set Category Associations
 setproductassociations,Set Product Associations
+SETTLED,Settled
+SETTLED_DATE,Settled Date
 setupuser,Setup User
 severitycode,Severity Code
 sharepointdeploymenttype,SharePoint Deployment Type
@@ -4585,6 +4687,7 @@ spousesname,Spouses Name
 sqlaccessgroupid,SQL Access Group ID
 sqlaccessgroupname,SQL Access Group Name
 sqmenabled,SQM Enabled
+SRC_CNTRY_CD,Country Code
 stageid,Stage ID
 Standard_Cost,Standard Cost
 standardbias,Standard Bias
@@ -4737,6 +4840,9 @@ toemail,TO Email
 tokenexpiry,Token Expiry
 tokenkey,Token Key
 torecipients,TO Recipients
+TOTAL,Total
+TOTAL_COST,Total Cost
+TOTAL_QTY,Total Qty
 totalactualcost,Total Actual Cost
 totalactualcost_base,Total Actual Cost Base
 totalamount,Total Amount
@@ -4808,6 +4914,7 @@ upszone,UPS Zone
 uri,Uri
 url,Url
 US State,US State
+USD_AMT,USD Amount
 usecrmformforappointment,Usecrm Form For Appointment
 usecrmformforcontact,Usecrm Form For Contact
 usecrmformforemail,Usecrm Form For Email
@@ -5084,69 +5191,3 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
-_businessunitid_value,Business Unit ID
-_defaultmailbox_value,Default Mailbox ID
-_mobileofflineprofileid_value,Mobile Offline Profile ID
-_parentsystemuserid_value,Parent System User ID
-_positionid_value,Position ID
-_queueid_value,Queue ID
-_siteid_value,Site ID
-COMM_DTL_TYP_CD,Commission Detail Type Code
-COMM_PER_CD,Commission Percentage Code
-CURR_AMT,Current Amount
-SETTLED,Settled
-SETTLED_DATE,Settled Date
-SRC_CNTRY_CD,Country Code
-USD_AMT,USD Amount
-MTH,Month
-SALES_ORG,Sales Org
-GROSS_REVENUE_USD,Gross Revenue USD
-DISCOUNTS_USD,Discounts USD
-RETURNS_USD,Returns USD
-TOTAL,Total
-TOTAL_QTY,Total Qty
-INVOICED_SALES_QTY,Invoiced Sales Qty
-DISCOUNTS,Discounts
-TOTAL_COST,Total Cost
-GROSS_REVENUE,Gross Revenue
-FI_MARKET,Market
-_jt_relatedfeature_value,Related Feature ID
-jt_azuredevopssyncerror,Azure Develops Sync Error
-jt_synctoazuredevops,Sync to Azure Devops
-jt_sprinthistoryid,Sprint History ID
-_jt_projecttaskid_value,Project Task ID
-_jt_sprintid_value,Sprint ID
-_jt_previoussprintid_value,Previous Sprint ID
-jt_outofscopesummary,Out of Scope Summary
-jt_totalpresalesunbillablehours_timeentry,Total Presales Unbillable Hours Time Entry
-_jt_projectpoc_value,Project POC ID
-jt_totalbillableworkhourste,Total Billable Work Hours Time Entry
-_jt_projectpricelistbillrate_value,Project Price List Billrate ID
-jt_flagplantdescription,Flagplant Description
-jt_totalpresalesbillablehours_timeentry_state,Total Presales Billable Hours Time Entry State
-jt_azuredevopsurl,Azure Devops URL
-msdyn_exchangerate,Exchange Rate
-jt_flagplant,Flagplant
-jt_totalbillableworkhourste_state,Total Billable Work Hours Time Entry State
-jt_totalpresalesunbillablehours_timeentry_date,Total Presales Unbillable Hours Time Entry Date
-jt_totalpresalesunbillablehours_timeentry_state,Total Presales Unbillable Hours Time Entry State
-jt_syncingtoazuredevops,Syncing to Azure Devops
-jt_totaltravelunbillablehours_timeentry,Total Travel Unbillable Hours Time Entry
-jt_totalunbillableworkhourste_date,Total Unbillable Work Hours Time Entry Date
-jt_featurebill,Feature Bill
-_msdyn_salesorderid_value,Sales Order ID
-jt_totaltravelunbillablehours_timeentry_state,Total Travel Unbillable Hours Time Entry State
-jt_totaltravelbillablehours_te,Total Travel Billable Hours Time Entry
-_jt_generatingquote_value,Generating Quote ID
-jt_totalpresalesbillablehours_timeentry,Total Presales Billable Hours Time Entry
-_msdyn_workhourtemplate_value,Work Hour Template ID
-jt_totaltravelunbillablehours_timeentry_date,Total Travel Unbillable Hours Time Entry Date
-jt_totalunbillableworkhourste,Total Unbillable Work Hours Time Entry
-jt_flagplantsuccesscriteria,Flagplant Success Criteria
-jt_azuredevopsprojectid,Azure Devops Project ID
-jt_totalbillableworkhourste_date,Total Billable Work Hours Time Entry Date
-jt_totaltravelbillablehours_te_state,Total Travel Billable Hours Time Entry State
-jt_totaltravelbillablehours_te_date,Total Travel Billable Hours Time Entry Date
-jt_totalpresalesbillablehours_timeentry_date,Total Presales Billable Hours Time Entry Date
-_msdyn_projecttemplate_value,Microsoft Dynamics Project Template ID
-jt_totalunbillableworkhourste_state,Total Unbillable Work Hours Time Entry State
