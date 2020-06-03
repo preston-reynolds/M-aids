@@ -2149,6 +2149,7 @@ jt_billtocontactyominame,Bill To Contact Yomi Name
 jt_billtowdid,Bill To WD ID
 jt_bindercheckrequests,Binder Check Requests
 jt_bindercheckrequestsassistance,Binder Check Requests Assistance
+jt_birthdaymmdd,Birthday MM/DD
 jt_bodylab,Body Lab
 jt_boothnumber,Booth Number
 jt_bpobusinessunitnumber,Bpo Business Unit Number
@@ -2175,6 +2176,7 @@ jt_campaign_systemuserid,Campaign System User ID
 jt_campaignname,Campaign Name
 jt_cancellationclause,Cancellation Clause
 jt_cansell,Can Sell
+jt_cardiology,Cardiology
 jt_carrier,Carrier
 jt_carrierprovider,Carrier Provider
 jt_carrierquotinglistbroker,Carrier Quoting List Broker
@@ -2201,15 +2203,21 @@ jt_city,City
 jt_claimsexperience,Claims Experience
 jt_claimsexperience100,Claims Experience 100
 jt_cldteam,Cloud Team
+jt_client,Client
 jt_clientacceptedproposal,Client Acceptance Date
 jt_clientaccountmetricsid,Client Account Metrics ID
+jt_clientcontact,Client Contact
 jt_clientmsaapproved,Client MSA Approved
+jt_clientprovidernoteid,Client Provider Note ID
 jt_clientsatisfaction,Client Satisfaction
+jt_clientservice,Client Service
 jt_clientvisible,Client Visable Flag
+jt_clinicstaffing,Clinic Staffing
 jt_closeopenenrollment,Close Open Enrollment
 jt_closeopenenrollmentcomplete,Close Open Enrollment Complete
 jt_closeopenenrollmentstageduedate,Close Open Enrollment Stage Due Date
 jt_closeopenenrollmentstarttime,Close Open Enrollment Start Time
+jt_cmetraining,CME Training
 jt_codinghourscapacity,Coding Hours Capacity
 jt_codinghoursremaining,Coding Hours Remaining
 jt_codinghoursused,Coding Hoursused
@@ -2220,9 +2228,11 @@ jt_company,Company
 jt_companycode,Company Code
 jt_companycontactnumber,Company Contact Number
 jt_companyid,Company ID
+jt_competitor,Competitor
 jt_completedon,Completed On Date
 jt_ComplianceManager,Compliance Manager
 jt_conciergecontact,Concierge Contact
+jt_consultant,Consultant
 jt_consults,Consults
 jt_contact,Contact
 jt_contact_entitytype,Contact Entity Type
@@ -2307,6 +2317,8 @@ jt_cycleplanning,Cycle Planning
 jt_date,Date
 jt_datecommissioncalcapproved,Date Commission Calc Approved
 jt_dateestablished,Date Established
+jt_dateofbirth,Date of Birth
+jt_dateofcomment,Comment Date
 jt_datesubmitted,Date Submitted
 jt_dayofthemonth,Day Ofthe Month
 jt_dba,Dba
@@ -2320,6 +2332,7 @@ jt_DentalCarrier,Dental Carrier
 jt_DentalPolicyCarrier,Dental Policy Carrier
 jt_DentalPolicyCarrier_Task,Dental Policy Carrier
 jt_dentalpolicyeffdate,Dental Policy Eff Date
+jt_department,Department
 jt_description,Description
 jt_designer,Designer
 jt_designer_entitytype,Designer Entity Type
@@ -2361,11 +2374,14 @@ jt_donotallowtext,Do Not Allow Text
 jt_dontfiresubscription,Dont Fire Subscription
 jt_duedatetoclient,Due Date to Client
 jt_durationhours,Duration Hours
+jt_ed,ED
 jt_edlwotlwbs,ED LWOT/LWBS
 jt_edvolume,ED Volume
 jt_effectivedate,Effective Date
+jt_eligibleforonboarding,Eligible for Onboarding
 jt_email,Email
 jt_employeecode,Employee Code
+jt_employmenttype,Employment Type
 jt_enddate,End Date
 jt_enddate_date,End Date Date
 jt_enddate_state,End Date State
@@ -2379,6 +2395,7 @@ jt_enrollmentformstaskassigned,Enrollment Forms Task Assigned
 jt_entityengagedas,Entity Engaged As
 jt_epaymentapproved,E Payment Approved
 jt_erpteam,ERP Team
+jt_estfirstshiftdate,Est First Shift Date
 jt_event,Event
 jt_event_base,Event Base
 jt_eventcodemas,Event Codemas
@@ -2418,6 +2435,8 @@ jt_flagplantdescription,Flagplant Description
 jt_flagplantsuccesscriteria,Flagplant Success Criteria
 jt_flightstatus,Flight Status
 jt_fob,Fob
+jt_foidtrainingcomplete,FOID Training Complete
+jt_foidtrainingdatecompleted,FOID Training Complete Date
 jt_forlobbying,For Lobbying
 jt_formulanumber,Formula Number
 jt_freefrompca,Free Frompca
@@ -2440,6 +2459,7 @@ jt_fyteamtotal,FY Team Total
 jt_fytotalrevenue,FY Total Revenue
 jt_fytotalrevenue_base,FY Total Revenue Base
 jt_generalservices,General Services
+jt_generalsurgery,General Surgery
 jt_giftid,Giftid
 jt_goal,Goal
 jt_goalname,Goal Name
@@ -2455,6 +2475,7 @@ jt_guideupdate,Guide Update
 jt_hcategory,H Category
 jt_hidecreateorder,Hide Create Order
 jt_hobby,Hobby
+jt_hospitalist,Hospitalist
 jt_hospitalisttotalat0700,Hospitalist Total at 0700
 jt_hospitalistvolume,Hospitalist Volume
 jt_hours,Hours
@@ -2492,6 +2513,7 @@ jt_installdate,Install Date
 jt_installhours,Install Hours
 jt_insurancedescription,Insurance Description
 jt_insurancerequiredyn,Insurance Require Dyn
+jt_integritasworkanniversary,Integritas Work Anniversary
 jt_intensivistvolume,Intensivist Volume
 jt_internalerror,Internal Error Flag
 jt_internalproject,Internal Project
@@ -2669,9 +2691,11 @@ jt_nodusauthcode,Nodusauth Code
 jt_nooflocations,Noof Location S
 jt_noshowapp,No Show App
 jt_noshowphysician,No Show Physician
+jt_note,Note
 jt_notificationmessage,Notification Message
 jt_novex,Novex
 jt_npm,NPM
+jt_numberofbeds,Number of Beds
 jt_numberofdays,Number Ofdays
 jt_numberofemployees,Number Of Employees
 jt_numberofissues,Number Of Issues
@@ -2751,6 +2775,7 @@ jt_pcaforpromoname,Pcaforpromo Name
 jt_pcaid,Pcaid
 jt_pcaid_entitytype,Pcaid Entity Type
 jt_pcaidname,Pcaid Name
+jt_pediatric,Pediatric
 jt_pedsbhs,PEDS BHS
 jt_percentcomplete,Percent Complete
 jt_period,Period
@@ -2777,6 +2802,7 @@ jt_preferredagent,Prefer Red Agent
 jt_preferredagent_entitytype,Prefer Red Agent Entity Type
 jt_preferredagentname,Prefer Red Agent Name
 jt_preferredagentyominame,Prefer Red Agent Yomi Name
+jt_preferredname,Preferred Name
 jt_preparerenewalbooklet,Prepare Renewal Booklet
 jt_prerenewalcomplete,Pre Renewal Complete
 jt_prerenewalstageduedate,Pre Renewal Stage Due Date
@@ -2786,6 +2812,7 @@ jt_presentationdate,Present Ationdate
 jt_pricefromquote,Price From Quote
 jt_priceperunit,Price Per Unit
 jt_priceperunit_base,Price Per Unit Base
+jt_primarycare,Primary Care
 jt_primarycontact,Primary Contact
 jt_primarycontact_entitytype,Primary Contact Entity Type
 jt_primarycontactname,Primary Contact Name
@@ -2800,6 +2827,7 @@ jt_priority,Priority ID
 jt_priority_old,Priority (Old)
 jt_prioryearriskevalform,Prior Year Risk Eval Form
 jt_prioryearriskevalformbroker,Prior Year Risk Eval Form Broker
+jt_prisoncare,Prison Care
 jt_probabilitytoclose,Close Probability
 jt_ProcessStage,Process Stage
 jt_product,Product
@@ -2845,9 +2873,11 @@ jt_projecttype,Project Type
 jt_projrevenuemargin,Proj. Revenue Margin
 jt_projrevenueprob,Proj. Revenue Prob.
 jt_promiseddate,Promise Ddate
+jt_prospect,Prospect
 jt_prospectpresentneeded,Prospect Present Needed
 jt_provider,Provider
 jt_providercategory_display,Provider Category
+jt_providerid,Provider ID
 jt_psrcash,PSR Cash
 jt_psrcash_base,PSR Cash Base
 jt_psrnew,PSR New
@@ -2860,6 +2890,7 @@ jt_psrtotal,PSR Total
 jt_psrtotal_base,PSR Total Base
 jt_psrtrade,PSR Trade
 jt_psrtrade_base,PSR Trade Base
+jt_pulmonologist,Pulmonologist
 jt_pulmonologyclinictelehealthvisits,Pulmonology Clinic Telehealth Visits
 jt_pulmonologyvolume,Pulmonology Volume
 jt_purchaseorderemail,Purchase Order Email
@@ -3200,6 +3231,7 @@ jt_showenddate,Showend Date
 jt_showhours,Showhours
 jt_showstartdate,Show Start Date
 jt_signature,Sig Nature
+jt_sitemanager,Site Manager
 jt_sizeofaccount,Sizeof Account
 jt_skillforbpo,Skill Forbpo
 jt_skillforbpo_entitytype,Skill Forbpo Entity Type
@@ -3207,6 +3239,7 @@ jt_skillforbponame,Skill Forbpo Name
 jt_skillforos,Skill Foros
 jt_skillforos_entitytype,Skill Foros Entity Type
 jt_skillforosname,Skill Foros Name
+jt_sleepmedicine,Sleep Medicine
 jt_sleepmedicinevolume,Sleep Medicine Volume
 jt_socialsecurity,Social Security
 jt_soldtowdid,Sold To WD ID
@@ -3291,6 +3324,7 @@ jt_teamsalegoalmonthlyid,Team Sales Goal Monthly ID
 jt_teamsalesgoal_ID,Team Sales Goal ID
 jt_teamsalesgoalid,Team Sales Goal ID
 jt_teamsalesgoalmonthlyid,Team Sales Goal Monthly ID
+jt_telehealth,Telehealth
 jt_telehealthhospitalistvolume,Telehealth Hospitalist Volume
 jt_terminationletters,Termination Letters
 jt_terminationlettersassistance,Termination Letters Assistance
@@ -3365,6 +3399,8 @@ jt_upgradeproductname,Up Gradeproduct Name
 jt_valueaddedservicesrevenue,Value Added Services Revenue
 jt_valueaddedservicesrevenue_base,Value Added Services Revenue Base
 jt_valueaddservices,Value Add Services
+jt_vendor,Vendor
+jt_vendornotes,Vendor Notes
 jt_versiondate,Version Date
 jt_versionname,VersionName
 jt_videoproduction,Video Production
@@ -3379,6 +3415,7 @@ jt_VoluntaryLifeCarrier,Voluntary Life Carrier
 jt_VoluntaryLifePolicyCarrier,Voluntary Life Policy Carrier
 jt_VoluntaryLifePolicyCarrier_Task,Voluntary Life Policy Carrier
 jt_voluntarylifepolicyeffdate,Voluntary Life Policy Eff Date
+jt_walkin,Walkin
 jt_walkincliniclwotlwbs,Walkin Clinic LWOT/LWBS
 jt_walkinclinictelehealthvisits,Walkin Clinic Telehealth Visits
 jt_walkinclinicvolume,Walkin Clinic Volume
