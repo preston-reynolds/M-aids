@@ -2211,6 +2211,8 @@ jt_clientmsaapproved,Client MSA Approved
 jt_clientprovidernoteid,Client Provider Note ID
 jt_clientsatisfaction,Client Satisfaction
 jt_clientservice,Client Service
+jt_clienttype,Client Type ID
+jt_clienttype_display,Client Type
 jt_clientvisible,Client Visable Flag
 jt_clinicstaffing,Clinic Staffing
 jt_closeopenenrollment,Close Open Enrollment
@@ -2419,6 +2421,8 @@ jt_externalerror,External Error Flag
 jt_fasttrackthisjob,Fast Track This Job
 jt_featurebill,Feature Bill
 jt_federalid,Federal ID
+jt_feedbacktype,Feedback Type ID
+jt_feedbackreceivedfrom_display,Feedback Received From
 jt_finalcheckriskevalforms,Final Check Risk Eval Forms
 jt_finalizationcomplete,Finalization Complete
 jt_finalizationstageduedate,Finalization Stage Due Date
@@ -2499,6 +2503,7 @@ jt_hraeffdate,HRA Eff Date
 jt_HSACarrier,HSA Carrier
 jt_hsaeffdate,HSA Eff Date
 jt_htmlorderproductstable,Html Order Products Table
+jt_icupatientsseenbyhospitalist,ICU Patients Seen by Hospitalist
 jt_id,ID
 jt_implementationmanager,Implementation Manager
 jt_implementationmanagerglobal,Implementation Manager Global
@@ -3175,6 +3180,7 @@ jt_sendrfps,Send RFPS
 jt_sendterminationletters,Send Termination Letters
 jt_sentby,Sent By
 jt_serovital,Sero Vital
+jt_service,Service
 jt_servicetype_display,Service Type
 jt_sessionidmas,Session IDmas
 jt_setrenewalmeeting,Set Renewal Meeting
