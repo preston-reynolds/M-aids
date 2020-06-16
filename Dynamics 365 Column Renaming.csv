@@ -2219,7 +2219,11 @@ jt_closeopenenrollment,Close Open Enrollment
 jt_closeopenenrollmentcomplete,Close Open Enrollment Complete
 jt_closeopenenrollmentstageduedate,Close Open Enrollment Stage Due Date
 jt_closeopenenrollmentstarttime,Close Open Enrollment Start Time
+jt_cmeeducationnotes,CME Education Notes
+jt_cmetopic_display,CME Topic
 jt_cmetraining,CME Training
+jt_cmetrainingid,CME Training ID
+jt_cmetype_display,CME Type
 jt_codinghourscapacity,Coding Hours Capacity
 jt_codinghoursremaining,Coding Hours Remaining
 jt_codinghoursused,Coding Hoursused
@@ -2322,6 +2326,7 @@ jt_dateestablished,Date Established
 jt_dateofbirth,Date of Birth
 jt_dateofcomment,Comment Date
 jt_datesubmitted,Date Submitted
+jt_datetaken,Date Taken
 jt_dayofthemonth,Day Ofthe Month
 jt_dba,Dba
 jt_dbaname,Dba Name
@@ -2378,6 +2383,10 @@ jt_duedatetoclient,Due Date to Client
 jt_durationhours,Duration Hours
 jt_ed,ED
 jt_edlwotlwbs,ED LWOT/LWBS
+jt_educationtopic,Education Topic ID
+jt_educationtopic_display,Education Topic
+jt_educationtopicmultiselect,Education Topic Multiselect
+jt_educationtype_display,Education Type
 jt_edvolume,ED Volume
 jt_effectivedate,Effective Date
 jt_eligibleforonboarding,Eligible for Onboarding
@@ -2415,6 +2424,7 @@ jt_expensecostrollup,Expense Cost Rollup
 jt_expensecostrollup_base,Expense Cost Rollup Base
 jt_expensecostrollup_date,Expense Cost Rollup Date
 jt_expensecostrollup_state,Expense Cost Rollup State
+jt_expirationdate,Expiration Date
 jt_expiredate,Expire Date
 jt_exportstatus,Export Status
 jt_externalerror,External Error Flag
@@ -2422,6 +2432,7 @@ jt_fasttrackthisjob,Fast Track This Job
 jt_featurebill,Feature Bill
 jt_federalid,Federal ID
 jt_feedbacktype,Feedback Type ID
+jt_feedbacktype_display,Feedback Type
 jt_feedbackreceivedfrom_display,Feedback Received From
 jt_finalcheckriskevalforms,Final Check Risk Eval Forms
 jt_finalizationcomplete,Finalization Complete
@@ -2716,6 +2727,7 @@ jt_oceanrevenue,Ocean Revenue
 jt_oceanrevenue_base,Ocean Revenue Base
 jt_offsetsubdays,Offsetsubdays
 jt_omniorclientmsa,Omni or Client MSA
+jt_onboardingstage_display,Onboarding Stage
 jt_openenrollmentstarted,Open Enrollment Started
 jt_order,Order
 jt_order_entitytype,Order Entity Type
@@ -3009,6 +3021,7 @@ jt_questionspecifications,Question Specific Ations
 jt_questiontargetaudience,Question Target Audience
 jt_questionurl,Question URL
 jt_questionwordlimit,Questionword Limit
+jt_quizname_display,Quiz Name
 jt_quotecensusmemberlevelmdvl,Quote Census Member Level MDVL
 jt_quotecensussalaryjobtitlevlltdstd,Quote Census Salary Job Title VL Ltd Std
 jt_quotelinemonthlyid,QuoteLine Monthly ID
@@ -3107,6 +3120,7 @@ jt_repcommissionearnedrenew_base,Rep Commission Earned Renew Base
 jt_repcommissionratenew,Rep Commission Rate New
 jt_repcommissionraterenew,Rep Commission Rate Renew
 jt_repcommrenew,Rep Comm Renew
+jt_repeat,Repeat
 jt_repgoal,Rep Goal
 jt_reportingcreatedon,Reporting Created On Date
 jt_repratenew,Rep Rate New
@@ -3385,6 +3399,8 @@ jt_totalunbillableworkhourste_state,Total Unbillable Work Hours Time Entry State
 jt_trackingnourl,Tracking No URL
 jt_trackingnumber,Tracking Number
 jt_trafficsystemflightid,Traffic System Flight ID
+jt_trainingprovider, Training Provider
+jt_trainingtype_display,Training Type
 jt_transfers,Transfers
 jt_tv,TV
 jt_tv_base,TV Base
