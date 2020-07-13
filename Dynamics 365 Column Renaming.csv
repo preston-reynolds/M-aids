@@ -5251,3 +5251,20 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
+jt_approvedby,Approved By
+jt_changestatus,Change Status
+jt_changeuserstory,Change User Story
+jt_comments,Comments
+jt_dateapproved,Date Approved
+jt_datecompleted,Date Completed
+jt_datereported,Date Reported
+jt_estimatedcompletiondate,Estimated Completion Date
+jt_estimatedhours,Estimated Hours
+jt_impact,Impact
+jt_issuetype,Issue Type
+jt_project_1,Project ID
+jt_projecttrackingid,Project Tracking ID
+jt_proposedresolutionormitigation,Proposed Resolution
+jt_requestedby,Requested By
+jt_resolution,Resolution
+jt_riskcategory,Risk Category
