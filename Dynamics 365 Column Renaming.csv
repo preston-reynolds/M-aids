@@ -5351,3 +5351,9 @@ msfp_threshold,Threshold
 msfp_type,Type
 msfp_unsubscribedrecipientid,Unsubscribed Recipient ID
 msfp_versionnumber,Version Number
+deliveryprioritycode_display,Delivery Priority Code Display
+instancetypecode_display,Instance Type Code Display
+prioritycode_display,Priority Code Display
+statecode_display,State Code Display
+statuscode_display,Status Code Display
+community_display,Community Display
