@@ -2538,8 +2538,8 @@ jt_hraeffdate,HRA Eff Date
 jt_HSACarrier,HSA Carrier
 jt_hsaeffdate,HSA Eff Date
 jt_htmlorderproductstable,Html Order Products Table
+jt_icd10dx,ICD10DX
 jt_icupatientsseenbyhospitalist,ICU Patients Seen by Hospitalist
-jt_idc10dx,ICD10DX
 jt_id,ID
 jt_impact,Impact
 jt_implementationmanager,Implementation Manager
