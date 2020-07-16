@@ -5268,3 +5268,86 @@ jt_proposedresolutionormitigation,Proposed Resolution
 jt_requestedby,Requested By
 jt_resolution,Resolution
 jt_riskcategory,Risk Category
+msfp_acceptanonymousresponses,Accept Anonymous Responses
+msfp_anonymousurl,Anonymous URL
+msfp_channel,Channel
+msfp_channel_display,Channel Display
+msfp_choicetype,Choice Type
+msfp_choicetype_display,Choice Type Display
+msfp_contextparameters,Context Parameters
+msfp_correctanswer,Correct Answer
+msfp_description,Description
+msfp_emailaddress,Email Address
+msfp_embedcode,Embed Code
+msfp_embedcontextparameters,Embed Context Parameters
+msfp_friendlyname,Friendly Name
+msfp_fromemailaddress,From Email Address
+msfp_historicalcomputedvalue,Historical Computed Value
+msfp_imageproperties,Image Properties
+msfp_inviteemailaddress,Invite Email Address
+msfp_invitesentdate,Invite Sent Date
+msfp_invitestatus,Invite Status
+msfp_invitestatus_display,Invite Status Display
+msfp_invitestatusreason,Invite Status Reason
+msfp_inviteupdateddate,Invite Updated Date
+msfp_isincentiveenabled,Is Incentive Enabled
+msfp_issystemkpi,Is System KPI
+msfp_keyphrases,Key Phrases
+msfp_language,Language
+msfp_lastcomputedon,Last Computed On
+msfp_lastcomputedvalue,Last Computed Value
+msfp_locale,Locale
+msfp_maximumrating,Maximum Rating
+msfp_maximumvalue,Maximum Value
+msfp_minimumvalue,Minimum Value
+msfp_multiline,Multiline
+msfp_name,Name
+msfp_npsscore,NPS Score
+msfp_order,Question Order
+msfp_otherproperties,Other Properties
+msfp_parentsurveyresponse,Parent Survey Response
+msfp_project,Project
+msfp_publishedby,Published By
+msfp_publishedon,Published On
+msfp_questionchoices,Question Choices
+msfp_questionid,Question ID
+msfp_questionresponseid,Question Response ID
+msfp_questiontext,Question Text
+msfp_questiontype,Question Type
+msfp_questiontype_display,Question Type Display
+msfp_questions,Questions
+msfp_respondent,Respondent
+msfp_respondentemailaddress,Respondent Email Address
+msfp_response,Response
+msfp_responserequired,Response Required
+msfp_satisfactionmetriccalculated,Satisfaction Metric Calculated
+msfp_satisfactionmetricid,Satisfaction Metric ID
+msfp_satisfactionmetricvalue,Satisfaction Metric Value
+msfp_sentiment,Sentiment
+msfp_sentiment_display,Sentiment Display
+msfp_sentimentvalue,Sentiment Value
+msfp_sequence,Sequence
+msfp_sourceparentquestionidentifier,Source Parent Question Identifier
+msfp_sourcequestionidentifier,Source Question Identifier
+msfp_sourceresponseidentifier,Source Response Identifier
+msfp_sourcesurveyidentifier,Source Survey Identifier
+msfp_sourcesurveymodifieddate,Source Survey Modified Date
+msfp_sourcesurveyversion,Source Survey Version
+msfp_startdate,Start Date
+msfp_status,Status
+msfp_status_display,Status Display
+msfp_subject,Subject
+msfp_submitdate,Submit Date
+msfp_subtitle,Subtitle
+msfp_survey,Survey
+msfp_surveyid,Survey ID
+msfp_surveyinvitationurl,Survey Invitation URL
+msfp_surveyinviteid,Survey Invite ID
+msfp_surveyresponseid,Survey Response ID
+msfp_surveyresponseurl,Survey Response URL
+msfp_surveysource,Survey Source
+msfp_surveyurl,Survey URL
+msfp_threshold,Threshold
+msfp_type,Type
+msfp_unsubscribedrecipientid,Unsubscribed Recipient ID
+msfp_versionnumber,Version Number
