@@ -1172,6 +1172,7 @@ commandname,Command Name
 comments,Comments
 commitmessage,Commit Message
 community,Community
+community_display,Community Display
 company,Company
 companyname,Company Name
 competitoraddressid,Competitor Address ID
@@ -1382,6 +1383,7 @@ deliveriescount,Deliveries Count
 deliveryattempts,Delivery Attempts
 deliverylastattemptedon,Delivery Last Attempted On Date
 deliveryprioritycode,Delivery Priority Code
+deliveryprioritycode_display,Delivery Priority Code Display
 deliveryreceiptrequested,Delivery Receipt Requested
 department,Department
 depth,Depth
@@ -1748,6 +1750,7 @@ inreplyto,In Replyto
 inresponseto,In Responseto
 instance,Instance
 instancetypecode,Instance Type Code
+instancetypecode_display,Instance Type Code Display
 integrationuserid,Integration User ID
 interactedcomponenttext,Interacted Component Text
 interactionforemailid,Interaction For Email ID
@@ -1971,6 +1974,8 @@ jt_accountmanager,Account Manager
 jt_AccountManager,Account Manager
 jt_accountmanagerglobal,Account Manager Global
 jt_accountname,Account Name
+jt_accountno,Account No
+jt_addtowaitlist,Add to Wait List
 jt_accountnumber,Account Number
 jt_accountregistration_accountid,Account Registration Account ID
 jt_accountregistration_accountid_entitytype,Account Registration Account ID Entity Type
@@ -2064,6 +2069,7 @@ jt_approvaltemplatechosenname,Approval Template Chosen Name
 jt_approvaltemplateid,Approval Template ID
 jt_approvaltemplatename,Approval Template Name
 jt_approvaltemplatestepid,Approval Template Step ID
+jt_approvedby,Approved By
 jt_approvedshiptocountry,Approvedshipto Country
 jt_apptcommrenew,Appt Comm Renew
 jt_apptratenew,Appt. Rate New
@@ -2186,10 +2192,13 @@ jt_carriertype,Carrier Type
 jt_cashtrade,Cash Trade
 jt_ccauthorization,JTcc Authorization
 jt_ccautorization,JTcc Autorization
+jt_cct,CCT
 jt_censusmdvl,Census MDVL
 jt_censusstarted,Census Started
 jt_censusvlltdstd,Census VL Ltd Std
 jt_censusvlltdstdbroker,Census VL Ltd Std Broker
+jt_changestatus,Change Status
+jt_changeuserstory,Change User Story
 jt_chargeback,Charge Back
 jt_chargebackexception,Charge Back Exception
 jt_chargebackstage,Charge Back Stage
@@ -2214,6 +2223,7 @@ jt_clientservice,Client Service
 jt_clienttype,Client Type ID
 jt_clienttype_display,Client Type
 jt_clientvisible,Client Visable Flag
+jt_clinicaldocumentationid,Clinical Documentation ID
 jt_clinicstaffing,Clinic Staffing
 jt_closeopenenrollment,Close Open Enrollment
 jt_closeopenenrollmentcomplete,Close Open Enrollment Complete
@@ -2229,15 +2239,18 @@ jt_codinghoursremaining,Coding Hours Remaining
 jt_codinghoursused,Coding Hoursused
 jt_codinghoursused_date,Coding Hoursused Date
 jt_codinghoursused_state,Coding Hoursused State
+jt_comments,Comments
 jt_commissiongroup,Commission Group
 jt_company,Company
 jt_companycode,Company Code
 jt_companycontactnumber,Company Contact Number
 jt_companyid,Company ID
 jt_competitor,Competitor
+jt_completed,Completed
 jt_completedon,Completed On Date
 jt_ComplianceManager,Compliance Manager
 jt_conciergecontact,Concierge Contact
+jt_conflicts,Conflicts
 jt_consultant,Consultant
 jt_consults,Consults
 jt_contact,Contact
@@ -2295,6 +2308,7 @@ jt_credithold,Credit Hold
 jt_creditholdexception,Credit Hold Exception
 jt_creditlimit,Credit Limit
 jt_creditlimit_base,Credit Limit Base
+jt_criticalcaretime,Critical Care Time
 jt_crmteam,CRM Team
 jt_crosssellingopportunity,Cross Selling Opportunity
 jt_currencyapproved,Currency Approved
@@ -2321,10 +2335,14 @@ jt_customsbrokeragerevenue,Customs Brokerage Revenue
 jt_customsbrokeragerevenue_base,Customs Brokerage Revenue Base
 jt_cycleplanning,Cycle Planning
 jt_date,Date
+jt_dateapproved,Date Approved
 jt_datecommissioncalcapproved,Date Commission Calc Approved
+jt_datecompleted,Date Completed
 jt_dateestablished,Date Established
 jt_dateofbirth,Date of Birth
 jt_dateofcomment,Comment Date
+jt_dateofservice,Date of Service
+jt_datereported,Date Reported
 jt_datesubmitted,Date Submitted
 jt_datetaken,Date Taken
 jt_dayofthemonth,Day Ofthe Month
@@ -2389,6 +2407,7 @@ jt_educationtopicmultiselect,Education Topic Multiselect
 jt_educationtype_display,Education Type
 jt_edvolume,ED Volume
 jt_effectivedate,Effective Date
+jt_ekginterp,EKG Interp
 jt_eligibleforonboarding,Eligible for Onboarding
 jt_email,Email
 jt_employeecode,Employee Code
@@ -2406,7 +2425,10 @@ jt_enrollmentformstaskassigned,Enrollment Forms Task Assigned
 jt_entityengagedas,Entity Engaged As
 jt_epaymentapproved,E Payment Approved
 jt_erpteam,ERP Team
+jt_esign,Esign
 jt_estfirstshiftdate,Est First Shift Date
+jt_estimatedcompletiondate,Estimated Completion Date
+jt_estimatedhours,Estimated Hours
 jt_event,Event
 jt_event_base,Event Base
 jt_eventcodemas,Event Codemas
@@ -2431,9 +2453,9 @@ jt_externalerror,External Error Flag
 jt_fasttrackthisjob,Fast Track This Job
 jt_featurebill,Feature Bill
 jt_federalid,Federal ID
+jt_feedbackreceivedfrom_display,Feedback Received From
 jt_feedbacktype,Feedback Type ID
 jt_feedbacktype_display,Feedback Type
-jt_feedbackreceivedfrom_display,Feedback Received From
 jt_finalcheckriskevalforms,Final Check Risk Eval Forms
 jt_finalizationcomplete,Finalization Complete
 jt_finalizationstageduedate,Finalization Stage Due Date
@@ -2490,6 +2512,7 @@ jt_guideupdate,Guide Update
 jt_hcategory,H Category
 jt_hidecreateorder,Hide Create Order
 jt_hobby,Hobby
+jt_hospital,Hospital
 jt_hospitalist,Hospitalist
 jt_hospitalisttotalat0700,Hospitalist Total at 0700
 jt_hospitalistvolume,Hospitalist Volume
@@ -2509,19 +2532,23 @@ jt_householdmemberid_entitytype,House Hold Member ID Entity Type
 jt_householdmemberidname,House Hold Member ID Name
 jt_householdmembername,House Hold Member Name
 jt_householdmemberyominame,House Hold Member Yomi Name
+jt_hpi,HPI
 jt_HRACarrier,HRA Carrier
 jt_hraeffdate,HRA Eff Date
 jt_HSACarrier,HSA Carrier
 jt_hsaeffdate,HSA Eff Date
 jt_htmlorderproductstable,Html Order Products Table
 jt_icupatientsseenbyhospitalist,ICU Patients Seen by Hospitalist
+jt_idc10dx,ICD10DX
 jt_id,ID
+jt_impact,Impact
 jt_implementationmanager,Implementation Manager
 jt_implementationmanagerglobal,Implementation Manager Global
 jt_includeambusinesscardspostcardsandpamphle,Include AM Businesscards Postcards and Pamphlets
 jt_includeexperiencereportanyadditionalinfo,Include Experience Report Any Additional Info
 jt_includeexperiencereporttaskassigned,Include Experience Report Task Assigned
 jt_incorporationstatecountry,Incorporation State Country
+jt_initialfxcare,Initial FX Care
 jt_initials,Initials
 jt_insamountrequired,Ins Amount Required
 jt_insamountrequired_base,Ins Amount Required Base
@@ -2556,6 +2583,7 @@ jt_isinternal,Is Internal
 jt_ismodule,Is Module
 jt_isprojectleveljob,Is Project Level Job
 jt_issubscription,Is Subscription
+jt_issuetype,Issue Type
 jt_itemclassid,Item Class ID
 jt_itemclassname,Item Class Name
 jt_itemtype,Item Type
@@ -2580,6 +2608,8 @@ jt_jt_renewal_carrier_account,Carrier Account
 jt_jt_renewal_task,Renewal
 jt_jt_tollfreenumber_productid,Toll Free Number Product ID
 jt_key,Key
+jt_labinterp,Lab Interp
+jt_labradiologyinterp,Lab Radiology Interp
 jt_largeorsmall,Large or Small
 jt_lastapprovalstepowner,Last Approval Step Owner
 jt_lastapprovalstepowner_entitytype,Last Approval Step Owner Entity Type
@@ -2617,6 +2647,7 @@ jt_marginapproved,Margin Approved
 jt_marketingemailpreference,Marketing Emailpreference
 jt_marketingsource,Marketing Source ID
 jt_mastercontactid,Master Contact ID
+jt_mdm,MDM
 jt_mediaorderitem,Media Order Item
 jt_mediaorderitem_entitytype,Media Order Item Entity Type
 jt_mediaorderitemcostrollup,Media Order Item Cost Rollup
@@ -2629,9 +2660,12 @@ jt_MedicalPolicyCarrier,Medical Policy Carrier
 jt_MedicalPolicyCarrier_Task,Medical Policy Carrier
 jt_medicalpolicyeffdate,Medical Policy Eff Date
 jt_membercompanys,Member Companys
+jt_miattest,MIAT Test
+jt_midlevelattestation,Midlevel Attestation
 jt_midyear,Midyear
 jt_milestonedate,Milestone Date
 jt_milestonedescription,Milestone Description
+jt_mips,MIPS
 jt_mingpfordomairmet27,Min GP for DOM Air Met
 jt_mingpforgroundmet,Min GP for Ground Met
 jt_MISCCarrier,Misc Carrier
@@ -2703,6 +2737,7 @@ jt_newtasktype,New Task Type
 jt_newuntil,New Until
 jt_nextrunon,Next Run On Date
 jt_nextsequence,Next Sequence
+jt_nextshiftdate,Next Shift Date
 jt_nodusauthcode,Nodusauth Code
 jt_nooflocations,Noof Location S
 jt_noshowapp,No Show App
@@ -2773,6 +2808,7 @@ jt_parentjobidname,Parent Jobid Name
 jt_parentorderid,Parent Order ID
 jt_parentorderid_entitytype,Parent Order ID Entity Type
 jt_parentorderidname,Parent Order ID Name
+jt_patient,Patient
 jt_paymentamount,Paymentamount
 jt_paymentamount_base,Paymentamount Base
 jt_paymentcurrencyoutsideofusd,Payment Currency Outside of USD
@@ -2793,6 +2829,7 @@ jt_pcaforpromoname,Pcaforpromo Name
 jt_pcaid,Pcaid
 jt_pcaid_entitytype,Pcaid Entity Type
 jt_pcaidname,Pcaid Name
+jt_pe,PE
 jt_pediatric,Pediatric
 jt_pedsbhs,PEDS BHS
 jt_percentcomplete,Percent Complete
@@ -2813,6 +2850,7 @@ jt_ponumber,Po Number
 jt_porequired,Po Required
 jt_position,Position
 jt_postofficeboxexception,Post Office Box Exception
+jt_postsplint,Post Splint
 jt_practice,Practice
 jt_practicearea,Practice Area
 jt_practiceareadimensioncode,Practice Area Dimension Code
@@ -2861,6 +2899,7 @@ jt_productssoldonweb,Product Ssoldon Web
 jt_productvenueid,Product Venue ID
 jt_progressing,Progressing
 jt_progressnotes,Progress Notes
+jt_project_1,Project ID
 jt_projectedall,Projected All
 jt_projectedcash,Projected Cash
 jt_projectedcash_base,Projected Cash Base
@@ -2887,15 +2926,19 @@ jt_projecttemplateid,Project Template ID
 jt_projecttemplateid_entitytype,Project Template ID Entity Type
 jt_projecttemplateidname,Project Template ID Name
 jt_projecttier,Project Tier
+jt_projecttrackingid,Project Tracking ID
 jt_projecttype,Project Type
 jt_projrevenuemargin,Proj. Revenue Margin
 jt_projrevenueprob,Proj. Revenue Prob.
 jt_promiseddate,Promise Ddate
+jt_proposedresolutionormitigation,Proposed Resolution
 jt_prospect,Prospect
 jt_prospectpresentneeded,Prospect Present Needed
 jt_provider,Provider
 jt_providercategory_display,Provider Category
 jt_providerid,Provider ID
+jt_providerlastname,Provider Last Names
+jt_psnv,PSNV
 jt_psrcash,PSR Cash
 jt_psrcash_base,PSR Cash Base
 jt_psrnew,PSR New
@@ -3033,6 +3076,7 @@ jt_quotingcomplete,Quoting Complete
 jt_quotingstageduedate,Quoting Stage Due Date
 jt_quotingstarted,Quoting Started
 jt_quotingstarttime,Quoting Start Time
+jt_radinterp,Rad Interp
 jt_ranall,Ran All
 jt_ranall_base,Ran All Base
 jt_rancash,Ran Cash
@@ -3128,12 +3172,14 @@ jt_repsalesgoalid,Rep Sales Goal ID
 jt_requestalternateoptions,Request Alternate Options
 jt_requestalternateoptionsbroker,Request Alternate Options Broker
 jt_RequestedBookableResource,Requested Bookable Resource
+jt_requestedby,Requested By
 jt_requestinitiated,Request Initiate D
 jt_requestrenewalcarrier,Request Renewal Carrier
 jt_requirementcontractedhours,Requirement Contracted Hours
 jt_requirementtype,Requirement Type Flag
 jt_requirepaperforms,Request Paper Forms
 jt_resettax,Resettax
+jt_resolution,Resolution
 jt_resolutionreason,Re Solution Reason
 jt_resolutionreasondisposition,Re Solution Reason Disposition
 jt_resolutionreasondisposition_entitytype,Re Solution Reason Disposition Entity Type
@@ -3156,8 +3202,10 @@ jt_reviewratecontribguidevideoformbroker,Review Rate Contrib Guide Video Form Br
 jt_reviewratescontributionsguidesvideoform,Review Rates Contributions Guides Video Form
 jt_reviewrenewalbooklet,Review Renewal Booklet
 jt_revrectotal_state,Rev RecTotal State
+jt_riskcategory,Risk Category
 jt_riskevaluationforms,Risk Evaluation Forms
 jt_riskevaluationformsbroker,Risk Evaluation Forms Broker
+jt_ros,ROS
 jt_runas,Runas
 jt_runondate,Runondate
 jt_runtimeframe,Run Timeframe
@@ -3175,6 +3223,9 @@ jt_salestax,Sales Tax
 jt_salestax_base,Sales Tax Base
 jt_salestimeline,Sales Timeline
 jt_saletype,Saletype
+jt_scattest,Scat Test
+jt_scribe,Scribe
+jt_scribeattestation,Scribe Attestation
 jt_schedulechildjobs,Schedule Child Jobs
 jt_scheduledall,Scheduled All
 jt_scheduledall_base,Scheduled All Base
@@ -3410,8 +3461,10 @@ jt_type,Type
 jt_typeoflocation,Typeof Location
 jt_unknown,Unknown
 jt_unknown_base,Unknown Base
+jt_unsignedorders,Unsigned Orders
 jt_uom,UOM
 jt_uom_entitytype,UOM Entity Type
+jt_uo,UO
 jt_uomname,UOM Name
 jt_upc,Upc
 jt_updacctcontactshipto,Updacct Contact Ship TO
@@ -3960,6 +4013,89 @@ msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_vendortype,Vendor Type
 msdyn_wbsduration,Wbs Duration
 msdyn_wbsid,Wbs ID
+msfp_acceptanonymousresponses,Accept Anonymous Responses
+msfp_anonymousurl,Anonymous URL
+msfp_channel,Channel
+msfp_channel_display,Channel Display
+msfp_choicetype,Choice Type
+msfp_choicetype_display,Choice Type Display
+msfp_contextparameters,Context Parameters
+msfp_correctanswer,Correct Answer
+msfp_description,Description
+msfp_emailaddress,Email Address
+msfp_embedcode,Embed Code
+msfp_embedcontextparameters,Embed Context Parameters
+msfp_friendlyname,Friendly Name
+msfp_fromemailaddress,From Email Address
+msfp_historicalcomputedvalue,Historical Computed Value
+msfp_imageproperties,Image Properties
+msfp_inviteemailaddress,Invite Email Address
+msfp_invitesentdate,Invite Sent Date
+msfp_invitestatus,Invite Status
+msfp_invitestatus_display,Invite Status Display
+msfp_invitestatusreason,Invite Status Reason
+msfp_inviteupdateddate,Invite Updated Date
+msfp_isincentiveenabled,Is Incentive Enabled
+msfp_issystemkpi,Is System KPI
+msfp_keyphrases,Key Phrases
+msfp_language,Language
+msfp_lastcomputedon,Last Computed On
+msfp_lastcomputedvalue,Last Computed Value
+msfp_locale,Locale
+msfp_maximumrating,Maximum Rating
+msfp_maximumvalue,Maximum Value
+msfp_minimumvalue,Minimum Value
+msfp_multiline,Multiline
+msfp_name,Name
+msfp_npsscore,NPS Score
+msfp_order,Question Order
+msfp_otherproperties,Other Properties
+msfp_parentsurveyresponse,Parent Survey Response
+msfp_project,Project
+msfp_publishedby,Published By
+msfp_publishedon,Published On
+msfp_questionchoices,Question Choices
+msfp_questionid,Question ID
+msfp_questionresponseid,Question Response ID
+msfp_questions,Questions
+msfp_questiontext,Question Text
+msfp_questiontype,Question Type
+msfp_questiontype_display,Question Type Display
+msfp_respondent,Respondent
+msfp_respondentemailaddress,Respondent Email Address
+msfp_response,Response
+msfp_responserequired,Response Required
+msfp_satisfactionmetriccalculated,Satisfaction Metric Calculated
+msfp_satisfactionmetricid,Satisfaction Metric ID
+msfp_satisfactionmetricvalue,Satisfaction Metric Value
+msfp_sentiment,Sentiment
+msfp_sentiment_display,Sentiment Display
+msfp_sentimentvalue,Sentiment Value
+msfp_sequence,Sequence
+msfp_sourceparentquestionidentifier,Source Parent Question Identifier
+msfp_sourcequestionidentifier,Source Question Identifier
+msfp_sourceresponseidentifier,Source Response Identifier
+msfp_sourcesurveyidentifier,Source Survey Identifier
+msfp_sourcesurveymodifieddate,Source Survey Modified Date
+msfp_sourcesurveyversion,Source Survey Version
+msfp_startdate,Start Date
+msfp_status,Status
+msfp_status_display,Status Display
+msfp_subject,Subject
+msfp_submitdate,Submit Date
+msfp_subtitle,Subtitle
+msfp_survey,Survey
+msfp_surveyid,Survey ID
+msfp_surveyinvitationurl,Survey Invitation URL
+msfp_surveyinviteid,Survey Invite ID
+msfp_surveyresponseid,Survey Response ID
+msfp_surveyresponseurl,Survey Response URL
+msfp_surveysource,Survey Source
+msfp_surveyurl,Survey URL
+msfp_threshold,Threshold
+msfp_type,Type
+msfp_unsubscribedrecipientid,Unsubscribed Recipient ID
+msfp_versionnumber,Version Number
 MTH,Month
 name,Name
 navigationtype,Navigation Type
@@ -4317,6 +4453,7 @@ principalobjectaccessid,Principal Object Access ID
 principaltypecode,Principal Type Code
 priority,Priority
 prioritycode,Priority Code
+prioritycode_display,Priority Code Display
 privacystatementurl,Privacy Statement URL
 privilegedepthmask,Privilege Depth Mask
 privilegeid,Privilege ID
@@ -4766,9 +4903,11 @@ startedon,Started On Date
 starttime,Start Time
 State,State
 statecode,State Code
+statecode_display,State Code Display
 stateorprovince,State Or Province
 Status,Status
 statuscode,Status Code
+statuscode_display,Status Code Display
 statusmessage,Status Message
 stepid,Step ID
 stepname,Step Name
@@ -5251,109 +5390,3 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
-jt_approvedby,Approved By
-jt_changestatus,Change Status
-jt_changeuserstory,Change User Story
-jt_comments,Comments
-jt_dateapproved,Date Approved
-jt_datecompleted,Date Completed
-jt_datereported,Date Reported
-jt_estimatedcompletiondate,Estimated Completion Date
-jt_estimatedhours,Estimated Hours
-jt_impact,Impact
-jt_issuetype,Issue Type
-jt_project_1,Project ID
-jt_projecttrackingid,Project Tracking ID
-jt_proposedresolutionormitigation,Proposed Resolution
-jt_requestedby,Requested By
-jt_resolution,Resolution
-jt_riskcategory,Risk Category
-msfp_acceptanonymousresponses,Accept Anonymous Responses
-msfp_anonymousurl,Anonymous URL
-msfp_channel,Channel
-msfp_channel_display,Channel Display
-msfp_choicetype,Choice Type
-msfp_choicetype_display,Choice Type Display
-msfp_contextparameters,Context Parameters
-msfp_correctanswer,Correct Answer
-msfp_description,Description
-msfp_emailaddress,Email Address
-msfp_embedcode,Embed Code
-msfp_embedcontextparameters,Embed Context Parameters
-msfp_friendlyname,Friendly Name
-msfp_fromemailaddress,From Email Address
-msfp_historicalcomputedvalue,Historical Computed Value
-msfp_imageproperties,Image Properties
-msfp_inviteemailaddress,Invite Email Address
-msfp_invitesentdate,Invite Sent Date
-msfp_invitestatus,Invite Status
-msfp_invitestatus_display,Invite Status Display
-msfp_invitestatusreason,Invite Status Reason
-msfp_inviteupdateddate,Invite Updated Date
-msfp_isincentiveenabled,Is Incentive Enabled
-msfp_issystemkpi,Is System KPI
-msfp_keyphrases,Key Phrases
-msfp_language,Language
-msfp_lastcomputedon,Last Computed On
-msfp_lastcomputedvalue,Last Computed Value
-msfp_locale,Locale
-msfp_maximumrating,Maximum Rating
-msfp_maximumvalue,Maximum Value
-msfp_minimumvalue,Minimum Value
-msfp_multiline,Multiline
-msfp_name,Name
-msfp_npsscore,NPS Score
-msfp_order,Question Order
-msfp_otherproperties,Other Properties
-msfp_parentsurveyresponse,Parent Survey Response
-msfp_project,Project
-msfp_publishedby,Published By
-msfp_publishedon,Published On
-msfp_questionchoices,Question Choices
-msfp_questionid,Question ID
-msfp_questionresponseid,Question Response ID
-msfp_questiontext,Question Text
-msfp_questiontype,Question Type
-msfp_questiontype_display,Question Type Display
-msfp_questions,Questions
-msfp_respondent,Respondent
-msfp_respondentemailaddress,Respondent Email Address
-msfp_response,Response
-msfp_responserequired,Response Required
-msfp_satisfactionmetriccalculated,Satisfaction Metric Calculated
-msfp_satisfactionmetricid,Satisfaction Metric ID
-msfp_satisfactionmetricvalue,Satisfaction Metric Value
-msfp_sentiment,Sentiment
-msfp_sentiment_display,Sentiment Display
-msfp_sentimentvalue,Sentiment Value
-msfp_sequence,Sequence
-msfp_sourceparentquestionidentifier,Source Parent Question Identifier
-msfp_sourcequestionidentifier,Source Question Identifier
-msfp_sourceresponseidentifier,Source Response Identifier
-msfp_sourcesurveyidentifier,Source Survey Identifier
-msfp_sourcesurveymodifieddate,Source Survey Modified Date
-msfp_sourcesurveyversion,Source Survey Version
-msfp_startdate,Start Date
-msfp_status,Status
-msfp_status_display,Status Display
-msfp_subject,Subject
-msfp_submitdate,Submit Date
-msfp_subtitle,Subtitle
-msfp_survey,Survey
-msfp_surveyid,Survey ID
-msfp_surveyinvitationurl,Survey Invitation URL
-msfp_surveyinviteid,Survey Invite ID
-msfp_surveyresponseid,Survey Response ID
-msfp_surveyresponseurl,Survey Response URL
-msfp_surveysource,Survey Source
-msfp_surveyurl,Survey URL
-msfp_threshold,Threshold
-msfp_type,Type
-msfp_unsubscribedrecipientid,Unsubscribed Recipient ID
-msfp_versionnumber,Version Number
-deliveryprioritycode_display,Delivery Priority Code Display
-instancetypecode_display,Instance Type Code Display
-prioritycode_display,Priority Code Display
-statecode_display,State Code Display
-statuscode_display,Status Code Display
-community_display,Community Display
