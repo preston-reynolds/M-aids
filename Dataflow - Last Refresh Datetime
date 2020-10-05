@@ -1,0 +1,10 @@
+let
+  Source = Json.Document(Web.Contents("http://worldtimeapi.org/api/timezone/America/Denver")),
+  #"Converted to Table" = Record.ToTable(Source),
+  #"Pivoted Column" = Table.Pivot(#"Converted to Table", List.Distinct(#"Converted to Table"[Name]), "Name", "Value"),
+  #"Removed Other Columns" = Table.SelectColumns(#"Pivoted Column", {"datetime"}),
+  #"Split Column by Delimiter" = Table.SplitColumn(#"Removed Other Columns", "datetime", Splitter.SplitTextByDelimiter(".", QuoteStyle.Csv), {"Last Refresh", "datetime.2"}),
+  #"Changed Type" = Table.TransformColumnTypes(#"Split Column by Delimiter", {{"Last Refresh", type datetime}}),
+  #"Removed Columns" = Table.RemoveColumns(#"Changed Type", {"datetime.2"})
+in
+  #"Removed Columns"
