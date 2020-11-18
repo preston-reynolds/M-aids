@@ -2218,6 +2218,7 @@ jt_cldteam,Cloud Team
 jt_client,Client
 jt_clientacceptedproposal,Client Acceptance Date
 jt_clientaccountmetricsid,Client Account Metrics ID
+jt_clientcode,Client Code
 jt_clientcontact,Client Contact
 jt_clientmsaapproved,Client MSA Approved
 jt_clientprovidernoteid,Client Provider Note ID
