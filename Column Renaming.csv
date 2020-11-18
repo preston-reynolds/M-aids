@@ -2244,6 +2244,8 @@ jt_codinghoursremaining,Coding Hours Remaining
 jt_codinghoursused,Coding Hoursused
 jt_codinghoursused_date,Coding Hoursused Date
 jt_codinghoursused_state,Coding Hoursused State
+jt_contracttype,Contract Type Code
+jt_contracttype_display,Contract Type
 jt_comments,Comments
 jt_commissiongroup,Commission Group
 jt_company,Company
