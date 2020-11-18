@@ -522,8 +522,8 @@ backgroundcolor,Background Color
 Balance_Due,Balance Due
 Balance_Due_LVY,Balance Due LCY
 Balance_LCY,Balance LCY
-baseamount,Basea Mount
-baseamount_base,Basea Mount Base
+baseamount,Base Amount
+baseamount_base,Base Amount Base
 baseconversationindexhash,Base Conversation Index Hash
 basecurrencyid,Base Currency ID
 basecurrencyid_entitytype,Base Currency ID Entity Type
@@ -642,16 +642,16 @@ br_webstorypoints,Web Story Point S BR
 br_webtype,Web Type BR
 br_zoller,Zoller BR
 browser,Browser
-budgetamount,Budgetamount
-budgetamount_base,Budgetamount Base
-budgetedcost,Budget Ed Cost
-budgetedcost_base,Budget Ed Cost Base
+budgetamount,Budget Amount
+budgetamount_base,Budget Amount Base
+budgetedcost,Budgeted Cost
+budgetedcost_base,Budgeted Cost Base
 budgetstatus,Budget Status Code
 budgetstatus_display,Budget Status
 bulkoperationprefix,Bulk Operation Prefix
 bulktextmessageid,Bulk Text Message ID
 bulktxtmessageid,Bulk Text Message ID
-business2,Business 2
+business2,Business
 BusinessCategoryJT,Business Category
 businessclosurecalendarid,Business Closure Calendar ID
 businessprocessflowinstanceid,Business Process Flow In Stance ID
@@ -666,6 +666,9 @@ calendarid_entitytype,Calendar ID Entity Type
 calendartype,Calendar Type
 callback,Callback
 caltype,Cal Type
+jt_nextsteps,Next Steps
+jt_methodofproof,Method of Proof Code
+jt_methodofproof_display,Method of Proof
 campaignactivityid,Campaign Activity ID
 campaignactivityid_entitytype,Campaign Activity ID Entity Type
 campaignactivityitemid,Campaign Activity Item ID
@@ -2333,8 +2336,19 @@ jt_customerclassidname,Customer Class ID Name
 jt_customerclasslookup,Customer Class Lookup
 jt_customerclasslookup_entitytype,Customer Class Lookup Entity Type
 jt_customerclasslookupname,Customer Class Lookup Name
-jt_customercontracttype,CustomerContract Type
+jt_customercontracttype,Customer Contract Type
 jt_customerid,Customer ID
+jt_discoverycompleteddate,Discovery Completed Date
+jt_estimatedprojectstartdate,Estimated Project Start Date
+jt_lostdetails,Lost Details Code
+jt_lostdetails_display,Lost Details
+jt_methodproof,Method Proof Code
+jt_methodproof_display,Method Proof
+jt_opportunityquotedrate,Opportunity Quoted Rate
+jt_opportunityquotedrate Base,Opportunity Quoted Rate Base
+jt_presalesresource,Pre-sale Resource
+actualvalue,Actual Value
+actualvalue_base,Actual Value Base
 jt_customername,Customer Name
 jt_customerponumber,Customer Po Number
 jt_customsbrokerage,Customs Brokerage
@@ -2885,6 +2899,29 @@ jt_primarycontact,Primary Contact
 jt_primarycontact_entitytype,Primary Contact Entity Type
 jt_primarycontactname,Primary Contact Name
 jt_primarycontactyominame,Primary Contact Yomi Name
+jt_proofcompleteddate,Proof Completed Date
+jt_quotedrate,Quoted Rate
+jt_resolveconcerns,Resolve Concerns
+jt_salesproduct,Sales Product
+msa_partnerid,Partner ID
+msa_partneroppid,Partner Opportunity ID
+msdyn_accountmanagerid,Account Manager ID
+msdyn_contractorganizationalunitid,Contract Organizational Unit ID
+msdyn_forecastcategory_display,Forecast Category
+msdyn_forecastcategory,Forecast Category Code
+msdyn_opportunitygrade,Opportunity Grade
+msdyn_opportunitykpiid,Opportunity KPI ID
+msdyn_opportunityscore,Opportunity Score
+msdyn_opportunityscoretrend,Opportunity Score Trend Code
+msdyn_opportunityscoretrend_display,Opportunity Score Trend
+msdyn_predictivescoreid,Predictive Score ID
+msdyn_scorehistory,Score History
+msdyn_scorereasons,Score Reasons
+opportunityratingcode_display,Opportunity Rating
+pricingerrorcode_display,Pricing Error
+salesstagecode_display,Sale Stage
+msdyn_similaropportunities,Similar Opportunities
+jt_primaryproduct,Primary Product
 jt_primaryproduct_1,Primary Product Code
 jt_primaryproduct_1_display,Primary Product
 jt_print,Print
@@ -4780,6 +4817,7 @@ salesrepid_entitytype,Sales Rep ID Entity Type
 salesrepidname,Sales Rep ID Name
 salesrepidyominame,Sales Rep ID Yomi Name
 salesstage,Sales Stage Code
+timeline_display,Timeline
 salesstage_display,Sales Stage
 salesstagecode,Sale Stage Code
 SaleTypeJT,Sale Type
@@ -5033,7 +5071,7 @@ ticketnumber,Ticket Number
 time,Time
 timeformatcode,Time Format Code
 timeformatstring,Time Format String
-timeline,Timeline
+timeline,Timeline Code
 timeseparator,Time Separator
 timespentbymeonemailandmeetings,Time Spent By Me On Email And Meetings
 Timestamp,Time Stamp
