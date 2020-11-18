@@ -902,6 +902,7 @@ cdi_gtracking,CDI G Tracking
 cdi_hasmanualtrigger,CDI Has Manual Trigger
 cdi_host,CDI Host
 cdi_id,CDI ID
+userid,User ID
 cdi_identifiedon,CDI Identified On Date
 cdi_IDn,CDI ID N
 cdi_image,CDI Image
