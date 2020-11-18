@@ -2684,7 +2684,8 @@ jt_mostrecentspotdate_date,Most Recent Spot Date Date
 jt_mostrecentspotdate_state,Most Recent Spot Date State
 jt_movingcarriers,Moving Carriers
 jt_mporderid,Mp Order ID
-msdyncrm_leadsourcetype_display,Lead Source
+msdyncrm_leadsourcetype_display,Lead Source Type
+msdyncrm_leadsourcetype,Lead Source Type Code
 jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Cycle History Project Task
 jt_msdyn_projecttask_msdyn_projecttask_associatedfeature,Project Task Project Task Associated Feature
 jt_name,Name
