@@ -1,4 +1,4 @@
-DynamicsColumnName,CleanedColumnName
+ColumnName,CleanedColumnName
 _accountid_ID,Account ID
 _activestageid_ID,Active Stage ID
 _activestageid_value,Active Stage ID
