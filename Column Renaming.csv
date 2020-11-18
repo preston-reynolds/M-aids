@@ -213,8 +213,8 @@ _organizationid_ID,Organization ID
 _organizationid_value,Organization ID
 _originatingleadid_ID,Originating Lead ID
 _originatingleadid_value,Originating Lead ID
-_ownerid_ID,Owner ID.3
-_ownerid_value,Owner ID.2
+_ownerid_ID,Owner ID
+_ownerid_value,Owner ID
 _owningbusinessunit_ID,Owning Business Unit ID
 _owningbusinessunit_value,Owning Business Unit ID
 _owningteam_ID,Owning Team ID
@@ -5143,7 +5143,7 @@ trackingtokenid,Tracking Token ID
 trackingtokenidbase,Tracking Token ID Base
 trackingtokeniddigits,Tracking Token ID Digits
 Transaction_No,Transaction No.
-transactioncurrencyid,Transaction Currency ID.2
+transactioncurrencyid,Transaction Currency ID
 transactioncurrencyid_entitytype,Transaction Currency ID Entity Type
 transactioncurrencyidname,Transaction Currency ID Name
 transientfailurecount,Transient Failure Count
