@@ -2480,7 +2480,8 @@ jt_firstorderdate,First Order Date
 jt_firstordermanual,First Order Manual
 jt_firstspotdate_date,First Spot Date Date
 jt_firstspotdate_state,First Spot Date State
-jt_flagplant,Flagplant
+jt_flagplant,Flagplant Code
+jt_flagplant_display,Flagplant
 jt_flagplantdescription,Flagplant Description
 jt_flagplantsuccesscriteria,Flagplant Success Criteria
 jt_flightstatus,Flight Status
