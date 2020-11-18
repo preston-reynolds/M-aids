@@ -2415,6 +2415,8 @@ jt_ekginterp,EKG Interp
 jt_eligibleforonboarding,Eligible for Onboarding
 jt_email,Email
 jt_employeecode,Employee Code
+jt_employeetype,Employee Type Code
+jt_employeetype_display,Employee Type
 jt_employmenttype,Employment Type
 jt_enddate,End Date
 jt_enddate_date,End Date Date
