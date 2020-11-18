@@ -2896,7 +2896,7 @@ jt_primarycontactname,Primary Contact Name
 jt_primarycontactyominame,Primary Contact Yomi Name
 jt_primaryproduct,Primary Product
 jt_primaryproduct_1,Primary Product Code
-jt_primaryproduct_1_display,Primary Product
+jt_primaryproduct_1_display,Primary Product Name
 jt_print,Print
 jt_print_base,Print Base
 jt_printandbind,Print and Bind
