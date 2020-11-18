@@ -339,6 +339,8 @@ actualrevenue,Actual Revenue
 actualserviceunits,Actual Service Units
 actualstart,Actual Start
 actualstring,Actual String
+actualvalue,Actual Value
+actualvalue_base,Actual Value Base
 address,Address
 Address_2,Address 2
 address_city,Address City
@@ -666,9 +668,6 @@ calendarid_entitytype,Calendar ID Entity Type
 calendartype,Calendar Type
 callback,Callback
 caltype,Cal Type
-jt_nextsteps,Next Steps
-jt_methodofproof,Method of Proof Code
-jt_methodofproof_display,Method of Proof
 campaignactivityid,Campaign Activity ID
 campaignactivityid_entitytype,Campaign Activity ID Entity Type
 campaignactivityitemid,Campaign Activity Item ID
@@ -905,7 +904,6 @@ cdi_gtracking,CDI G Tracking
 cdi_hasmanualtrigger,CDI Has Manual Trigger
 cdi_host,CDI Host
 cdi_id,CDI ID
-userid,User ID
 cdi_identifiedon,CDI Identified On Date
 cdi_IDn,CDI ID N
 cdi_image,CDI Image
@@ -1400,7 +1398,6 @@ directioncode,Direction Code
 disabledreason,Disabled Reason
 disablesocialcare,Disable Social Care
 discountamount,Discount Amount
-discountAmount,Discount Amount
 discountamount_base,Discount Amount Base
 discountcalculationmethod,Discount Calculation Method
 discountid,Discount ID
@@ -1430,7 +1427,6 @@ donotsendmm,Do Not Send Mm
 donotsendonoptout,Do Not Send On Optout
 Due_Date,Due Date
 duedate,Due Date
-dueDate,Due Date
 duration,Duration
 Editor,Editor
 editortype,Editor Type
@@ -1716,7 +1712,6 @@ homephone,Home Phone
 host,Host
 hostid,Host ID
 IC_Partner_Code,IC Partner Code
-Id,Id
 id,ID
 identifycompetitors,Identify Competitors
 identifycustomercontacts,Identify Customer Contacts
@@ -1943,7 +1938,6 @@ jt_995total,995 Total
 jt_995total_base,995 Total Base
 jt_abbreviation,Abbreviation
 jt_account,Account
-jt_Account,Account
 jt_account_BasicLifeCarrier,Basic Life Carrier
 jt_account_DentalCarrier,Dental Carrier
 jt_account_entitytype,Account Entity Type
@@ -1978,11 +1972,9 @@ jt_account_VisionCarrier,Vision Carrier
 jt_account_VoluntaryLifeCarrier,Voluntary Life Carrier
 jt_accountingdate,Accounting Date
 jt_accountmanager,Account Manager
-jt_AccountManager,Account Manager
 jt_accountmanagerglobal,Account Manager Global
 jt_accountname,Account Name
 jt_accountno,Account No
-jt_addtowaitlist,Add to Wait List
 jt_accountnumber,Account Number
 jt_accountregistration_accountid,Account Registration Account ID
 jt_accountregistration_accountid_entitytype,Account Registration Account ID Entity Type
@@ -1996,6 +1988,7 @@ jt_activedisposition_entitytype,Active Disposition Entity Type
 jt_activedispositionname,Active Disposition Name
 jt_activerenewal,Active Renewal
 jt_actualhours,Actual Hours
+jt_actualsprintcustomerengagementrate,Actual Sprint Customer Engagement Rate
 jt_address1city,Address 1 City
 jt_address1city_entitytype,Address 1 City Entity Type
 jt_address1cityname,Address 1 City Name
@@ -2030,6 +2023,7 @@ jt_addressid,Address ID
 jt_addressline4,Address Line4
 jt_addressline5,Address Line5
 jt_addresswdid,Address WD ID
+jt_addtowaitlist,Add to Wait List
 jt_adenddate,Adend Date
 jt_admissionsday,Admissions Day
 jt_admissionsnightnightshiftcoverage,Admissions Night (Night Shift Coverage)
@@ -2247,8 +2241,6 @@ jt_codinghoursremaining,Coding Hours Remaining
 jt_codinghoursused,Coding Hoursused
 jt_codinghoursused_date,Coding Hoursused Date
 jt_codinghoursused_state,Coding Hoursused State
-jt_contracttype,Contract Type Code
-jt_contracttype_display,Contract Type
 jt_comments,Comments
 jt_commissiongroup,Commission Group
 jt_company,Company
@@ -2284,6 +2276,8 @@ jt_contractenddate,Contract End Date
 jt_contractid,Contract ID
 jt_contractline,Contract Line
 jt_contractsigned,Contract Signed
+jt_contracttype,Contract Type Code
+jt_contracttype_display,Contract Type
 jt_contributionspreadsheet,Contribution Spreadsheet
 jt_contributionspreadsheetemailtoclient,Contribution Spreadsheet Email to Client
 jt_coop,Coop
@@ -2338,17 +2332,6 @@ jt_customerclasslookup_entitytype,Customer Class Lookup Entity Type
 jt_customerclasslookupname,Customer Class Lookup Name
 jt_customercontracttype,Customer Contract Type
 jt_customerid,Customer ID
-jt_discoverycompleteddate,Discovery Completed Date
-jt_estimatedprojectstartdate,Estimated Project Start Date
-jt_lostdetails,Lost Details Code
-jt_lostdetails_display,Lost Details
-jt_methodproof,Method Proof Code
-jt_methodproof_display,Method Proof
-jt_opportunityquotedrate,Opportunity Quoted Rate
-jt_opportunityquotedrate Base,Opportunity Quoted Rate Base
-jt_presalesresource,Pre-sale Resource
-actualvalue,Actual Value
-actualvalue_base,Actual Value Base
 jt_customername,Customer Name
 jt_customerponumber,Customer Po Number
 jt_customsbrokerage,Customs Brokerage
@@ -2395,6 +2378,7 @@ jt_discountlist,Discount List
 jt_discountlist_entitytype,Discount List Entity Type
 jt_discountlistname,Discount List Name
 jt_discountpercent,Discount Percent
+jt_discoverycompleteddate,Discovery Completed Date
 jt_discrepancyall,Discrepancy All
 jt_discrepancyall_base,Discrepancy All Base
 jt_discrepancycash,Discrepancy Cash
@@ -2452,6 +2436,7 @@ jt_esign,Esign
 jt_estfirstshiftdate,Est First Shift Date
 jt_estimatedcompletiondate,Estimated Completion Date
 jt_estimatedhours,Estimated Hours
+jt_estimatedprojectstartdate,Estimated Project Start Date
 jt_event,Event
 jt_event_base,Event Base
 jt_eventcodemas,Event Codemas
@@ -2471,6 +2456,7 @@ jt_expensecostrollup_date,Expense Cost Rollup Date
 jt_expensecostrollup_state,Expense Cost Rollup State
 jt_expirationdate,Expiration Date
 jt_expiredate,Expire Date
+jt_explanationofengagementrategoal,Explanation of Engagement Rate Goal
 jt_exportstatus,Export Status
 jt_externalerror,External Error Flag
 jt_fasttrackthisjob,Fast Track This Job
@@ -2660,6 +2646,8 @@ jt_LongTermDisabilityCarrier,Long Term Disability Carrier
 jt_LongTermDisabilityPolicyCarrier,Long Term Disability Policy Carrier
 jt_LongTermDisabilityPolicyCarrier_Task,Long Term Disability Policy Carrier
 jt_longtermdisabilitypolicyeffdate,Long Term Disability Policy Eff Date
+jt_lostdetails,Lost Details Code
+jt_lostdetails_display,Lost Details
 jt_magreturncomplete,Mag Return Complete
 jt_magsubscriptionid,Mag Subscription ID
 jt_mainfax,Mainfax
@@ -2684,14 +2672,18 @@ jt_MedicalPolicyCarrier,Medical Policy Carrier
 jt_MedicalPolicyCarrier_Task,Medical Policy Carrier
 jt_medicalpolicyeffdate,Medical Policy Eff Date
 jt_membercompanys,Member Companys
+jt_methodofproof,Method of Proof Code
+jt_methodofproof_display,Method of Proof
+jt_methodproof,Method Proof Code
+jt_methodproof_display,Method Proof
 jt_miattest,MIAT Test
 jt_midlevelattestation,Midlevel Attestation
 jt_midyear,Midyear
 jt_milestonedate,Milestone Date
 jt_milestonedescription,Milestone Description
-jt_mips,MIPS
 jt_mingpfordomairmet27,Min GP for DOM Air Met
 jt_mingpforgroundmet,Min GP for Ground Met
+jt_mips,MIPS
 jt_MISCCarrier,Misc Carrier
 jt_misceffdate,Misc Eff Date
 jt_monthof,Month of
@@ -2700,8 +2692,6 @@ jt_mostrecentspotdate_date,Most Recent Spot Date Date
 jt_mostrecentspotdate_state,Most Recent Spot Date State
 jt_movingcarriers,Moving Carriers
 jt_mporderid,Mp Order ID
-msdyncrm_leadsourcetype_display,Lead Source Type
-msdyncrm_leadsourcetype,Lead Source Type Code
 jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Cycle History Project Task
 jt_msdyn_projecttask_msdyn_projecttask_associatedfeature,Project Task Project Task Associated Feature
 jt_name,Name
@@ -2764,6 +2754,7 @@ jt_newuntil,New Until
 jt_nextrunon,Next Run On Date
 jt_nextsequence,Next Sequence
 jt_nextshiftdate,Next Shift Date
+jt_nextsteps,Next Steps
 jt_nodusauthcode,Nodusauth Code
 jt_nooflocations,Noof Location S
 jt_noshowapp,No Show App
@@ -2790,6 +2781,8 @@ jt_offsetsubdays,Offsetsubdays
 jt_omniorclientmsa,Omni or Client MSA
 jt_onboardingstage_display,Onboarding Stage
 jt_openenrollmentstarted,Open Enrollment Started
+jt_opportunityquotedrate,Opportunity Quoted Rate
+jt_opportunityquotedrate Base,Opportunity Quoted Rate Base
 jt_order,Order
 jt_order_entitytype,Order Entity Type
 jt_ordercategory,Order Category
@@ -2878,6 +2871,7 @@ jt_position,Position
 jt_postofficeboxexception,Post Office Box Exception
 jt_postsplint,Post Splint
 jt_practice,Practice
+jt_practice_display,Practice Name
 jt_practicearea,Practice Area
 jt_practiceareadimensioncode,Practice Area Dimension Code
 jt_preferredagent,Prefer Red Agent
@@ -2890,6 +2884,7 @@ jt_prerenewalcomplete,Pre Renewal Complete
 jt_prerenewalstageduedate,Pre Renewal Stage Due Date
 jt_prerenewalstarted,Pre Renewal Started
 jt_prerenewalstarttime,Pre Renewal Start Time
+jt_presalesresource,Pre-sale Resource
 jt_presentationdate,Present Ationdate
 jt_pricefromquote,Price From Quote
 jt_priceperunit,Price Per Unit
@@ -2899,28 +2894,6 @@ jt_primarycontact,Primary Contact
 jt_primarycontact_entitytype,Primary Contact Entity Type
 jt_primarycontactname,Primary Contact Name
 jt_primarycontactyominame,Primary Contact Yomi Name
-jt_proofcompleteddate,Proof Completed Date
-jt_quotedrate,Quoted Rate
-jt_resolveconcerns,Resolve Concerns
-jt_salesproduct,Sales Product
-msa_partnerid,Partner ID
-msa_partneroppid,Partner Opportunity ID
-msdyn_accountmanagerid,Account Manager ID
-msdyn_contractorganizationalunitid,Contract Organizational Unit ID
-msdyn_forecastcategory_display,Forecast Category
-msdyn_forecastcategory,Forecast Category Code
-msdyn_opportunitygrade,Opportunity Grade
-msdyn_opportunitykpiid,Opportunity KPI ID
-msdyn_opportunityscore,Opportunity Score
-msdyn_opportunityscoretrend,Opportunity Score Trend Code
-msdyn_opportunityscoretrend_display,Opportunity Score Trend
-msdyn_predictivescoreid,Predictive Score ID
-msdyn_scorehistory,Score History
-msdyn_scorereasons,Score Reasons
-opportunityratingcode_display,Opportunity Rating
-pricingerrorcode_display,Pricing Error
-salesstagecode_display,Sale Stage
-msdyn_similaropportunities,Similar Opportunities
 jt_primaryproduct,Primary Product
 jt_primaryproduct_1,Primary Product Code
 jt_primaryproduct_1_display,Primary Product
@@ -2949,6 +2922,7 @@ jt_productssoldonweb,Product Ssoldon Web
 jt_productvenueid,Product Venue ID
 jt_progressing,Progressing
 jt_progressnotes,Progress Notes
+jt_project,Project ID
 jt_project_1,Project ID
 jt_projectedall,Projected All
 jt_projectedcash,Projected Cash
@@ -2958,6 +2932,7 @@ jt_projectednew_base,Projected New Base
 jt_projectedrenew,Projected Renew
 jt_projectedrenew_base,Projected Renew Base
 jt_projectedscheduledran,Projected Scheduled Ran
+jt_projectedsprintcustomerengagementrate,Projected Customer Engagement Rate
 jt_projectedtrade,Projected Trade
 jt_projectedtrade_base,Projected Trade Base
 jt_projectionall,Projection All
@@ -2981,6 +2956,7 @@ jt_projecttype,Project Type
 jt_projrevenuemargin,Proj. Revenue Margin
 jt_projrevenueprob,Proj. Revenue Prob.
 jt_promiseddate,Promise Ddate
+jt_proofcompleteddate,Proof Completed Date
 jt_proposedresolutionormitigation,Proposed Resolution
 jt_prospect,Prospect
 jt_prospectpresentneeded,Prospect Present Needed
@@ -3117,6 +3093,7 @@ jt_questionwordlimit,Questionword Limit
 jt_quizname_display,Quiz Name
 jt_quotecensusmemberlevelmdvl,Quote Census Member Level MDVL
 jt_quotecensussalaryjobtitlevlltdstd,Quote Census Salary Job Title VL Ltd Std
+jt_quotedrate,Quoted Rate
 jt_quotelinemonthlyid,QuoteLine Monthly ID
 jt_quotelinenumber,Quote Line Number
 jt_quotelinetimeunit,Quote Line Time Unit
@@ -3234,13 +3211,16 @@ jt_resolutionreason,Re Solution Reason
 jt_resolutionreasondisposition,Re Solution Reason Disposition
 jt_resolutionreasondisposition_entitytype,Re Solution Reason Disposition Entity Type
 jt_resolutionreasondispositionname,Re Solution Reason Disposition Name
+jt_resolveconcerns,Resolve Concerns
 jt_resourceassignments,Resource Assignments
 jt_resourceassignments_date,Resource Assignments Date
 jt_resourceassignments_state,Resource Assignments State
+jt_responsecontact,Response Contact
 jt_restartrejectedjob,Re Start Reject Edjob
 jt_restricted,Restricted
 jt_restricted_base,Restricted Base
 jt_result,Result
+jt_retrospectivename,Retrospective Name
 jt_returnordernumber,Return Order Number
 jt_reviewandverifycontributionspreadsheet,Review and Verify Contribution Spreadsheet
 jt_reviewhourscapacity,Review Hours Capacity
@@ -3269,13 +3249,12 @@ jt_salesperiodcreatedname,Sales Period Created Name
 jt_salesperiodid,Sales Period ID
 jt_salesperiodname,Sales Period Name
 jt_salesprodlineid,Sales Prodlineid
+jt_salesproduct,Sales Product
 jt_salestax,Sales Tax
 jt_salestax_base,Sales Tax Base
 jt_salestimeline,Sales Timeline
 jt_saletype,Saletype
 jt_scattest,Scat Test
-jt_scribe,Scribe
-jt_scribeattestation,Scribe Attestation
 jt_schedulechildjobs,Schedule Child Jobs
 jt_scheduledall,Scheduled All
 jt_scheduledall_base,Scheduled All Base
@@ -3289,6 +3268,8 @@ jt_scheduledspots,Scheduled Spots
 jt_scheduledtrade,Scheduled Trade
 jt_scheduledtrade_base,Scheduled Trade Base
 jt_scheduleprerenewalmtg,Scheduled Pre Renewal Meeting
+jt_scribe,Scribe
+jt_scribeattestation,Scribe Attestation
 jt_sendgroupconfirmationallmaterials,Send Group Confirmation All Materials
 jt_sendinvoicevia,Send Invoice Via
 jt_sendregenorderconfirmation,Sendregen Order Confirm Ation
@@ -3376,6 +3357,7 @@ jt_spotscalc,Spots Calculation
 jt_spreadquotes,Spread Quotes
 jt_spreadquotestaskassigned,Spread Quotes Task Assigned
 jt_spreadsheets,Spreadsheets
+jt_sprint,Sprint ID
 jt_sprinthistoryid,Sprint History ID
 jt_sprintid,Sprint ID
 jt_sprintid_entitytype,Sprint ID Entity Type
@@ -3431,6 +3413,7 @@ jt_substartdate,Sub Start Date
 jt_subtotal,Subtotal
 jt_subtotal_base,Subtotal Base
 jt_suffixlist,Suffixlist
+jt_surveyresponsecontact,Survey Response Contact
 jt_swingbeds,Swing Beds
 jt_syncingtoazuredevops,Syncing to Azure Devops
 jt_synctoazuredevops,Sync to Azure Devops
@@ -3512,9 +3495,9 @@ jt_typeoflocation,Typeof Location
 jt_unknown,Unknown
 jt_unknown_base,Unknown Base
 jt_unsignedorders,Unsigned Orders
+jt_uo,UO
 jt_uom,UOM
 jt_uom_entitytype,UOM Entity Type
-jt_uo,UO
 jt_uomname,UOM Name
 jt_upc,Upc
 jt_updacctcontactshipto,Updacct Contact Ship TO
@@ -3559,6 +3542,9 @@ jt_wgbytv,WGBY TV
 jt_wgbytv_base,WGBY TV Base
 jt_wgbytvtotal,WGBY TV Total
 jt_wgbytvtotal_base,WGBY TV Total Base
+jt_whatcanwedobetter,What can we do better
+jt_whatdidntgowell,What didn't go well
+jt_whatwentwell,What went well
 jt_wholesalepaymentexception,Whole Sale Payment Exception
 jt_wholesaleprice,Whole Sale Price
 jt_wholesaleprice_base,Whole Sale Price Base
@@ -3774,11 +3760,14 @@ modifiedonbehalfbydsc,Modified On Behalf By Dsc
 modifiedonbehalfbyname,Modified On Behalf By Name
 modifiedonbehalfbyyominame,Modified On Behalf By Yomi Name
 monthofyear,Month Of Year
+msa_partnerid,Partner ID
+msa_partneroppid,Partner Opportunity ID
 msdyn_accountcustomer,Account Customer
 msdyn_accountcustomer_entitytype,Account Customer Entity Type
 msdyn_accountcustomername,Account Customer Name
 msdyn_accountcustomeryominame,Account Customer Yomi Name
 msdyn_accountingdate,Account Ingdate
+msdyn_accountmanagerid,Account Manager ID
 msdyn_accountvendor,Account Vendor
 msdyn_accountvendor_entitytype,Account Vendor Entity Type
 msdyn_accountvendorname,Account Vendor Name
@@ -3838,6 +3827,7 @@ msdyn_contactvendor,Contact Vendor
 msdyn_contactvendor_entitytype,Contact Vendor Entity Type
 msdyn_contactvendorname,Contact Vendor Name
 msdyn_contactvendoryominame,Contact Vendor Yomi Name
+msdyn_contractorganizationalunitid,Contract Organizational Unit ID
 msdyn_costatcompleteestimate,Cost At Complete Estimate
 msdyn_costatcompleteestimate_base,Cost At Complete Estimate Base
 msdyn_costconsumption,Cost Consumption
@@ -3872,6 +3862,8 @@ msdyn_externaldescription,External Description
 msdyn_externalreferencedate,External Reference Date
 msdyn_externalreferenceid,External Reference ID
 msdyn_feasible,Feasible
+msdyn_forecastcategory,Forecast Category Code
+msdyn_forecastcategory_display,Forecast Category
 msdyn_from,From
 msdyn_fromdate,From Date
 msdyn_gdproptout,GDPR Opt Out
@@ -3892,8 +3884,8 @@ msdyn_latitude,Latitude
 msdyn_leadgrade,Lead Grade Code
 msdyn_leadgrade_display,Lead Grade
 msdyn_leadscore,Lead Score Code
-msdyn_leadscoretrend,Lead Score Trend Code
 msdyn_leadscore_display,Lead Score
+msdyn_leadscoretrend,Lead Score Trend Code
 msdyn_leadscoretrend_display,Lead Score Trend
 msdyn_linkeddocumenturl,Linked Document URL
 msdyn_longitude,Longitude
@@ -3923,6 +3915,11 @@ msdyn_msprojectclientid,Ms Project Client ID
 msdyn_name,Name
 msdyn_number,Number
 msdyn_numberofresources,Number Of Resources
+msdyn_opportunitygrade,Opportunity Grade
+msdyn_opportunitykpiid,Opportunity KPI ID
+msdyn_opportunityscore,Opportunity Score
+msdyn_opportunityscoretrend,Opportunity Score Trend Code
+msdyn_opportunityscoretrend_display,Opportunity Score Trend
 msdyn_ordertype,Order Type Code
 msdyn_ordertype_display,Order Type
 msdyn_orgchangestatus,Org Change Status
@@ -3944,6 +3941,7 @@ msdyn_plannedsalescontour,Planned Sales Contour
 msdyn_plannedwork,Planned Work
 msdyn_pluginprocessingdata,Plugin Processing Data
 msdyn_positiondescription,Position Description
+msdyn_predictivescoreid,Predictive Score ID
 msdyn_price,Price
 msdyn_price_base,Price Base
 msdyn_pricecalculation,Price Calculation
@@ -4031,6 +4029,9 @@ msdyn_scheduledhours,Scheduled Hours
 msdyn_scheduledstart,Scheduled Start
 msdyn_scheduleperformance,Schedule Performance
 msdyn_schedulevariance,Schedule Variance
+msdyn_scorehistory,Score History
+msdyn_scorereasons,Score Reasons
+msdyn_similaropportunities,Similar Opportunities
 msdyn_skipupdateestimateline,Skip Update Estimate Line
 msdyn_softbookedhours,Soft Booked Hours
 msdyn_stagename,Stage Name
@@ -4072,6 +4073,8 @@ msdyn_varianceofcost_base,Variance Of Cost Base
 msdyn_vendortype,Vendor Type
 msdyn_wbsduration,Wbs Duration
 msdyn_wbsid,Wbs ID
+msdyncrm_leadsourcetype,Lead Source Type Code
+msdyncrm_leadsourcetype_display,Lead Source Type
 msfp_acceptanonymousresponses,Accept Anonymous Responses
 msfp_anonymousurl,Anonymous URL
 msfp_channel,Channel
@@ -4258,6 +4261,7 @@ opportunityidname,Opportunity ID Name
 opportunityproductid,Opportunity Product ID
 opportunityproductname,Opportunity Product Name
 opportunityratingcode,Opportunity Rating Code
+opportunityratingcode_display,Opportunity Rating
 opportunitystatecode,Opportunity State Code
 Option,Option
 optionalattendees,Optional Attendees
@@ -4490,6 +4494,7 @@ priceperunit,Price Per Unit
 priceperunit_base,Price Per Unit Base
 pricingdecimalprecision,Pricing Decimal Precision
 pricingerrorcode,Pricing Error Code
+pricingerrorcode_display,Pricing Error
 pricingmethodcode,Pricing Method Code
 primaryauthorid,Primary Author ID
 primaryauthorid_entitytype,Primary Author ID Entity Type
@@ -4816,9 +4821,9 @@ salesrepid_entitytype,Sales Rep ID Entity Type
 salesrepidname,Sales Rep ID Name
 salesrepidyominame,Sales Rep ID Yomi Name
 salesstage,Sales Stage Code
-timeline_display,Timeline
 salesstage_display,Sales Stage
 salesstagecode,Sale Stage Code
+salesstagecode_display,Sale Stage
 SaleTypeJT,Sale Type
 salutation,Salutation
 samesite,Same Site
@@ -5071,6 +5076,7 @@ time,Time
 timeformatcode,Time Format Code
 timeformatstring,Time Format String
 timeline,Timeline Code
+timeline_display,Timeline
 timeseparator,Time Separator
 timespentbymeonemailandmeetings,Time Spent By Me On Email And Meetings
 Timestamp,Time Stamp
@@ -5191,6 +5197,7 @@ User_Security_ID,User Security ID
 useraccessauditinginterval,User Access Auditing Interval
 usereadform,Use Read Form
 usergroupid,User Group ID
+userid,User ID
 userinterfacename,User Interface Name
 userlicensetype,User License Type
 username,User Name
@@ -5206,7 +5213,6 @@ validtodate,Validto Date
 Vendor_No,Vendor No.
 vendorid,Vendor ID
 vendorname,Vendor Name
-VendorName,Vendor Name
 vendorpartnumber,Vendor Part Number
 verboseloggingenabled,Verbose Logging Enabled
 Version,Version
@@ -5454,15 +5460,3 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
-jt_actualsprintcustomerengagementrate,Actual Sprint Customer Engagement Rate
-jt_explanationofengagementrategoal,Explanation of Engagement Rate Goal
-jt_practice_display,Practice Name
-jt_project,Project ID
-jt_projectedsprintcustomerengagementrate,Projected Customer Engagement Rate
-jt_retrospectivename,Retrospective Name
-jt_sprint,Sprint ID
-jt_whatcanwedobetter,What can we do better
-jt_whatdidntgowell,What didn't go well
-jt_whatwentwell,What went well
-jt_surveyresponsecontact,Survey Response Contact
-jt_responsecontact,Response Contact
