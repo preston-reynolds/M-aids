@@ -51,6 +51,7 @@ _jt_contractsignatory_value,Contract Signatory ID
 _jt_cycle_value,Cycle Value
 _jt_dentalcarrier_value,Dental Carrier ID
 _jt_dentalpolicycarrier_value,Dental Policy Carrier
+jt_devlead,Dev Lead ID
 _jt_devlead_value,Dev Lead Value
 _jt_fsacarrier_value,FSA Carrier ID
 _jt_generatingquote_value,Generating Quote ID
@@ -90,6 +91,7 @@ _jt_productmediaid_value,Product Media ID
 _jt_productowner_ID,Product Owner ID
 _jt_productowner_value,Product Owner ID
 _jt_project_value,Project ID
+jt_projectlead,Project Lead ID
 _jt_projectlead_ID,Project Lead ID
 _jt_projectlead_value,Project Lead Value
 _jt_projectpoc_value,Project POC ID
@@ -159,6 +161,7 @@ _msdyn_bookingstatusid_value,Booking Status ID Value
 _msdyn_claimedby_ID,Claimed By
 _msdyn_contractorganizationalunitid_ID,Contract Organizational Unit ID
 _msdyn_contractorganizationalunitid_value,Contract Organizational Unit ID Value
+msdyn_customer,Customer ID
 _msdyn_customer_ID,Customer ID
 _msdyn_customer_value,Customer Value
 _msdyn_manager_ID,Manager ID
@@ -171,6 +174,7 @@ _msdyn_project_ID,Project ID
 _msdyn_project_value,Project ID
 _msdyn_projectid_ID,Project ID
 _msdyn_projectid_value,Project ID Value
+msdyn_projectmanager,Project Manager ID
 _msdyn_projectmanager_ID,Project Manager ID
 _msdyn_projectmanager_value,Project Manager Value
 _msdyn_projecttask_ID,Project Task ID
