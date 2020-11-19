@@ -27,10 +27,10 @@ _defaultmailbox_ID,Default Mailbox ID
 _defaultmailbox_value,Default Mailbox ID
 _defaultpricelevelid_ID,Default Price Level ID
 _defaultpricelevelid_value,Default Price Level ID
-_defaultuomid_ID,Default UoM ID
-_defaultuomid_value,Default UoM ID
-_defaultuomscheduleid_ID,Default UoM Schedule ID
-_defaultuomscheduleid_value,Default UoM Schedule ID
+_defaultuomid_ID,Default UOM ID
+_defaultuomid_value,Default UOM ID
+_defaultuomscheduleid_ID,Default UOM Schedule ID
+_defaultuomscheduleid_value,Default UOM Schedule ID
 _gbh_primaryquote_ID,Primary Quote ID
 _header_ID,Header ID
 _jt_account_value,Account ID
@@ -92,7 +92,7 @@ _jt_productowner_value,Product Owner ID
 _jt_project_value,Project ID
 _jt_projectlead_ID,Project Lead ID
 _jt_projectlead_value,Project Lead Value
-_jt_projectpoc_value,Project Poc ID
+_jt_projectpoc_value,Project POC ID
 _jt_projectpricelistbillrate_value,Project Price List Bill Rate ID
 _jt_projecttaskid_value,Project Task ID
 _jt_quote_ID,Quote ID
@@ -265,8 +265,8 @@ _teamtemplateid_ID,Team Template ID
 _territoryid_value,Territory ID
 _transactioncurrencyid_ID,Transaction Currency ID
 _transactioncurrencyid_value,Transaction Currency ID
-_uomid_ID,UoM ID
-_uomid_value,UoM ID
+_uomid_ID,UOM ID
+_uomid_value,UOM ID
 _userid_ID,User ID
 _userid_value,User ID Value
 _vtrs_accountmanager_value,Account Manager ID
@@ -346,7 +346,7 @@ Address_2,Address 2
 address_city,Address City
 address_country,Address Country
 address_postalcode,Address Postal Code
-address_stateorprovince,Address State Or Province
+address_stateorprovince,Address State or Province
 address1_addressid,Address 1 Address ID
 address1_addresstypecode,Address 1 Address Type Code
 address1_city,Address 1 City
@@ -365,7 +365,7 @@ address1_postalcode,Address 1 Postal Code
 address1_postofficebox,Address 1 Post Office Box
 address1_primarycontactname,Address 1 Primary Contact Name
 address1_shippingmethodcode,Address 1 Shipping Method Code
-address1_stateorprovince,Address 1 State Or Province
+address1_stateorprovince,Address 1 State or Province
 address1_telephone1,Address 1 Telephone 1
 address1_telephone2,Address 1 Telephone 2
 address1_telephone3,Address 1 Telephone 3
@@ -389,7 +389,7 @@ address2_postalcode,Address 2 Postal Code
 address2_postofficebox,Address 2 Post Office Box
 address2_primarycontactname,Address 2 Primary Contact Name
 address2_shippingmethodcode,Address 2 Shipping Method Code
-address2_stateorprovince,Address 2 State Or Province
+address2_stateorprovince,Address 2 State or Province
 address2_telephone1,Address 2 Telephone 1
 address2_telephone2,Address 2 Telephone 2
 address2_telephone3,Address 2 Telephone 3
@@ -413,7 +413,7 @@ address3_postalcode,Address 3 Postal Code
 address3_postofficebox,Address 3 Post Office Box
 address3_primarycontactname,Address 3 Primary Contact Name
 address3_shippingmethodcode,Address 3 Shipping Method Code
-address3_stateorprovince,Address 3 State Or Province
+address3_stateorprovince,Address 3 State or Province
 address3_telephone1,Address 3 Telephone 1
 address3_telephone2,Address 3 Telephone 2
 address3_telephone3,Address 3 Telephone 3
@@ -424,7 +424,7 @@ addressnumber,Address Number
 addresstypecode,Address Type Code
 addressused,Address Used
 addressusedemailcolumnnumber,Address Used Email Column Number
-AdjCustProfit,Adj Customer Profit
+AdjCustProfit,Adjusted Customer Profit
 admincontrolbypassconsent,Admin Control By Pass Consent
 administratorid,Administrator ID
 administratorid_entitytype,Administrator ID Entity Type
@@ -459,7 +459,7 @@ allowunresolvedpartiesonemailsend,Allow Unresolved Parties On Email Send
 allowuserformmodepreference,Allow User Form Mode Preference
 allowusersseeappdownloadmessage,Allow Users See App Download Message
 allowwebexcelexport,Allow Web Excel Export
-amdesignator,Am Designator
+amdesignator,AM Designator
 amount,Amount
 amount_base,Amount Base
 Amount_Including_VAT,Amount Including VAT
@@ -533,9 +533,9 @@ basecurrencyidname,Base Currency ID Name
 basecurrencyprecision,Base Currency Precision
 basecurrencysymbol,Base Currency Symbol
 baseisocurrencycode,Base ISO Currency Code
-baseuom,Base UoM
-baseuom_entitytype,Base UoM Entity Type
-baseuomname,Base UoM Name
+baseuom,Base UOM
+baseuom_entitytype,Base UOM Entity Type
+baseuomname,Base UOM Name
 bcc,Bcc
 begindate,Begin Date
 bias,Bias
@@ -568,7 +568,7 @@ billto_line2,Bill To Line 2
 billto_line3,Bill To Line 3
 billto_name,Bill To Name
 billto_postalcode,Bill To Postal Code
-billto_stateorprovince,Bill To State Or Province
+billto_stateorprovince,Bill To State or Province
 billto_telephone,Bill To Telephone
 billtoaddress,Bill To Address
 billtoaddress_entitytype,Bill To Address Entity Type
@@ -776,7 +776,7 @@ cdi_clickscount,Click Count
 cdi_closed,Closed
 cdi_company,Company
 cdi_completedinstances,Completed Instances
-cdi_connectorname,Connect Or Name
+cdi_connectorname,Connect or Name
 cdi_contact,Contact
 cdi_contact_entitytype,Contact Entity Type
 cdi_contactfield,Contact Field
@@ -1371,12 +1371,12 @@ defaultpricelevelidname,Default Price Level ID Name
 defaultrecurrenceendrangetype,Default Recurrence End Range Type
 defaultsearchexperience,Default Search Experience
 defaultthemedata,Default Theme Data
-defaultuomid,Default UoM ID
-defaultuomid_entitytype,Default UoM ID Entity Type
-defaultuomidname,Default UoM ID Name
-defaultuomscheduleid,Default UoM Schedule ID
-defaultuomscheduleid_entitytype,Default UoM Schedule ID Entity Type
-defaultuomscheduleidname,Default UoM Schedule ID Name
+defaultuomid,Default UOM ID
+defaultuomid_entitytype,Default UOM ID Entity Type
+defaultuomidname,Default UOM ID Name
+defaultuomscheduleid,Default UOM Schedule ID
+defaultuomscheduleid_entitytype,Default UOM Schedule ID Entity Type
+defaultuomscheduleidname,Default UOM Schedule ID Name
 delayedemailsendtime,Delayed Email Send Time
 delegatedadminuserid,Delegated Admin User ID
 deletedexceptionslist,Deleted Exceptions List
@@ -1893,7 +1893,7 @@ isresourcebookingexchangesyncenabled,Is Resource Booking Exchange Sync Enabled
 isrevenuesystemcalculated,Is Revenue System Calculated
 isrootarticle,Is Root Article
 isschedulable,Is Schedulable
-isschedulebaseuom,Is Schedule Base UoM
+isschedulebaseuom,Is Schedule Base UOM
 issendasallowed,Is Send As Allowed
 isserviceaccount,Is Service Account
 issopintegrationenabled,Is Sop Integration Enabled
@@ -2323,7 +2323,7 @@ jt_currentbill100,Current Bill 100
 jt_currentdatetime,Current Datetime
 jt_currentinvoiceamount,Current Invoice Amount
 jt_currentinvoiceamount_base,Current Invoice Amount Base
-jt_currentrenewalornew,Current Renewal Or New
+jt_currentrenewalornew,Current Renewal or New
 jt_currentrenewalrates,Current Renewal Rates
 jt_currentvalue,Current Value
 jt_custclassid,Cust Class ID
@@ -2628,7 +2628,7 @@ jt_jt_tollfreenumber_productid,Toll Free Number Product ID
 jt_key,Key
 jt_labinterp,Lab Interp
 jt_labradiologyinterp,Lab Radiology Interp
-jt_largeorsmall,Large Or Small
+jt_largeorsmall,Large or Small
 jt_lastapprovalstepowner,Last Approval Step Owner
 jt_lastapprovalstepowner_entitytype,Last Approval Step Owner Entity Type
 jt_lastapprovalstepownername,Last Approval Step Owner Name
@@ -2726,7 +2726,7 @@ jt_neprradio,Npr Radio
 jt_neprradio_base,Npr Radio Base
 jt_neprtotal,Npr Total
 jt_neprtotal_base,Npr Total Base
-jt_new_1or2spots,New 1 Or 2 Spots
+jt_new_1or2spots,New 1 or 2 Spots
 jt_new_enddate,New End Date
 jt_new_hubstatus,New Hub Status
 jt_new_numberofweeks,New Number of Weeks
@@ -2772,7 +2772,7 @@ jt_note,Note
 jt_notecategorymultiselect,Note Category Multiselect
 jt_notificationmessage,Notification Message
 jt_novex,Novex
-jt_npm,Npm
+jt_npm,NPM
 jt_numberofbeds,Number of Beds
 jt_numberofdays,Number of Days
 jt_numberofemployees,Number of Employees
@@ -2782,12 +2782,12 @@ jt_numberofsteps,Number of Steps
 jt_numberofsteps_date,Number of Steps Date
 jt_numberofsteps_state,Number of Steps State
 jt_nurseryvolume,Nursery Volume
-jt_ob,Ob
+jt_ob,OB
 jt_ocean,Ocean
 jt_oceanrevenue,Ocean Revenue
 jt_oceanrevenue_base,Ocean Revenue Base
 jt_offsetsubdays,Offset Sub Days
-jt_omniorclientmsa,Omni Or Client MSA
+jt_omniorclientmsa,Omni or Client MSA
 jt_onboardingstage_display,Onboarding Stage
 jt_openenrollmentstarted,Open Enrollment Started
 jt_opportunityquotedrate,Opportunity Quoted Rate
@@ -3428,9 +3428,9 @@ jt_unknown,Unknown
 jt_unknown_base,Unknown Base
 jt_unsignedorders,Unsigned Orders
 jt_uo,Uo
-jt_uom,UoM
-jt_uom_entitytype,UoM Entity Type
-jt_uomname,UoM Name
+jt_uom,UOM
+jt_uom_entitytype,UOM Entity Type
+jt_uomname,UOM Name
 jt_upc,Upc
 jt_updacctcontactshipto,Upd Acct Contact Ship To
 jt_upgradefirstrun,Up Grade First Run
@@ -4854,7 +4854,7 @@ shipto_line2,Ship To Line 2
 shipto_line3,Ship To Line 3
 shipto_name,Ship To Name
 shipto_postalcode,Ship To Postal Code
-shipto_stateorprovince,Ship To State Or Province
+shipto_stateorprovince,Ship To State or Province
 shipto_telephone,Ship To Telephone
 showkbarticledeprecationnotification,Show Kb Article Deprecation Notification
 showresources,Show Resources
@@ -4921,11 +4921,11 @@ startedon,Started On Date
 starttime,Start Time
 State,State
 statecode,State Code
-statecode_display,State Code Display
-stateorprovince,State Or Province
+statecode_display,State
+stateorprovince,State or Province
 Status,Status
 statuscode,Status Code
-statuscode_display,Status Code Display
+statuscode_display,Status
 statusmessage,Status Message
 stepid,Step ID
 stepname,Step Name
@@ -5120,12 +5120,12 @@ Unit_Volume,Unit Volume
 unresolveemailaddressifmultiplematch,Unresolve Email Address If Multiple Match
 unsubscribeid,Unsubscribe ID
 unsubscribescount,Unsubscribes Count
-uomid,UoM ID
-uomid_entitytype,UoM ID Entity Type
-uomidname,UoM ID Name
-uomscheduleid,UoM Schedule ID
-uomscheduleid_entitytype,UoM Schedule ID Entity Type
-uomscheduleidname,UoM Schedule ID Name
+uomid,UOM ID
+uomid_entitytype,UOM ID Entity Type
+uomidname,UOM ID Name
+uomscheduleid,UOM Schedule ID
+uomscheduleid_entitytype,UOM Schedule ID Entity Type
+uomscheduleidname,UOM Schedule ID Name
 updatecontent,Update Content
 updatestage,Update Stage
 upszone,UPS Zone
@@ -5327,7 +5327,7 @@ vtrs_serviceagreement,Service Agreement
 vtrs_setupcarrierwebsiteaccess,Set Up Carrier Website Access
 vtrs_shorttermdisability,Short Term Disability
 vtrs_shorttermdisabilitypolicyenddate,Short Term Disability Policy End Date
-vtrs_smallorlargecobra,Small Or Large Cobra
+vtrs_smallorlargecobra,Small or Large Cobra
 vtrs_spanishforms,Spanish Forms
 vtrs_std_contribution,Standard Contribution
 vtrs_std_group_number,Standard Group Number
