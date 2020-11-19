@@ -48,7 +48,7 @@ _jt_carriersinconsiderationid_value,Carriers In Consideration ID
 _jt_commissioncalcapproved_value,Commission Calc Approved ID
 _jt_compliancemanager_value,Compliance Manager ID
 _jt_contractsignatory_value,Contract Signatory ID
-_jt_cycle_value,Sprint Value
+_jt_cycle_value,Sprint ID
 _jt_dentalcarrier_value,Dental Carrier ID
 _jt_dentalpolicycarrier_value,Dental Policy Carrier
 _jt_devlead_value,Dev Lead Value
@@ -131,14 +131,14 @@ _jt_voluntarylifepolicycarrier_value,Voluntary Life Policy Carrier
 _leadid_value,Lead ID
 _lp_accountid_value,Account ID Value
 _lp_allianceid_value,Alliance ID Value
-_lp_businessentityid_ID,LP Business Entity ID
+_lp_businessentityid_ID,Business Entity ID
 _lp_businessentityid_value,Business Entity ID Value
 _lp_projectmanager_value,Project Manager Value
 _lp_saleslead_value,Sales Lead
-_lp_sourcecampaignid_ID,LP Source Campaign ID
-_lp_sourcecontractid_ID,LP Source Contract ID
+_lp_sourcecampaignid_ID,Source Campaign ID
+_lp_sourcecontractid_ID,Source Contract ID
 _lp_sourcecontractid_value,Source Contract ID Value
-_lp_topicteamid_ID,LP Topic Team ID
+_lp_topicteamid_ID,Topic Team ID
 _lvt_contactid_ID,Contact ID
 _masterid_value,Master ID
 _mobileofflineprofileid_value,Mobile Offline Profile ID
@@ -962,7 +962,7 @@ cdi_messages,Messages
 cdi_mobilephone,Mobile Phone
 cdi_name,Name
 cdi_newrecords,New Records
-cdi_numberofsurveyssubmitted,Number Of Surveys Submitted
+cdi_numberofsurveyssubmitted,Number of Surveys Submitted
 cdi_numberregistered,Number Register Ed
 cdi_openedinvitation,Opened Invitation
 cdi_openscount,Opens Count
@@ -1335,15 +1335,15 @@ datefulfilled,Date Fulfilled
 dateseparator,Date Separator
 daylightbias,Day Light Bias
 daylightday,Day Light Day
-daylightdayofweek,Day Light Day Of Week
+daylightdayofweek,Day Light Day of Week
 daylighthour,Day Light Hour
 daylightminute,Day Light Minute
 daylightmonth,Day Light Month
 daylightname,Day Light Name
 daylightsecond,Day Light Second
 daylightyear,Day Light Year
-dayofmonth,Day Of Month
-daysofweekmask,Days Of Week Mask
+dayofmonth,Day of Month
+daysofweekmask,Days of Week Mask
 dayssincerecordlastmodifiedmaxID,Days Since Record Last Modified Max ID
 decimalsymbol,Decimal Symbol
 decisionmaker,Decision Maker
@@ -1596,7 +1596,7 @@ filesize,File Size
 filetype,File Type
 filetypecode,File Type Code
 finaldecisiondate,Final Decision Date
-firstdayofweek,First Day Of Week
+firstdayofweek,First Day of Week
 firstname,First Name
 firstresponsebykpiid,First Response By KPI ID
 firstresponsebykpiid_entitytype,First Response By KPI ID Entity Type
@@ -1656,8 +1656,8 @@ gap_language,Gap Language
 gap_optionsetschemaname,Gap Option Set Schema Name
 gap_powerbioptionsetrefid,Gap Power Bi Option Set Ref ID
 gbh_activeorder,Active Order
-gbh_dateoflastcontact,Date Of Last Contact
-gbh_financialsystemofrecord,Financial System Of Record
+gbh_dateoflastcontact,Date of Last Contact
+gbh_financialsystemofrecord,Financial System of Record
 gbh_legacyid,Legacy ID
 gbh_mission,Mission
 Gen_Prod_Posting_Group,General Prod Posting Group
@@ -2293,9 +2293,9 @@ jt_copyhoursremaining,Copy Hours Remaining
 jt_copyhoursused,Copy Hours Used
 jt_copyhoursused_date,Copy Hours Used Date
 jt_copyhoursused_state,Copy Hours Used State
-jt_costofgoodssold,Cost Of Goods Sold
-jt_costofgoodssold_base,Cost Of Goods Sold Base
-jt_countoftasks,Count Of Tasks
+jt_costofgoodssold,Cost of Goods Sold
+jt_costofgoodssold_base,Cost of Goods Sold Base
+jt_countoftasks,Count of Tasks
 jt_country,Country
 jt_countryid,Country ID
 jt_countryid_entitytype,Country ID Entity Type
@@ -2348,13 +2348,13 @@ jt_dateapproved,Date Approved
 jt_datecommissioncalcapproved,Date Commission Calc Approved
 jt_datecompleted,Date Completed
 jt_dateestablished,Date Established
-jt_dateofbirth,Date Of Birth
+jt_dateofbirth,Date of Birth
 jt_dateofcomment,Comment Date
-jt_dateofservice,Date Of Service
+jt_dateofservice,Date of Service
 jt_datereported,Date Reported
 jt_datesubmitted,Date Submitted
 jt_datetaken,Date Taken
-jt_dayofthemonth,Day Of The Month
+jt_dayofthemonth,Day of The Month
 jt_dba,DBA
 jt_dbaname,DBA Name
 jt_deaths,Deaths
@@ -2462,7 +2462,7 @@ jt_expensecostrollup_date,Expense Cost Rollup Date
 jt_expensecostrollup_state,Expense Cost Rollup State
 jt_expirationdate,Expiration Date
 jt_expiredate,Expire Date
-jt_explanationofengagementrategoal,Explanation Of Engagement Rate Goal
+jt_explanationofengagementrategoal,Explanation of Engagement Rate Goal
 jt_exportstatus,Export Status
 jt_externalerror,External Error Flag
 jt_fasttrackthisjob,Fast Track This Job
@@ -2536,10 +2536,10 @@ jt_hours,Hours
 jt_hourscomplete,Hours Complete
 jt_hourscomplete_date,Hours Complete Date
 jt_hourscomplete_state,Hours Complete State
-jt_hoursofwork,Hours Of Work
-jt_hoursofworkalljobs,Hours Of Work All Jobs
-jt_hoursofworkalljobs_date,Hours Of Work All Jobs Date
-jt_hoursofworkalljobs_state,Hours Of Work All Jobs State
+jt_hoursofwork,Hours of Work
+jt_hoursofworkalljobs,Hours of Work All Jobs
+jt_hoursofworkalljobs_date,Hours of Work All Jobs Date
+jt_hoursofworkalljobs_state,Hours of Work All Jobs State
 jt_hoursspent,Hours Spent
 jt_householdmember,House Hold Member
 jt_householdmember_entitytype,House Hold Member Entity Type
@@ -2681,8 +2681,8 @@ jt_MedicalPolicyCarrier,Medical Policy Carrier
 jt_MedicalPolicyCarrier_Task,Medical Policy Carrier
 jt_medicalpolicyeffdate,Medical Policy Eff Date
 jt_membercompanys,Member Company
-jt_methodofproof,Method Of Proof Code
-jt_methodofproof_display,Method Of Proof
+jt_methodofproof,Method of Proof Code
+jt_methodofproof_display,Method of Proof
 jt_methodproof,Method Proof Code
 jt_methodproof_display,Method Proof
 jt_miattest,Miat Test
@@ -2729,7 +2729,7 @@ jt_neprtotal_base,Npr Total Base
 jt_new_1or2spots,New 1 Or 2 Spots
 jt_new_enddate,New End Date
 jt_new_hubstatus,New Hub Status
-jt_new_numberofweeks,New Number Of Weeks
+jt_new_numberofweeks,New Number of Weeks
 jt_new_position,New Position
 jt_new_programspecific,New Program Specific
 jt_new_runtimeframe,New Run Timeframe
@@ -2765,7 +2765,7 @@ jt_nextsequence,Next Sequence
 jt_nextshiftdate,Next Shift Date
 jt_nextsteps,Next Steps
 jt_nodusauthcode,Nodus Auth Code
-jt_nooflocations,No Of Location S
+jt_nooflocations,No of Location S
 jt_noshowapp,No Show App
 jt_noshowphysician,No Show Physician
 jt_note,Note
@@ -2773,14 +2773,14 @@ jt_notecategorymultiselect,Note Category Multiselect
 jt_notificationmessage,Notification Message
 jt_novex,Novex
 jt_npm,Npm
-jt_numberofbeds,Number Of Beds
-jt_numberofdays,Number Of Days
-jt_numberofemployees,Number Of Employees
-jt_numberofissues,Number Of Issues
-jt_numberofrisks,Number Of Risks
-jt_numberofsteps,Number Of Steps
-jt_numberofsteps_date,Number Of Steps Date
-jt_numberofsteps_state,Number Of Steps State
+jt_numberofbeds,Number of Beds
+jt_numberofdays,Number of Days
+jt_numberofemployees,Number of Employees
+jt_numberofissues,Number of Issues
+jt_numberofrisks,Number of Risks
+jt_numberofsteps,Number of Steps
+jt_numberofsteps_date,Number of Steps Date
+jt_numberofsteps_state,Number of Steps State
 jt_nurseryvolume,Nursery Volume
 jt_ob,Ob
 jt_ocean,Ocean
@@ -2823,7 +2823,7 @@ jt_other,Other
 jt_other_base,Other Base
 jt_othertotal,Other Total
 jt_othertotal_base,Other Total Base
-jt_outofscopesummary,Out Of Scope Summary
+jt_outofscopesummary,Out of Scope Summary
 jt_overcreditlimitexception,Over Credit Limit Exception
 jt_ownerhshiptype,Owner H Ship Type
 jt_ownershiptype,Owner Ship Type
@@ -2839,7 +2839,7 @@ jt_parentorderidname,Parent Order ID Name
 jt_patient,Patient
 jt_paymentamount,Payment Amount
 jt_paymentamount_base,Payment Amount Base
-jt_paymentcurrencyoutsideofusd,Payment Currency Outside Of Usd
+jt_paymentcurrencyoutsideofusd,Payment Currency Outside of Usd
 jt_paymentdeclinedexception,Payment Declined Exception
 jt_paymentmethod,Payment Method
 jt_paymentmethodmismatchexception,Payment Method Mis Match Exception
@@ -2979,18 +2979,18 @@ jt_providercategory_display,Provider Category
 jt_providerid,Provider ID
 jt_providerlastname,Provider Last Names
 jt_psnv,Psnv
-jt_psrcash,Psr Cash
-jt_psrcash_base,Psr Cash Base
-jt_psrnew,Psr New
-jt_psrnew_base,Psr New Base
-jt_psrrenew,Psr Renew
-jt_psrrenew_base,Psr Renew Base
+jt_psrcash,PSR Cash
+jt_psrcash_base,PSR Cash Base
+jt_psrnew,PSR New
+jt_psrnew_base,PSR New Base
+jt_psrrenew,PSR Renew
+jt_psrrenew_base,PSR Renew Base
 jt_psrsummary,Project Status Report Summary
-jt_psrsummarydate,Psr Summary Date
-jt_psrtotal,Psr Total
-jt_psrtotal_base,Psr Total Base
-jt_psrtrade,Psr Trade
-jt_psrtrade_base,Psr Trade Base
+jt_psrsummarydate,PSR Summary Date
+jt_psrtotal,PSR Total
+jt_psrtotal_base,PSR Total Base
+jt_psrtrade,PSR Trade
+jt_psrtrade_base,PSR Trade Base
 jt_pulmonologist,Pulmonologist
 jt_pulmonologyclinictelehealthvisits,Pulmonology Clinic Telehealth Visits
 jt_pulmonologyvolume,Pulmonology Volume
@@ -3264,7 +3264,7 @@ jt_showhours,Show Hours
 jt_showstartdate,Show Start Date
 jt_signature,Sig Nature
 jt_sitemanager,Site Manager
-jt_sizeofaccount,Size Of Account
+jt_sizeofaccount,Size of Account
 jt_skillforbpo,Skill for BPO
 jt_skillforbpo_entitytype,Skill for BPO Entity Type
 jt_skillforbponame,Skill for BPO Name
@@ -3423,7 +3423,7 @@ jt_tvtotal,Tv Total
 jt_tvtotal_base,Tv Total Base
 jt_type,Type Code
 jt_type_display,Type
-jt_typeoflocation,Type Of Location
+jt_typeoflocation,Type of Location
 jt_unknown,Unknown
 jt_unknown_base,Unknown Base
 jt_unsignedorders,Unsigned Orders
@@ -3582,8 +3582,8 @@ lp_estimatedclosedate,Estimated Close Date
 lp_estimatedenddate,Estimated End Date
 lp_estimatedstartdate,Estimated Start Date
 lp_estimatedvalue,Estimated Value
-lp_practiceareasmos,LP Practice Areas MOS
-lp_practiceareasos,LP Practice Areas SOS
+lp_practiceareasmos,Practice Areas MOS
+lp_practiceareasos,Practice Areas SOS
 lp_renewal,Renewal
 lvt_assignedto,Assigned To
 mailboxid,Mailbox ID
@@ -3641,11 +3641,11 @@ merged,Merged
 message,Message
 messagecount,Message Count
 messageid,Message ID
-messageiddupcheck,Message ID Dup Check
+messageiddupcheck,Message ID Duplicate Check
 messages,Messages
 messagetypecode,Message Type Code
 MetadataId,Metadata ID
-metadatasynclasttimeofneverexpireddeletedobjects,Metadata Sync Last Time Of Never Expired Deleted Objects
+metadatasynclasttimeofneverexpireddeletedobjects,Metadata Sync Last Time of Never Expired Deleted Objects
 metadatasynctimestamp,Metadata Sync Timestamp
 metricid,Metric ID
 metricid_entitytype,Metric ID Entity Type
@@ -3677,7 +3677,7 @@ mobilephone,Mobile Phone
 mode,Mode
 modifiedby,Modified By
 modifiedby_entitytype,Modified By Entity Type
-modifiedbydsc,Modified By Dsc
+modifiedbydsc,Modified By DSC
 modifiedbyexternalparty,Modified By External Party
 modifiedbyexternalparty_entitytype,Modified By External Party Entity Type
 modifiedbyexternalpartyname,Modified By External Party Name
@@ -3691,7 +3691,7 @@ modifiedonbehalfby_entitytype,Modified On Behalf By Entity Type
 modifiedonbehalfbydsc,Modified On Behalf By Dsc
 modifiedonbehalfbyname,Modified On Behalf By Name
 modifiedonbehalfbyyominame,Modified On Behalf By Yomi Name
-monthofyear,Month Of Year
+monthofyear,Month of Year
 msa_partnerid,Partner ID
 msa_partneroppid,Partner Opportunity ID
 msdyn_accountcustomer,Account Customer
@@ -3780,7 +3780,7 @@ msdyn_customertype,Customer Type
 msdyn_date,Date
 msdyn_derivecapacity,Derive Capacity
 msdyn_description,Description
-msdyn_disablecreateofteammemberformanager,Disable Create Of Team Member for Manager
+msdyn_disablecreateofteammemberformanager,Disable Create of Team Member for Manager
 msdyn_displayonscheduleassistant,Display On Schedule Assistant
 msdyn_displayonscheduleboard,Display On Schedule Board
 msdyn_documentdate,Document Date
@@ -3836,7 +3836,7 @@ msdyn_manager,Manager
 msdyn_membershipstatus,Membership Status
 msdyn_milestraveled,Miles Traveled
 msdyn_msdyn_projecttask_msdyn_actual_Task,Project Task Actual Task
-msdyn_msdyn_projecttask_msdyn_contractlinescheduleofID_projecttask,Project Task Contract Line Schedule Of ID Project Task
+msdyn_msdyn_projecttask_msdyn_contractlinescheduleofID_projecttask,Project Task Contract Line Schedule of ID Project Task
 msdyn_msdyn_projecttask_msdyn_estimateline_Task,Project Task Estimate Line Task
 msdyn_msdyn_projecttask_msdyn_fact_Task,Project Task Fact Task
 msdyn_msdyn_projecttask_msdyn_invoicelinetransaction_Task,Project Task Invoice Line Transaction Task
@@ -3848,7 +3848,7 @@ msdyn_msdyn_projecttask_msdyn_projecttask_parenttask,Project Task Project Task P
 msdyn_msdyn_projecttask_msdyn_projecttaskdependency_PredecessorTask,Project Task Project Task Dependency Predecessor Task
 msdyn_msdyn_projecttask_msdyn_projecttaskdependency_SuccessorTask,Project Task Project Task Dependency Successor Task
 msdyn_msdyn_projecttask_msdyn_projecttaskstatususer,Project Task Project Task Status User
-msdyn_msdyn_projecttask_msdyn_quotelinescheduleofID_projecttask,Project Task Quote Line Schedule Of ID Project Task
+msdyn_msdyn_projecttask_msdyn_quotelinescheduleofID_projecttask,Project Task Quote Line Schedule of ID Project Task
 msdyn_msdyn_projecttask_msdyn_quotelinetransaction_Task,Project Task Quote Line Transaction Task
 msdyn_msdyn_projecttask_msdyn_resourceassignment_taskid,Project Task Resource Assignment Task ID
 msdyn_msdyn_projecttask_msdyn_timeentry_projectTask,Project Task Time Entry Project Task
@@ -3857,7 +3857,7 @@ msdyn_msdyn_timeentry_msdyn_timeoffcalendar_timeEntry,Time Entry Time Off Calend
 msdyn_msprojectclientid,MS Project Client ID
 msdyn_name,Name
 msdyn_number,Number
-msdyn_numberofresources,Number Of Resources
+msdyn_numberofresources,Number of Resources
 msdyn_opportunitygrade,Opportunity Grade
 msdyn_opportunitykpiid,Opportunity KPI ID
 msdyn_opportunityscore,Opportunity Score
@@ -4017,8 +4017,8 @@ msdyn_unitname,Unit Name
 msdyn_unitschedule,Unit Schedule
 msdyn_unitschedule_entitytype,Unit Schedule Entity Type
 msdyn_unitschedulename,Unit Schedule Name
-msdyn_varianceofcost,Variance Of Cost
-msdyn_varianceofcost_base,Variance Of Cost Base
+msdyn_varianceofcost,Variance of Cost
+msdyn_varianceofcost_base,Variance of Cost Base
 msdyn_vendortype,Vendor Type
 msdyn_wbsduration,WBS Duration
 msdyn_wbsid,WBS ID
@@ -4162,16 +4162,16 @@ noemailcount,No Email Count
 normalizedrating,Normalized Rating
 notetext,Note Text
 notifications,Notifications
-notifymailboxownerofemailserverlevelalerts,Notify Mailbox Owner Of Email Server Level Alerts
+notifymailboxownerofemailserverlevelalerts,Notify Mailbox Owner of Email Server Level Alerts
 number,No
 numberformat,Number Format
 numbergroupformat,Number Group Format
-numberofchildincidents,Number Of Child Incidents
-numberofchildren,Number Of Children
-numberofemployees,Number Of Employees
-numberofitems,Number Of Items
-numberofmembers,Number Of Members
-numberofpages,Number Of Pages
+numberofchildincidents,Number of Child Incidents
+numberofchildren,Number of Children
+numberofemployees,Number of Employees
+numberofitems,Number of Items
+numberofmembers,Number of Members
+numberofpages,Number of Pages
 numberseparator,Number Separator
 objectid,Object ID
 objectid_entitytype,Object ID Entity Type
@@ -4523,7 +4523,7 @@ publisherid_entitytype,Publisher ID Entity Type
 publisheridname,Publisher ID Name
 publishon,Publish On Date
 publishstatusid,Publish Status ID
-Purch_Unit_of_Measure,Purchase Unit Of Measure
+Purch_Unit_of_Measure,Purchase Unit of Measure
 purchaseprocess,Purchase Process Code
 purchaseprocess_display,Purchase Process
 Purchases_LCY,Purchases LCY
@@ -4605,7 +4605,7 @@ recordidobjecttypecode2,Record ID Object Type Code 2
 recordsownedbyme,Records Owned By Me
 recordsownedbymybusinessunit,Records Owned By My Business Unit
 recordsownedbymyteam,Records Owned By My Team
-recurrencedefaultnumberofoccurrences,Recurrence Default Number Of Occurrences
+recurrencedefaultnumberofoccurrences,Recurrence Default Number of Occurrences
 recurrenceexpansionjobbatchinterval,Recurrence Expansion Job Batch Interval
 recurrenceexpansionjobbatchsize,Recurrence Expansion Job Batch Size
 recurrenceexpansionsynchcreatemax,Recurrence Expansion Synch Create Max
@@ -4751,7 +4751,7 @@ sage_itemkey,Sage Item Key
 Sales_LCY,Sales LCY
 SALES_ORG,Sales Org
 Sales_Qty,Sales Quantity
-Sales_Unit_of_Measure,Sales Unit Of Measure
+Sales_Unit_of_Measure,Sales Unit of Measure
 salesliteratureid,Sales Literature ID
 salesliteratureid_entitytype,Sales Literature ID Entity Type
 salesliteratureitemid,Sales Literature Item ID
@@ -4909,7 +4909,7 @@ standardbias,Standard Bias
 standardcost,Standard Cost
 standardcost_base,Standard Cost Base
 standardday,Standard Day
-standarddayofweek,Standard Day Of Week
+standarddayofweek,Standard Day of Week
 standardhour,Standard Hour
 standardminute,Standard Minute
 standardmonth,Standard Month
@@ -5034,7 +5034,7 @@ timezonebias,Time Zone Bias
 timezonecode,Time Zone Code
 timezonedaylightbias,Time Zone Day Light Bias
 timezonedaylightday,Time Zone Day Light Day
-timezonedaylightdayofweek,Time Zone Day Light Day Of Week
+timezonedaylightdayofweek,Time Zone Day Light Day of Week
 timezonedaylighthour,Time Zone Day Light Hour
 timezonedaylightminute,Time Zone Day Light Minute
 timezonedaylightmonth,Time Zone Day Light Month
@@ -5046,7 +5046,7 @@ timezoneruleid,Time Zone Rule ID
 timezoneruleversionnumber,Time Zone Rule Version Number
 timezonestandardbias,Time Zone Standard Bias
 timezonestandardday,Time Zone Standard Day
-timezonestandarddayofweek,Time Zone Standard Day Of Week
+timezonestandarddayofweek,Time Zone Standard Day of Week
 timezonestandardhour,Time Zone Standard Hour
 timezonestandardminute,Time Zone Standard Minute
 timezonestandardmonth,Time Zone Standard Month
@@ -5104,7 +5104,7 @@ triggeronupdateattributelist,Trigger On Update Attribute List
 tsid,Ts ID
 type,Type
 typecode,Type Code
-TypeOfLocationJT,Type Of Location
+TypeOfLocationJT,Type of Location
 uidata,Ui Data
 uilanguageid,Ui Language ID
 undeliverablefolder,Undeliverable Folder
@@ -5284,7 +5284,7 @@ vtrs_miscplannameandnumber,Misc Plan Name and Number
 vtrs_miscpolicyeffdate,Misc Policy Eff Date
 vtrs_miscpolicyenddate,Misc Policy End Date
 vtrs_miscwaitingperiod,Misc Waiting Period
-vtrs_natureofbusiness,Nature Of Business
+vtrs_natureofbusiness,Nature of Business
 vtrs_newgroupcompliance,New Group Compliance
 vtrs_nondiscriminationtesting,Non Discrimination Testing
 vtrs_onboarding,Onboarding
@@ -5338,7 +5338,7 @@ vtrs_stdplannameandnumber,Standard Plan Name and Number
 vtrs_stdwaitingperiod,Standard Waiting Period
 vtrs_submitoechangestocarriers,Submit Eo Changes To Carriers
 vtrs_submitoecorrectionstocarriers,Submit Eo Corrections To Carriers
-vtrs_summaryofmaterialchanges,Summary Of Material Changes
+vtrs_summaryofmaterialchanges,Summary of Material Changes
 vtrs_summaryplandescription,Summary Plan Description
 vtrs_summaryplandocument,Summary Plan and Document
 vtrs_taxid,Tax ID
