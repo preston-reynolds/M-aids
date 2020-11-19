@@ -1,4 +1,4 @@
-ColumnName,CleanedColumnName
+ColumnName,CleanColumnName
 _accountid_ID,Account ID
 _activestageid_ID,Active Stage ID
 _activestageid_value,Active Stage ID
@@ -27,10 +27,10 @@ _defaultmailbox_ID,Default Mailbox ID
 _defaultmailbox_value,Default Mailbox ID
 _defaultpricelevelid_ID,Default Price Level ID
 _defaultpricelevelid_value,Default Price Level ID
-_defaultuomid_ID,Default UOM ID
-_defaultuomid_value,Default UOM ID
-_defaultuomscheduleid_ID,Default UOM Schedule ID
-_defaultuomscheduleid_value,Default UOM Schedule ID
+_defaultuomid_ID,Default UoM ID
+_defaultuomid_value,Default UoM ID
+_defaultuomscheduleid_ID,Default UoM Schedule ID
+_defaultuomscheduleid_value,Default UoM Schedule ID
 _gbh_primaryquote_ID,Primary Quote ID
 _header_ID,Header ID
 _jt_account_value,Account ID
@@ -265,8 +265,8 @@ _teamtemplateid_ID,Team Template ID
 _territoryid_value,Territory ID
 _transactioncurrencyid_ID,Transaction Currency ID
 _transactioncurrencyid_value,Transaction Currency ID
-_uomid_ID,UOM ID
-_uomid_value,UOM ID
+_uomid_ID,UoM ID
+_uomid_value,UoM ID
 _userid_ID,User ID
 _userid_value,User ID Value
 _vtrs_accountmanager_value,Account Manager ID
@@ -533,9 +533,9 @@ basecurrencyidname,Base Currency ID Name
 basecurrencyprecision,Base Currency Precision
 basecurrencysymbol,Base Currency Symbol
 baseisocurrencycode,Base ISO Currency Code
-baseuom,Base UOM
-baseuom_entitytype,Base UOM Entity Type
-baseuomname,Base UOM Name
+baseuom,Base UoM
+baseuom_entitytype,Base UoM Entity Type
+baseuomname,Base UoM Name
 bcc,Bcc
 begindate,Begin Date
 bias,Bias
@@ -1371,12 +1371,12 @@ defaultpricelevelidname,Default Price Level ID Name
 defaultrecurrenceendrangetype,Default Recurrence End Range Type
 defaultsearchexperience,Default Search Experience
 defaultthemedata,Default Theme Data
-defaultuomid,Default UOM ID
-defaultuomid_entitytype,Default UOM ID Entity Type
-defaultuomidname,Default UOM ID Name
-defaultuomscheduleid,Default UOM Schedule ID
-defaultuomscheduleid_entitytype,Default UOM Schedule ID Entity Type
-defaultuomscheduleidname,Default UOM Schedule ID Name
+defaultuomid,Default UoM ID
+defaultuomid_entitytype,Default UoM ID Entity Type
+defaultuomidname,Default UoM ID Name
+defaultuomscheduleid,Default UoM Schedule ID
+defaultuomscheduleid_entitytype,Default UoM Schedule ID Entity Type
+defaultuomscheduleidname,Default UoM Schedule ID Name
 delayedemailsendtime,Delayed Email Send Time
 delegatedadminuserid,Delegated Admin User ID
 deletedexceptionslist,Deleted Exceptions List
@@ -1893,7 +1893,7 @@ isresourcebookingexchangesyncenabled,Is Resource Booking Exchange Sync Enabled
 isrevenuesystemcalculated,Is Revenue System Calculated
 isrootarticle,Is Root Article
 isschedulable,Is Schedulable
-isschedulebaseuom,Is Schedule Base UOM
+isschedulebaseuom,Is Schedule Base UoM
 issendasallowed,Is Send As Allowed
 isserviceaccount,Is Service Account
 issopintegrationenabled,Is Sop Integration Enabled
@@ -3411,9 +3411,9 @@ jt_unknown,Unknown
 jt_unknown_base,Unknown Base
 jt_unsignedorders,Unsigned Orders
 jt_uo,Uo
-jt_uom,UOM
-jt_uom_entitytype,UOM Entity Type
-jt_uomname,UOM Name
+jt_uom,UoM
+jt_uom_entitytype,UoM Entity Type
+jt_uomname,UoM Name
 jt_upc,Upc
 jt_updacctcontactshipto,Upd Acct Contact Ship To
 jt_upgradefirstrun,Up Grade First Run
@@ -3735,6 +3735,8 @@ msdyn_calendarid,Calendar ID
 msdyn_cascadecrewchanges,Cascade Crew Changes
 msdyn_comments,Comments
 msdyn_committype,Commit Type
+msdyn_competitive,Competitive Code
+msdyn_competitive_display,Competitive
 msdyn_contactcustomer,Contact Customer
 msdyn_contactcustomer_entitytype,Contact Customer Entity Type
 msdyn_contactcustomername,Contact Customer Name
@@ -3772,13 +3774,18 @@ msdyn_enddatetime,End Date Time
 msdyn_endlocation,End Location
 msdyn_entrystatus,Entry Status
 msdyn_estimatedarrivaltime,Estimated Arrival Time
+msdyn_estimatedbudget,Estimated Budget Code
+msdyn_estimatedbudget_display,Estimated Budget
+msdyn_estimatedschedule,Estimated Schedule Code
+msdyn_estimatedschedule_display,Estimated Schedule
 msdyn_estimatedtravelduration,Estimated Travel Duration
 msdyn_exchangerate,Exchange Rate
 msdyn_exchangeratedate,Exchange Rate Date
 msdyn_externaldescription,External Description
 msdyn_externalreferencedate,External Reference Date
 msdyn_externalreferenceid,External Reference ID
-msdyn_feasible,Feasible
+msdyn_feasible,Feasible Code
+msdyn_feasible_display,Feasible
 msdyn_forecastcategory,Forecast Category Code
 msdyn_forecastcategory_display,Forecast Category
 msdyn_from,From
@@ -3872,6 +3879,8 @@ msdyn_primaryemail,Primary Email
 msdyn_product,Product
 msdyn_product_entitytype,Product Entity Type
 msdyn_productname,Product Name
+msdyn_profitability,Profitability Code
+msdyn_profitability_display,Profitability
 msdyn_progress,Progress
 msdyn_project,Project
 msdyn_projectapprover,Project Approver
@@ -5090,12 +5099,12 @@ Unit_Volume,Unit Volume
 unresolveemailaddressifmultiplematch,Unresolve Email Address If Multiple Match
 unsubscribeid,Unsubscribe ID
 unsubscribescount,Unsubscribes Count
-uomid,UOM ID
-uomid_entitytype,UOM ID Entity Type
-uomidname,UOM ID Name
-uomscheduleid,UOM Schedule ID
-uomscheduleid_entitytype,UOM Schedule ID Entity Type
-uomscheduleidname,UOM Schedule ID Name
+uomid,UoM ID
+uomid_entitytype,UoM ID Entity Type
+uomidname,UoM ID Name
+uomscheduleid,UoM Schedule ID
+uomscheduleid_entitytype,UoM Schedule ID Entity Type
+uomscheduleidname,UoM Schedule ID Name
 updatecontent,Update Content
 updatestage,Update Stage
 upszone,UPS Zone
