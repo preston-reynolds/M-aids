@@ -5388,3 +5388,9 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
+jt_changedfield,Changed Field
+jt_currentvalue,Current Value
+jt_previousvalue,Previous Value
+jt_projecttaskid,Project Task ID
+msdyn_taskid,Task ID
+msdyn_bookableresourceid,Bookable Resource ID
