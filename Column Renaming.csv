@@ -3741,7 +3741,8 @@ msdyn_basisprice,Basis Price
 msdyn_basisprice_base,Basis Price Base
 msdyn_basisquantity,Basis Quantity
 msdyn_billingstatus,Billing Status
-msdyn_billingtype,Billing Type
+msdyn_billingtype,Billing Type Code
+msdyn_billingtype_display,Billing Type
 msdyn_bookableresource,Bookable Resource
 msdyn_bookableresource_entitytype,Bookable Resource Entity Type
 msdyn_bookableresourceid,Bookable Resource ID
@@ -5418,3 +5419,5 @@ jt_currentvalue,Current Value
 jt_previousvalue,Previous Value
 jt_projecttaskid,Project Task ID
 jt_sprintstatus_display,Sprint Status 
+jt_surveyeligible,Is Survey Eligible
+msdyn_transactioncategoryid,Transaction Category ID
