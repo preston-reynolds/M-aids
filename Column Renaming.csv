@@ -2325,7 +2325,6 @@ jt_currentinvoiceamount,Current Invoice Amount
 jt_currentinvoiceamount_base,Current Invoice Amount Base
 jt_currentrenewalornew,Current Renewal or New
 jt_currentrenewalrates,Current Renewal Rates
-jt_currentvalue,Current Value
 jt_custclassid,Cust Class ID
 jt_customerclass,Customer Class
 jt_customerclassid,Customer Class ID
@@ -2895,7 +2894,6 @@ jt_prerenewalstarted,Pre-Renewal Started
 jt_prerenewalstarttime,Pre-Renewal Start Time
 jt_presalesresource,Pre-Sale Resource
 jt_presentationdate,Presentation Date
-jt_previousvalue,Previous Value
 jt_pricefromquote,Price From Quote
 jt_priceperunit,Price Per Unit
 jt_priceperunit_base,Price Per Unit Base
@@ -5415,8 +5413,8 @@ yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
 xaml,XAML
 jt_changedfield,Changed Field
-jt_currentvalue,Current Value
-jt_previousvalue,Previous Value
+jt_currentvalue,Current Value
+jt_previousvalue,Previous Value
 jt_projecttaskid,Project Task ID
 jt_sprintstatus_display,Sprint Status
 jt_surveyeligible,Is Survey Eligible
