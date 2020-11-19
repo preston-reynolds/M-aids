@@ -196,8 +196,8 @@ _msdyn_taskid_ID,Task ID
 _msdyn_taskid_value,Task ID
 _msdyn_teammembership_ID,Team Membership
 _msdyn_timegroupdetailselected_ID,Time Group Line Selected
-_msdyn_transactioncategory_ID,Transaction Category
-_msdyn_transactioncategory_value,Transaction Category
+_msdyn_transactioncategory_ID,Transaction Category ID
+_msdyn_transactioncategory_value,Transaction Category ID
 _msdyn_unit_ID,Unit
 _msdyn_unit_value,Unit Value
 _msdyn_unitschedule_ID,Unit Schedule
@@ -4011,7 +4011,7 @@ msdyn_totalactualcost,Total Actual Cost
 msdyn_totalactualcost_base,Total Actual Cost Base
 msdyn_totalplannedcost,Total Planned Cost
 msdyn_totalplannedcost_base,Total Planned Cost Base
-msdyn_transactioncategory,Transaction Category
+msdyn_transactioncategory,Transaction Category ID
 msdyn_transactionclassification,Trans Action Classification
 msdyn_transactiontypecode,Trans Action Type Code
 msdyn_type,Type Code
