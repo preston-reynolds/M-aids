@@ -3859,7 +3859,8 @@ msdyn_msprojectclientid,MS Project Client ID
 msdyn_name,Name
 msdyn_number,Number
 msdyn_numberofresources,Number of Resources
-msdyn_opportunitygrade,Opportunity Grade
+msdyn_opportunitygrade,Opportunity Grade Code
+msdyn_opportunitygrade_display,Opportunity Grade
 msdyn_opportunitykpiid,Opportunity KPI ID
 msdyn_opportunityscore,Opportunity Score
 msdyn_opportunityscoretrend,Opportunity Score Trend Code
