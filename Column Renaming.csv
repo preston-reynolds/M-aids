@@ -3752,7 +3752,8 @@ msdyn_bulkgenerationstatus_display,Bulk Generation Status
 msdyn_calendarid,Calendar ID
 msdyn_cascadecrewchanges,Cascade Crew Changes
 msdyn_comments,Comments
-msdyn_committype,Commit Type
+msdyn_committype,Commit Type Code
+msdyn_committype_display,Commit Type
 msdyn_competitive,Competitive Code
 msdyn_competitive_display,Competitive
 msdyn_contactcustomer,Contact Customer
