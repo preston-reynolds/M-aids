@@ -2106,6 +2106,7 @@ jt_auditsclosuresstarttime,Audit Closures Start Time
 jt_automatedtask,Automated Task
 jt_awardletterreceived,Award Letter Received
 jt_azuredevopsprojectid,Azure Devops Project ID
+jt_azuredevopsstatus,Azure DevOps Status
 jt_azuredevopssyncerror,Azure Develops Sync Error
 jt_azuredevopsurl,Azure Devops URL
 jt_backlogrank,Backlog Rank
@@ -3046,7 +3047,10 @@ jt_referencenotes,Reference Notes
 jt_regenbuilt,Regen Built
 jt_regenchargeamount,Regen Charge Amount
 jt_regenchargeamount_base,Regen Charge Amount Base
+jt_relatedepic,Related Epic ID
+jt_relatedfeature,Related Feature ID
 jt_RelatedTasksId,Related Tasks ID
+jt_relateduserstory,Related User Story ID
 jt_releaseformreceived,Release Form Received
 jt_relevantfilesuploaded,Relevant Files Uploaded
 jt_remaininghours,Remaining Hours
@@ -3347,7 +3351,8 @@ jt_targethours,Target Hours
 jt_taskhierarchy,Task Hierarchy
 jt_taskscomplete,Tasks Complete
 jt_tasksoutstanding,Tasks Outstanding
-jt_taskstatus,Task Status
+jt_taskstatus,Task Status Code
+jt_taskstatus_display,Task Status
 jt_team,Team
 jt_teamsalegoalmonthlyid,Team Sales Goal Monthly ID
 jt_teamsalesgoal_ID,Team Sales Goal ID
