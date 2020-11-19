@@ -48,7 +48,7 @@ _jt_carriersinconsiderationid_value,Carriers In Consideration ID
 _jt_commissioncalcapproved_value,Commission Calc Approved ID
 _jt_compliancemanager_value,Compliance Manager ID
 _jt_contractsignatory_value,Contract Signatory ID
-_jt_cycle_value,Cycle Value
+_jt_cycle_value,Sprint Value
 _jt_dentalcarrier_value,Dental Carrier ID
 _jt_dentalpolicycarrier_value,Dental Policy Carrier
 _jt_devlead_value,Dev Lead Value
@@ -2105,17 +2105,17 @@ jt_auditsclosuresstageduedate,Audits Closures Stage Due Date
 jt_auditsclosuresstarttime,Audit Closures Start Time
 jt_automatedtask,Automated Task
 jt_awardletterreceived,Award Letter Received
-jt_azuredevopsprojectid,Azure Devops Project ID
+jt_azuredevopsprojectid,Azure DevOps Project ID
 jt_azuredevopsstatus,Azure DevOps Status
-jt_azuredevopssyncerror,Azure Develops Sync Error
-jt_azuredevopsurl,Azure Devops URL
+jt_azuredevopssyncerror,Azure DevOps Sync Error
+jt_azuredevopsurl,Azure DevOps URL
 jt_backlogrank,Backlog Rank
 jt_backordersallowed,Back Orders Allowed
 jt_balance,Balance
 jt_balance_base,Balance Base
 jt_basetask,Base Task Flag
 jt_BasicLifeCarrier,Back Life Carrier
-jt_bhsolderadulttotal,Bhs Older Adult Total
+jt_bhsolderadulttotal,BHS Older Adult Total
 jt_billable,Is Billable
 jt_billaddrcity,Billing Address City
 jt_billaddrcitylookup,Billing Address City Lookup
@@ -2192,9 +2192,9 @@ jt_carrierquotinglistim,Carrier Quoting List Im
 jt_CarriersinConsiderationId,Carriers In Consideration ID
 jt_carriertype,Carrier Type
 jt_cashtrade,Cash Trade
-jt_ccauthorization,Cc Authorization
-jt_ccautorization,Cc Authorization
-jt_cct,Cct
+jt_ccauthorization,CC Authorization
+jt_ccautorization,CC Authorization
+jt_cct,CCT
 jt_censusmdvl,Census Mdvl
 jt_censusstarted,Census Started
 jt_censusvlltdstd,Census Vl Ltd Std
@@ -2341,8 +2341,8 @@ jt_customerponumber,Customer Po Number
 jt_customsbrokerage,Customs Brokerage
 jt_customsbrokeragerevenue,Customs Brokerage Revenue
 jt_customsbrokeragerevenue_base,Customs Brokerage Revenue Base
-jt_cycle,Cycle ID
-jt_cycleplanning,Cycle Planning
+jt_cycle,Sprint ID
+jt_cycleplanning,Sprint Planning
 jt_date,Date
 jt_dateapproved,Date Approved
 jt_datecommissioncalcapproved,Date Commission Calc Approved
@@ -2355,8 +2355,8 @@ jt_datereported,Date Reported
 jt_datesubmitted,Date Submitted
 jt_datetaken,Date Taken
 jt_dayofthemonth,Day Of The Month
-jt_dba,Dba
-jt_dbaname,Dba Name
+jt_dba,DBA
+jt_dbaname,DBA Name
 jt_deaths,Deaths
 jt_decisionfinalplanssetverified,Decision Final Plans Set Verified
 jt_defaultsubscriptiondays,Default Subscription Days
@@ -2376,6 +2376,7 @@ jt_designhoursremaining,Design Hours Remaining
 jt_designhoursused,Design Hours Used
 jt_designhoursused_date,Design Hours Used Date
 jt_designhoursused_state,Design Hours Used State
+jt_devlead,Dev Lead ID
 jt_direction,Direction
 jt_discount,Discount
 jt_discountbasedontotal,Discount Based On Total
@@ -2700,7 +2701,7 @@ jt_mostrecentspotdate_date,Most Recent Spot Date
 jt_mostrecentspotdate_state,Most Recent Spot Date State
 jt_movingcarriers,Moving Carriers
 jt_mporderid,Mp Order ID
-jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Cycle History Project Task
+jt_msdyn_projecttask_cyclehistory_projecttask,Project Task Sprint History Project Task
 jt_msdyn_projecttask_msdyn_projecttask_associatedfeature,Project Task Project Task Associated Feature
 jt_name,Name
 jt_navigatorbuild,Navigator Build
@@ -2952,6 +2953,7 @@ jt_projectionrenew,Projection Renew
 jt_projectionsnewvsrenew,Projections New Vs Renew
 jt_projectiontrade,Projection Trade
 jt_projectjobtemplateid,Project Job Template ID
+jt_projectlead,Project Lead ID
 jt_projectstatus,Project Status
 jt_projecttask_acceptancecriterion,Project Task Acceptance Criterion
 jt_ProjectTask_NewTaskParent,Project Task New Task Parent
@@ -3343,8 +3345,8 @@ jt_subtotal_base,Subtotal Base
 jt_suffixlist,Suffix List
 jt_surveyresponsecontact,Survey Response Contact
 jt_swingbeds,Swing Beds
-jt_syncingtoazuredevops,Syncing To Azure Devops
-jt_synctoazuredevops,Sync To Azure Devops
+jt_syncingtoazuredevops,Syncing To Azure DevOps
+jt_synctoazuredevops,Sync To Azure DevOps
 jt_targetads,Target Ads
 jt_targetgolive,Target Go Live
 jt_targethours,Target Hours
@@ -3773,6 +3775,7 @@ msdyn_costperformence,Cost Performance Code
 msdyn_costperformence_display,Cost Performance
 msdyn_costvariance,Cost Variance
 msdyn_costvariance_base,Cost Variance Base
+msdyn_customer,Customer ID
 msdyn_customertype,Customer Type
 msdyn_date,Date
 msdyn_derivecapacity,Derive Capacity
@@ -3901,6 +3904,7 @@ msdyn_progress,Progress
 msdyn_project,Project
 msdyn_projectapprover,Project Approver
 msdyn_projectid,Project ID
+msdyn_projectmanager,Project Manager ID
 msdyn_projectresourcerequirementsvisibletore,Project Resource Requirements Visible To Re
 msdyn_projectTask,Project Task
 msdyn_projecttask_ActivityPointers,Project Task Activity Pointers
@@ -4120,7 +4124,7 @@ new_authorizedamount,New Authorized Amount
 new_authorizedamount_base,New Authorized Amount Base
 new_creditapplicationneeded,New Credit Application Needed
 new_dateestablished,New Date Established
-new_dbaname,New Dba Name
+new_dbaname,New DBA Name
 new_df_contactfieldsfull,New Df Contact Fields Full
 new_df_datelastsynced,New Df Date Last Synced
 new_df_leadscore,New Df Lead Score
@@ -5389,7 +5393,6 @@ workeridyominame,Worker ID Yomi Name
 workflowid,Workflow ID
 workflowidunique,Workflow ID Unique
 workflowsuspended,Workflow Suspended
-xaml,Xaml
 yammeremailaddress,Yammer Email Address
 yammergroupid,Yammer Group ID
 yammernetworkpermalink,Yammer Network Permalink
@@ -5405,3 +5408,4 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
+xaml,XAML
