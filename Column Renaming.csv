@@ -3292,7 +3292,7 @@ jt_sprintid,Sprint ID
 jt_sprintid_entitytype,Sprint ID Entity Type
 jt_sprintidname,Sprint ID Name
 jt_sprintname,Sprint Name
-jt_sprintstatus,Sprint Status
+jt_sprintstatus,Sprint Status Code
 jt_sptteam,Sharepoint Team
 jt_srall,Sr All
 jt_srall_base,Sr All Base
@@ -5413,3 +5413,4 @@ jt_changedfield,Changed Field
 jt_currentvalue,Current Value
 jt_previousvalue,Previous Value
 jt_projecttaskid,Project Task ID
+jt_sprintstatus_display,Sprint Status 
