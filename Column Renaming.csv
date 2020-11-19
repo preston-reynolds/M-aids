@@ -3792,7 +3792,8 @@ msdyn_effortestimateatcomplete,Effort Estimate At Complete
 msdyn_effortestimateatcompleteeac,Effort Estimate At Complete Eac
 msdyn_enddatetime,End Date Time
 msdyn_endlocation,End Location
-msdyn_entrystatus,Entry Status
+msdyn_entrystatus,Entry Status Code
+msdyn_entrystatus_display,Entry Status
 msdyn_estimatedarrivaltime,Estimated Arrival Time
 msdyn_estimatedbudget,Estimated Budget Code
 msdyn_estimatedbudget_display,Estimated Budget
@@ -4012,7 +4013,8 @@ msdyn_totalplannedcost_base,Total Planned Cost Base
 msdyn_transactioncategory,Transaction Category
 msdyn_transactionclassification,Trans Action Classification
 msdyn_transactiontypecode,Trans Action Type Code
-msdyn_type,Type
+msdyn_type,Type Code
+msdyn_type_display,Type
 msdyn_unit,Unit
 msdyn_unit_entitytype,Unit Entity Type
 msdyn_unitname,Unit Name
