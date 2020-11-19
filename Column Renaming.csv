@@ -5418,6 +5418,6 @@ jt_changedfield,Changed Field
 jt_currentvalue,Current Value
 jt_previousvalue,Previous Value
 jt_projecttaskid,Project Task ID
-jt_sprintstatus_display,Sprint Status 
+jt_sprintstatus_display,Sprint Status
 jt_surveyeligible,Is Survey Eligible
 msdyn_transactioncategoryid,Transaction Category ID
