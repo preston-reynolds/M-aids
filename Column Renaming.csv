@@ -2198,7 +2198,9 @@ jt_censusmdvl,Census Mdvl
 jt_censusstarted,Census Started
 jt_censusvlltdstd,Census Vl Ltd Std
 jt_censusvlltdstdbroker,Census Vl Ltd Std Broker
-jt_changestatus,Change Status
+jt_changedfield,Changed Field
+jt_changestatus,Change Status Code
+jt_changestatus_display,Change Status
 jt_changeuserstory,Change User Story
 jt_chargeback,Charge Back
 jt_chargebackexception,Charge Back Exception
@@ -2322,6 +2324,7 @@ jt_currentinvoiceamount,Current Invoice Amount
 jt_currentinvoiceamount_base,Current Invoice Amount Base
 jt_currentrenewalornew,Current Renewal Or New
 jt_currentrenewalrates,Current Renewal Rates
+jt_currentvalue,Current Value
 jt_custclassid,Cust Class ID
 jt_customerclass,Customer Class
 jt_customerclassid,Customer Class ID
@@ -2552,7 +2555,8 @@ jt_htmlorderproductstable,Html Order Products Table
 jt_icd10dx,Icd10Dx
 jt_icupatientsseenbyhospitalist,Icu Patients Seen By Hospitalist
 jt_id,Id
-jt_impact,Impact
+jt_impact,Impact Code
+jt_impact_display,Impact
 jt_implementationmanager,Implementation Manager
 jt_implementationmanagerglobal,Implementation Manager Global
 jt_includeambusinesscardspostcardsandpamphle,Include Am Business Cards Postcards and Pamphlets
@@ -2594,7 +2598,8 @@ jt_isinternal,Is Internal
 jt_ismodule,Is Module
 jt_isprojectleveljob,Is Project Level Job
 jt_issubscription,Is Subscription
-jt_issuetype,Issue Type
+jt_issuetype,Issue Type Code
+jt_issuetype_display,Issue Type
 jt_itemclassid,Item Class ID
 jt_itemclassname,Item Class Name
 jt_itemtype,Item Type
@@ -2888,6 +2893,7 @@ jt_prerenewalstarted,Pre-Renewal Started
 jt_prerenewalstarttime,Pre-Renewal Start Time
 jt_presalesresource,Pre-Sale Resource
 jt_presentationdate,Presentation Date
+jt_previousvalue,Previous Value
 jt_pricefromquote,Price From Quote
 jt_priceperunit,Price Per Unit
 jt_priceperunit_base,Price Per Unit Base
@@ -2948,6 +2954,7 @@ jt_projectjobtemplateid,Project Job Template ID
 jt_projectstatus,Project Status
 jt_projecttask_acceptancecriterion,Project Task Acceptance Criterion
 jt_ProjectTask_NewTaskParent,Project Task New Task Parent
+jt_projecttaskid,Project Task ID
 jt_projecttasktype,Project Task Type ID
 jt_projecttemplateid,Project Template ID
 jt_projecttemplateid_entitytype,Project Template ID Entity Type
@@ -3147,7 +3154,8 @@ jt_reviewratecontribguidevideoformbroker,Review Rate Contrib Guide Video Form Br
 jt_reviewratescontributionsguidesvideoform,Review Rates Contributions Guides Video Form
 jt_reviewrenewalbooklet,Review Renewal Booklet
 jt_revrectotal_state,Rev Rec Total State
-jt_riskcategory,Risk Category
+jt_riskcategory,Risk Category Code
+jt_riskcategory_display,Risk Category
 jt_riskevaluationforms,Risk Evaluation Forms
 jt_riskevaluationformsbroker,Risk Evaluation Forms Broker
 jt_ros,Ros
@@ -3302,7 +3310,8 @@ jt_statenameid,State Name ID
 jt_statenameid_entitytype,State Name ID Entity Type
 jt_statenameidname,State Name ID Name
 jt_statestateidregisteredincomplete,State ID Registered In Complete
-jt_status,Status
+jt_status,Status Code
+jt_status_display,Status
 jt_statuscomment,Status Comment
 jt_statusreason,Status Reason
 jt_statusreportdate,Status Report Date
@@ -3405,7 +3414,8 @@ jt_tv,Tv
 jt_tv_base,Tv Base
 jt_tvtotal,Tv Total
 jt_tvtotal_base,Tv Total Base
-jt_type,Type
+jt_type,Type Code
+jt_type_display,Type
 jt_typeoflocation,Type Of Location
 jt_unknown,Unknown
 jt_unknown_base,Unknown Base
@@ -3727,6 +3737,7 @@ msdyn_billingstatus,Billing Status
 msdyn_billingtype,Billing Type
 msdyn_bookableresource,Bookable Resource
 msdyn_bookableresource_entitytype,Bookable Resource Entity Type
+msdyn_bookableresourceid,Bookable Resource ID
 msdyn_bookableresourcename,Bookable Resource Name
 msdyn_bookingmethod,Booking Method
 msdyn_bulkgenerationstatus,Bulk Generation Status Code
@@ -3969,6 +3980,7 @@ msdyn_statusupdatedon,Status Updated On Date
 msdyn_subject,Subject
 msdyn_targetentrystatus,Target Entry Status
 msdyn_targetutilization,Target Utilization
+msdyn_taskid,Task ID
 msdyn_teamsize,Team Size
 msdyn_teamsize_date,Team Size Date
 msdyn_teamsize_state,Team Size State
@@ -5388,9 +5400,3 @@ yomifullname,Yomi Full Name
 yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
-jt_changedfield,Changed Field
-jt_currentvalue,Current Value
-jt_previousvalue,Previous Value
-jt_projecttaskid,Project Task ID
-msdyn_taskid,Task ID
-msdyn_bookableresourceid,Bookable Resource ID
