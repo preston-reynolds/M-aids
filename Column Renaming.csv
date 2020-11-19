@@ -5409,3 +5409,7 @@ yomilastname,Yomi Last Name
 yomimiddlename,Yomi Middle Name
 yominame,Yomi Name
 xaml,XAML
+jt_changedfield,Changed Field
+jt_currentvalue,Current Value
+jt_previousvalue,Previous Value
+jt_projecttaskid,Project Task ID
