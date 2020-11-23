@@ -2878,8 +2878,8 @@ jt_porequired,Po Required
 jt_position,Position
 jt_postofficeboxexception,Post Office Box Exception
 jt_postsplint,Post Splint
-jt_practice,Practice
-jt_practice_display,Practice Name
+jt_practice,Practice Code
+jt_practice_display,Practice
 jt_practicearea,Practice Area
 jt_practiceareadimensioncode,Practice Area Dimension Code
 jt_preferredagent,Prefer Red Agent
