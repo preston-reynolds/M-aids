@@ -5435,12 +5435,8 @@ hmg_lastprayer,	Last Prayer
 hmg_lastprayerrequest,	Last Prayer Request
 hmg_lastvolunteered,	last Volunteered
 hmg_lettersalutation,	Letter Salutation
-hmg_lifetimedonations,	Lifetime Donations
-hmg_lifetimedonations_base,	Lifetime Donations Base
-hmg_lifetimedonations_rollup,	Lifetime Donations Rollup
-hmg_lifetimedonations_rollup_base,	Lifetime Donations Rollup Base
-hmg_lifetimedonations_rollup_date,	Lifetime Donations Rollup Date
-hmg_lifetimedonations_rollup_state,	Lifetime Donations Rollup State
+hmg_lifetimedonations,	Lifetime Gifts
+hmg_lifetimedonations_base,	Lifetime Gifts Base
 hmg_notes,	Notes
 hmg_organizationtype_display,	Organization Type
 hmg_phone,	Phone
