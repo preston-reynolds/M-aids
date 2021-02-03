@@ -5402,3 +5402,60 @@ jt_whatdidntgowell,What didn't go well
 jt_whatwentwell,What went well
 jt_surveyresponsecontact,Survey Response Contact
 jt_responsecontact,Response Contact
+hmg_abuse,	Abuse
+hmg_acceptedchrist,	Accepted Christ
+hmg_allegianceaccountid,	Allegiance Account ID
+hmg_contact,	Contact
+hmg_createnewdonation,	Create New Donation
+hmg_denomination_display,	Denomination
+hmg_donation_largest_amt,	Donation Largest Amount
+hmg_donation_largest_date,	Donation Largest Date
+hmg_donation_most_recent_amt,	Donation Most Recent Amount
+hmg_donation_most_recent_amt_base,	Donation Most Recent Amount Base
+hmg_donation_most_recent_date,	Donation Most Recent Date
+hmg_donationsthisyear_rollup,	Donations This Year Rollup
+hmg_donationsthisyear_total,	Donations This Year Total
+hmg_donor_id,	Donor ID
+hmg_donorclass_display,	Donor Class
+hmg_donorsince,	Donor Since
+hmg_email,	Email
+hmg_emotionalstate_display,	Emotional State
+hmg_employername,	Employer Name
+hmg_envelopesalutation,	Envelope Salutation
+hmg_firstname,	First Name
+hmg_followupon,	Follow Up
+hmg_followupwithcontent,	Follow Up With Content
+hmg_futurefollowup_display,	Future Follow Up
+hmg_givinglastyear,	Giving Last Year
+hmg_givingthisyear,	Giving This Year
+hmg_isccp,	ISCCP
+hmg_isprayeranswered_display,	Is Prayer Answered
+hmg_lastname,	Last Name
+hmg_lastprayer,	Last Prayer
+hmg_lastprayerrequest,	Last Prayer Request
+hmg_lastvolunteered,	last Volunteered
+hmg_lettersalutation,	Letter Salutation
+hmg_lifetimedonations,	Lifetime Donations
+hmg_lifetimedonations_base,	Lifetime Donations Base
+hmg_lifetimedonations_rollup,	Lifetime Donations Rollup
+hmg_lifetimedonations_rollup_base,	Lifetime Donations Rollup Base
+hmg_lifetimedonations_rollup_date,	Lifetime Donations Rollup Date
+hmg_lifetimedonations_rollup_state,	Lifetime Donations Rollup State
+hmg_notes,	Notes
+hmg_organizationtype_display,	Organization Type
+hmg_phone,	Phone
+hmg_prayerid,	Prayer ID
+hmg_prayertopic,	Prayer Topic
+hmg_prayertopiccategory,	Prayer Topic Category
+hmg_priority_display,	Priority
+hmg_requestcounseling,	Request Counseling
+hmg_requestpastoralcare,	Request Pastoral Care
+hmg_requestsalvationpacket,	Request Salvation Packet
+hmg_salvationdecision_display,	Salvation Decision
+hmg_source_display,	Source
+hmg_subscribetoweeklydevotional,	Subscribe to Weekly Devotional
+hmg_ticketingaccountid,	Ticketing Account ID
+hmg_topic,	Topic
+hmg_updateexistingdonation,	Update Existing Donation
+hmg_verifyphysicalmailingaddress_display,	Verify Physical Mailing Address
+
