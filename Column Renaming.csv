@@ -5470,4 +5470,6 @@ hmg_ticketingaccountid,Ticketing Account ID
 hmg_topic,Topic
 hmg_updateexistingdonation,Update Existing Donation
 hmg_verifyphysicalmailingaddress_display,Verify Physical Mailing Address
-hmg_householdid,Household ID
+hmg_organization,Organization ID
+hmg_household,Household ID
+hmg_prayertopic_display,Prayer Topic Display
