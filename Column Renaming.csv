@@ -5500,3 +5500,10 @@ msnfp_amount,Amount
 msnfp_originatingsourcecode,Originating Source
 msnfp_transaction_receiptonaccountid,Transaction Receipt On Account ID
 msnfp_transactionid,Transaction ID
+hmg_all_amt_paid_to_date,Amount Paid To Date
+msnfp_nextpaymentdate,Next Payment Date
+hmg_ce_invoiced,Invoice ID
+hmg_pledgeid,Pledge ID
+hmg_lastconnected,Last Connected
+hmg_lifetimedonations_date,Lifetime Donations Date
+hmg_p2gcombo,P2G
