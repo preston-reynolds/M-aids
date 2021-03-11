@@ -5473,3 +5473,30 @@ hmg_verifyphysicalmailingaddress_display,Verify Physical Mailing Address
 hmg_organization,Organization ID
 hmg_household,Household ID
 hmg_prayertopic_display,Prayer Topic Display
+hmg_dayssincelastdonation,Days Since Last Donation
+hmg_lifetimedonations_rollup_date,Lifetime Donations Rollup Date
+msnfp_accounttype_display,Account Type
+msnfp_acquisitiondate,Acquision Date
+msnfp_donorcommitmentid,Donor Commitment ID
+hmg_ce_paymentmethod,Payment Method
+hmg_ce_startdate,Start Date
+hmg_contact_id,Contact ID
+hmg_paymentfrequency_display,Payment Frequency
+msnfp_commitmentdate,Commitment Date
+msnfp_commitmenttype_display,Commitment Type
+msnfp_expectedbydate,Expected By Date
+msnfp_name,Name
+msnfp_nextpaymentamount,Next Payment Amount
+msnfp_opportunityid,Opportunity ID
+msnfp_pledgedbyaccountid,Pledged By Account ID
+msnfp_pledgedbycontactid,Pledged By Contact ID
+msnfp_receiveddate,Received Date
+msnfp_totalamount,Total Amount
+hmg_all_payment_frequency_display,Payment Frequency
+hmg_ce_pledge,Pledge
+hmg_ce_settledamount,Settled Amount
+hmg_ce_taxdeductibleamount,Tax Deductible Amount
+msnfp_amount,Amount
+msnfp_originatingsourcecode,Originating Source
+msnfp_transaction_receiptonaccountid,Transaction Receipt On Account ID
+msnfp_transactionid,Transaction ID
