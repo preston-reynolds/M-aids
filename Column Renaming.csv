@@ -5507,3 +5507,14 @@ hmg_pledgeid,Pledge ID
 hmg_lastconnected,Last Connected
 hmg_lifetimedonations_date,Lifetime Donations Date
 hmg_p2gcombo,P2G
+hmg_ce_designation,Designation ID
+hmg_given_on_behalf_of,Given On Beahlf Of ID
+hmg_initiative,Initiative ID
+msnfp_commitment_defaultdesignationid,Designation ID
+msnfp_designationid,Designation ID
+msnfp_description,Description
+hmg_initiativeid,Initiative ID
+hmg_ce_campaign_name,Campaign Name
+hmg_phase_display,Phase
+hmg_revenue_category_display,Revenue Category
+hmg_name,Initiative
