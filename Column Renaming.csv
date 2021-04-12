@@ -5525,3 +5525,11 @@ hmg_ce_media_channel,CE Media Channel
 hmg_charityengineid,Charity Engine
 hmg_fund,Fund
 hmg_gl_code,GL Code
+hmg_contactid,Contact ID
+hmg_godstorycategory,God Story Category
+hmg_godstorycategory_display,God Story Category Display
+hmg_godstoryid,God Story ID
+hgm_godstorytitle,God Story Title
+hmg_storyofhopecategory,Story of Hope Category
+hmg_storyofhopecategory_display,Story of Hope Category Display
+hmg_yourgodstory,Your God Story
