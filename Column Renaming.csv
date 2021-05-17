@@ -5518,3 +5518,116 @@ hmg_ce_campaign_name,Campaign Name
 hmg_phase_display,Phase
 hmg_revenue_category_display,Revenue Category
 hmg_name,Initiative
+wrkordr_id,Work Order ID
+wrkordr_nme,Work Order Name
+wrkordr_dte_opnd,Date Opened
+wrkordr_dte_clsd,Date Closed
+wrkordr_pstd,Work Order Posted
+wrkordr_dte_schdld,Date Scheduled
+wrkordr_type,Work Order Type
+wrkordr_invce,Work Order Invoice
+wrkordr_stts,Status
+dsptchr_id,Short Name
+wrkordrlgtype_id,Work Order Log Type
+wrkordrlgtype_rn,Work Order Log Type ID
+wrkordr_rn,Work Order ID
+wrkordrlg_rn,Work Order Log ID
+wrkordrlg_dte_lggd,Date Logged
+wrkordrlg_tme_lggd,Time Logged
+wrkordrlg_dte_wrk,Date Work
+usr_rn,User ID
+wrkordrlg_ln,Work Order LN
+tchncn_rn,Technician ID
+clnt_id,Client Name Short
+clnt_nme,Name
+clnt_cntct1_cntct_eml,Email
+clnt_addrss_ml_addrss_str,Street
+clnt_addrss_ml_addrss_cty,City
+clnt_addrss_ml_addrss_stte,State
+clnt_addrss_ml_addrss_zp,Zip Code
+clnt_rn,Client ID
+acctmngr_rn,Account Manager ID
+clnt_dte_opnd,Date Opened
+mrktsrce_rn,Marketing Source ID
+clnt_stts,Status
+scrty_rn,Security ID
+slsrp_rn,Sales Rep ID
+clnt_addrss_ml_addrss_str,Street
+clnt_addrss_ml_addrss_cty,City
+clnt_addrss_ml_addrss_stte,State
+clnt_addrss_ml_addrss_zp,Zip Code
+clnt_dte_opnd,Date Opened
+geo_code_latitude,Latitude
+geo_code_longtitude,Longtitude
+rfrnce_mssge_rn,Reference Message ID
+wrkordrlg_dte_wrk,Work Date
+aptrms_rn,Accounts Payable Terms ID
+aptrms_id,Short Name
+aptrms_nme,Name
+aptrms_de_dys_type,Type
+vndrtype_rn,Vendor Type ID
+vndrtype_id,Name
+vndrtype_dscrptn,Description
+vndr_id,Short Name
+vndr_nme,Name
+vndr_addrss_ml_addrss_strt,Street
+vndr_addrss_ml_addrss_cty,City
+vndr_addrss_ml_addrss_stte,State
+vndr_addrss_ml_addrss_zp,Zip Code
+vndr_dte_opnd,Date Opened
+vndr_dte_clsd,Date Closed
+vndr_rn,Vendor ID
+vndr_stts,Status
+brnch_rn,Branch ID
+prchseordr_rn,Purchase Order ID
+prchseordr_id,Short Name
+prchseordr_dscrptn,Description
+prchseordr_dte_rlsd,Date Released
+prchseordr_dte_rqstd,Date Requested
+prchseordr_ordrrd_by,Order By
+prchseordr_stts,Status
+jb_rn,Job ID
+po_wrkordr_rn,Work Order ID
+prchseordr_type,Purchase Type
+tchncn_id,Short Name
+tchncn_nme,Name
+tchncn_rte,Rate
+emplye_rn,Employee ID
+asst_rn,Assistant ID
+tchncn_usr1,User 1
+tchncn_user2,User 2
+tchncn_tme_strt,Time Start
+tchncn_tme_qt,Time Quit
+tchncn_spcl_sklls,Special Skills
+tchncn_stts,Status
+dsptchr_rn,Dispatcher ID
+dsptchr_nme,Name
+dsptchr_usr1,User 1
+dsptchr_usr2,User 2
+dsptchr_eml,Email
+cntct_rn,Contact ID
+scrty_id,Short Name
+scrty_dscrptn,Description
+brnch_id,Short Name
+brnch_nme,Name
+brnch_dte_opnd,Date Opened
+brnch_dte_clsd,Date Closed
+slsrp_id,Short Name
+slsrp_nme,Name
+slsrp_trrtry,Territory
+slsrp_eml,Email
+srvceaccntmngr_rn,Service Account Manager ID
+srvceaccntmngr_id,Short Name
+srvceaccntmngr_nme,Name
+srvceaccntmngr_usr1,User 1
+srvceaccntmngr_usr2,User 2
+srvceaccntmngr_eml,Email
+acctmngr_id,Short Name
+acctmngr_user1,User 1
+acctmngr_user2,User 2
+acctmngr_eml,Email
+jbbllngitm_rn,Job Billing Item ID
+jbbllngitm_dscrptn,Description
+jbbllngitm_invce_dscrptn,Invoice Description
+jbbllngitm_usr1,User 1
+jbbllngtim_user2,User 2
