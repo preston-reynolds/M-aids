@@ -5733,3 +5733,12 @@ jbcstcde_dte_cmpltd,Date Completed
 accntmngr_rn,Account Manager ID
 accntmngr_nme,Name
 invcemstr_id,Short Name
+jchstry_lbr_cst,Labor Cost
+jchstry_lbr_rvne,Labor Revenue
+jchstry_mtrl_cst,Material Cost
+jchstry_mtrl_rvne,Material Revenue
+jchstry_othr_cst,Other Cost
+jchstry_othr_rvne,Other Revenue
+jchstry_sbcntrct_cst,Subcontract Cost
+jchstry_sbcntrct_rvne,Subcontract Revenue
+invcemstr_amnt_invce,Invoice Amount
