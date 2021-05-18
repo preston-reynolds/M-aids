@@ -5552,7 +5552,7 @@ mrktsrce_rn,Marketing Source ID
 clnt_stts,Status
 scrty_rn,Security ID
 slsrp_rn,Sales Rep ID
-clnt_addrss_ml_addrss_str,Street
+clnt_addrss_ml_addrss_strt,Street
 clnt_addrss_ml_addrss_cty,City
 clnt_addrss_ml_addrss_stte,State
 clnt_addrss_ml_addrss_zp,Zip Code
