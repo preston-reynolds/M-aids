@@ -5539,7 +5539,7 @@ usr_rn,User ID
 wrkordrlg_ln,Work Order LN
 tchncn_rn,Technician ID
 clnt_id,Client Name Short
-clnt_nme,Name
+clnt_nme,Client
 clnt_cntct1_cntct_eml,Email
 clnt_addrss_ml_addrss_strt,Street
 clnt_addrss_ml_addrss_cty,City
@@ -5563,13 +5563,13 @@ rfrnce_mssge_rn,Reference Message ID
 wrkordrlg_dte_wrk,Work Date
 aptrms_rn,Accounts Payable Terms ID
 aptrms_id,Short Name
-aptrms_nme,Name
+aptrms_nme,Account Payable Terms
 aptrms_de_dys_type,Type
 vndrtype_rn,Vendor Type ID
-vndrtype_id,Name
+vndrtype_id,Vendor Type
 vndrtype_dscrptn,Description
 vndr_id,Short Name
-vndr_nme,Name
+vndr_nme,Vendor
 vndr_addrss_ml_addrss_strt,Street
 vndr_addrss_ml_addrss_cty,City
 vndr_addrss_ml_addrss_stte,State
@@ -5590,7 +5590,7 @@ jb_rn,Job ID
 po_wrkordr_rn,Work Order ID
 prchseordr_type,Purchase Type
 tchncn_id,Short Name
-tchncn_nme,Name
+tchncn_nme,Technician
 tchncn_rte,Rate
 emplye_rn,Employee ID
 asst_rn,Assistant ID
@@ -5601,7 +5601,7 @@ tchncn_tme_qt,Time Quit
 tchncn_spcl_sklls,Special Skills
 tchncn_stts,Status
 dsptchr_rn,Dispatcher ID
-dsptchr_nme,Name
+dsptchr_nme,Dispatcher
 dsptchr_usr1,User 1
 dsptchr_usr2,User 2
 dsptchr_eml,Email
@@ -5609,7 +5609,7 @@ cntct_rn,Contact ID
 scrty_id,Short Name
 scrty_dscrptn,Description
 brnch_id,Short Name
-brnch_nme,Name
+brnch_nme,Branch
 brnch_dte_opnd,Date Opened
 brnch_dte_clsd,Date Closed
 slsrp_id,Short Name
@@ -5618,7 +5618,7 @@ slsrp_trrtry,Territory
 slsrp_eml,Email
 srvceaccntmngr_rn,Service Account Manager ID
 srvceaccntmngr_id,Short Name
-srvceaccntmngr_nme,Name
+srvceaccntmngr_nme,Service Account Manager
 srvceaccntmngr_usr1,User 1
 srvceaccntmngr_usr2,User 2
 srvceaccntmngr_eml,Email
@@ -5655,7 +5655,7 @@ jchstry_amnt_invce,Job History Amount
 jchstry_dscrptn,Description
 jchstry_dte_effctve,Effective Date
 jchstry_rfrnce_id,Job Hisory Reference ID
-jchstry_rfrnce_nme,Name
+jchstry_rfrnce_nme,Job History
 jchstry_rfrnce_rn,Reference ID
 jchstry_rfrnce_type,Reference Type
 jchstry_srce_jrnl,Source Journal
@@ -5706,7 +5706,7 @@ jbbllngitm_usr2,User 2
 wrkcde_id,Short Name
 wrkcde_hrs_estmtd,Estimated Hours
 wrkcde_prrty,Priority
-wrkcde_nme,Name
+wrkcde_nme,Work Code
 wrkcde_dscrptn_bll,Description
 wrkcde_wb_accss_allwd,Access Allowed
 srvcectgry_rn,Service Category ID
@@ -5718,20 +5718,20 @@ jb_usr2,User 2
 jb_id,Short Name
 jbtype_rn,Job Type ID
 jb_tx_stts,Status
-clntste_nme,Name
+clntste_nme,Client Suite
 clntste_dte_opnd,Date Opened
 clntste_dte_clsd,Date Closed
 clntste_stts,Status
 tchncn_wb_accss,Access
 geo_code_longitude,Longtitude
 jbcstcde_id,Short Name
-jbcstcde_nme,Name
+jbcstcde_nme,Job Code Name
 jbcstcde_dte_mst_strt,Date Must Start
 jbcstcde_dte_mst_cmplte,Date Must Complete
 jbcstcde_dte_strtd,Date Started
 jbcstcde_dte_cmpltd,Date Completed
 accntmngr_rn,Account Manager ID
-accntmngr_nme,Name
+accntmngr_nme,Account Manager
 invcemstr_id,Short Name
 jchstry_lbr_cst,Labor Cost
 jchstry_lbr_rvne,Labor Revenue
@@ -5742,3 +5742,4 @@ jchstry_othr_rvne,Other Revenue
 jchstry_sbcntrct_cst,Subcontract Cost
 jchstry_sbcntrct_rvne,Subcontract Revenue
 invcemstr_amnt_invce,Invoice Amount
+wrkordr_dte_wrk_cmpltd,Date Completed
