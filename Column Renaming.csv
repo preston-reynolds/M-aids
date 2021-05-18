@@ -5541,7 +5541,7 @@ tchncn_rn,Technician ID
 clnt_id,Client Name Short
 clnt_nme,Name
 clnt_cntct1_cntct_eml,Email
-clnt_addrss_ml_addrss_str,Street
+clnt_addrss_ml_addrss_strt,Street
 clnt_addrss_ml_addrss_cty,City
 clnt_addrss_ml_addrss_stte,State
 clnt_addrss_ml_addrss_zp,Zip Code
@@ -5584,7 +5584,7 @@ prchseordr_id,Short Name
 prchseordr_dscrptn,Description
 prchseordr_dte_rlsd,Date Released
 prchseordr_dte_rqstd,Date Requested
-prchseordr_ordrrd_by,Order By
+prchseordr_ordrd_by,Order By
 prchseordr_stts,Status
 jb_rn,Job ID
 po_wrkordr_rn,Work Order ID
@@ -5595,7 +5595,7 @@ tchncn_rte,Rate
 emplye_rn,Employee ID
 asst_rn,Assistant ID
 tchncn_usr1,User 1
-tchncn_user2,User 2
+tchncn_usr2,User 2
 tchncn_tme_strt,Time Start
 tchncn_tme_qt,Time Quit
 tchncn_spcl_sklls,Special Skills
@@ -5622,12 +5622,115 @@ srvceaccntmngr_nme,Name
 srvceaccntmngr_usr1,User 1
 srvceaccntmngr_usr2,User 2
 srvceaccntmngr_eml,Email
-acctmngr_id,Short Name
-acctmngr_user1,User 1
-acctmngr_user2,User 2
-acctmngr_eml,Email
+accntmngr_id,Short Name
+accntmngr_user1,User 1
+accntmngr_user2,User 2
+accntmngr_eml,Email
 jbbllngitm_rn,Job Billing Item ID
 jbbllngitm_dscrptn,Description
 jbbllngitm_invce_dscrptn,Invoice Description
 jbbllngitm_usr1,User 1
-jbbllngtim_user2,User 2
+jbbllngitm_user2,User 2
+tchncn_wb_accss,Access 
+prchseordr_dte_prmsd,Date Promised
+clnt_addrss_ml_addrss_strt,Street
+clnt_addrss_ml_addrss_strt_2,Street 2
+clnt_addrss_ml_addrss_cty,City
+clnt_addrss_ml_addrss_stte,State
+clnt_addrss_ml_addrss_zp,Zip Code
+wrkordr_tme_schdld,Scheduled Time
+wrkordr_dte_erlst_strt,Earliest Start Date
+wrkordr_tme_erlst_strt,Earliest Start Time
+wrkordr_dte_mst_cmplte,Date Completed
+wrkordr_tme_mst_cmplte,Time Completed
+clntste_rn,Client Suite ID
+jbcstcde_rn,Job Code ID
+wrkordr_tme_opnd,Time Opened
+wrkcde_rn,Work Code ID
+wrkordr_rdy_to_invce,Work Order Ready to Invoice
+wrkordr_orgnl_wo_id,Original Work Order ID
+wrkordr_usr1,User 1
+wrkordr_usr2,User 2
+wo_accntmngr_accntmngr_rn,Account Manager ID
+wo_slsrp_slsrp_rn,Work Order Sales Rep ID
+jchstry_rn,Job History ID
+jchstry_rfrnce_ar_invce_id,Job History Invoice ID
+jchstry_amnt_invce,Job History Amount
+jchstry_dscrptn,Description
+jchstry_dte_effctve,Effective Date
+jchstry_rfrnce_id,Job Hisory Reference ID
+jchstry_rfrnce_nme,Name
+jchstry_rfrnce_rn,Reference ID
+jchstry_rfrnce_type,Reference Type
+jchstry_srce_jrnl,Source Journal
+jchstry_type,Type
+jchstry_unt_cst,Unit Cost
+jchstry_unt_prce,Unit Price
+jchstry_bdgt_qntty,Budget Quantity
+jchstry_qntty,Quantity
+jchstry_qntty_cmmttd,Quantity Committed
+jchstry_qntty_invcd,Quantity Invoiced
+jchstry_qntty_dfrrd,Quantity Deferred
+jchstry_qntty_wrttn_off,Quantity Written Off
+jchstry_bdgt_hrs,Budget Hours
+jchstry_bdgt_hrs_chnge,Budget Hours Change
+jchstry_hrs,Hours
+jchstry_hrs_to_cmplte,Hours to Complete
+jchstry_hrs_invcd,Hours Invoiced
+jchstry_hrs_dfrrd,Hours Deferred
+jchstry_hrs_wrttn_off,Hours Written Off
+jchstry_hrs_type,Hours Type
+jchstry_lbr_bdgt_cst,Labor Budget Cost
+jchstry_lbr_bdgt_cst_chnge,Labor Budget Cost Change
+accntngprd_rn,Account GPRD ID
+invntryitm_rn,Inventory Item ID
+jchstry_wo_id,Job History Work ID
+arhstry_rn,Account Receivable History ID
+glaccnt_rn,GL Account ID
+arhstry_dte_effctve,Effective Date
+arhstry_srce_jrnl,Source Journal
+arhstry_srce_trnsctn_id,Transaction ID
+arhstry_entry_type,Entry Type
+arhstry_amnt_dbt,Amount Debit
+arhstry_amnt_crdt,Amount Credit
+arhstry_invce_id,Invoice ID
+arhstry_dscrptn,Description
+arhstry_pstd_dte,Date Posted
+arhstry_pstd_tme,Time Posted
+invcemstr_rn,Invoice Master ID
+invcemstr_dte_invce,Invoice Date
+invcemstr_dte_pymnt_due,Payment Due Date
+glentty_rn,GL Entity ID
+invcemstr_dscrptn,Description
+clntordr_rn,Client Order ID
+invcemstr_dte_effctve,Effective Date
+invcemstr_entry_type,Entry Type
+invcemstr_stts,Status
+jbbllngitm_usr2,User 2
+wrkcde_id,Short Name
+wrkcde_hrs_estmtd,Estimated Hours
+wrkcde_prrty,Priority
+wrkcde_nme,Name
+wrkcde_dscrptn_bll,Description
+wrkcde_wb_accss_allwd,Access Allowed
+srvcectgry_rn,Service Category ID
+jb_nme,Job Name
+jb_dte_opnd,Date Opened
+jb_dte_clsd,Date Closed
+jb_usr1,User 1
+jb_usr2,User 2
+jb_id,Short Name
+jbtype_rn,Job Type ID
+jb_tx_stts,Status
+clntste_nme,Name
+clntste_dte_opnd,Date Opened
+clntste_dte_clsd,Date Closed
+clntste_stts,Status
+tchncn_wb_accss,Access
+geo_code_longitude,Longtitude
+jbcstcde_id,Short Name
+jbcstcde_nme,Name
+jbcstcde_dte_mst_strt,Date Must Start
+jbcstcde_dte_mst_cmplte,Date Must Complete
+jbcstcde_dte_strtd,Date Started
+jbcstcde_dte_cmpltd,Date Completed
