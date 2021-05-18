@@ -5633,11 +5633,7 @@ jbbllngitm_usr1,User 1
 jbbllngitm_user2,User 2
 tchncn_wb_accss,Access 
 prchseordr_dte_prmsd,Date Promised
-clnt_addrss_ml_addrss_strt,Street
 clnt_addrss_ml_addrss_strt_2,Street 2
-clnt_addrss_ml_addrss_cty,City
-clnt_addrss_ml_addrss_stte,State
-clnt_addrss_ml_addrss_zp,Zip Code
 wrkordr_tme_schdld,Scheduled Time
 wrkordr_dte_erlst_strt,Earliest Start Date
 wrkordr_tme_erlst_strt,Earliest Start Time
@@ -5734,3 +5730,6 @@ jbcstcde_dte_mst_strt,Date Must Start
 jbcstcde_dte_mst_cmplte,Date Must Complete
 jbcstcde_dte_strtd,Date Started
 jbcstcde_dte_cmpltd,Date Completed
+accntmngr_rn,Account Manager ID
+accntmngr_nme,Name
+invcemstr_id,Short Name
