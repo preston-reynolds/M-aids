@@ -5639,7 +5639,7 @@ wrkordr_dte_erlst_strt,Earliest Start Date
 wrkordr_tme_erlst_strt,Earliest Start Time
 wrkordr_dte_mst_cmplte,Date Completed
 wrkordr_tme_mst_cmplte,Time Completed
-clntste_rn,Client Suite ID
+clntste_rn,Client Site ID
 jbcstcde_rn,Job Code ID
 wrkordr_tme_opnd,Time Opened
 wrkcde_rn,Work Code ID
@@ -5718,7 +5718,7 @@ jb_usr2,User 2
 jb_id,Short Name
 jbtype_rn,Job Type ID
 jb_tx_stts,Status
-clntste_nme,Client Suite
+clntste_nme,Client Site
 clntste_dte_opnd,Date Opened
 clntste_dte_clsd,Date Closed
 clntste_stts,Status
