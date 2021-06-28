@@ -5791,3 +5791,25 @@ mstrcntrct_mstrcntrct_rn,Master Contract ID
 clntsteeqpmntpm_cycle_cde_fltr,Cycle Code Filter
 eqpmnttype_id,Equipment Type Abbr
 eqpmnttype_nme,Equipment Type
+mstrclntsteeqpmntpm_cntrct_cst,Contract Cost
+mstrclntsteeqpmntpm_cntrct_vle,Contract Value
+mstrclntsteeqpmntpm_dte_schdld_inspctn,Date Inspection Scheduled
+mstrclntsteeqpmntpm_hrs_estmtd,Estimated Hours
+mstrclntsteeqpmntpm_rn,Master Equipment PM ID
+mstrclntsteeqpmntpm_rnw,PM Renew
+mstrclntsteeqpmntpm_blts,Belts
+mstrclntsteeqpmntpm_fltrs,Filters
+mstrclntsteeqpmntpm_othr,Other
+mstrclntsteeqpmntpm_pltd_fltrs,PLTD Filters
+mstrclntsteeqpmntpm_cycle_cde_fltr,Cycle Code Filter
+wrkordreqpmnt_hrs_estmtd,Estimated Hours
+wrkordreqpmnt_wrk_rqstd,Work Requested
+wrkordreqpmnt_wrk_prfrmd,Work Performed
+wrkordreqpmnt_rn,Work Order Equipment ID
+wrkordreqpmnt_dte_cmpltd,Date Completed
+wrkordreqpmnt_blts,Belts
+wrkordreqpmnt_fltrs,Filters
+wrkordreqpmnt_othr,Other
+wrkordreqpmnt_pltd_fltrs,PLTD Filters
+wrkordreqpmnt_cycle_cde_fltr,Cycle Code Filter
+tchany_tchncn_rn,Technician ID
