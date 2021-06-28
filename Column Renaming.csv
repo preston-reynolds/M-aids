@@ -5772,3 +5772,22 @@ qte_brnch_brnch_rn,Branch ID
 qte_jb_jb_rn,Job ID
 qte_accntmngr_accntmngr_rn,Account Manager ID
 qte_tx_stts,Tax Status
+clntsteeqpmntpm_wo,Client Site WO ID
+srvceprts_rn,Service Parts ID
+clntsteeqpmntpm_cntrct_cst,Contract Cost
+clntsteeqpmntpm_cntrct_vle,Contract Value
+clntsteeqpmntpm_dte_schdld_inspctn,Date Inspection Scheduled
+clntsteeqpmntpm_hrs_estmtd,Estimated Hours
+srvcetsks_rn,Service Tasks ID
+clntsteeqpmntpm_rn,Client Site Equipment PM ID
+jbcstctgry_rn,Job Category ID
+clntsteeqpmntpm_rnw,PM Renew
+clntsteeqpmntpm_blts,Belts
+clntsteeqpmntpm_fltrs,Filters
+clntsteeqpmntpm_othr,Other
+clntsteeqpmntpm_pltd_fltrs,PLTD Filters
+clntsteeqpmntpm_dscrptn_invce,Invoice Description
+mstrcntrct_mstrcntrct_rn,Master Contract ID
+clntsteeqpmntpm_cycle_cde_fltr,Cycle Code Filter
+eqpmnttype_id,Equipment Type Abbr
+eqpmnttype_nme,Equipment Type
