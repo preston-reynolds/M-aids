@@ -5813,3 +5813,34 @@ wrkordreqpmnt_othr,Other
 wrkordreqpmnt_pltd_fltrs,PLTD Filters
 wrkordreqpmnt_cycle_cde_fltr,Cycle Code Filter
 tchany_tchncn_rn,Technician ID
+qtescpe_rn,Quote Scope ID
+qteeqpmnt_rn,Quote Equipment ID
+qteeqpmnt_optn_cde,Option Code
+qtescpe_optn_cde,Option Code
+qtescpe_id,Quote Scope Abbr
+eqpmntmstr_rn,Equipment Master ID
+qtescpe_optn_cde,Option Code
+qtescpe_id,Quote Scope Abbr
+qtescpe_stts,Quote Scope Status
+qtescpe_qte_amnt,Quote Amount
+qtescpe_prce_fxd,Price Fixed
+qtescpe_qntty,Quote Scope Quantity
+qtescpe_scpe,Quote Scope
+qtescpe_mnfctrr,Manufacturer
+qtescpe_mnfctrr_mdl,Manufacturer Model
+qtescpe_accptd_by,Accepted By
+qtescpe_accptd_dte,Date Accepted
+qtescpe_accptd_tme,Time Accepted
+qtescpe_apprvd_by,Approved By
+qtescpe_apprvd_dte,Date Approved
+qtescpe_apprvd_tme,Time Approved
+qtescpe_prce_nt,Price
+qtescpe_opnd_by,Opened By
+qtescpe_opnd_dte,Date Opened
+qtescpe_opnd_tme,Time Opened
+qtescpe_dclnd_by,Declined By
+qtescpe_dclnd_dte,Date Declined
+qtescpe_dclnd_tme,Time Declined
+qtescpe_prjctd_clse_dte,Date Projected Close
+qtescpe_prcnt_prbble,Percent Probable
+qtescpe_mrgn_prcnt,Margin Percent
