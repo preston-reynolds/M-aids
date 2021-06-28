@@ -5816,10 +5816,8 @@ tchany_tchncn_rn,Technician ID
 qtescpe_rn,Quote Scope ID
 qteeqpmnt_rn,Quote Equipment ID
 qteeqpmnt_optn_cde,Option Code
-qtescpe_optn_cde,Option Code
 qtescpe_id,Quote Scope Abbr
 eqpmntmstr_rn,Equipment Master ID
-qtescpe_id,Quote Scope Abbr
 qtescpe_stts,Quote Scope Status
 qtescpe_qte_amnt,Quote Amount
 qtescpe_prce_fxd,Price Fixed
