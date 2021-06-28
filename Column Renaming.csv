@@ -5841,3 +5841,11 @@ qtescpe_dclnd_tme,Time Declined
 qtescpe_prjctd_clse_dte,Date Projected Close
 qtescpe_prcnt_prbble,Percent Probable
 qtescpe_mrgn_prcnt,Margin Percent
+qtescpe_optn_cde,Option Code
+qteinv_rn,Quote Invoice ID
+txtype_id,Type
+qteinv_optn_cde,Option Code
+qteinv_qntty,Quote Invoice Quantity
+qteinv_unt_cst,Unit Cost
+qteinv_unt_prce,Unit Price
+qteinv_dscrptn,Quote Invoice Description
