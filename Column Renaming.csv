@@ -5743,3 +5743,32 @@ jchstry_sbcntrct_cst,Subcontract Cost
 jchstry_sbcntrct_rvne,Subcontract Revenue
 invcemstr_amnt_invce,Invoice Amount
 wrkordr_dte_wrk_cmpltd,Date Completed
+clntsteeqpmnt_dte_instlld,Date Equipment Installed
+clntsteeqpmnt_dte_stts,Date Status
+clntsteeqpmnt_srl_nmbr,SRL Number
+clntsteeqpmnt_stts,Status
+clntsteeqpmnt_id,Client Site Equipment Abbr
+clntsteeqpmnt_nme,Client Site Equipment
+clntsteeqpmnt_rn,Client Site Equipment ID
+clntsteeqpmnt_prrty,Priority
+clntsteeqpmnt_yr_mnfctre,Year Manufactured
+clntsteeqpmnt_eqpmnt_sze,Equipment Size
+clntsteeqpmnt_mnfctrr,Manufacturer
+clntsteeqpmnt_mnfctrr_mdl,Manufacturer Model
+clntsteeqpmnt_eqpmnt_sze_unt_msre,Size Measure
+clntsteeqpmnt_dte_wrrnty_strt,Date Warranty Starts
+clntsteeqpmnt_dte_wrrnty_end,Date Warranty Ends
+eqpmnttype_rn,Equipment Type ID
+qte_rn,Quote ID
+qte_id,Quote Abbr
+qte_nte,Quote Name
+qte_dscrptn,Description
+qte_dte_opn,Date Opened
+qte_sbmttd_by,Submitted By
+qte_stts,Status
+qte_stts_ctgry,Status Category
+qte_dte_stts,Date Status
+qte_brnch_brnch_rn,Branch ID
+qte_jb_jb_rn,Job ID
+qte_accntmngr_accntmngr_rn,Account Manager ID
+qte_tx_stts,Tax Status
