@@ -5882,3 +5882,17 @@ invntryitm_dte_crtd,Date Created
 invntryitm_dte_chngd,Date Changed
 invntryitm_nme_extndd,Name Extended
 invntryitm_rtrnble,Returnable
+prchseordrlst_rn,Purchase Order List ID
+prchseordrlst_dscrptn,Purchase Order List Description
+prchseordrlst_vndr_prt_nmbr,Vendor Part Number
+prchseordrlst_unt_msre,Unit Measure
+prchseordrlst_qntty_ordrd,Quantity Ordered
+prchseordrlst_unt_cst,Unit Cost
+prchseordrlst_unt_cst_expndd,Unit Cost Expanded
+prchseordrlst_cst_extndd,Cost Extended
+prchseordrlst_stts,Status
+prchseordrlst_dte_rqstd,Date Requested
+prchseordrlst_dte_prmsd,Date Promised
+prchseordrlst_frght_cst,Freight Cost
+prchseordrlst_qntty_rcvd,Quantity Received
+prchseordrlst_cst_rcvd,Cost Received
