@@ -5896,3 +5896,11 @@ prchseordrlst_dte_prmsd,Date Promised
 prchseordrlst_frght_cst,Freight Cost
 prchseordrlst_qntty_rcvd,Quantity Received
 prchseordrlst_cst_rcvd,Cost Received
+invntryitmlctn_qntty_allctd,Allocated
+invntryitmlctn_qntty_bckordrd,Backordered
+invntryitmlctn_qntty_on_hnd,On Hand
+invntryitmlctn_qntty_rsrvd,Reserved
+invntryitmlctn_qntty_on_ordr,On Order
+invntryitmbyvndr_vndr_prt_nmbr,Vendor Part Number
+invntryitmbyvndr_vndr_prce,Vendor Price
+invntryitmbyvndr_chnge_dte,Change Date
