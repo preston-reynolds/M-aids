@@ -5473,3 +5473,434 @@ hmg_verifyphysicalmailingaddress_display,Verify Physical Mailing Address
 hmg_organization,Organization ID
 hmg_household,Household ID
 hmg_prayertopic_display,Prayer Topic Display
+hmg_dayssincelastdonation,Days Since Last Donation
+hmg_lifetimedonations_rollup_date,Lifetime Donations Rollup Date
+msnfp_accounttype_display,Account Type
+msnfp_acquisitiondate,Acquision Date
+msnfp_donorcommitmentid,Donor Commitment ID
+hmg_ce_paymentmethod,Payment Method
+hmg_ce_startdate,Start Date
+hmg_contact_id,Contact ID
+hmg_paymentfrequency_display,Payment Frequency
+msnfp_commitmentdate,Commitment Date
+msnfp_commitmenttype_display,Commitment Type
+msnfp_expectedbydate,Expected By Date
+msnfp_name,Name
+msnfp_nextpaymentamount,Next Payment Amount
+msnfp_opportunityid,Opportunity ID
+msnfp_pledgedbyaccountid,Pledged By Account ID
+msnfp_pledgedbycontactid,Pledged By Contact ID
+msnfp_receiveddate,Received Date
+msnfp_totalamount,Total Amount
+hmg_all_payment_frequency_display,Payment Frequency
+hmg_ce_pledge,Pledge
+hmg_ce_settledamount,Settled Amount
+hmg_ce_taxdeductibleamount,Tax Deductible Amount
+msnfp_amount,Amount
+msnfp_originatingsourcecode,Originating Source
+msnfp_transaction_receiptonaccountid,Transaction Receipt On Account ID
+msnfp_transactionid,Transaction ID
+hmg_all_amt_paid_to_date,Amount Paid To Date
+msnfp_nextpaymentdate,Next Payment Date
+hmg_ce_invoiced,Invoice ID
+hmg_pledgeid,Pledge ID
+hmg_lastconnected,Last Connected
+hmg_lifetimedonations_date,Lifetime Donations Date
+hmg_p2gcombo,P2G
+hmg_ce_designation,Designation ID
+hmg_given_on_behalf_of,Given On Beahlf Of ID
+hmg_initiative,Initiative ID
+msnfp_commitment_defaultdesignationid,Designation ID
+msnfp_designationid,Designation ID
+msnfp_description,Description
+hmg_initiativeid,Initiative ID
+hmg_ce_campaign_name,Campaign Name
+hmg_phase_display,Phase
+hmg_revenue_category_display,Revenue Category
+hmg_name,Initiative
+wrkordr_id,Work Order ID
+wrkordr_nme,Work Order Name
+wrkordr_dte_opnd,Date Opened
+wrkordr_dte_clsd,Date Closed
+wrkordr_pstd,Work Order Posted
+wrkordr_dte_schdld,Date Scheduled
+wrkordr_type,Work Order Type
+wrkordr_invce,Work Order Invoice
+wrkordr_stts,Status
+dsptchr_id,Short Name
+wrkordrlgtype_id,Work Order Log Type
+wrkordrlgtype_rn,Work Order Log Type ID
+wrkordr_rn,Work Order ID
+wrkordrlg_rn,Work Order Log ID
+wrkordrlg_dte_lggd,Date Logged
+wrkordrlg_tme_lggd,Time Logged
+wrkordrlg_dte_wrk,Date Work
+usr_rn,User ID
+wrkordrlg_ln,Work Order LN
+tchncn_rn,Technician ID
+clnt_id,Client Name Short
+clnt_nme,Client
+clnt_cntct1_cntct_eml,Email
+clnt_addrss_ml_addrss_strt,Street
+clnt_addrss_ml_addrss_cty,City
+clnt_addrss_ml_addrss_stte,State
+clnt_addrss_ml_addrss_zp,Zip Code
+clnt_rn,Client ID
+acctmngr_rn,Account Manager ID
+clnt_dte_opnd,Date Opened
+mrktsrce_rn,Marketing Source ID
+clnt_stts,Status
+scrty_rn,Security ID
+slsrp_rn,Sales Rep ID
+clnt_addrss_ml_addrss_strt,Street
+clnt_addrss_ml_addrss_cty,City
+clnt_addrss_ml_addrss_stte,State
+clnt_addrss_ml_addrss_zp,Zip Code
+clnt_dte_opnd,Date Opened
+geo_code_latitude,Latitude
+geo_code_longtitude,Longtitude
+rfrnce_mssge_rn,Reference Message ID
+wrkordrlg_dte_wrk,Work Date
+aptrms_rn,Accounts Payable Terms ID
+aptrms_id,Short Name
+aptrms_nme,Account Payable Terms
+aptrms_de_dys_type,Type
+vndrtype_rn,Vendor Type ID
+vndrtype_id,Vendor Type
+vndrtype_dscrptn,Description
+vndr_id,Short Name
+vndr_nme,Vendor
+vndr_addrss_ml_addrss_strt,Street
+vndr_addrss_ml_addrss_cty,City
+vndr_addrss_ml_addrss_stte,State
+vndr_addrss_ml_addrss_zp,Zip Code
+vndr_dte_opnd,Date Opened
+vndr_dte_clsd,Date Closed
+vndr_rn,Vendor ID
+vndr_stts,Status
+brnch_rn,Branch ID
+prchseordr_rn,Purchase Order ID
+prchseordr_id,Short Name
+prchseordr_dscrptn,Description
+prchseordr_dte_rlsd,Date Released
+prchseordr_dte_rqstd,Date Requested
+prchseordr_ordrd_by,Order By
+prchseordr_stts,Status
+jb_rn,Job ID
+po_wrkordr_rn,Work Order ID
+prchseordr_type,Purchase Type
+tchncn_id,Short Name
+tchncn_nme,Technician
+tchncn_rte,Rate
+emplye_rn,Employee ID
+asst_rn,Asset ID
+tchncn_usr1,User 1
+tchncn_usr2,User 2
+tchncn_tme_strt,Time Start
+tchncn_tme_qt,Time Quit
+tchncn_spcl_sklls,Special Skills
+tchncn_stts,Status
+dsptchr_rn,Dispatcher ID
+dsptchr_nme,Dispatcher
+dsptchr_usr1,User 1
+dsptchr_usr2,User 2
+dsptchr_eml,Email
+cntct_rn,Contact ID
+scrty_id,Short Name
+scrty_dscrptn,Description
+brnch_id,Short Name
+brnch_nme,Branch
+brnch_dte_opnd,Date Opened
+brnch_dte_clsd,Date Closed
+slsrp_id,Short Name
+slsrp_nme,Name
+slsrp_trrtry,Territory
+slsrp_eml,Email
+srvceaccntmngr_rn,Service Account Manager ID
+srvceaccntmngr_id,Short Name
+srvceaccntmngr_nme,Service Account Manager
+srvceaccntmngr_usr1,User 1
+srvceaccntmngr_usr2,User 2
+srvceaccntmngr_eml,Email
+accntmngr_id,Short Name
+accntmngr_user1,User 1
+accntmngr_user2,User 2
+accntmngr_eml,Email
+jbbllngitm_rn,Job Billing Item ID
+jbbllngitm_dscrptn,Description
+jbbllngitm_invce_dscrptn,Invoice Description
+jbbllngitm_usr1,User 1
+jbbllngitm_user2,User 2
+tchncn_wb_accss,Access 
+prchseordr_dte_prmsd,Date Promised
+clnt_addrss_ml_addrss_strt_2,Street 2
+wrkordr_tme_schdld,Scheduled Time
+wrkordr_dte_erlst_strt,Earliest Start Date
+wrkordr_tme_erlst_strt,Earliest Start Time
+wrkordr_dte_mst_cmplte,Date Completed
+wrkordr_tme_mst_cmplte,Time Completed
+clntste_rn,Client Site ID
+jbcstcde_rn,Job Code ID
+wrkordr_tme_opnd,Time Opened
+wrkcde_rn,Work Code ID
+wrkordr_rdy_to_invce,Work Order Ready to Invoice
+wrkordr_orgnl_wo_id,Original Work Order ID
+wrkordr_usr1,User 1
+wrkordr_usr2,User 2
+wo_accntmngr_accntmngr_rn,Account Manager ID
+wo_slsrp_slsrp_rn,Work Order Sales Rep ID
+jchstry_rn,Job History ID
+jchstry_rfrnce_ar_invce_id,Job History Invoice ID
+jchstry_amnt_invce,Job History Amount
+jchstry_dscrptn,Description
+jchstry_dte_effctve,Effective Date
+jchstry_rfrnce_id,Job Hisory Reference ID
+jchstry_rfrnce_nme,Job History
+jchstry_rfrnce_rn,Reference ID
+jchstry_rfrnce_type,Reference Type
+jchstry_srce_jrnl,Source Journal
+jchstry_type,Type
+jchstry_unt_cst,Unit Cost
+jchstry_unt_prce,Unit Price
+jchstry_bdgt_qntty,Budget Quantity
+jchstry_qntty,Quantity
+jchstry_qntty_cmmttd,Quantity Committed
+jchstry_qntty_invcd,Quantity Invoiced
+jchstry_qntty_dfrrd,Quantity Deferred
+jchstry_qntty_wrttn_off,Quantity Written Off
+jchstry_bdgt_hrs,Budget Hours
+jchstry_bdgt_hrs_chnge,Budget Hours Change
+jchstry_hrs,Hours
+jchstry_hrs_to_cmplte,Hours to Complete
+jchstry_hrs_invcd,Hours Invoiced
+jchstry_hrs_dfrrd,Hours Deferred
+jchstry_hrs_wrttn_off,Hours Written Off
+jchstry_hrs_type,Hours Type
+jchstry_lbr_bdgt_cst,Labor Budget Cost
+jchstry_lbr_bdgt_cst_chnge,Labor Budget Cost Change
+accntngprd_rn,Account GPRD ID
+invntryitm_rn,Inventory Item ID
+jchstry_wo_id,Job History Work ID
+arhstry_rn,Account Receivable History ID
+glaccnt_rn,GL Account ID
+arhstry_dte_effctve,Effective Date
+arhstry_srce_jrnl,Source Journal
+arhstry_srce_trnsctn_id,Transaction ID
+arhstry_entry_type,Entry Type
+arhstry_amnt_dbt,Amount Debit
+arhstry_amnt_crdt,Amount Credit
+arhstry_invce_id,Invoice ID
+arhstry_dscrptn,Description
+arhstry_pstd_dte,Date Posted
+arhstry_pstd_tme,Time Posted
+invcemstr_rn,Invoice Master ID
+invcemstr_dte_invce,Invoice Date
+invcemstr_dte_pymnt_due,Payment Due Date
+glentty_rn,GL Entity ID
+invcemstr_dscrptn,Description
+clntordr_rn,Client Order ID
+invcemstr_dte_effctve,Effective Date
+invcemstr_entry_type,Entry Type
+invcemstr_stts,Status
+jbbllngitm_usr2,User 2
+wrkcde_id,Short Name
+wrkcde_hrs_estmtd,Estimated Hours
+wrkcde_prrty,Priority
+wrkcde_nme,Work Code
+wrkcde_dscrptn_bll,Description
+wrkcde_wb_accss_allwd,Access Allowed
+srvcectgry_rn,Service Category ID
+jb_nme,Job Name
+jb_dte_opnd,Date Opened
+jb_dte_clsd,Date Closed
+jb_usr1,User 1
+jb_usr2,User 2
+jb_id,Short Name
+jbtype_rn,Job Type ID
+jb_tx_stts,Status
+clntste_nme,Client Site
+clntste_dte_opnd,Date Opened
+clntste_dte_clsd,Date Closed
+clntste_stts,Status
+tchncn_wb_accss,Access
+geo_code_longitude,Longtitude
+jbcstcde_id,Short Name
+jbcstcde_nme,Job Code Name
+jbcstcde_dte_mst_strt,Date Must Start
+jbcstcde_dte_mst_cmplte,Date Must Complete
+jbcstcde_dte_strtd,Date Started
+jbcstcde_dte_cmpltd,Date Completed
+accntmngr_rn,Account Manager ID
+accntmngr_nme,Account Manager
+invcemstr_id,Short Name
+jchstry_lbr_cst,Labor Cost
+jchstry_lbr_rvne,Labor Revenue
+jchstry_mtrl_cst,Material Cost
+jchstry_mtrl_rvne,Material Revenue
+jchstry_othr_cst,Other Cost
+jchstry_othr_rvne,Other Revenue
+jchstry_sbcntrct_cst,Subcontract Cost
+jchstry_sbcntrct_rvne,Subcontract Revenue
+invcemstr_amnt_invce,Invoice Amount
+wrkordr_dte_wrk_cmpltd,Date Completed
+clntsteeqpmnt_dte_instlld,Date Equipment Installed
+clntsteeqpmnt_dte_stts,Date Status
+clntsteeqpmnt_srl_nmbr,SRL Number
+clntsteeqpmnt_stts,Status
+clntsteeqpmnt_id,Client Site Equipment Abbr
+clntsteeqpmnt_nme,Client Site Equipment
+clntsteeqpmnt_rn,Client Site Equipment ID
+clntsteeqpmnt_prrty,Priority
+clntsteeqpmnt_yr_mnfctre,Year Manufactured
+clntsteeqpmnt_eqpmnt_sze,Equipment Size
+clntsteeqpmnt_mnfctrr,Manufacturer
+clntsteeqpmnt_mnfctrr_mdl,Manufacturer Model
+clntsteeqpmnt_eqpmnt_sze_unt_msre,Size Measure
+clntsteeqpmnt_dte_wrrnty_strt,Date Warranty Starts
+clntsteeqpmnt_dte_wrrnty_end,Date Warranty Ends
+eqpmnttype_rn,Equipment Type ID
+qte_rn,Quote ID
+qte_id,Quote Abbr
+qte_nte,Quote Name
+qte_dscrptn,Description
+qte_dte_opn,Date Opened
+qte_sbmttd_by,Submitted By
+qte_stts,Status
+qte_stts_ctgry,Status Category
+qte_dte_stts,Date Status
+qte_brnch_brnch_rn,Branch ID
+qte_jb_jb_rn,Job ID
+qte_accntmngr_accntmngr_rn,Account Manager ID
+qte_tx_stts,Tax Status
+clntsteeqpmntpm_wo,Client Site WO ID
+srvceprts_rn,Service Parts ID
+clntsteeqpmntpm_cntrct_cst,Contract Cost
+clntsteeqpmntpm_cntrct_vle,Contract Value
+clntsteeqpmntpm_dte_schdld_inspctn,Date Inspection Scheduled
+clntsteeqpmntpm_hrs_estmtd,Estimated Hours
+srvcetsks_rn,Service Tasks ID
+clntsteeqpmntpm_rn,Client Site Equipment PM ID
+jbcstctgry_rn,Job Category ID
+clntsteeqpmntpm_rnw,PM Renew
+clntsteeqpmntpm_blts,Belts
+clntsteeqpmntpm_fltrs,Filters
+clntsteeqpmntpm_othr,Other
+clntsteeqpmntpm_pltd_fltrs,PLTD Filters
+clntsteeqpmntpm_dscrptn_invce,Invoice Description
+mstrcntrct_mstrcntrct_rn,Master Contract ID
+clntsteeqpmntpm_cycle_cde_fltr,Cycle Code Filter
+eqpmnttype_id,Equipment Type Abbr
+eqpmnttype_nme,Equipment Type
+mstrclntsteeqpmntpm_cntrct_cst,Contract Cost
+mstrclntsteeqpmntpm_cntrct_vle,Contract Value
+mstrclntsteeqpmntpm_dte_schdld_inspctn,Date Inspection Scheduled
+mstrclntsteeqpmntpm_hrs_estmtd,Estimated Hours
+mstrclntsteeqpmntpm_rn,Master Equipment PM ID
+mstrclntsteeqpmntpm_rnw,PM Renew
+mstrclntsteeqpmntpm_blts,Belts
+mstrclntsteeqpmntpm_fltrs,Filters
+mstrclntsteeqpmntpm_othr,Other
+mstrclntsteeqpmntpm_pltd_fltrs,PLTD Filters
+mstrclntsteeqpmntpm_cycle_cde_fltr,Cycle Code Filter
+wrkordreqpmnt_hrs_estmtd,Estimated Hours
+wrkordreqpmnt_wrk_rqstd,Work Requested
+wrkordreqpmnt_wrk_prfrmd,Work Performed
+wrkordreqpmnt_rn,Work Order Equipment ID
+wrkordreqpmnt_dte_cmpltd,Date Completed
+wrkordreqpmnt_blts,Belts
+wrkordreqpmnt_fltrs,Filters
+wrkordreqpmnt_othr,Other
+wrkordreqpmnt_pltd_fltrs,PLTD Filters
+wrkordreqpmnt_cycle_cde_fltr,Cycle Code Filter
+tchany_tchncn_rn,Technician ID
+qtescpe_rn,Quote Scope ID
+qteeqpmnt_rn,Quote Equipment ID
+qteeqpmnt_optn_cde,Option Code
+qtescpe_id,Quote Scope Abbr
+eqpmntmstr_rn,Equipment Master ID
+qtescpe_stts,Quote Scope Status
+qtescpe_qte_amnt,Quote Amount
+qtescpe_prce_fxd,Price Fixed
+qtescpe_qntty,Quote Scope Quantity
+qtescpe_scpe,Quote Scope
+qtescpe_mnfctrr,Manufacturer
+qtescpe_mnfctrr_mdl,Manufacturer Model
+qtescpe_accptd_by,Accepted By
+qtescpe_accptd_dte,Date Accepted
+qtescpe_accptd_tme,Time Accepted
+qtescpe_apprvd_by,Approved By
+qtescpe_apprvd_dte,Date Approved
+qtescpe_apprvd_tme,Time Approved
+qtescpe_prce_nt,Price
+qtescpe_opnd_by,Opened By
+qtescpe_opnd_dte,Date Opened
+qtescpe_opnd_tme,Time Opened
+qtescpe_dclnd_by,Declined By
+qtescpe_dclnd_dte,Date Declined
+qtescpe_dclnd_tme,Time Declined
+qtescpe_prjctd_clse_dte,Date Projected Close
+qtescpe_prcnt_prbble,Percent Probable
+qtescpe_mrgn_prcnt,Margin Percent
+qtescpe_optn_cde,Option Code
+qteinv_rn,Quote Invoice ID
+txtype_id,Type
+qteinv_optn_cde,Option Code
+qteinv_qntty,Quote Invoice Quantity
+qteinv_unt_cst,Unit Cost
+qteinv_unt_prce,Unit Price
+qteinv_dscrptn,Quote Invoice Description
+asst_id,Asset Abbr
+asst_nme,Asset Name
+asst_type,Asset Type
+asst_dte_prchsd,Date Purchased
+asst_dflt_jbcstcde_rn,Job Code ID
+asst_dflt_jbbllngitm_rn,Job Billing Item ID
+invntryitm_id,Inventory Item Abbr
+invntryitm_nme,Inventory Item
+invntryitm_unt_msre,Unit Measure
+invntryitm_unt_cst_avrge,Unit Cost Average
+invntryitm_unt_cst_lst,Unit Cost Last
+invntryitm_unt_cst_stndrd,Unit Cost Standard
+invntryitm_mnfctrr,Manufacturer
+invntryitm_mnfctrr_mdl,Manufacturer Model
+invntryitm_unt_prce,Unit Price
+invntryitm_unt_prce_2,Unit Price 2
+invntryitm_eqpmnt_sze,Equipment Size
+invntryitm_eqpmnt_sze_unt_msre,Equipment Size Unit Measure
+invntrygrp_rn,Inventory Group ID
+invntryitm_use_cst,Use Cost
+invntryitm_unt_frt_cst_estmte,Unit FRT Cost Estimate
+invntryitm_expctd_grss_mrgn,Expected Gross Margin
+invntryitm_dscrptn_extndd,Description Extended
+invntryitm_dscrptn_extndd_2,Description Extended 2
+invntryitm_dscrptn_extndd_3,Description Extended 3
+invntryitm_dte_prce_effctve,Date Price Effective
+invntryitm_po_dscrptn,PO Description
+invntryitm_vndr_info,Vendor Info
+invntryitm_rcmmndd_qntty,Recommended Quantity
+invntryitm_dte_crtd,Date Created
+invntryitm_dte_chngd,Date Changed
+invntryitm_nme_extndd,Name Extended
+invntryitm_rtrnble,Returnable
+prchseordrlst_rn,Purchase Order List ID
+prchseordrlst_dscrptn,Purchase Order List Description
+prchseordrlst_vndr_prt_nmbr,Vendor Part Number
+prchseordrlst_unt_msre,Unit Measure
+prchseordrlst_qntty_ordrd,Quantity Ordered
+prchseordrlst_unt_cst,Unit Cost
+prchseordrlst_unt_cst_expndd,Unit Cost Expanded
+prchseordrlst_cst_extndd,Cost Extended
+prchseordrlst_stts,Status
+prchseordrlst_dte_rqstd,Date Requested
+prchseordrlst_dte_prmsd,Date Promised
+prchseordrlst_frght_cst,Freight Cost
+prchseordrlst_qntty_rcvd,Quantity Received
+prchseordrlst_cst_rcvd,Cost Received
+invntryitmlctn_qntty_allctd,Allocated
+invntryitmlctn_qntty_bckordrd,Backordered
+invntryitmlctn_qntty_on_hnd,On Hand
+invntryitmlctn_qntty_rsrvd,Reserved
+invntryitmlctn_qntty_on_ordr,On Order
+invntryitmbyvndr_vndr_prt_nmbr,Vendor Part Number
+invntryitmbyvndr_vndr_prce,Vendor Price
+invntryitmbyvndr_chnge_dte,Change Date
