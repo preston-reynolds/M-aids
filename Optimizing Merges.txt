@@ -1,0 +1,1 @@
+https://blog.crossjoin.co.uk/2020/06/07/optimising-the-performance-of-power-query-merges-in-power-bi-part-3-table-join-and-sortmerge/
