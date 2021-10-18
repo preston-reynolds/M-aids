@@ -5904,3 +5904,25 @@ invntryitmlctn_qntty_on_ordr,On Order
 invntryitmbyvndr_vndr_prt_nmbr,Vendor Part Number
 invntryitmbyvndr_vndr_prce,Vendor Price
 invntryitmbyvndr_chnge_dte,Change Date
+jt_claimnumber,Claim Number
+jt_claimstatus,Claim Status ID
+jt_claimstatus_display,Claim Status
+jt_claimtype,Claim Type
+jt_district,District
+jt_injurycause,Injury Cause
+jt_injurycausecode,Injury Cause ID
+jt_injurylocation,Injury Location
+jt_injurylocationcode,Injury Location ID
+jt_injurytype,Injury Type
+jt_injurytypecode,Injury Type ID
+jt_lossrunid,Loss Run ID
+jt_expensereserve,Expense Reserve
+jt_indemnitypaidtodate,Indemnity Paid to Date
+jt_indemnityreimbursed,Indemnity Reimbursed
+jt_indemnityreserve,Indemnity Reserve
+jt_medicalreimbursed,Medical Reimbursed
+jt_medicalreserve,Medical Reserve
+jt_totalincurred,Total Incurred
+jt_totalpaidtodate,Total Paid to Date
+jt_totalreimbursed,Total Reimbursed
+jt_totalreserve,Total Reserve
