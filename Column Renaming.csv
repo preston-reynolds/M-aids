@@ -5926,3 +5926,5 @@ jt_totalincurred,Total Incurred
 jt_totalpaidtodate,Total Paid to Date
 jt_totalreimbursed,Total Reimbursed
 jt_totalreserve,Total Reserve
+jt_accidentdate,Accident Date
+jt_dateclosed,Date Closed
