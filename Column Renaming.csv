@@ -5414,7 +5414,6 @@ yominame,Yomi Name
 xaml,XAML
 jt_currentvalue,Current Value
 jt_previousvalue,Previous Value
-jt_projecttaskid,Project Task ID
 jt_sprintstatus_display,Sprint Status
 jt_surveyeligible,Is Survey Eligible
 msdyn_transactioncategoryid,Transaction Category ID
@@ -5541,13 +5540,8 @@ tchncn_rn,Technician ID
 clnt_id,Client Name Short
 clnt_nme,Client
 clnt_cntct1_cntct_eml,Email
-clnt_addrss_ml_addrss_strt,Street
-clnt_addrss_ml_addrss_cty,City
-clnt_addrss_ml_addrss_stte,State
-clnt_addrss_ml_addrss_zp,Zip Code
 clnt_rn,Client ID
 acctmngr_rn,Account Manager ID
-clnt_dte_opnd,Date Opened
 mrktsrce_rn,Marketing Source ID
 clnt_stts,Status
 scrty_rn,Security ID
@@ -5560,7 +5554,6 @@ clnt_dte_opnd,Date Opened
 geo_code_latitude,Latitude
 geo_code_longtitude,Longtitude
 rfrnce_mssge_rn,Reference Message ID
-wrkordrlg_dte_wrk,Work Date
 aptrms_rn,Accounts Payable Terms ID
 aptrms_id,Short Name
 aptrms_nme,Account Payable Terms
@@ -5722,7 +5715,6 @@ clntste_nme,Client Site
 clntste_dte_opnd,Date Opened
 clntste_dte_clsd,Date Closed
 clntste_stts,Status
-tchncn_wb_accss,Access
 geo_code_longitude,Longtitude
 jbcstcde_id,Short Name
 jbcstcde_nme,Job Code Name
@@ -5930,3 +5922,73 @@ jt_accidentdate,Accident Date
 jt_dateclosed,Date Closed
 hmg_contactid,Contact ID
 hmg_charityengineid,Charity Engine
+hmg_emotionalstate,Emotional State
+hmg_futurefollowup,Future Follow Up
+hmg_isprayeranswered,Is Prayer Answered
+hmg_salvationdecision,Salvation Decision
+hmg_source,Source
+customertypecode_display,Customer Type Code
+hmg_donorclass,Donor Class
+hmg_organizationtype,Organization Type
+msnfp_accounttype,Account Type
+territorycode_display,Territory Code
+gendercode_display,Gender
+haschildrencode_display,Has Children
+hmg_lifetimedonationstotal,Lifetime Donations Total
+hmg_lifetimegiving,Lifetime Giving
+hmg_totallifetimegiving,Total Lifetime Giving
+jt_p2gscore,P2G Score
+hmg_ce_enddate,End Date
+hmg_ce_paymentfrequency,Payment Frequency
+hmg_ce_paymentfrequency_display,Payment Frequency Display
+hmg_collected,Collected
+hmg_contact_soft_credit,Contact Soft Credit
+hmg_firstpaymentduedate,First Payment Due Date
+hmg_paymentfrequency,Payment Frequency
+hmg_sustainerstatus,Sustainer Status
+hmg_sustainerstatus_display,Sustainer Status Display
+msnfp_anonymity,Anonymity
+msnfp_anonymity_display,Anonymity Display
+msnfp_commitment_campaignid,Commitment Campaign
+msnfp_commitmenttype,Commitment Type
+msnfp_pledgedonaccountid,Pledged On AccountID
+hmg_all_payment_frequency,All Payment Frequency
+new_opportunity,New Opportunity
+hmg_godstorycategory,God Story Category
+hmg_godstorycategory_display,God Story Category Display
+hmg_godstoryid,God Story ID
+hmg_godstorytitle,God Story Title
+hmg_storyofhopecategory,Story of Hope Category
+hmg_storyofhopecategory_display,Story of Hope Category Display
+msnfp_appealsegment,Appeal Segment
+msnfp_appealsegment_display,Appeal Segment Display
+msnfp_campaigncategory,Campaign Category
+msnfp_campaigncategory_display,Campaign Category Display
+msnfp_campaigntype,Campaign Type
+msnfp_campaigntype_display,Campaign Type Display
+msnfp_channel,Channel
+msnfp_channel_display,Channel Display
+msnfp_effort,Effort
+msnfp_effort_display,Effort Display
+msnfp_sourcecode,Source Code
+msnfp_startdate,Start Date
+msnfp_subchannel,Subchannel
+msnfp_subchannel_display,Subchannel Display
+typecode_display,Type Code Display
+hmg_allegiance_source_code,Allegiance Source Code
+hmg_ce_campaign_id,Campaign ID
+hmg_ce_initiative_id,Initiative ID
+hmg_ce_media_channel,Media Channel
+hmg_fund,Fund
+hmg_gl_code,Code
+hmg_phase,Phase
+hmg_revenue_category,Revenue Category
+msnfp_designationgroup,Designation Group
+msnfp_endowmenttype,Endowment Type
+msnfp_endowmenttype_display,Endowment Type Display
+hmg_effort,Effort
+hmg_effort_display,Effort Display
+hmg_ceparentcampaignid,Parent Campaign ID
+Parent Campaign,Parent Campaign
+Question ID,Question ID
+Response,Response
